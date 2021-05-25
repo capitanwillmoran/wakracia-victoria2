@@ -1,0 +1,7 @@
+owner=HUR
+controller=HUR
+add_core=HUR
+trade_goods = iron
+life_rating = 35
+terrain = forest
+naval_base = 2

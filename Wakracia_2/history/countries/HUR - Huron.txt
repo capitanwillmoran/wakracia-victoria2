@@ -1,6 +1,5 @@
 capital = 52
 primary_culture = iroquoian
-culture = vinlander
 culture = zzz_religion_totemism
 religion = totemism
 government = democracy

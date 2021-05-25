@@ -1,4 +1,4 @@
-graphical_culture = FrenchGC
+graphical_culture = SwedishGC
 color = { 85 120 168 }
 
 party = {

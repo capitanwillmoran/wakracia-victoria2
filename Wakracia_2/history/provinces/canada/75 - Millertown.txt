@@ -1,5 +1,6 @@
 owner=HUR
 controller=HUR
+add_core=ACA
 add_core=HUR
 trade_goods = iron
 life_rating = 35

@@ -1,6 +1,5 @@
 owner=X09
 controller=X09
-add_core=FRA
 add_core=OCC
 trade_goods = cattle
 life_rating = 32

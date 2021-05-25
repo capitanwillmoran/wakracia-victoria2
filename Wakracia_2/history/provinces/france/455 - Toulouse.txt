@@ -1,7 +1,8 @@
 owner=X09
 controller=X09
-add_core=FRA
 add_core=NRM
+add_core=OCC
+add_core=FRK
 trade_goods = grain
 life_rating = 31
 terrain = hills

@@ -1,5 +1,8 @@
 owner=X09
 controller=X09
+add_core=GLC
+add_core=BSQ
+add_core=OCC
 trade_goods = grain
 life_rating = 32
 terrain = mountain

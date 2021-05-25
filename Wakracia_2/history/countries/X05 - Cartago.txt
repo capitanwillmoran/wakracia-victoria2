@@ -1,5 +1,5 @@
 capital = 1725
-primary_culture = greek
+primary_culture = berber
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy

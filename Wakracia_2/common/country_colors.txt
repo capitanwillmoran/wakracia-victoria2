@@ -3612,3 +3612,9 @@ ZIM = { # Mutapa
     color2= { 126 203 120  }
     color3= { 122 179 97  }
 }
+
+BYZ = { # Byzantium
+    color1= { 49 13 51  }
+    color2= { 49 13 51  }
+    color3= { 209 205 209  }
+}

@@ -1,5 +1,5 @@
 capital = 2630
-primary_culture = nayeduniya
+primary_culture = eskaleut
 culture = zzz_religion_jain
 religion = jain
 government = presidential_dictatorship

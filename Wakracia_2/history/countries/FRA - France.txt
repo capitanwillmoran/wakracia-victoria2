@@ -1,11 +1,11 @@
 capital = 425
 primary_culture = french
-culture = zzz_religion_catholic
-religion = catholic
-government = hms_government
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
+government = theocracy
 plurality = 0
-nationalvalue = nv_equality
-literacy = 0
+nationalvalue = nv_order
+literacy = 0.401704
 
 civilized = yes
 

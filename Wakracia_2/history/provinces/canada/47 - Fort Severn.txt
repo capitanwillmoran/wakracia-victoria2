@@ -1,6 +1,7 @@
 owner=QUE
 controller=QUE
 add_core=QUE
+add_core=ACA
 trade_goods = fish
 life_rating = 35
 terrain = forest

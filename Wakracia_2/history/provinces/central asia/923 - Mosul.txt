@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=SRN
+add_core=IRQ
 trade_goods = sulphur
 life_rating = 35
 terrain = hills

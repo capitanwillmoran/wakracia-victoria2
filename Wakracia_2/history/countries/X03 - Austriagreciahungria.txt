@@ -1,5 +1,7 @@
 capital = 640
 primary_culture = hungarian
+culture = greek
+culture = south_german
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy

@@ -1,7 +1,7 @@
 capital = 71
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+primary_culture = vinlander
+culture = zzz_religion_norse_pagan_reformed
+religion = norse_pagan_reformed
 government = democracy
 plurality = 0
 nationalvalue = nv_order

@@ -1,6 +1,6 @@
 capital = 474
 primary_culture = portuguese
-culture = visigothic
+culture = galician
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy

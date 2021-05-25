@@ -1,0 +1,6 @@
+owner=GLC
+controller=GLC
+trade_goods = wool
+life_rating = 15
+terrain = mountain
+colonial=2

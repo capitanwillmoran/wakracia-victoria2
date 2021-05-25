@@ -1,11 +1,12 @@
-capital = 2087
-primary_culture = british
-culture = zzz_religion_protestant
-religion = protestant
-government = hms_government
+capital = 2113
+primary_culture = portuguese
+culture = nguni
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
+government = absolute_monarchy
 plurality = 0
-nationalvalue = nv_liberty
-literacy = 0
+nationalvalue = nv_order
+literacy = 0.359496
 
 civilized = yes
 
@@ -18,7 +19,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 # Political Reforms
-slavery=yes_slavery
+slavery=no_slavery
 vote_franschise=none_voting
 upper_house_composition=appointed
 voting_system=jefferson_method
@@ -44,6 +45,24 @@ consciousness = 0
 nonstate_consciousness= 0
 
 # Technologies
+army_command_principle = 1
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+early_classical_theory_and_critique = 1
+enlightenment_thought = 1
+flintlock_rifles = 1
+freedom_of_trade = 1
+guild_based_production = 1
+late_enlightenment_philosophy = 1
+malthusian_thought = 1
+military_staff_system = 1
+no_standard = 1
+post_napoleonic_thought = 1
+post_nelsonian_thought = 1
+private_banks = 1
+publishing_industry = 1
+the_command_principle = 1
+water_wheel_power = 1
 prestige=0
 oob = "SAF_OOB.txt"
 set_country_flag = religi

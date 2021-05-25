@@ -2,6 +2,7 @@ owner=ENG
 controller=ENG
 add_core=AES
 add_core=ENG
+add_core=DNL
 trade_goods = fish
 life_rating = 35
 terrain = farmlands

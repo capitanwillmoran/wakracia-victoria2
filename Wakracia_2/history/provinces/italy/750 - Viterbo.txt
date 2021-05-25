@@ -1,6 +1,5 @@
 owner=BYZ
 controller=BYZ
-add_core=URB
 trade_goods = fruit
 life_rating = 35
 terrain = farmlands

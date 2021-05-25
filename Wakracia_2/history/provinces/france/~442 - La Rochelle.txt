@@ -1,0 +1,8 @@
+owner=X09
+controller=X09
+add_core=FRA
+add_core=OCC
+trade_goods = fish
+life_rating = 32
+terrain = plains
+naval_base = 2

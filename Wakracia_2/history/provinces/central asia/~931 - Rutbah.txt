@@ -1,0 +1,6 @@
+owner=BYZ
+controller=BYZ
+trade_goods = sulphur
+life_rating = 35
+terrain = desert
+colonial=2
