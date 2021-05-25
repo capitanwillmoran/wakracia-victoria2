@@ -1,0 +1,8 @@
+owner=MJP
+controller=MJP
+add_core=JAV
+add_core=MJP
+trade_goods = fish
+life_rating = 30
+terrain = plains
+naval_base = 1

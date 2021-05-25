@@ -1,0 +1,13 @@
+owner=MNX
+controller=MNX
+add_core=CHI
+trade_goods = grain
+life_rating = 32
+terrain = plains
+colonial=2
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

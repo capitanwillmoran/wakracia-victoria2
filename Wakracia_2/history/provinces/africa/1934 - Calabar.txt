@@ -1,0 +1,6 @@
+owner=BYZ
+controller=BYZ
+trade_goods = coal
+life_rating = 15
+terrain = plains
+colonial=2

@@ -1,0 +1,8 @@
+owner=MEX
+controller=MEX
+add_core=MEX
+add_core=XAL
+trade_goods = fish
+life_rating = 35
+terrain = plains
+naval_base = 1

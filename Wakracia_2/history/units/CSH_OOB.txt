@@ -1,0 +1,780 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 2
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 90
+	influence_value = 10
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 16
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 43
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 117
+	influence_value = 16
+	level = 3
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IRO = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = -77
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 193
+	military_access = yes
+	influence_value = 55
+	level = 5
+}
+KOR = {
+	value = 196
+	influence_value = 36
+	level = 4
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 40
+	level = 2
+}
+MCK = {
+	value = 196
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = -43
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 184
+	military_access = yes
+	influence_value = 53
+	level = 5
+}
+NAH = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 31
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = -3
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+PEG = {
+	value = 123
+	influence_value = 18
+	level = 3
+}
+PIM = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 156
+	influence_value = 26
+	level = 4
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = -29
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = -27
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = -120
+	level = 2
+}
+X18 = {
+	value = 160
+	military_access = yes
+	influence_value = 47
+	level = 5
+}
+X19 = {
+	value = 163
+	military_access = yes
+	influence_value = 48
+	level = 5
+}
+X20 = {
+	value = 164
+	military_access = yes
+	influence_value = 48
+	level = 5
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 122
+	military_access = yes
+	influence_value = 38
+	level = 5
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 191
+	military_access = yes
+	influence_value = 55
+	level = 5
+}
+
+#Leaders
+leader = {
+	name="Bai Geng"
+	date="1799.1.2"
+	type=sea
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Biao Huang"
+	date="1815.11.18"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Cican Mei"
+	date="1816.10.4"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Jin Mo"
+	date="1817.2.4"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+
+#Armies
+navy = {
+	name="6th Fleet"
+	location=1613
+	ship = {
+		name="1st Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tianjin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tianjin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Jinzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tianjin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Port Arthur Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Chengde Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2828
+	ship = {
+		name="3rd Tianjin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mukden Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2828
+	ship = {
+		name="2nd Port Arthur Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Port Arthur Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Kyushu Wokou"
+	location=1612
+	regiment = {
+		name="1st Daming Infantry"
+		type=infantry
+		home=1614
+	}
+	regiment = {
+		name="2nd Daming Infantry"
+		type=infantry
+		home=1614
+	}
+	regiment = {
+		name="3rd Daming Infantry"
+		type=infantry
+		home=1614
+	}
+	regiment = {
+		name="7th Daming Infantry"
+		type=infantry
+		home=1614
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1613
+	regiment = {
+		name="1st Chengde Infantry"
+		type=infantry
+		home=1613
+	}
+	regiment = {
+		name="1st Yazhou Infantry"
+		type=infantry
+		home=1586
+	}
+	regiment = {
+		name="2nd Chengde Infantry"
+		type=infantry
+		home=1613
+	}
+	regiment = {
+		name="1st Tianjin Artillery"
+		type=artillery
+		home=1617
+	}
+	regiment = {
+		name="1st Zhongding Artillery"
+		type=artillery
+		home=1618
+	}
+	regiment = {
+		name="1st Chengde Artillery"
+		type=artillery
+		home=1613
+	}
+	regiment = {
+		name="1st Lanzhou Infantry"
+		type=infantry
+		home=1490
+	}
+	regiment = {
+		name="1st Guihua Tumed Artillery"
+		type=artillery
+		home=1532
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1616
+	regiment = {
+		name="1st Lanzhou Artillery"
+		type=artillery
+		home=1490
+	}
+	regiment = {
+		name="2nd Lanzhou Artillery"
+		type=artillery
+		home=1490
+	}
+	regiment = {
+		name="2nd Yeke Juu Chuulghan Artillery"
+		type=artillery
+		home=1535
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1612
+	regiment = {
+		name="1st Yeke Juu Chuulghan Infantry"
+		type=infantry
+		home=1535
+	}
+	regiment = {
+		name="4th Daming Infantry"
+		type=infantry
+		home=1614
+	}
+	regiment = {
+		name="5th Daming Infantry"
+		type=infantry
+		home=1614
+	}
+	regiment = {
+		name="1st Beijing Artillery"
+		type=artillery
+		home=1612
+	}
+	regiment = {
+		name="1st Jilin Artillery"
+		type=artillery
+		home=1555
+	}
+	regiment = {
+		name="3rd Chengde Infantry"
+		type=infantry
+		home=1613
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2607
+	regiment = {
+		name="2nd Yeke Juu Chuulghan Infantry"
+		type=infantry
+		home=1535
+	}
+	regiment = {
+		name="6th Daming Infantry"
+		type=infantry
+		home=1614
+	}
+	regiment = {
+		name="3rd Yeke Juu Chuulghan Infantry"
+		type=infantry
+		home=1535
+	}
+	regiment = {
+		name="1st Yeke Juu Chuulghan Artillery"
+		type=artillery
+		home=1535
+	}
+	regiment = {
+		name="3rd Lanzhou Artillery"
+		type=artillery
+		home=1490
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1554
+	regiment = {
+		name="1st Mukden Artillery"
+		type=artillery
+		home=1479
+	}
+	regiment = {
+		name="2nd Chengde Artillery"
+		type=artillery
+		home=1613
+	}
+	regiment = {
+		name="3rd Chengde Artillery"
+		type=artillery
+		home=1613
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2846
+	ship = {
+		name="2nd Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Tianjin Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2828
+	ship = {
+		name="1st Jinzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tianjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tianjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Port Arthur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tianjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Tianjin Clipper Transport"
+		type=clipper_transport
+	}
+}
+

@@ -1,0 +1,12 @@
+owner=CUB
+controller=CUB
+add_core=CUB
+trade_goods = sulphur
+life_rating = 35
+terrain = mountain
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

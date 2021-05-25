@@ -1,0 +1,6 @@
+owner=CLM
+controller=CLM
+add_core=CAB
+trade_goods = fruit
+life_rating = 25
+terrain = hills

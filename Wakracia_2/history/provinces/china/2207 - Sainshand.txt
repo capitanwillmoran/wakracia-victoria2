@@ -1,0 +1,9 @@
+owner=CSH
+controller=CSH
+add_core=KHA
+add_core=MGL
+add_core=OIR
+trade_goods = grain
+life_rating = 32
+terrain = plains
+colonial=2

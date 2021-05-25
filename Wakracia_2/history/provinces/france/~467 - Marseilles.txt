@@ -1,0 +1,12 @@
+owner=X09
+controller=X09
+add_core=GRE
+trade_goods = fruit
+life_rating = 31
+terrain = farmlands
+state_building=
+{
+	level=1
+	building = luxury_clothes_factory
+	upgrade = yes
+}

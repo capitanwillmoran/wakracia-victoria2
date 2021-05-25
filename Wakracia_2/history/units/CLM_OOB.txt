@@ -1,0 +1,795 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 187
+	influence_value = 34
+	level = 4
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 159
+	influence_value = 27
+	level = 2
+}
+CAL = {
+	value = 93
+	influence_value = 10
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = -190
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 182
+	influence_value = 33
+	level = 4
+}
+CYI = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 174
+	influence_value = 31
+	level = 4
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IRO = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -51
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -32
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Echenicum Tratska Ayuso"
+	date="1798.1.4"
+	type=sea
+	personality="earnest"
+	background="armchair_general"
+}
+
+leader = {
+	name="Konstantios Harem Hentaicus"
+	date="1815.1.20"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=2252
+	regiment = {
+		name="1st Cúcuta Infantry"
+		type=infantry
+		home=2251
+	}
+	regiment = {
+		name="1st Barranquilla Infantry"
+		type=infantry
+		home=2255
+	}
+	regiment = {
+		name="2nd Cúcuta Infantry"
+		type=infantry
+		home=2251
+	}
+	regiment = {
+		name="2nd Barranquilla Infantry"
+		type=infantry
+		home=2255
+	}
+	regiment = {
+		name="1st Barranquilla Artillery"
+		type=artillery
+		home=2255
+	}
+	regiment = {
+		name="1st Cúcuta Artillery"
+		type=artillery
+		home=2251
+	}
+	regiment = {
+		name="2nd Barranquilla Artillery"
+		type=artillery
+		home=2255
+	}
+	regiment = {
+		name="2nd Cartagena de Indias Infantry"
+		type=infantry
+		home=2254
+	}
+	regiment = {
+		name="1st Medellín Artillery"
+		type=artillery
+		home=2252
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2271
+	regiment = {
+		name="1st Cartagena de Indias Infantry"
+		type=infantry
+		home=2254
+	}
+	regiment = {
+		name="1st Yaviza Infantry"
+		type=infantry
+		home=2208
+	}
+	regiment = {
+		name="1st Manizales Infantry"
+		type=infantry
+		home=2250
+	}
+	regiment = {
+		name="3rd Barranquilla Artillery"
+		type=artillery
+		home=2255
+	}
+	regiment = {
+		name="4th Barranquilla Artillery"
+		type=artillery
+		home=2255
+	}
+	regiment = {
+		name="5th Barranquilla Artillery"
+		type=artillery
+		home=2255
+	}
+	regiment = {
+		name="3rd Manizales Infantry"
+		type=infantry
+		home=2250
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2258
+	ship = {
+		name="1st Yaviza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Quibdó Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2279
+	regiment = {
+		name="1st Quito Infantry"
+		type=infantry
+		home=2279
+	}
+	regiment = {
+		name="3rd Cúcuta Infantry"
+		type=infantry
+		home=2251
+	}
+	regiment = {
+		name="1st Bogotá Artillery"
+		type=artillery
+		home=2247
+	}
+	regiment = {
+		name="1st Manizales Artillery"
+		type=artillery
+		home=2250
+	}
+	regiment = {
+		name="2nd Manizales Artillery"
+		type=artillery
+		home=2250
+	}
+	regiment = {
+		name="2nd Quito Infantry"
+		type=infantry
+		home=2279
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2970
+	ship = {
+		name="1st Yaviza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st  Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th  Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th  Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2969
+	ship = {
+		name="2nd Yaviza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Yaviza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Esmereldas Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2970
+	ship = {
+		name="1st Barranquilla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cartagena de Indias Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Quibdó Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd  Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd  Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Panama City Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=2258
+	ship = {
+		name="1st Panama City Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Panama City Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st  Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Quibdó Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Yaviza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Quibdó Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Panama City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cartagena de Indias Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Panama City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Yaviza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Panama City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st  Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Yaviza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd  Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Quibdó Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Panama City Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="12th Fleet"
+	location=2254
+	ship = {
+		name="1st Cartagena de Indias Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cartagena de Indias Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd  Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2273
+	regiment = {
+		name="1st Zamora Infantry"
+		type=infantry
+		home=2283
+	}
+	regiment = {
+		name="1st Loja Artillery"
+		type=artillery
+		home=2282
+	}
+	regiment = {
+		name="2nd Manizales Infantry"
+		type=infantry
+		home=2250
+	}
+	regiment = {
+		name="1st Valera Artillery"
+		type=artillery
+		home=2271
+	}
+}
+

@@ -1,0 +1,6 @@
+owner=BRZ
+controller=BRZ
+add_core=CUA
+trade_goods = sulphur
+life_rating = 25
+terrain = plains

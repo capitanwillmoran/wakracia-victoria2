@@ -1,0 +1,481 @@
+633 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 10473
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 893
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 317
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 332
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 1995
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 159686
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = norse_pagan_reformed
+		size= 685
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = norse_pagan_reformed
+		size= 251
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = norse_pagan_reformed
+		size= 89
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = norse_pagan_reformed
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = norse_pagan_reformed
+		size= 561
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = norse_pagan_reformed
+		size= 8418
+	}
+
+}
+634 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 505
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 1021
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 320
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 445
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 48655
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 850
+	}
+
+}
+635 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 5071
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 2540
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 567
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 182
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 191
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 764
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 76717
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 850
+	}
+
+}
+636 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 479
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 416
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 278
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 25
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 423
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 45739
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1600
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1325
+	}
+
+}
+637 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 1581
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 5324
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 994
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 80
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 128
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 1349
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 149149
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 825
+	}
+
+}
+638 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 309
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 236
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 167
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 280
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 30354
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 825
+	}
+
+}

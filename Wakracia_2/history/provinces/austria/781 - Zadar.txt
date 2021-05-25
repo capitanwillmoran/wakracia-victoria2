@@ -1,0 +1,8 @@
+owner=X03
+controller=X03
+add_core=DLM
+add_core=MRL
+trade_goods = fruit
+life_rating = 35
+terrain = hills
+naval_base = 2

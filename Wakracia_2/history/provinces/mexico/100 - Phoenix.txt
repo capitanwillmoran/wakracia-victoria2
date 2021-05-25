@@ -1,0 +1,8 @@
+owner=CAL
+controller=CAL
+add_core=APA
+add_core=CAL
+add_core=YKT
+trade_goods = iron
+life_rating = 35
+terrain = desert

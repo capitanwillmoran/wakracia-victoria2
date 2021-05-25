@@ -1,0 +1,132 @@
+graphical_culture = AfricanGC
+color = { 117  150  120 }
+
+party = {
+	name = "MAD_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "MAD_liberal"
+	start_date = 1680.1.1
+	end_date = 1936.1.1
+
+	ideology = liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = protectionism
+	war_policy = pacifism
+}
+
+party = {
+	name = "MAD_reactionary"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = residency
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "MAD_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "MAD_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "MAD_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "MAD_fascist"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+		Madagascar Radama Andrianampoinimerina Ranavalona Rainilaiarivony Merina Antananarivo Ambohimanga Betsileo Sihanaka Bezanozano Bara Sakalava Ikaloy Anjafy 
+		
+	}
+	ironclad = {
+		Madagascar Radama Andrianampoinimerina Ranavalona Rainilaiarivony Merina Antananarivo Ambohimanga Betsileo Sihanaka Bezanozano Bara Sakalava Ikaloy Anjafy 
+		
+	}
+	manowar = {
+		Madagascar Radama Andrianampoinimerina Ranavalona Rainilaiarivony Merina Antananarivo Ambohimanga Betsileo Sihanaka Bezanozano Bara Sakalava Ikaloy Anjafy 
+		
+	}
+	cruiser = {
+		Madagascar Radama Andrianampoinimerina Ranavalona Rainilaiarivony Merina Antananarivo Ambohimanga Betsileo Sihanaka Bezanozano Bara Sakalava Ikaloy Anjafy 
+	}
+	frigate = {
+		Madagascar Radama Andrianampoinimerina Ranavalona Rainilaiarivony Merina Antananarivo Ambohimanga Betsileo Sihanaka Bezanozano Bara Sakalava Ikaloy Anjafy 
+	}
+	monitor = {
+		Madagascar Radama Andrianampoinimerina Ranavalona Rainilaiarivony Merina Antananarivo Ambohimanga Betsileo Sihanaka Bezanozano Bara Sakalava Ikaloy Anjafy 
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Madagascar Radama Andrianampoinimerina Ranavalona Rainilaiarivony Merina Antananarivo Ambohimanga Betsileo Sihanaka Bezanozano Bara Sakalava Ikaloy Anjafy 
+	}
+}

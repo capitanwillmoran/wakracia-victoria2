@@ -1,0 +1,6 @@
+owner=SWA
+controller=SWA
+add_core=SWA
+trade_goods = fish
+life_rating = 35
+terrain = plains

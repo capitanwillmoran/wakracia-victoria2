@@ -1,0 +1,5064 @@
+2348 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 299
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 107
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 4880
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1266
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 206
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 95
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 399
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 22797
+	}
+
+}
+2349 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 128
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2083
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 693
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 541
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 41
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 170
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 10814
+	}
+
+}
+2350 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 597
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 109
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2091
+	}
+
+}
+2351 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 696
+	}
+
+}
+2352 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 597
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 109
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2091
+	}
+
+}
+2353 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 627
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 46
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 105
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2093
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+}
+2354 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 76
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1245
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 265
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 216
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4138
+	}
+
+}
+2355 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1047
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 223
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 182
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 3480
+	}
+
+}
+2356 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 176
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 176
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 8387
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 281
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 738
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 55
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 12670
+	}
+
+}
+2357 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 588
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 191
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 149
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2990
+	}
+
+}
+2358 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2406
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 84
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 218
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 3783
+	}
+
+}
+2359 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 295
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 95
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1495
+	}
+
+}
+2360 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 588
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 191
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 149
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2990
+	}
+
+}
+2361 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 295
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 95
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1495
+	}
+
+}
+2362 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = chacoan
+		religion = animist
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = chacoan
+		religion = animist
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = chacoan
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = chacoan
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 2584
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 508
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 38
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2843
+	}
+
+}
+2363 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 391
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 72
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 458
+	}
+
+}
+2364 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = chacoan
+		religion = animist
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = chacoan
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = chacoan
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chacoan
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 988
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 142
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1775
+	}
+
+}
+2365 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = chacoan
+		religion = animist
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = chacoan
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = chacoan
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chacoan
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1243
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 127
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2291
+	}
+
+}
+2366 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = chacoan
+		religion = animist
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = chacoan
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = chacoan
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chacoan
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1903
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 76
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 3421
+	}
+
+}
+2367 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = chacoan
+		religion = animist
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = chacoan
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = chacoan
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chacoan
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1588
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 159
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2853
+	}
+
+}
+2368 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 74
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 149
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 7
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = inti
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 3430
+	}
+
+}
+2369 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 73
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 4
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = inti
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 1694
+	}
+
+}
+2370 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 834
+	}
+
+}
+2371 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 806
+	}
+
+}
+2372 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 806
+	}
+
+}
+2373 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = animist
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 1354
+	}
+
+	artisans=
+	{
+		culture = araucanian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = animist
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 68
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 165
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 3092
+	}
+
+}
+2374 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 833
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = animist
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = animist
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 90
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 7
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1644
+	}
+
+}
+2375 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 278
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = animist
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 549
+	}
+
+}
+2376 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = animist
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 1010
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2593
+	}
+
+}
+2377 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = chacoan
+		religion = animist
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = chacoan
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = chacoan
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chacoan
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1274
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 52
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 131
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2352
+	}
+
+}
+2378 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = animist
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 504
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 68
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1296
+	}
+
+}
+2379 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = araucanian
+		religion = animist
+		size= 99
+	}
+
+	clergymen=
+	{
+		culture = araucanian
+		religion = animist
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 3773
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 722
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 54
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 152
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4181
+	}
+
+}
+2380 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = araucanian
+		religion = animist
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 448
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 69
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 350
+	}
+
+}
+2381 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = araucanian
+		religion = animist
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 448
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 69
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1353
+	}
+
+}
+2382 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1212
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 174
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2413
+	}
+
+}
+2383 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = araucanian
+		religion = animist
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 536
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1232
+	}
+
+}
+2384 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = araucanian
+		religion = animist
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 536
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1232
+	}
+
+}
+2385 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = araucanian
+		religion = animist
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = araucanian
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1577
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 114
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 9
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1821
+	}
+
+}
+2386 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = araucanian
+		religion = animist
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 551
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 65
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1216
+	}
+
+}
+2387 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = araucanian
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = araucanian
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1188
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 87
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1381
+	}
+
+}
+2388 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = araucanian
+		religion = animist
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 397
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 29
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 460
+	}
+
+}
+2389 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 52
+	}
+
+	artisans=
+	{
+		culture = araucanian
+		religion = animist
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = araucanian
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 855
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 116
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1798
+	}
+
+}
+2390 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 257
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 68
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1203
+	}
+
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = araucanian
+		religion = animist
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 296
+	}
+
+}
+2391 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = araucanian
+		religion = animist
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = araucanian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 658
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 86
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 7
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1456
+	}
+
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 349
+	}
+
+}
+2392 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 614
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 102
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1009
+	}
+
+}
+2393 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 669
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 44
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1984
+	}
+
+}
+2394 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 44
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2078
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 145
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2267
+	}
+
+}
+2395 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 777
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 103
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1861
+	}
+
+}
+2396 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 352
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 29
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 491
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1
+	}
+
+}
+2397 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 450
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 29
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 441
+	}
+
+}
+2398 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 29
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 475
+	}
+
+}
+2399 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 392
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 419
+	}
+
+}
+2400 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = patagonian
+		religion = animist
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 372
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 411
+	}
+
+}
+2554 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1576
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 44
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 9
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1959
+	}
+
+}

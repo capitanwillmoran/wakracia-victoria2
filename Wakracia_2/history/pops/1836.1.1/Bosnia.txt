@@ -1,0 +1,371 @@
+783 = {
+	soldiers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 666
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 557
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 67
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 280
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 30696
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 775
+	}
+
+}
+784 = {
+	soldiers=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 1411
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 2268
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 50
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 423
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 20828
+	}
+
+}
+785 = {
+	soldiers=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 1637
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 2631
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 190
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 58
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 491
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 24161
+	}
+
+}
+786 = {
+	soldiers=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 756
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 1512
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 246
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 76
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 318
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 34843
+	}
+
+}
+787 = {
+	soldiers=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 1298
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 2086
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 46
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 195
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = hellenic_pagan
+		size= 19357
+	}
+
+}
+788 = {
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 967
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 48
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 203
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 21743
+	}
+
+}
+789 = {
+	soldiers=
+	{
+		culture = croat
+		religion = hellenic_pagan
+		size= 676
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = hellenic_pagan
+		size= 1352
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = hellenic_pagan
+		size= 220
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = hellenic_pagan
+		size= 68
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = hellenic_pagan
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = hellenic_pagan
+		size= 284
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = hellenic_pagan
+		size= 31150
+	}
+
+}

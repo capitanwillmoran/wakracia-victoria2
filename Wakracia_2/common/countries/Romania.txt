@@ -1,0 +1,213 @@
+graphical_culture = EuropeanGC
+color = { 200  190  126 }
+
+party = {
+	name = "ROM_reactionary"
+	start_date = 1790.1.1
+	end_date = 1909.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "ROM_liberal"
+	start_date = 1680.1.1
+	end_date = 1859.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = interventionism
+	religious_policy = secularized
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "ROM_liberal_2"
+	start_date = 1859.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = interventionism
+	religious_policy = secularized
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "ROM_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = limited_citizenship
+	economic_policy = state_capitalism
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "ROM_conservative_2"
+	start_date = 1882.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = limited_citizenship
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "ROM_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = secularized
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "ROM_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "ROM_conservative_3"
+	start_date = 1908.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = limited_citizenship
+	economic_policy = interventionism
+	religious_policy = pluralism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "ROM_reactionary_2"
+	start_date = 1909.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "ROM_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "ROM_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" 	
+
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Râul Prut" Suceava 
+		"Târgul Moldovei" Vaslui
+		
+	}
+	ironclad = {
+		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" 	
+
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Râul Prut" Suceava 
+		"Târgul Moldovei" Vaslui
+		
+	}
+	manowar = {
+		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" 	
+
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Râul Prut" Suceava 
+		"Târgul Moldovei" Vaslui
+		
+	}
+	cruiser = {
+		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" 	
+
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Râul Prut" Suceava 
+		"Târgul Moldovei" Vaslui
+		
+	}
+	frigate = {
+		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" 	
+
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Râul Prut" Suceava 
+		"Târgul Moldovei" Vaslui
+		
+	}
+	monitor = {
+		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" 	
+
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Râul Prut" Suceava 
+		"Târgul Moldovei" Vaslui
+		
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" 	
+
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Râul Prut" Suceava 
+		"Târgul Moldovei" Vaslui
+		
+	}
+}

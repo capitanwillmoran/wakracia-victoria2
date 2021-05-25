@@ -1,0 +1,198 @@
+397 = {
+	soldiers=
+	{
+		culture = wallonian
+		religion = cathar
+		size= 364
+	}
+
+	artisans=
+	{
+		culture = wallonian
+		religion = cathar
+		size= 205
+	}
+
+	clergymen=
+	{
+		culture = wallonian
+		religion = cathar
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = wallonian
+		religion = cathar
+		size= 3
+	}
+
+	officers=
+	{
+		culture = wallonian
+		religion = cathar
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = wallonian
+		religion = cathar
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = wallonian
+		religion = cathar
+		size= 17577
+	}
+
+	soldiers=
+	{
+		culture = wallonian
+		religion = norse_pagan_reformed
+		size= 198
+	}
+
+	artisans=
+	{
+		culture = wallonian
+		religion = norse_pagan_reformed
+		size= 427
+	}
+
+	clergymen=
+	{
+		culture = wallonian
+		religion = norse_pagan_reformed
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = wallonian
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	officers=
+	{
+		culture = wallonian
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = wallonian
+		religion = norse_pagan_reformed
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = wallonian
+		religion = norse_pagan_reformed
+		size= 9184
+	}
+
+	soldiers=
+	{
+		culture = wallonian
+		religion = hellenic_pagan
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = wallonian
+		religion = hellenic_pagan
+		size= 934
+	}
+
+	clergymen=
+	{
+		culture = wallonian
+		religion = hellenic_pagan
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = wallonian
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	officers=
+	{
+		culture = wallonian
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = wallonian
+		religion = hellenic_pagan
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = wallonian
+		religion = hellenic_pagan
+		size= 5436
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 212
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 2522
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 210
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 39
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 7337
+	}
+
+}

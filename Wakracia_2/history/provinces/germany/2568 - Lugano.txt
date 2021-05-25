@@ -1,0 +1,6 @@
+owner=SLV
+controller=SLV
+add_core=SWI
+trade_goods = wool
+life_rating = 40
+terrain = mountain

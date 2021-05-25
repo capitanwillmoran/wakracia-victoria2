@@ -1,0 +1,8 @@
+owner=CRI
+controller=CRI
+add_core=CRI
+add_core=KIE
+add_core=X11
+trade_goods = grain
+life_rating = 35
+terrain = plains

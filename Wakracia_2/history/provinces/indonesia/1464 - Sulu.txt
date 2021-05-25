@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=PHI
+add_core=SUL
+trade_goods = fish
+life_rating = 30
+terrain = plains
+colonial=2

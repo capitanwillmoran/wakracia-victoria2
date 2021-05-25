@@ -1,0 +1,820 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 136
+	military_access = yes
+	influence_value = 41
+	level = 5
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 60
+	influence_value = 2
+	level = 2
+}
+CHA = {
+	value = 69
+	influence_value = 4
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = -18
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 141
+	influence_value = 22
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 167
+	military_access = yes
+	influence_value = 49
+	level = 5
+}
+DEC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = -23
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IRO = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 138
+	influence_value = 22
+	level = 3
+}
+KOR = {
+	value = 188
+	influence_value = 34
+	level = 4
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = -13
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = -13
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 163
+	military_access = yes
+	influence_value = 48
+	level = 5
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 190
+	influence_value = 35
+	level = 4
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 197
+	influence_value = 36
+	level = 4
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = -6
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = -10
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Meigui Zhou"
+	date="1778.1.7"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Zhan'ao I Jin"
+	date="1811.7.15"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Houwei Hua"
+	date="1807.10.15"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Xizheng Wu"
+	date="1811.7.20"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Shiming Shang"
+	date="1812.7.19"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Wenshi Du"
+	date="1816.10.19"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Yiling Gu"
+	date="1817.4.9"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Changhao Yang"
+	date="1817.8.22"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Shengdou Dongfang"
+	date="1819.10.29"
+	type=land
+	personality="resolute"
+	background="artillerist"
+}
+
+
+#Armies
+army = {
+	name="Free Company"
+	location=1495
+	regiment = {
+		name="1st Quanzhou Infantry"
+		type=infantry
+		home=1484
+	}
+	regiment = {
+		name="2nd Quanzhou Infantry"
+		type=infantry
+		home=1484
+	}
+}
+
+army = {
+	name="Kutai Company"
+	location=1502
+	regiment = {
+		name="1st Hainan Infantry"
+		type=infantry
+		home=1499
+	}
+	regiment = {
+		name="2nd Hainan Infantry"
+		type=infantry
+		home=1499
+	}
+	regiment = {
+		name="3rd Hainan Infantry"
+		type=infantry
+		home=1499
+	}
+	regiment = {
+		name="4th Hainan Infantry"
+		type=infantry
+		home=1499
+	}
+	regiment = {
+		name="6th Hainan Infantry"
+		type=infantry
+		home=1499
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=1496
+	ship = {
+		name="1st Shanghai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hong Kong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Canton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gunungsitoli Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Hong Kong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Zhaoqing Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Zhaoqing Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1391
+	regiment = {
+		name="1st Jianning Infantry"
+		type=infantry
+		home=1483
+	}
+	regiment = {
+		name="1st Zhanjiang Infantry"
+		type=infantry
+		home=1495
+	}
+	regiment = {
+		name="1st Fuzhou Artillery"
+		type=artillery
+		home=1482
+	}
+	regiment = {
+		name="1st Quanzhou Artillery"
+		type=artillery
+		home=1484
+	}
+	regiment = {
+		name="2nd Fuzhou Artillery"
+		type=artillery
+		home=1482
+	}
+	regiment = {
+		name="1st Zhaoqing Infantry"
+		type=infantry
+		home=1501
+	}
+	regiment = {
+		name="3rd Hainan Artillery"
+		type=artillery
+		home=1499
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2827
+	ship = {
+		name="3rd Inderagiri Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hong Kong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hainan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Wenzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hainan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Hainan Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1501
+	regiment = {
+		name="5th Hainan Infantry"
+		type=infantry
+		home=1499
+	}
+	regiment = {
+		name="1st Hainan Artillery"
+		type=artillery
+		home=1499
+	}
+	regiment = {
+		name="1st Chongqing Artillery"
+		type=artillery
+		home=1577
+	}
+	regiment = {
+		name="2nd Hainan Artillery"
+		type=artillery
+		home=1499
+	}
+	regiment = {
+		name="3rd Fuzhou Artillery"
+		type=artillery
+		home=1482
+	}
+	regiment = {
+		name="1st Shinan Artillery"
+		type=artillery
+		home=1521
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=1496
+	ship = {
+		name="1st Zhanjiang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Maldives Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Wenzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hong Kong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fuzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Canton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tauranga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zhaoqing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Palawan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Zhanjiang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jiaxing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Macao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hangzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hong Kong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Macao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Macao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cuttack Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Macao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Zhaoqing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Fuzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Macao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Palawan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Huaian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ming Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Macao Clipper Transport"
+		type=clipper_transport
+	}
+}
+

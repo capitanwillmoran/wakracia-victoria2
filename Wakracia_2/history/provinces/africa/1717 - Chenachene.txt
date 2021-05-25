@@ -1,0 +1,7 @@
+owner=MLI
+controller=MLI
+add_core=AYR
+trade_goods = grain
+life_rating = 10
+terrain = desert
+colonial=2

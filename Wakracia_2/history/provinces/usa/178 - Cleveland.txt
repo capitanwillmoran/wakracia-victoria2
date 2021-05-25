@@ -1,0 +1,6 @@
+owner=FLR
+controller=FLR
+add_core=WCR
+trade_goods = coal
+life_rating = 35
+terrain = woods

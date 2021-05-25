@@ -1,0 +1,104 @@
+2129 = {
+	soldiers=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 895
+	}
+
+}
+2130 = {
+	soldiers=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 31
+	}
+
+}
+2132 = {
+	soldiers=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 22
+	}
+
+}

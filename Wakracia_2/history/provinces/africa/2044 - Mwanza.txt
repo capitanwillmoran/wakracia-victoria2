@@ -1,0 +1,5 @@
+owner=SWA
+controller=SWA
+trade_goods = cotton
+life_rating = 15
+terrain = mountain

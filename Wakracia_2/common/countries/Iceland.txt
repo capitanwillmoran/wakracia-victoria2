@@ -1,0 +1,113 @@
+graphical_culture = EuropeanGC
+color = { 62  129  155 }
+
+party = {
+	name = "ICL_liberal"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "ICL_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "ICL_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "ICL_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "ICL_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "ICL_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+		Áss Vanr Álfr Jötunn
+	}
+	ironclad = {
+		Ellida Sleipner Viking Frithjof Rjukan Sarpen Lougen Glommen 
+	}
+	manowar = {
+		Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros Ørnen
+	}
+	cruiser = {
+		Thor Odin Njord Freyr Tyr Bragl Heimdall Hoder Vidar Ale Ullr Forseti
+	}
+	frigate = {
+		Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros Ørnen
+	}
+	monitor = {
+		Skorpionen Mjølner Thrudvang
+	}
+	clipper_transport = {
+	}
+	steam_transport = { 
+	}
+	commerce_raider = {
+		Heimdal "Fridtjof Nansen" Nordkapp
+	}
+}

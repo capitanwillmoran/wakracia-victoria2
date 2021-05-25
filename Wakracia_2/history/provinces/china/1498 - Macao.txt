@@ -1,0 +1,6 @@
+owner=MNX
+controller=MNX
+trade_goods = tea
+life_rating = 32
+terrain = plains
+colonial=2

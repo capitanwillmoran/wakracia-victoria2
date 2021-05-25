@@ -1,0 +1,14 @@
+owner=AJU
+controller=SWA
+add_core=AJU
+add_core=SOM
+trade_goods = cattle
+life_rating = 35
+terrain = plains
+naval_base = 1
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

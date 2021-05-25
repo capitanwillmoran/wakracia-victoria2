@@ -1,0 +1,5 @@
+owner=SWE
+controller=SWE
+trade_goods = coffee
+life_rating = 35
+terrain = plains

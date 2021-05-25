@@ -1,0 +1,129 @@
+graphical_culture = EuropeanGC
+color = { 53  140  73 }
+
+party = {
+	name = "LUX_liberal"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = interventionism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = anti_military
+}
+
+party = {
+	name = "LUX_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = residency
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "LUX_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = limited_citizenship
+	economic_policy = state_capitalism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "LUX_reactionary"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "LUX_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "LUX_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "LUX_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+	}
+	ironclad = {
+		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+	}
+	manowar = {
+		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+	}
+	cruiser = {
+		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+	}
+	frigate = {
+		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+	}
+	monitor = {
+		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+	}
+}

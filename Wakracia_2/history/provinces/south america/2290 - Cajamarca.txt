@@ -1,0 +1,12 @@
+owner=PEU
+controller=PEU
+add_core=PEU
+trade_goods = wool
+life_rating = 30
+terrain = mountain
+state_building=
+{
+	level=1
+	building = steamer_shipyard
+	upgrade = yes
+}

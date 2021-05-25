@@ -1,0 +1,14 @@
+owner=PEU
+controller=PEU
+add_core=PEU
+add_core=CHL
+trade_goods = iron
+life_rating = 35
+terrain = hills
+naval_base = 1
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

@@ -1,0 +1,7 @@
+owner=FLR
+controller=FLR
+add_core=FLR
+trade_goods = timber
+life_rating = 35
+terrain = woods
+naval_base = 1

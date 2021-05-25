@@ -1,0 +1,7 @@
+owner=USA
+controller=X29
+add_core=CHE
+add_core=USA
+trade_goods = tobacco
+life_rating = 35
+terrain = mountain

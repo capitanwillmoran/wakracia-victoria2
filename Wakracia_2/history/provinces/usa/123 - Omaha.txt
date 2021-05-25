@@ -1,0 +1,6 @@
+owner=UIL
+controller=UIL
+add_core=KIO
+trade_goods = fruit
+life_rating = 35
+terrain = steppe

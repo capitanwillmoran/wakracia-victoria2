@@ -1,0 +1,142 @@
+252 = {
+	soldiers=
+	{
+		culture = icelandic
+		religion = animist
+		size= 105
+	}
+
+	craftsmen=
+	{
+		culture = icelandic
+		religion = animist
+		size= 3266
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = animist
+		size= 81
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = animist
+		size= 13
+	}
+
+	clerks=
+	{
+		culture = icelandic
+		religion = animist
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = animist
+		size= 3
+	}
+
+	capitalists=
+	{
+		culture = icelandic
+		religion = animist
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = animist
+		size= 1667
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 158
+	}
+
+	craftsmen=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 4905
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 445
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 72
+	}
+
+	clerks=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 417
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	capitalists=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 1954
+	}
+
+}

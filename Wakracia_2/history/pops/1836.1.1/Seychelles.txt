@@ -1,0 +1,51 @@
+2127 = {
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 53
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 1223
+	}
+
+}

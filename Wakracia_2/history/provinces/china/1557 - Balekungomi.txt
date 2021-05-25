@@ -1,0 +1,7 @@
+owner=CSH
+controller=ZUN
+add_core=TIB
+trade_goods = coal
+life_rating = 32
+terrain = plains
+colonial=2

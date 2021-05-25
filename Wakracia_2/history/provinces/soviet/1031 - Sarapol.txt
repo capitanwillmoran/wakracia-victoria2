@@ -1,0 +1,8 @@
+owner=X24
+controller=X24
+add_core=UGR
+add_core=X24
+add_core=X26
+trade_goods = timber
+life_rating = 35
+terrain = forest

@@ -1,0 +1,88 @@
+2125 = {
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 999
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 187
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 60
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 210
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 23256
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = tamil
+		religion = jain
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = tamil
+		religion = jain
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = tamil
+		religion = jain
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tamil
+		religion = jain
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = tamil
+		religion = jain
+		size= 143
+	}
+
+}

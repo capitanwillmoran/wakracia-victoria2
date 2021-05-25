@@ -1,0 +1,5 @@
+owner=MLI
+controller=MLI
+trade_goods = grain
+life_rating = 15
+terrain = plains

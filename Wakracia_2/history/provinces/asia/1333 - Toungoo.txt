@@ -1,0 +1,9 @@
+owner=HSE
+controller=HSE
+add_core=AVA
+add_core=BUR
+add_core=HSE
+add_core=IDO
+trade_goods = opium
+life_rating = 30
+terrain = hills

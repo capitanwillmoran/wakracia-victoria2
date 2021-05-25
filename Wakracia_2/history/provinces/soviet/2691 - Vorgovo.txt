@@ -1,0 +1,6 @@
+owner=ZUN
+controller=ZUN
+add_core=ZUN
+trade_goods = grain
+life_rating = 15
+terrain = arctic

@@ -1,0 +1,247 @@
+1329 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 105
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 5072
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = jain
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = jain
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 5
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 2209
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 95
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 95
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 9246
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 6
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 7348
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = jain
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = jain
+		size= 591
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = jain
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = jain
+		size= 15
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = jain
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = jain
+		size= 124
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = jain
+		size= 5247
+	}
+
+}

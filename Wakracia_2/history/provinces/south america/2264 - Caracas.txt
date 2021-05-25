@@ -1,0 +1,6 @@
+owner=CUB
+controller=CUB
+trade_goods = fruit
+life_rating = 30
+terrain = plains
+naval_base = 1

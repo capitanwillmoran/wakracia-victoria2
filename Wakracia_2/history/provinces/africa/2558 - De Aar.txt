@@ -1,0 +1,5 @@
+owner=GLC
+controller=GLC
+trade_goods = fruit
+life_rating = 35
+terrain = farmlands

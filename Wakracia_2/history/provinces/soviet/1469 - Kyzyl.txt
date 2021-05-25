@@ -1,0 +1,7 @@
+owner=X19
+controller=X19
+add_core=XIN
+trade_goods = coal
+life_rating = 35
+terrain = woods
+colonial=2

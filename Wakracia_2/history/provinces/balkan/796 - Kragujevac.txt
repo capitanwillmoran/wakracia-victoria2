@@ -1,0 +1,8 @@
+owner=X03
+controller=X03
+add_core=SER
+add_core=YUG
+trade_goods = coal
+life_rating = 35
+terrain = hills
+fort = 1

@@ -1,0 +1,302 @@
+1848 = {
+	soldiers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = coptic
+		size= 1135
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = coptic
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 10209
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = hellenic_pagan
+		size= 341
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = hellenic_pagan
+		size= 548
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = hellenic_pagan
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = hellenic_pagan
+		size= 9
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = hellenic_pagan
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = hellenic_pagan
+		size= 5085
+	}
+
+}
+1849 = {
+	soldiers=
+	{
+		culture = beja
+		religion = hellenic_pagan
+		size= 401
+	}
+
+	artisans=
+	{
+		culture = beja
+		religion = hellenic_pagan
+		size= 1003
+	}
+
+	clergymen=
+	{
+		culture = beja
+		religion = hellenic_pagan
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = beja
+		religion = hellenic_pagan
+		size= 7
+	}
+
+	officers=
+	{
+		culture = beja
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = beja
+		religion = hellenic_pagan
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = beja
+		religion = hellenic_pagan
+		size= 5625
+	}
+
+}
+1850 = {
+	soldiers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = coptic
+		size= 388
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = coptic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 2809
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = hellenic_pagan
+		size= 117
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = hellenic_pagan
+		size= 187
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = hellenic_pagan
+		size= 1738
+	}
+
+}
+1851 = {
+	soldiers=
+	{
+		culture = afar
+		religion = coptic
+		size= 198
+	}
+
+	artisans=
+	{
+		culture = afar
+		religion = coptic
+		size= 396
+	}
+
+	clergymen=
+	{
+		culture = afar
+		religion = coptic
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = afar
+		religion = coptic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = afar
+		religion = coptic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = afar
+		religion = coptic
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = afar
+		religion = coptic
+		size= 9131
+	}
+
+}

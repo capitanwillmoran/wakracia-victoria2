@@ -1,0 +1,7 @@
+owner=X16
+controller=X16
+add_core=XIN
+trade_goods = tea
+life_rating = 32
+terrain = jungle
+colonial=2

@@ -1,0 +1,146 @@
+graphical_culture = Generic
+color = { 255  211  56 }
+
+party = {
+	name = "NEW_liberal"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = interventionism
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = anti_military
+}
+
+party = {
+	name = "NEW_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = residency
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "NEW_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = limited_citizenship
+	economic_policy = state_capitalism
+	religious_policy = pluralism
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "NEW_reactionary"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "NEW_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "NEW_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "NEW_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+		Newfoundland Labrador "John Cabot" Hudson Kirke Bristol "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" Placentia 
+		Dominion Discovery Atlantis "Leif Ericson" 
+		
+	}
+	ironclad = {
+		Newfoundland Labrador "John Cabot" Hudson Kirke Bristol "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" Placentia 
+		Dominion Discovery Atlantis "Leif Ericson" 
+		
+		
+		
+	}
+	manowar = {
+		Newfoundland Labrador "John Cabot" Hudson Kirke Bristol "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" Placentia 
+		Dominion Discovery Atlantis "Leif Ericson" 
+		
+		
+	}
+	cruiser = {
+		Newfoundland Labrador "John Cabot" Hudson Kirke Bristol "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" Placentia 
+		Dominion Discovery Atlantis "Leif Ericson" 
+		
+	}
+	frigate = {
+		Newfoundland Labrador "John Cabot" Hudson Kirke Bristol "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" Placentia 
+		Dominion Discovery Atlantis "Leif Ericson" 
+		
+	}
+	monitor = {
+		Newfoundland Labrador "John Cabot" Hudson Kirke Bristol "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" Placentia 
+		Dominion Discovery Atlantis "Leif Ericson" 
+		
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Newfoundland Labrador "John Cabot" Hudson Kirke Bristol "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" Placentia 
+		Dominion Discovery Atlantis "Leif Ericson" 
+		
+	}
+}

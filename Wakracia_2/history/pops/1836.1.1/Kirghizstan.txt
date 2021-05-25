@@ -1,0 +1,349 @@
+1189 = {
+	soldiers=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 984
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 703
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 9
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 148
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 33151
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 661
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 1646
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 268
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 21
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 346
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 20585
+	}
+
+}
+1190 = {
+	soldiers=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 212
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 11
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 10099
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 354
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 18
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size= 2950
+	}
+
+}
+1203 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 328
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 369
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 15635
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 449
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 12
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 1190
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 141
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 1450
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 39
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 135
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 5135
+	}
+
+}

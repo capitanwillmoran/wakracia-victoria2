@@ -1,0 +1,8 @@
+owner=MAW
+controller=DEC
+add_core=HND
+add_core=MRT
+trade_goods = tea
+life_rating = 32
+terrain = hills
+colonial=2

@@ -1,0 +1,246 @@
+251 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 508
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 454
+	}
+
+}
+2591 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 138
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 121
+	}
+
+}
+2632 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 138
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 121
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = animist
+		size= 90
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 77
+	}
+
+}

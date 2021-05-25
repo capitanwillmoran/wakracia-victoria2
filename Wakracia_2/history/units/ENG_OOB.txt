@@ -1,0 +1,987 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IRO = {
+	value = 141
+	influence_value = 22
+	level = 3
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = -4
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 197
+	influence_value = 36
+	level = 4
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = -31
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = -22
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = -33
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Christian Saunders"
+	date="1792.2.3"
+	type=land
+	personality="intuitive"
+	background="drillmaster"
+}
+
+leader = {
+	name="Cankili Rooke"
+	date="1804.7.20"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ranatîran Beresford"
+	date="1809.7.10"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Kantarâtitta Gloucester"
+	date="1810.7.10"
+	type=sea
+	personality="audacious"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Afonso Gloucester"
+	date="1816.6.25"
+	type=sea
+	personality="audacious"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="North Sea Squadron"
+	location=271
+	ship = {
+		name="1st Amiens Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Montpellier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Montpellier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lincoln Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cardiff Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Liverpool Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Wexford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chester Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Toulon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Montpellier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Salisbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Montpellier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rouen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Brighton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Newcastle-upon-Tyne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Newcastle-upon-Tyne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Stirling Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Trieste Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Carlisle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Leghorn Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Inverness Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="10th Army"
+	location=252
+	regiment = {
+		name="1st Leicester Infantry"
+		type=infantry
+		home=289
+	}
+	regiment = {
+		name="1st Salisbury Infantry"
+		type=infantry
+		home=297
+	}
+	regiment = {
+		name="2nd Salisbury Infantry"
+		type=infantry
+		home=297
+	}
+	regiment = {
+		name="1st Inverness Infantry"
+		type=infantry
+		home=267
+	}
+	regiment = {
+		name="1st Brighton Artillery"
+		type=artillery
+		home=302
+	}
+	regiment = {
+		name="2nd Brighton Artillery"
+		type=artillery
+		home=302
+	}
+	regiment = {
+		name="1st Birmingham Artillery"
+		type=artillery
+		home=284
+	}
+	regiment = {
+		name="1st Dumfries Artillery"
+		type=artillery
+		home=272
+	}
+	regiment = {
+		name="5th Brighton Infantry"
+		type=infantry
+		home=302
+	}
+	regiment = {
+		name="10th Dumfries Artillery"
+		type=artillery
+		home=272
+	}
+}
+
+army = {
+	name="15th Army"
+	location=267
+	regiment = {
+		name="1st Coventry Infantry"
+		type=infantry
+		home=287
+	}
+	regiment = {
+		name="1st Dumfries Infantry"
+		type=infantry
+		home=272
+	}
+	regiment = {
+		name="2nd Leicester Infantry"
+		type=infantry
+		home=289
+	}
+	regiment = {
+		name="1st Salisbury Artillery"
+		type=artillery
+		home=297
+	}
+	regiment = {
+		name="1st Leeds Artillery"
+		type=artillery
+		home=282
+	}
+	regiment = {
+		name="2nd Dumfries Artillery"
+		type=artillery
+		home=272
+	}
+	regiment = {
+		name="3rd Inverness Infantry"
+		type=infantry
+		home=267
+	}
+}
+
+army = {
+	name="Royal Army"
+	location=267
+	regiment = {
+		name="1st Cardiff Infantry"
+		type=infantry
+		home=273
+	}
+	regiment = {
+		name="3rd Leicester Infantry"
+		type=infantry
+		home=289
+	}
+	regiment = {
+		name="1st Brighton Infantry"
+		type=infantry
+		home=302
+	}
+	regiment = {
+		name="2nd Brighton Infantry"
+		type=infantry
+		home=302
+	}
+	regiment = {
+		name="3rd Salisbury Infantry"
+		type=infantry
+		home=297
+	}
+	regiment = {
+		name="3rd Brighton Infantry"
+		type=infantry
+		home=302
+	}
+	regiment = {
+		name="3rd Brighton Artillery"
+		type=artillery
+		home=302
+	}
+	regiment = {
+		name="3rd Dumfries Artillery"
+		type=artillery
+		home=272
+	}
+	regiment = {
+		name="1st Leicester Artillery"
+		type=artillery
+		home=289
+	}
+	regiment = {
+		name="2nd Birmingham Artillery"
+		type=artillery
+		home=284
+	}
+	regiment = {
+		name="6th Brighton Artillery"
+		type=artillery
+		home=302
+	}
+}
+
+navy = {
+	name="Channel Squadron"
+	location=2737
+	ship = {
+		name="1st Glasgow Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Liverpool Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Glasgow Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2712
+	ship = {
+		name="1st Galway Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Carlisle Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sassari Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Isle of Man Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="7th Army"
+	location=265
+	regiment = {
+		name="2nd Coventry Infantry"
+		type=infantry
+		home=287
+	}
+	regiment = {
+		name="1st Bristol Infantry"
+		type=infantry
+		home=296
+	}
+	regiment = {
+		name="1st Birmingham Infantry"
+		type=infantry
+		home=284
+	}
+	regiment = {
+		name="4th Leicester Infantry"
+		type=infantry
+		home=289
+	}
+	regiment = {
+		name="2nd Birmingham Infantry"
+		type=infantry
+		home=284
+	}
+	regiment = {
+		name="2nd Inverness Infantry"
+		type=infantry
+		home=267
+	}
+	regiment = {
+		name="4th Brighton Artillery"
+		type=artillery
+		home=302
+	}
+	regiment = {
+		name="4th Dumfries Artillery"
+		type=artillery
+		home=272
+	}
+	regiment = {
+		name="5th Dumfries Artillery"
+		type=artillery
+		home=272
+	}
+	regiment = {
+		name="6th Dumfries Artillery"
+		type=artillery
+		home=272
+	}
+	regiment = {
+		name="9th Dumfries Artillery"
+		type=artillery
+		home=272
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2737
+	ship = {
+		name="1st Liverpool Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dumfries Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Carlisle Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Liverpool Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Inverness Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rotterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cardigan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Liverpool Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sligo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Newcastle-upon-Tyne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Stralsund Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Dumfries Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sligo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bath Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chelmsford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chelmsford Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Royal Navy"
+	location=2722
+	ship = {
+		name="1st Cork Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Genoa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hull Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Londonderry Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hull Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Schwerin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Dumfries Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Army of Scotland"
+	location=260
+	regiment = {
+		name="1st Leeds Infantry"
+		type=infantry
+		home=282
+	}
+	regiment = {
+		name="4th Brighton Infantry"
+		type=infantry
+		home=302
+	}
+	regiment = {
+		name="1st Southampton Infantry"
+		type=infantry
+		home=303
+	}
+	regiment = {
+		name="2nd Dumfries Infantry"
+		type=infantry
+		home=272
+	}
+	regiment = {
+		name="4th Salisbury Infantry"
+		type=infantry
+		home=297
+	}
+	regiment = {
+		name="3rd Birmingham Infantry"
+		type=infantry
+		home=284
+	}
+	regiment = {
+		name="7th Dumfries Artillery"
+		type=artillery
+		home=272
+	}
+	regiment = {
+		name="2nd Salisbury Artillery"
+		type=artillery
+		home=297
+	}
+	regiment = {
+		name="5th Brighton Artillery"
+		type=artillery
+		home=302
+	}
+	regiment = {
+		name="8th Dumfries Artillery"
+		type=artillery
+		home=272
+	}
+}
+

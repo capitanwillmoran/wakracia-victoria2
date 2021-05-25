@@ -1,0 +1,825 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 34
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = -95
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 10
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 38
+	level = 2
+}
+COM = {
+	value = 141
+	influence_value = 22
+	level = 3
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = -4
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 15
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IRO = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 72
+	influence_value = 5
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = -50
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -82
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 298
+	military_access = yes
+	influence_value = 82
+	level = 5
+}
+POM = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 267
+	military_access = yes
+	influence_value = 74
+	level = 5
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 172
+	military_access = yes
+	influence_value = 50
+	level = 5
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Youxue I Duan"
+	date="1805.5.4"
+	type=land
+	personality="persistant"
+	background="brownnoser"
+}
+
+leader = {
+	name="Youji Duan"
+	date="1816.11.3"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Zongren Bao"
+	date="1805.5.9"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Youwan Cao"
+	date="1805.5.15"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Meigui Cui"
+	date="1814.11.23"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Gongjian Niu"
+	date="1816.2.6"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Shanghong Chen"
+	date="1816.2.7"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=2161
+	regiment = {
+		name="1st Mariposa Infantry"
+		type=infantry
+		home=88
+	}
+	regiment = {
+		name="1st Hermosillo Infantry"
+		type=infantry
+		home=2137
+	}
+	regiment = {
+		name="1st Rosarito Infantry"
+		type=infantry
+		home=2139
+	}
+	regiment = {
+		name="1st Guaymas Artillery"
+		type=artillery
+		home=2141
+	}
+	regiment = {
+		name="1st San Diego Artillery"
+		type=artillery
+		home=90
+	}
+	regiment = {
+		name="4th San Francisco Infantry"
+		type=infantry
+		home=84
+	}
+	regiment = {
+		name="2nd Guaymas Artillery"
+		type=artillery
+		home=2141
+	}
+	regiment = {
+		name="3rd San Francisco Artillery"
+		type=artillery
+		home=84
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=3006
+	ship = {
+		name="1st San Francisco Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd San Francisco Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd San Francisco Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th San Francisco Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th San Francisco Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th San Francisco Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th San Francisco Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd San Diego Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2161
+	regiment = {
+		name="1st Vancouver Infantry"
+		type=infantry
+		home=13
+	}
+	regiment = {
+		name="1st Flagstaff Infantry"
+		type=infantry
+		home=101
+	}
+	regiment = {
+		name="1st Santa Fe Infantry"
+		type=infantry
+		home=103
+	}
+	regiment = {
+		name="1st Hermosillo Artillery"
+		type=artillery
+		home=2137
+	}
+	regiment = {
+		name="2nd Hermosillo Artillery"
+		type=artillery
+		home=2137
+	}
+	regiment = {
+		name="3rd Hermosillo Artillery"
+		type=artillery
+		home=2137
+	}
+	regiment = {
+		name="5th San Francisco Infantry"
+		type=infantry
+		home=84
+	}
+	regiment = {
+		name="3rd Guaymas Artillery"
+		type=artillery
+		home=2141
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=3011
+	ship = {
+		name="1st Los Angeles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st San Diego Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=3005
+	ship = {
+		name="1st San Diego Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st San Francisco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rosarito Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd San Diego Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd San Francisco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Vancouver Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rosarito Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Monterey Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd San Francisco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st San Francisco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd San Francisco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd San Francisco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th San Francisco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th San Francisco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th San Francisco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Monterey Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Madurai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th San Francisco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vancouver Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th San Francisco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bacalar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bacalar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th San Francisco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th San Francisco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Monterey Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Monterey Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="11th San Francisco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st San Diego Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Los Angeles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="12th San Francisco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd San Diego Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Monterey Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Monterey Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=3012
+	ship = {
+		name="3rd Rosarito Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th San Francisco Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2169
+	regiment = {
+		name="1st Monterey Artillery"
+		type=artillery
+		home=87
+	}
+	regiment = {
+		name="1st San Francisco Artillery"
+		type=artillery
+		home=84
+	}
+	regiment = {
+		name="2nd San Francisco Artillery"
+		type=artillery
+		home=84
+	}
+}
+
+army = {
+	name="Free Company"
+	location=2153
+	regiment = {
+		name="1st San Francisco Infantry"
+		type=infantry
+		home=84
+	}
+	regiment = {
+		name="2nd San Francisco Infantry"
+		type=infantry
+		home=84
+	}
+	regiment = {
+		name="3rd San Francisco Infantry"
+		type=infantry
+		home=84
+	}
+}
+

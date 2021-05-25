@@ -1,0 +1,7 @@
+owner=X14
+controller=X04
+add_core=X14
+add_core=XIN
+trade_goods = wool
+life_rating = 35
+terrain = mountain

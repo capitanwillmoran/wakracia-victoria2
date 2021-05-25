@@ -1,0 +1,200 @@
+676 = {
+	soldiers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 642
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 666
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 197
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 299
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 62116
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = hellenic_pagan
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = hellenic_pagan
+		size= 737
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = hellenic_pagan
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = hellenic_pagan
+		size= 20
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = hellenic_pagan
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = hellenic_pagan
+		size= 331
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = hellenic_pagan
+		size= 1361
+	}
+
+}
+677 = {
+	soldiers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 625
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 537
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 292
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 59695
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = hellenic_pagan
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = hellenic_pagan
+		size= 594
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = hellenic_pagan
+		size= 211
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = hellenic_pagan
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = hellenic_pagan
+		size= 323
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = hellenic_pagan
+		size= 1309
+	}
+
+}

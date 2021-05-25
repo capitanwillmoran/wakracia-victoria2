@@ -1,0 +1,114 @@
+517 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = norse_pagan_reformed
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = norse_pagan_reformed
+		size= 1792
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 1583
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 230
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+}

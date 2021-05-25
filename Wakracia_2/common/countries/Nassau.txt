@@ -1,0 +1,213 @@
+graphical_culture = EuropeanGC
+color = { 107  94  169 }
+
+party = {
+	name = "NAS_liberal"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = anti_military
+}
+
+party = {
+	name = "NAS_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "NAS_liberal_2"
+	start_date = 1861.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = jingoism
+}
+
+party = {
+	name = "NAS_liberal_3"
+	start_date = 1861.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "NAS_socialist"
+	start_date = 1860.1.1
+	end_date = 1875.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = anti_military
+}
+
+party = {
+	name = "NAS_socialist_2"
+	start_date = 1848.1.1
+	end_date = 1875.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	trade_policy = free_trade
+	war_policy = anti_military
+}
+
+party = {
+	name = "NAS_socialist_3"
+	start_date = 1875.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	trade_policy = free_trade
+	war_policy = anti_military
+}
+
+party = {
+	name = "NAS_reactionary"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "NAS_conservative_2"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = residency
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "NAS_conservative_3"
+	start_date = 1878.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = residency
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "NAS_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "NAS_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "NAS_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+	  	   Nassau "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" Usingen Dillenburg Siegen Weilburg Ottweiler Idstein 
+	}
+	ironclad = {
+	   	  Nassau "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" Usingen Dillenburg Siegen Weilburg Ottweiler Idstein 		
+	}
+	manowar = {
+	   	 Nassau "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" Usingen Dillenburg Siegen Weilburg Ottweiler Idstein 	
+	}
+	cruiser = {
+		Nassau "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" Usingen Dillenburg Siegen Weilburg Ottweiler Idstein 		
+	}
+	frigate = {
+		Nassau "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" Usingen Dillenburg Siegen Weilburg Ottweiler Idstein 	
+	}
+	monitor = {
+		Nassau "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" Usingen Dillenburg Siegen Weilburg Ottweiler Idstein 	
+	}
+	clipper_transport = {
+			
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Nassau "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" Usingen Dillenburg Siegen Weilburg Ottweiler Idstein 	
+	}
+}

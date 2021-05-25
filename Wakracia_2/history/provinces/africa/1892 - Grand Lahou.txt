@@ -1,0 +1,7 @@
+owner=BYZ
+controller=BYZ
+add_core=ASH
+trade_goods = coffee
+life_rating = 15
+terrain = plains
+colonial=2

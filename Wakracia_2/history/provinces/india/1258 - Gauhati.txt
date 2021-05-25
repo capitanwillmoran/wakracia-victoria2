@@ -1,0 +1,8 @@
+owner=ORI
+controller=ORI
+add_core=ASM
+add_core=HND
+add_core=ORI
+trade_goods = tea
+life_rating = 32
+terrain = jungle

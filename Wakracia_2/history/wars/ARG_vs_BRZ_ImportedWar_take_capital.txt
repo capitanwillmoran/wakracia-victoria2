@@ -1,0 +1,16 @@
+name = "La Platan-Brazilian Imperialist War"
+
+1818.2.7 = {
+	add_attacker = ARG
+	add_defender = BRZ
+	add_defender = UIL
+	add_defender = USA
+
+	war_goal = {
+		casus_belli = annex_core_country
+		actor = ARG
+		receiver = BRZ
+		country = BRZ
+		state_province_id = 2459
+	}
+}

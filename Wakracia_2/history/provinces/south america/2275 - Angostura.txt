@@ -1,0 +1,6 @@
+owner=CLM
+controller=CLM
+add_core=ARW
+trade_goods = wool
+life_rating = 30
+terrain = hills

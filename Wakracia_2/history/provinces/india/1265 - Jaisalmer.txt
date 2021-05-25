@@ -1,0 +1,6 @@
+owner=RAJ
+controller=JGD
+add_core=RAJ
+trade_goods = wool
+life_rating = 32
+terrain = woods

@@ -1,0 +1,7 @@
+owner=MNX
+controller=MNX
+add_core=MLC
+trade_goods = timber
+life_rating = 30
+terrain = plains
+colonial=2

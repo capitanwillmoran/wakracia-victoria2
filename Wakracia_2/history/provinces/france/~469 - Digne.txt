@@ -1,0 +1,6 @@
+owner=X09
+controller=X09
+add_core=GRE
+trade_goods = silk
+life_rating = 32
+terrain = farmlands

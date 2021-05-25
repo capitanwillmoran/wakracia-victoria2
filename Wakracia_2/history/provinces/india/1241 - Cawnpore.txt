@@ -1,0 +1,8 @@
+owner=X16
+controller=X16
+add_core=KHA
+add_core=MGL
+add_core=X16
+trade_goods = dye
+life_rating = 32
+terrain = farmlands

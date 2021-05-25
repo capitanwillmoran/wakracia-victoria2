@@ -1,0 +1,6647 @@
+474 = {
+	soldiers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 38233
+	}
+
+	craftsmen=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 5953
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 2516
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 409
+	}
+
+	clerks=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 179
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 63
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 100
+	}
+
+	capitalists=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 1057
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 77244
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 1312
+	}
+
+	craftsmen=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 2216
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 4390
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 713
+	}
+
+	clerks=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 313
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 109
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 176
+	}
+
+	capitalists=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 1844
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 35681
+	}
+
+}
+475 = {
+	soldiers=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 380
+	}
+
+	artisans=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 474
+	}
+
+	clergymen=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 12615
+	}
+
+	soldiers=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 170
+	}
+
+	artisans=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 900
+	}
+
+	clergymen=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	officers=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 4838
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 127
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 2009
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 241
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 2031
+	}
+
+}
+476 = {
+	soldiers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 19633
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 1242
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 202
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 31
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 522
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 40412
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 525
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 1991
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 323
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 50
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 837
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 14931
+	}
+
+}
+477 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 815
+	}
+
+	craftsmen=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 3542
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 291
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 47
+	}
+
+	clerks=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 12
+	}
+
+	capitalists=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 244
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 24066
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 161
+	}
+
+	craftsmen=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 699
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 406
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 66
+	}
+
+	clerks=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	capitalists=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 341
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 3942
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 152
+	}
+
+	craftsmen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 661
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 914
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 149
+	}
+
+	clerks=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 32
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 37
+	}
+
+	capitalists=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 768
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 2505
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 542
+	}
+
+	craftsmen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 2355
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 387
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 63
+	}
+
+	clerks=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 14
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 15
+	}
+
+	capitalists=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 325
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 15551
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 210
+	}
+
+	craftsmen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 913
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 687
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 112
+	}
+
+	clerks=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 126
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 24
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	capitalists=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 577
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 4793
+	}
+
+}
+478 = {
+	soldiers=
+	{
+		culture = galician
+		religion = cathar
+		size= 577
+	}
+
+	artisans=
+	{
+		culture = galician
+		religion = cathar
+		size= 103
+	}
+
+	clergymen=
+	{
+		culture = galician
+		religion = cathar
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = galician
+		religion = cathar
+		size= 3
+	}
+
+	officers=
+	{
+		culture = galician
+		religion = cathar
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = galician
+		religion = cathar
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = galician
+		religion = cathar
+		size= 19865
+	}
+
+	soldiers=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 127
+	}
+
+	artisans=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 149
+	}
+
+	clergymen=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 4167
+	}
+
+	soldiers=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 195
+	}
+
+	artisans=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 391
+	}
+
+	clergymen=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	officers=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 192
+	}
+
+	farmers=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 6108
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 351
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 1144
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 186
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 29
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 561
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 10222
+	}
+
+}
+479 = {
+	soldiers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 895
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 320
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 8
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 30535
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 258
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 504
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 247
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 8078
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 449
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 1465
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 238
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 37
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 718
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 13074
+	}
+
+}
+480 = {
+	soldiers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 413
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 174
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 6570
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 741
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 311
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 5942
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 185
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 4814
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 475
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 199
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 5435
+	}
+
+}
+481 = {
+	soldiers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 992
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 708
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 115
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 18
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 595
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 32961
+	}
+
+	soldiers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 917
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 2019
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 328
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 50
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 1696
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 27666
+	}
+
+}
+482 = {
+	soldiers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 190
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 379
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 9
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 319
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 17996
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 602
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 505
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 4270
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 118
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 3
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 11458
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 89
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 297
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 249
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 8241
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 655
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 106
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 550
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 4597
+	}
+
+}
+483 = {
+	soldiers=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 214
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 165
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 4
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 139
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 20815
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 171
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 605
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 15
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 508
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 15773
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 119
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 1249
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 203
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 31
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 1049
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 9265
+	}
+
+}
+484 = {
+	soldiers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 1951
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 30
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 729
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = west_african_pagan_reformed
+		size= 36347
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 343
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 3055
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 221
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 48
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 1140
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = hellenic_pagan
+		size= 7398
+	}
+
+}
+485 = {
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 336
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 672
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 17
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 282
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 32193
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 96
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 1056
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 172
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 26
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 443
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 7764
+	}
+
+}
+486 = {
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 301
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 602
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 15
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 253
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 28839
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 86
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 946
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 24
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 397
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 6954
+	}
+
+}
+487 = {
+	soldiers=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 1110
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 694
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 7
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 130
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 37716
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 786
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 2351
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 170
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 26
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 439
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 24240
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 757
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 5478
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 396
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 61
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 1023
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 19215
+	}
+
+}
+488 = {
+	soldiers=
+	{
+		culture = visigothic
+		religion = lollard
+		size= 102
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = lollard
+		size= 102
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = lollard
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = lollard
+		size= 3
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = lollard
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = lollard
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = lollard
+		size= 9954
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 179
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 3489
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 112
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 727
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 118
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 305
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 9864
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 86
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 86
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 8389
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 154
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = west_african_pagan_reformed
+		size= 3101
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 96
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 624
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 262
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = hellenic_pagan
+		size= 8488
+	}
+
+}
+489 = {
+	soldiers=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 871
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 553
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 6
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = waldensian
+		size= 29792
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 777
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 2095
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 391
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 24276
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 497
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 4246
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 307
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 47
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 793
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 11786
+	}
+
+}
+490 = {
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 590
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 590
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 15
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 248
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 57429
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 146
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 881
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 143
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 22
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 370
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 12976
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 84
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 1808
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 294
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 45
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 760
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 5413
+	}
+
+}
+491 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 1099
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 179
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 27
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 462
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 52617
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 149
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 1694
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 275
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 42
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 712
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 11970
+	}
+
+}
+492 = {
+	soldiers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 1138
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 406
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 171
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 38835
+	}
+
+	soldiers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 323
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 637
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 268
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 10156
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 730
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 2086
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 339
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 52
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 876
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 21889
+	}
+
+}
+493 = {
+	soldiers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 864
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 694
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 8
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 130
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 29093
+	}
+
+	soldiers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 254
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 1103
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 206
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 7404
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 552
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 3571
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 258
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 40
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 667
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 14565
+	}
+
+}
+494 = {
+	soldiers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 552
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 394
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 331
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 18337
+	}
+
+	soldiers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 510
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 1123
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 943
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 15393
+	}
+
+}
+495 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 2138
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 1300
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 188
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 32
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 323
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 53775
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 326
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 1697
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 245
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 41
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 422
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 6060
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 552
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 4339
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 627
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 106
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 1080
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 8103
+	}
+
+}
+496 = {
+	soldiers=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 690
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 123
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 23739
+	}
+
+	soldiers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 164
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 182
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 5408
+	}
+
+	soldiers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 171
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 427
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 180
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 5247
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 508
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 1458
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 237
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 36
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 612
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 15222
+	}
+
+}
+497 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = cathar
+		size= 672
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = cathar
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = cathar
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = cathar
+		size= 3
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = cathar
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = cathar
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = cathar
+		size= 23125
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 488
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 294
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 124
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 16447
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 264
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 603
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 253
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 8165
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 216
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 1326
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 215
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 33
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 557
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 5322
+	}
+
+}
+498 = {
+	soldiers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 1399
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 105
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = catholic
+		size= 48160
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 336
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 370
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 9
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 11059
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 420
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 919
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 149
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 23
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 386
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 13052
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 1162
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 3200
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 520
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 80
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 128
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 1344
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 35074
+	}
+
+}
+499 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 265
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 298
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 25868
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 375
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 2898
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 917
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 171
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 4187
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 220
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 3570
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 258
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 56
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 666
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 17187
+	}
+
+}
+500 = {
+	soldiers=
+	{
+		culture = basque
+		religion = cathar
+		size= 166
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = cathar
+		size= 83
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = cathar
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = cathar
+		size= 2
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = cathar
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = cathar
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = cathar
+		size= 16300
+	}
+
+	soldiers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 122
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = west_african_pagan_reformed
+		size= 3645
+	}
+
+	soldiers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 272
+	}
+
+	clergymen=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 7
+	}
+
+	officers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 114
+	}
+
+	farmers=
+	{
+		culture = basque
+		religion = hellenic_pagan
+		size= 2893
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 998
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 162
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 25
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 419
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 11271
+	}
+
+}
+501 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 713
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size= 127
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size= 24544
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 238
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = west_african_pagan_reformed
+		size= 7923
+	}
+
+	soldiers=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 189
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 475
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 199
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = hellenic_pagan
+		size= 5777
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 563
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 1618
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 263
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 40
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 680
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 16867
+	}
+
+}
+502 = {
+	soldiers=
+	{
+		culture = french
+		religion = norse_pagan_reformed
+		size= 1119
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = norse_pagan_reformed
+		size= 2236
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = norse_pagan_reformed
+		size= 419
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = norse_pagan_reformed
+		size= 55
+	}
+
+	officers=
+	{
+		culture = french
+		religion = norse_pagan_reformed
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = norse_pagan_reformed
+		size= 470
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = norse_pagan_reformed
+		size= 51564
+	}
+
+}
+503 = {
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 2164
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 1739
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 126
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 19
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 325
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 72894
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 513
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 2563
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 185
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 479
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 14507
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 306
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 5286
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 382
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 59
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 94
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 987
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 3810
+	}
+
+}
+504 = {
+	soldiers=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 657
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 117
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 22616
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 391
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 257
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 13163
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 214
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 527
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 221
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 6556
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 199
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 1186
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 193
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 30
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 498
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = hellenic_pagan
+		size= 4944
+	}
+
+}
+505 = {
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 2072
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 1480
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 241
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 37
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 622
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 69506
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 574
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 2300
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 374
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 58
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 966
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 16131
+	}
+
+}
+506 = {
+	soldiers=
+	{
+		culture = french
+		religion = norse_pagan_reformed
+		size= 644
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = norse_pagan_reformed
+		size= 115
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = norse_pagan_reformed
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = french
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = norse_pagan_reformed
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = norse_pagan_reformed
+		size= 22155
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 127
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = west_african_pagan_reformed
+		size= 982
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 516
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 611
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 15
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 257
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 16910
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 316
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 1305
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 212
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 33
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 548
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 8830
+	}
+
+}
+507 = {
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 165
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 329
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 8
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 138
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 15755
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 530
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 223
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 4117
+	}
+
+}
+508 = {
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 357
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 714
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 116
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 18
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 34169
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 109
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 1150
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 187
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 29
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 483
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 8929
+	}
+
+}
+509 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 2377
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 5943
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 276
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 42
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 1070
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 75117
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 343
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 7656
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 355
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 55
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 1378
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 2365
+	}
+
+}
+510 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 2041
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 5102
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 237
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 36
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 612
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 64795
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 282
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 6514
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 302
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 47
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 782
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 2086
+	}
+
+}
+511 = {
+	soldiers=
+	{
+		culture = berber
+		religion = west_african_pagan_reformed
+		size= 452
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = west_african_pagan_reformed
+		size= 565
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = west_african_pagan_reformed
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = west_african_pagan_reformed
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = west_african_pagan_reformed
+		size= 14963
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 424
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 1625
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 12
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 390
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 12598
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 131
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 2846
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 20
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 683
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 835
+	}
+
+}
+512 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = zikri
+		size= 1181
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = zikri
+		size= 422
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = zikri
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = zikri
+		size= 11
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = zikri
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = zikri
+		size= 177
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = zikri
+		size= 40290
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 1137
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 1234
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 201
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 31
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 518
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 37452
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 120
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 1828
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 297
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 46
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 768
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 1162
+	}
+
+}
+513 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 2349
+	}
+
+	craftsmen=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 7247
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 5872
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 273
+	}
+
+	clerks=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 219
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 42
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 67
+	}
+
+	capitalists=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 705
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 67052
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 299
+	}
+
+	craftsmen=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 923
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 7368
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 342
+	}
+
+	clerks=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 274
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 53
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 84
+	}
+
+	capitalists=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 77
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 884
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 383
+	}
+
+}
+514 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 2462
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 6156
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 286
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 44
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 739
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 78179
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 327
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 7792
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 362
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 56
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 89
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 935
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 2128
+	}
+
+}
+515 = {
+	soldiers=
+	{
+		culture = visigothic
+		religion = norse_pagan_reformed
+		size= 849
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = norse_pagan_reformed
+		size= 1061
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = norse_pagan_reformed
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = norse_pagan_reformed
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = norse_pagan_reformed
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = norse_pagan_reformed
+		size= 28215
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 707
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 2829
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 131
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 340
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = west_african_pagan_reformed
+		size= 21200
+	}
+
+	soldiers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 188
+	}
+
+	artisans=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 4832
+	}
+
+	clergymen=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 224
+	}
+
+	bureaucrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 35
+	}
+
+	officers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 580
+	}
+
+	farmers=
+	{
+		culture = visigothic
+		religion = hellenic_pagan
+		size= 808
+	}
+
+}
+516 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 631
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 1262
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 205
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 32
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 1060
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = west_african_pagan_reformed
+		size= 59888
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 1430
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 232
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 36
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 1201
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = hellenic_pagan
+		size= 1217
+	}
+
+}
+2136 = {
+	soldiers=
+	{
+		culture = berber
+		religion = west_african_pagan_reformed
+		size= 717
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = west_african_pagan_reformed
+		size= 1321
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = west_african_pagan_reformed
+		size= 248
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = west_african_pagan_reformed
+		size= 46
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = west_african_pagan_reformed
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = west_african_pagan_reformed
+		size= 277
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = west_african_pagan_reformed
+		size= 33170
+	}
+
+	soldiers=
+	{
+		culture = berber
+		religion = hellenic_pagan
+		size= 251
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = hellenic_pagan
+		size= 614
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = hellenic_pagan
+		size= 115
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = hellenic_pagan
+		size= 129
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = hellenic_pagan
+		size= 11417
+	}
+
+}

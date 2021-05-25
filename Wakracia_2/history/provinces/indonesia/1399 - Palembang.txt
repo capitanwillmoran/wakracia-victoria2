@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=MLC
+trade_goods = grain
+life_rating = 30
+terrain = hills
+colonial=2
+naval_base = 1

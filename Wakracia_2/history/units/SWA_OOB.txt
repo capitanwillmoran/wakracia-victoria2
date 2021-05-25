@@ -1,0 +1,857 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 33
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 102
+	influence_value = 13
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = -32
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IRO = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = -28
+	level = 2
+}
+LBR = {
+	value = -96
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 129
+	influence_value = 19
+	level = 3
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 18
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 138
+	influence_value = 22
+	level = 3
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Mwinyi Ahmad Sokoine"
+	date="1792.9.26"
+	type=sea
+	personality="persistant"
+	background="war_college"
+}
+
+leader = {
+	name="Athmani Jumbe"
+	date="1810.3.26"
+	type=sea
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Fumo Madi Sokoine"
+	date="1811.5.25"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Yûsuf Semid"
+	date="1818.7.23"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+
+#Armies
+army = {
+	name="4th Army"
+	location=2056
+	regiment = {
+		name="1st Ibo Infantry"
+		type=infantry
+		home=2063
+	}
+	regiment = {
+		name="1st Massekisse Infantry"
+		type=infantry
+		home=2052
+	}
+	regiment = {
+		name="1st Hwange Artillery"
+		type=artillery
+		home=2072
+	}
+	regiment = {
+		name="1st Massekisse Artillery"
+		type=artillery
+		home=2052
+	}
+	regiment = {
+		name="1st Milange Artillery"
+		type=artillery
+		home=2065
+	}
+	regiment = {
+		name="1st Harare Artillery"
+		type=artillery
+		home=2068
+	}
+	regiment = {
+		name="1st Gweru Infantry"
+		type=infantry
+		home=2069
+	}
+}
+
+army = {
+	name="Great Lakes Free Warriors"
+	location=2036
+	regiment = {
+		name="1st Angoche Infantry"
+		type=infantry
+		home=2061
+	}
+	regiment = {
+		name="2nd Angoche Infantry"
+		type=infantry
+		home=2061
+	}
+	regiment = {
+		name="3rd Angoche Infantry"
+		type=infantry
+		home=2061
+	}
+}
+
+army = {
+	name="Yaka Free Warriors"
+	location=2024
+	regiment = {
+		name="2nd Massekisse Infantry"
+		type=infantry
+		home=2052
+	}
+	regiment = {
+		name="3rd Massekisse Infantry"
+		type=infantry
+		home=2052
+	}
+	regiment = {
+		name="3rd Usumbura Infantry"
+		type=infantry
+		home=2035
+	}
+}
+
+army = {
+	name="9th Army"
+	location=2047
+	regiment = {
+		name="1st Moçambique Infantry"
+		type=infantry
+		home=2060
+	}
+	regiment = {
+		name="2nd Ibo Infantry"
+		type=infantry
+		home=2063
+	}
+	regiment = {
+		name="2nd Massekisse Artillery"
+		type=artillery
+		home=2052
+	}
+	regiment = {
+		name="1st Ibo Artillery"
+		type=artillery
+		home=2063
+	}
+	regiment = {
+		name="3rd Ibo Infantry"
+		type=infantry
+		home=2063
+	}
+	regiment = {
+		name="4th Ibo Infantry"
+		type=infantry
+		home=2063
+	}
+	regiment = {
+		name="1st Sena Artillery"
+		type=artillery
+		home=2053
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2064
+	regiment = {
+		name="1st Usumbura Infantry"
+		type=infantry
+		home=2035
+	}
+	regiment = {
+		name="2nd Usumbura Infantry"
+		type=infantry
+		home=2035
+	}
+	regiment = {
+		name="1st Tabora Artillery"
+		type=artillery
+		home=2043
+	}
+	regiment = {
+		name="2nd Tabora Artillery"
+		type=artillery
+		home=2043
+	}
+	regiment = {
+		name="4th Usumbura Infantry"
+		type=infantry
+		home=2035
+	}
+	regiment = {
+		name="3rd Tabora Artillery"
+		type=artillery
+		home=2043
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2036
+	regiment = {
+		name="2nd Ibo Artillery"
+		type=artillery
+		home=2063
+	}
+	regiment = {
+		name="1st Kigali Artillery"
+		type=artillery
+		home=2034
+	}
+	regiment = {
+		name="1st Quelimane Artillery"
+		type=artillery
+		home=2059
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2038
+	ship = {
+		name="1st Moçambique Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Angoche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ibo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Moçambique Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Angoche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lamu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kilwa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kilwa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Angoche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kilwa Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2901
+	ship = {
+		name="1st Ibo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Angoche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Moçambique Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ibo Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2059
+	ship = {
+		name="1st Dar Es Salaam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Angoche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Angoche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Moçambique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Angoche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dar Es Salaam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Angoche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Angoche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Angoche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Moçambique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Angoche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Moçambique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tanga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tanga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Angoche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Moçambique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sofala Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Dar Es Salaam Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2902
+	ship = {
+		name="2nd Angoche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Angoche Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2911
+	ship = {
+		name="1st Sofala Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2037
+	regiment = {
+		name="1st Sofala Artillery"
+		type=artillery
+		home=2057
+	}
+	regiment = {
+		name="2nd Quelimane Artillery"
+		type=artillery
+		home=2059
+	}
+}
+

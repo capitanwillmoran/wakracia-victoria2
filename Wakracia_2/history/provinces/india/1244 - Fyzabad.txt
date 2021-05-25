@@ -1,0 +1,7 @@
+owner=JML
+controller=X16
+add_core=HND
+add_core=JML
+trade_goods = timber
+life_rating = 32
+terrain = plains

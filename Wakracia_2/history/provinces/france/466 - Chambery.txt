@@ -1,0 +1,6 @@
+owner=X09
+controller=X09
+add_core=X09
+trade_goods = grain
+life_rating = 32
+terrain = mountain

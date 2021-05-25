@@ -1,0 +1,6 @@
+owner=SWA
+controller=SWA
+trade_goods = coffee
+life_rating = 15
+terrain = mountain
+colonial=2

@@ -1,0 +1,9 @@
+owner=BYZ
+controller=BYZ
+add_core=GOC
+add_core=HND
+add_core=MYS
+trade_goods = tea
+life_rating = 32
+terrain = plains
+colonial=2

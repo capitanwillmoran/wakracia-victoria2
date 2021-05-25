@@ -1,0 +1,131 @@
+graphical_culture = AsianGC
+color = { 88 137 172 }
+
+party = {
+	name = "ATJ_reactionary"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = limited_citizenship
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "ATJ_liberal"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "ATJ_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = limited_citizenship
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "ATJ_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "ATJ_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "ATJ_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "ATJ_fascist"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+		Aceh Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" 			"Gunung Peuetsagoe""Pulau we" "Pulau Breueh"
+	}
+	ironclad = {
+		Aceh Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" 			"Gunung Peuetsagoe""Pulau we" "Pulau Breueh"
+		
+	}
+	manowar = {
+		Aceh Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" 			"Gunung Peuetsagoe""Pulau we" "Pulau Breueh"
+		
+	}
+	cruiser = {
+		Aceh Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" 			"Gunung Peuetsagoe""Pulau we" "Pulau Breueh"
+	}
+	frigate = {
+		Aceh Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" 			"Gunung Peuetsagoe""Pulau we" "Pulau Breueh"
+	}
+	monitor = {
+		Aceh Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" 			"Gunung Peuetsagoe""Pulau we" "Pulau Breueh"
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Aceh Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" 			"Gunung Peuetsagoe""Pulau we" "Pulau Breueh"
+	}
+}

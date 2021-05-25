@@ -1,0 +1,7 @@
+owner=RAJ
+controller=JGD
+add_core=GRE
+add_core=RAJ
+trade_goods = cotton
+life_rating = 32
+terrain = plains

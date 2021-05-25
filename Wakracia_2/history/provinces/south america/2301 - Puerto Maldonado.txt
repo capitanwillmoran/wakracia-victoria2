@@ -1,0 +1,8 @@
+owner=PEU
+controller=PEU
+add_core=PEU
+add_core=CRA
+add_core=CSU
+trade_goods = timber
+life_rating = 30
+terrain = mountain

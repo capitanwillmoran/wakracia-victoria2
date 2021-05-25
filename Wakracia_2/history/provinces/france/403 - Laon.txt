@@ -1,0 +1,12 @@
+owner=X09
+controller=X09
+add_core=FRA
+trade_goods = grain
+life_rating = 32
+terrain = woods
+state_building=
+{
+	level=1
+	building = glass_factory
+	upgrade = yes
+}

@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=ARA
+add_core=NEJ
+trade_goods = wool
+life_rating = 35
+terrain = desert
+colonial=2

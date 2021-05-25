@@ -1,0 +1,9 @@
+owner=HSE
+controller=HSE
+add_core=AVA
+add_core=BUR
+add_core=HSE
+add_core=IDO
+trade_goods = tropical_wood
+life_rating = 35
+terrain = jungle

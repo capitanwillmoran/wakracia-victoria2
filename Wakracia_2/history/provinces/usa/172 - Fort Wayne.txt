@@ -1,0 +1,7 @@
+owner=FLR
+controller=FLR
+add_core=FLR
+add_core=UIL
+trade_goods = timber
+life_rating = 35
+terrain = woods

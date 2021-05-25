@@ -1,0 +1,6 @@
+owner=RAJ
+controller=MAW
+add_core=RAJ
+trade_goods = tea
+life_rating = 32
+terrain = plains

@@ -1,0 +1,6 @@
+owner=FLR
+controller=FLR
+add_core=FLR
+trade_goods = fish
+life_rating = 35
+terrain = farmlands

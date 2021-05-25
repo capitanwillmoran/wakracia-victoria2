@@ -1,0 +1,7 @@
+owner=FLR
+controller=FLR
+add_core=HUR
+trade_goods = fish
+life_rating = 35
+terrain = forest
+colonial=2

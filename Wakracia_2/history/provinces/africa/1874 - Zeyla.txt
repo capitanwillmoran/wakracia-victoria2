@@ -1,0 +1,7 @@
+owner=BYZ
+controller=BYZ
+add_core=HAR
+trade_goods = grain
+life_rating = 15
+terrain = plains
+colonial=2

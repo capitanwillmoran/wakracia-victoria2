@@ -1,0 +1,6 @@
+owner=LSK
+controller=LSK
+add_core=LSK
+trade_goods = coal
+life_rating = 35
+terrain = mountain

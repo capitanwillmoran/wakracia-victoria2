@@ -1,0 +1,7 @@
+owner=X02
+controller=X02
+add_core=X02
+trade_goods = tea
+life_rating = 35
+terrain = mountain
+naval_base = 1

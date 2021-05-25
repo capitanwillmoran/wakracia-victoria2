@@ -1,0 +1,10 @@
+owner=IRO
+controller=IRO
+add_core=LEN
+add_core=MHC
+add_core=MIK
+add_core=POW
+trade_goods = timber
+life_rating = 35
+terrain = hills
+colonial=2

@@ -1,0 +1,10 @@
+owner=LBR
+controller=LBR
+add_core=LBR
+add_core=MAD
+add_core=SKA
+add_core=X00
+trade_goods = timber
+life_rating = 35
+terrain = hills
+naval_base = 1

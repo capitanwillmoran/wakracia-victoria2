@@ -1,0 +1,6 @@
+owner=X09
+controller=X09
+trade_goods = fish
+life_rating = 40
+terrain = plains
+naval_base = 2

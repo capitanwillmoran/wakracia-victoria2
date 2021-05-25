@@ -1,0 +1,9 @@
+owner=CSH
+controller=CSH
+add_core=CHI
+add_core=CSH
+add_core=QIC
+trade_goods = grain
+life_rating = 32
+terrain = woods
+naval_base = 1

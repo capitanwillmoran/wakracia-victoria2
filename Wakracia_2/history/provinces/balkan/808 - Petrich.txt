@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=MCD
+add_core=YUG
+trade_goods = wool
+life_rating = 35
+terrain = hills
+fort = 1

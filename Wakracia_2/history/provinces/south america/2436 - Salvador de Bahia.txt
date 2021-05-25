@@ -1,0 +1,8 @@
+owner=BRZ
+controller=BRZ
+add_core=TUA
+add_core=BRZ
+trade_goods = tobacco
+life_rating = 35
+terrain = plains
+naval_base = 2

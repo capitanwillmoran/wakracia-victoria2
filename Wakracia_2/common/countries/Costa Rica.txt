@@ -1,0 +1,145 @@
+graphical_culture = SouthAmericanGC
+color = { 183  129  124 }
+
+party = {
+	name = "COS_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = full_citizenship
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "COS_liberal"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "COS_conservative_2"
+	start_date = 1902.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = full_citizenship
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "COS_reactionary"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "COS_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "COS_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "COS_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "COS_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+		Caribe Centroamérica "Costa Rica" "José María Castro" "Juan Mora" Libertad Presidente "Rafael Yglesias" República "Tomás Guardia"
+	}
+	ironclad = {
+		Arenal Bebedero Diquís Jiménez Reventazón "San Juan" Sixaola Tárcoles Tempisque Tortuguero
+	}
+	manowar = {
+		Audaz Intrépido Libertad "San Antonio" "San Fernando" "San Juan" "Santa Isabel" "Santa Marta" "Santa Mónica" Vigilante 
+	}
+	cruiser = {
+		Cacique "Castillo del Oro" Chamán Chorotega Constitución "Cristóbal Colón" Independencia "Puerto Limón" "Quince de Septiembre" "Vasco Núñez de Balboa"
+	}
+	frigate = {
+		Alajuela Cartago Guanacaste Heredia Liberia Limón Nicoya Papagayo Puntarenas "San José"
+	}
+	monitor = {
+		"Cacho Negro" Chato Congo Irazú Miravalles Orosí Platanar Porvenir "Santa María" Tenorio
+	}
+	clipper_transport = {
+		Alicia Ana Ancla Ballena Carmen Costero Delfín Gabriel Goliat Indetectable
+		"Isla del Coco" Rafael Rápido Sansón Silencioso Sirena Tiburón "Toro Amarillo" Tritón Vida
+	}
+	steam_transport = {
+		Alicia Ana Ancla Ballena Carmen Costero Delfín Gabriel Goliat Indetectable
+		"Isla del Coco" Rafael Rápido Sansón Silencioso Sirena Tiburón "Toro Amarillo" Tritón Vida
+	}
+	commerce_raider = {
+		Barva "Cerro de la Muerte" Guanacaste Intratable Poás "Rincón de la Vieja" Talamanca Tilarán Turrialba Victorioso
+	}
+}

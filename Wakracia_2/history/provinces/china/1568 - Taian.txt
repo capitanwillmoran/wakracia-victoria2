@@ -1,0 +1,7 @@
+owner=QIC
+controller=QIC
+add_core=CHI
+add_core=QIC
+trade_goods = grain
+life_rating = 32
+terrain = plains

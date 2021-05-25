@@ -1,0 +1,12 @@
+owner=CHL
+controller=CHL
+add_core=CHL
+trade_goods = wool
+life_rating = 30
+terrain = mountain
+state_building=
+{
+	level=1
+	building = steamer_shipyard
+	upgrade = yes
+}

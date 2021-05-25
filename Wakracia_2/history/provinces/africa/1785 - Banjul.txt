@@ -1,0 +1,7 @@
+owner=MLI
+controller=MLI
+add_core=WOL
+trade_goods = fruit
+life_rating = 30
+terrain = plains
+colonial=2

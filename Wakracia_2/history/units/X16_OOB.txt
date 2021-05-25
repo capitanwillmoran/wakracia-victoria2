@@ -1,0 +1,737 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 43
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 19
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 169
+	influence_value = 29
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = -77
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 16
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 36
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IRO = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+JML = {
+	value = 197
+	influence_value = 36
+	level = 4
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 10
+	level = 3
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = -27
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+PEG = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 197
+	influence_value = 36
+	level = 4
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 176
+	influence_value = 31
+	level = 4
+}
+UIL = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Horkhudagh III"
+	date="1806.11.3"
+	type=land
+	personality="resolute"
+	background="artillerist"
+}
+
+leader = {
+	name="Horkhudagh Onggirat"
+	date="1788.9.8"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Khorilartai Pürevsüren"
+	date="1798.3.5"
+	type=sea
+	personality="intuitive"
+	background="war_college"
+}
+
+leader = {
+	name="Chiledu Qarakhanid"
+	date="1798.3.27"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Kültudun Tsookhor"
+	date="1806.11.6"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Burundai Tsookhor"
+	date="1806.11.8"
+	type=land
+	personality="audacious"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Chormakhan Toluid"
+	date="1820.2.15"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1257
+	ship = {
+		name="1st Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Jessore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Jessore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Jessore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kosalan Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1242
+	regiment = {
+		name="1st Jaipur Infantry"
+		type=infantry
+		home=1268
+	}
+	regiment = {
+		name="1st Jessore Infantry"
+		type=infantry
+		home=1256
+	}
+	regiment = {
+		name="1st Gaya Artillery"
+		type=artillery
+		home=1248
+	}
+	regiment = {
+		name="1st Gorakhpur Artillery"
+		type=artillery
+		home=1246
+	}
+	regiment = {
+		name="1st Patna Artillery"
+		type=artillery
+		home=1247
+	}
+	regiment = {
+		name="2nd Jaipur Infantry"
+		type=infantry
+		home=1268
+	}
+}
+
+army = {
+	name="Free Company"
+	location=1261
+	regiment = {
+		name="1st Benares Infantry"
+		type=infantry
+		home=1245
+	}
+	regiment = {
+		name="2nd Benares Infantry"
+		type=infantry
+		home=1245
+	}
+	regiment = {
+		name="3rd Benares Infantry"
+		type=infantry
+		home=1245
+	}
+	regiment = {
+		name="4th Benares Infantry"
+		type=infantry
+		home=1245
+	}
+	regiment = {
+		name="5th Benares Infantry"
+		type=infantry
+		home=1245
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2799
+	ship = {
+		name="3rd Chittagong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Jessore Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=1257
+	ship = {
+		name="3rd Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Calcutta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cuttack Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Cuttack Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kosalan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Cuttack Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kosalan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Cuttack Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Cuttack Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1261
+	regiment = {
+		name="2nd Gorakhpur Artillery"
+		type=artillery
+		home=1246
+	}
+	regiment = {
+		name="2nd Patna Artillery"
+		type=artillery
+		home=1247
+	}
+	regiment = {
+		name="1st Benares Artillery"
+		type=artillery
+		home=1245
+	}
+	regiment = {
+		name="2nd Cawnpore Artillery"
+		type=artillery
+		home=1241
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1589
+	regiment = {
+		name="3rd Gorakhpur Artillery"
+		type=artillery
+		home=1246
+	}
+	regiment = {
+		name="1st Cawnpore Artillery"
+		type=artillery
+		home=1241
+	}
+}
+

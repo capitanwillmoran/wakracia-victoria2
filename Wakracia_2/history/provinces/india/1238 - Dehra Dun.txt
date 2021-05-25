@@ -1,0 +1,7 @@
+owner=X16
+controller=X16
+add_core=GHR
+add_core=HND
+trade_goods = tea
+life_rating = 32
+terrain = mountain

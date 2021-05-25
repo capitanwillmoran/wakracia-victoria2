@@ -1,0 +1,7 @@
+owner=X09
+controller=X09
+add_core=BSQ
+add_core=SPA
+trade_goods = grain
+life_rating = 32
+terrain = farmlands

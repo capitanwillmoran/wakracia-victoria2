@@ -1,0 +1,160 @@
+graphical_culture = Generic
+color = { 224 139 47 }
+
+party = {
+	name = "ORA_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = residency
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "ORA_conservative_2"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = residency
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "ORA_liberal"
+	start_date = 1680.1.1
+	end_date = 1936.1.1
+
+	ideology = liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = protectionism
+	war_policy = pacifism
+}
+
+party = {
+	name = "ORA_reactionary"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "ORA_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "ORA_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "ORA_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "ORA_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+	 	Voorniksniebangnie Vrystaat Eendrag Onoorwinlik Afrika Leeu Olifant "Groot Trek" "Piet Retief" "Gerrit Maritz" "Andries Pretorius" 
+		"Louis Trichardt" "Hendrik Potgieter" "Sarel Cilliers" "Pieter Uys" "Jan van Riebeeck" "Jan-Willem Spruyt" 	
+	}
+	ironclad = {
+		Goliath Joshua Samson Gideon Genesis Armageddon 
+			
+	}
+	manowar = {
+	 	Vrystaat Eendrag Onoorwinlik Afrika Leeu Olifant "Groot Trek" "Piet Retief" "Gerrit Maritz" "Andries Pretorius" 
+		"Louis Trichardt" "Hendrik Potgieter" "Sarel Cilliers" "Pieter Uys" "Jan van Riebeeck" "Jan-Willem Spruyt" 	
+	}
+	cruiser = {
+		Vrystaat Eendrag Onoorwinlik Afrika Leeu Olifant "Groot Trek" "Piet Retief" "Gerrit Maritz" "Andries Pretorius" 
+		"Louis Trichardt" "Hendrik Potgieter" "Sarel Cilliers" "Pieter Uys" "Jan van Riebeeck" "Jan-Willem Spruyt" 		
+	}
+	frigate = {
+		Vrystaat Eendrag Onoorwinlik Afrika Leeu Olifant "Groot Trek" "Piet Retief" "Gerrit Maritz" "Andries Pretorius" 
+		"Louis Trichardt" "Hendrik Potgieter" "Sarel Cilliers" "Pieter Uys" "Jan van Riebeeck" "Jan-Willem Spruyt" 		
+		
+	}
+	monitor = {
+		Vrystaat Eendrag Onoorwinlik Afrika Leeu Olifant "Groot Trek" "Piet Retief" "Gerrit Maritz" "Andries Pretorius" 
+		"Louis Trichardt" "Hendrik Potgieter" "Sarel Cilliers" "Pieter Uys" "Jan van Riebeeck" "Jan-Willem Spruyt" 	
+		
+	}
+	clipper_transport = { 
+		"De Vaal" "Oranjerivier" "Bloedrivier" "Goeie Hoop" Slagtersnek Karoo Drakesberge Stellenbosch Swellendam Vereeniging Visrivier
+		Limpopo Zambezi Witwatersrand Bloemfontein Blyderivier
+
+	}
+	steam_transport = {
+		"De Vaal" "Oranjerivier" "Bloedrivier" "Goeie Hoop" Slagtersnek Karoo Drakesberge Stellenbosch Swellendam Vereeniging Visrivier
+		Limpopo Zambezi Witwatersrand Bloemfontein Blyderivier
+
+	    
+             
+	}
+	commerce_raider = {
+		Vrystaat Eendrag Onoorwinlik Afrika Leeu Olifant "Groot Trek" "Piet Retief" "Gerrit Maritz" "Andries Pretorius" 
+		"Louis Trichardt" "Hendrik Potgieter" "Sarel Cilliers" "Pieter Uys" "Jan van Riebeeck" "Jan-Willem Spruyt" 	
+		
+	   
+	}
+}

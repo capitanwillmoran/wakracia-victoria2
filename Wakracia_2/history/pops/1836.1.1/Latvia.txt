@@ -1,0 +1,908 @@
+354 = {
+	soldiers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 345
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 36583
+	}
+
+	soldiers=
+	{
+		culture = byelorussian
+		religion = norse_pagan_reformed
+		size= 113
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = norse_pagan_reformed
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = norse_pagan_reformed
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = norse_pagan_reformed
+		size= 12010
+	}
+
+	soldiers=
+	{
+		culture = byelorussian
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = hellenic_pagan
+		size= 161
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = hellenic_pagan
+		size= 223
+	}
+
+}
+355 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = animist
+		size= 180
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = animist
+		size= 139
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = animist
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = animist
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = animist
+		size= 17706
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 213
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 499
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 23
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 134
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = norse_pagan_reformed
+		size= 20263
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = hellenic_pagan
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = hellenic_pagan
+		size= 717
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = hellenic_pagan
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = hellenic_pagan
+		size= 32
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = hellenic_pagan
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = hellenic_pagan
+		size= 1202
+	}
+
+	soldiers=
+	{
+		culture = latvian
+		religion = animist
+		size= 489
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = animist
+		size= 812
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = animist
+		size= 181
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = animist
+		size= 36
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = animist
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = animist
+		size= 219
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = animist
+		size= 47220
+	}
+
+	soldiers=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 255
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 392
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 24610
+	}
+
+	soldiers=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 1277
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 284
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 57
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 345
+	}
+
+}
+356 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = animist
+		size= 248
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = animist
+		size= 337
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = animist
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = animist
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = animist
+		size= 24505
+	}
+
+	soldiers=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 529
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 115
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 162
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 3455
+	}
+
+}
+357 = {
+	soldiers=
+	{
+		culture = lithuanian
+		religion = hellenic_pagan
+		size= 159
+	}
+
+	artisans=
+	{
+		culture = lithuanian
+		religion = hellenic_pagan
+		size= 618
+	}
+
+	clergymen=
+	{
+		culture = lithuanian
+		religion = hellenic_pagan
+		size= 124
+	}
+
+	bureaucrats=
+	{
+		culture = lithuanian
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	officers=
+	{
+		culture = lithuanian
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = lithuanian
+		religion = hellenic_pagan
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = lithuanian
+		religion = hellenic_pagan
+		size= 15726
+	}
+
+	soldiers=
+	{
+		culture = lithuanian
+		religion = animist
+		size= 104
+	}
+
+	artisans=
+	{
+		culture = lithuanian
+		religion = animist
+		size= 335
+	}
+
+	clergymen=
+	{
+		culture = lithuanian
+		religion = animist
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = lithuanian
+		religion = animist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = lithuanian
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = lithuanian
+		religion = animist
+		size= 85
+	}
+
+	farmers=
+	{
+		culture = lithuanian
+		religion = animist
+		size= 10374
+	}
+
+}
+358 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = animist
+		size= 154
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = animist
+		size= 326
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = animist
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = animist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = animist
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = animist
+		size= 15437
+	}
+
+	soldiers=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 128
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 169
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 12923
+	}
+
+	soldiers=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 583
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 151
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 1616
+	}
+
+}
+359 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = animist
+		size= 102
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = animist
+		size= 215
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = animist
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = animist
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = animist
+		size= 10533
+	}
+
+	soldiers=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 84
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 112
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = norse_pagan_reformed
+		size= 8818
+	}
+
+	soldiers=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 384
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = hellenic_pagan
+		size= 1104
+	}
+
+}

@@ -1,0 +1,13 @@
+owner=MNX
+controller=MNX
+add_core=CHI
+add_core=MNX
+trade_goods = tea
+life_rating = 32
+terrain = plains
+state_building=
+{
+	level=1
+	building = furniture_factory
+	upgrade = yes
+}

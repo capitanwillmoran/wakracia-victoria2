@@ -1,0 +1,167 @@
+767 = {
+	soldiers=
+	{
+		culture = slovene
+		religion = hellenic_pagan
+		size= 2955
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = hellenic_pagan
+		size= 4749
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = hellenic_pagan
+		size= 343
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = hellenic_pagan
+		size= 106
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = hellenic_pagan
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = hellenic_pagan
+		size= 886
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = hellenic_pagan
+		size= 42614
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = hellenic_pagan
+		size= 1000
+	}
+
+}
+768 = {
+	soldiers=
+	{
+		culture = slovene
+		religion = hellenic_pagan
+		size= 6800
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = hellenic_pagan
+		size= 6652
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = hellenic_pagan
+		size= 480
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = hellenic_pagan
+		size= 148
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = hellenic_pagan
+		size= 214
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = hellenic_pagan
+		size= 621
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = hellenic_pagan
+		size= 58998
+	}
+
+}
+769 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 2549
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 4097
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 296
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 91
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 382
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 37514
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = hellenic_pagan
+		size= 500
+	}
+
+}

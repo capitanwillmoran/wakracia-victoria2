@@ -1,0 +1,9 @@
+owner=X19
+controller=X19
+add_core=KHA
+add_core=KLK
+add_core=MGL
+add_core=X19
+trade_goods = cattle
+life_rating = 32
+terrain = hills

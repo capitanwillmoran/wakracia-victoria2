@@ -1,0 +1,13 @@
+owner=ENG
+controller=ENG
+add_core=AES
+add_core=ENG
+trade_goods = coal
+life_rating = 35
+terrain = farmlands
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

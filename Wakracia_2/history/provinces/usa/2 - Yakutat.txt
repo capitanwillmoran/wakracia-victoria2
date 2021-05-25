@@ -1,0 +1,6 @@
+owner=CAL
+controller=CAL
+trade_goods = fish
+life_rating = 20
+terrain = plains
+colonial=2

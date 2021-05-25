@@ -1,0 +1,7 @@
+owner=SLV
+controller=SLV
+add_core=BYE
+add_core=PLT
+trade_goods = timber
+life_rating = 35
+terrain = farmlands

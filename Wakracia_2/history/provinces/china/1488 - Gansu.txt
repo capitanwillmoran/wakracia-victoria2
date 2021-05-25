@@ -1,0 +1,8 @@
+owner=CSH
+controller=CSH
+add_core=X28
+add_core=XIN
+add_core=ZUN
+trade_goods = cotton
+life_rating = 32
+terrain = desert

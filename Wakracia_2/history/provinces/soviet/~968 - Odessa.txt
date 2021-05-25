@@ -1,0 +1,7 @@
+owner=CRI
+controller=SLV
+add_core=CRI
+add_core=GRE
+trade_goods = fish
+life_rating = 35
+terrain = farmlands

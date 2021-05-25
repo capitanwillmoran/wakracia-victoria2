@@ -1,0 +1,193 @@
+2237 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1127
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 69
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 87
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = hellenic_pagan
+		size= 9253
+	}
+
+	soldiers=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 570
+	}
+
+	artisans=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 1512
+	}
+
+	clergymen=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 140
+	}
+
+	bureaucrats=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 32
+	}
+
+	officers=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 91
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 411
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = hellenic_pagan
+		size= 3377
+	}
+
+	soldiers=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 194
+	}
+
+	artisans=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 515
+	}
+
+	clergymen=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	officers=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 31
+	}
+
+}

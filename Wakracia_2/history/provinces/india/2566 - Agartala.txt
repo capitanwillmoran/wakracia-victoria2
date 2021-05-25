@@ -1,0 +1,7 @@
+owner=ORI
+controller=X16
+add_core=HND
+add_core=ORI
+trade_goods = grain
+life_rating = 32
+terrain = mountain

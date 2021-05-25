@@ -1,0 +1,6 @@
+owner=MLI
+controller=MLI
+add_core=OYO
+trade_goods = fruit
+life_rating = 15
+terrain = plains

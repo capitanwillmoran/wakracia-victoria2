@@ -1,0 +1,6 @@
+owner=X03
+controller=X03
+add_core=LBV
+trade_goods = grain
+life_rating = 35
+terrain = hills

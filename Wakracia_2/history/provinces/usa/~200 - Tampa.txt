@@ -1,0 +1,7 @@
+owner=CUB
+controller=CUB
+trade_goods = fruit
+life_rating = 25
+terrain = marsh
+naval_base = 2
+is_slave = yes

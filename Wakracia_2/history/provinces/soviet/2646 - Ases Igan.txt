@@ -1,0 +1,7 @@
+owner=X24
+controller=X24
+add_core=SIB
+add_core=XIN
+trade_goods = coal
+life_rating = 15
+terrain = arctic

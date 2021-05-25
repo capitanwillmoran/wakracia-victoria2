@@ -1,0 +1,6 @@
+owner=X24
+controller=X24
+add_core=XIN
+trade_goods = coal
+life_rating = 25
+terrain = steppe

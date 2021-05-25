@@ -1,0 +1,7 @@
+owner=X04
+controller=X04
+add_core=TKS
+add_core=X04
+trade_goods = cotton
+life_rating = 35
+terrain = plains

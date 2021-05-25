@@ -1,0 +1,10 @@
+owner=HSE
+controller=HSE
+add_core=BUR
+add_core=HSE
+add_core=IDO
+add_core=PEG
+trade_goods = grain
+life_rating = 30
+terrain = marsh
+naval_base = 2

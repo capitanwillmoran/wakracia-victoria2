@@ -1,0 +1,7 @@
+owner=CRI
+controller=CRI
+add_core=ALN
+add_core=X15
+trade_goods = silk
+life_rating = 35
+terrain = hills

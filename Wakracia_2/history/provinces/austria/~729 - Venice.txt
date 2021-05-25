@@ -1,0 +1,7 @@
+owner=SLV
+controller=SLV
+add_core=ITA
+trade_goods = fish
+life_rating = 35
+terrain = farmlands
+naval_base = 1

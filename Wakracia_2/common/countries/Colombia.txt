@@ -1,0 +1,145 @@
+graphical_culture = SouthAmericanGC
+color = { 89 140 176 }
+
+party = {
+	name = "CLM_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "CLM_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = limited_citizenship
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "CLM_liberal"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "CLM_liberal_2"
+	start_date = 1884.1.1
+	end_date = 1898.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = interventionism
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "CLM_reactionary"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "CLM_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "CLM_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "CLM_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+		"Almirante Padilla" Buenaventura "Cartagena de Indias" Colombia "Cristóbal Colón" "Fco. de Paula Santander" "Gran Colombia" Independiente "Nueva Granada" "Simón Bolívar"
+	}
+	ironclad = {
+		Andrómeda Águila Casiopea Centauro Dragón Fénix Perseo Polaris Regulus Vela
+	}
+	manowar = {
+		Aventina Confianza Emprendedora Espartana Fama "Gran Bolívar" Independencia Leona Marina Marte
+	}
+	cruiser = {
+		Bogotá Bolívar Cali Córdoba Cúcuta Cundinamarca Medellin Pasto Santander Sucre
+	}
+	frigate = {
+		Antioquía Caldas Cartagena Espartana "José Mª García y Toledo" "Juan Nepomuceno Eslava" Quitasueño República "Santa Marta" "Valle del Cauca"
+	}
+	monitor = {
+		Amazonas Andes Caribe "Ciénaga Grande" Meta "Nevado del Huila" Orinoquía Pacífico "San Juan" "Sierra Nevada" 
+	}
+	clipper_transport = {
+		Amenazante Arauca Auspicio Barranquilla Caquetá Catatumbo Chocó Estrella Florencia Guainía
+		Huila Indestructible "La Guajira" Leticia Manizales Montería Nariño Natividad Salvador Vaupés
+	}
+	steam_transport = { 
+		Amenazante Arauca Auspicio Barranquilla Caquetá Catatumbo Chocó Estrella Florencia Guainía
+		Huila Indestructible "La Guajira" Leticia Manizales Montería Nariño Natividad Salvador Vaupés
+	}
+	commerce_raider = {
+		"Antonia Manuela" Aventina Chitty Emprendedora Guaviare Magdalena Ornico Peacock Putumayo
+	}
+}

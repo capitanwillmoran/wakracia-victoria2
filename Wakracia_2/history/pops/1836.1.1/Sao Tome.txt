@@ -1,0 +1,198 @@
+1954 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 947
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 230
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = west_african_pagan_reformed
+		size= 787
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 104
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 69
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = tibet_bon
+		size= 603
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = tibet_bon
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = tibet_bon
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = tibet_bon
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = tibet_bon
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = tibet_bon
+		size= 127
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = shamanism
+		size= 1058
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = shamanism
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = shamanism
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = shamanism
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = shamanism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = shamanism
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = shamanism
+		size= 188
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+}

@@ -1,0 +1,8 @@
+owner=PEG
+controller=PEG
+add_core=BUR
+add_core=IDO
+add_core=PEG
+trade_goods = fish
+life_rating = 30
+terrain = marsh

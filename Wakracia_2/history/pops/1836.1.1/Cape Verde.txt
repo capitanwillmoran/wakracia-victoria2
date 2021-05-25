@@ -1,0 +1,51 @@
+1876 = {
+	soldiers=
+	{
+		culture = svart
+		religion = norse_pagan_reformed
+		size= 343
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = norse_pagan_reformed
+		size= 686
+	}
+
+	clergymen=
+	{
+		culture = svart
+		religion = norse_pagan_reformed
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = svart
+		religion = norse_pagan_reformed
+		size= 50
+	}
+
+	officers=
+	{
+		culture = svart
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = svart
+		religion = norse_pagan_reformed
+		size= 144
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = norse_pagan_reformed
+		size= 15797
+	}
+
+}

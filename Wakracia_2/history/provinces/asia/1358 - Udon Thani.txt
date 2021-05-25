@@ -1,0 +1,7 @@
+owner=CAM
+controller=SIA
+add_core=CAM
+add_core=IDO
+trade_goods = fruit
+life_rating = 30
+terrain = hills

@@ -1,0 +1,221 @@
+806 = {
+	soldiers=
+	{
+		culture = macedonian
+		religion = paulician
+		size= 2643
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = paulician
+		size= 1576
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = paulician
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = paulician
+		size= 12
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = paulician
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = paulician
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = paulician
+		size= 40714
+	}
+
+	soldiers=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 2137
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 4123
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 225
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 31
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 259
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 29687
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 1268
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 8722
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 475
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 65
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 549
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 10512
+	}
+
+}
+807 = {
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 3936
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 1837
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 502
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 70
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 590
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 60467
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 975
+	}
+
+	farmers=
+	{
+		culture = aromanian
+		religion = hellenic_pagan
+		size= 1775
+	}
+
+}

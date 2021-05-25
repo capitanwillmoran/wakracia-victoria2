@@ -1,0 +1,64 @@
+vassal=
+{
+	first="SIA"
+	second="CDL"
+	start_date="1820.9.23"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="BOH"
+	second="POM"
+	start_date="1815.10.13"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="BYZ"
+	second="NZL"
+	start_date="1527.5.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="BYZ"
+	second="LBR"
+	start_date="1814.12.23"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="BYZ"
+	second="X05"
+	start_date="1815.9.5"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="BYZ"
+	second="X06"
+	start_date="1815.9.22"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="DEC"
+	second="LSK"
+	start_date="1598.11.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="HSE"
+	second="CYI"
+	start_date="1810.5.13"
+	end_date="1936.1.1"
+}
+

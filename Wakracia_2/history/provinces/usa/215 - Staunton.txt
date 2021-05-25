@@ -1,0 +1,6 @@
+owner=X29
+controller=X29
+add_core=X29
+trade_goods = grain
+life_rating = 35
+terrain = farmlands

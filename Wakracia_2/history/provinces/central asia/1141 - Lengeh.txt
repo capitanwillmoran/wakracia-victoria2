@@ -1,0 +1,9 @@
+owner=X02
+controller=X02
+add_core=PER
+add_core=X01
+add_core=X02
+trade_goods = fish
+life_rating = 35
+terrain = plains
+naval_base = 2

@@ -1,0 +1,1172 @@
+623 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 1417
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 1012
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 61
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 213
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 22384
+	}
+
+}
+639 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 12386
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 6883
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 1393
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 533
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 466
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 1865
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 187874
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = hellenic_pagan
+		size= 5750
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = jewish
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = jewish
+		size= 50
+	}
+
+}
+640 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 4664
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 8824
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 410
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 151
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 158
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 529
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 48295
+	}
+
+}
+641 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 5574
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 473
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 311
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 120
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 1264
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 88443
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 3510
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 1069
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 703
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 272
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 238
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 2856
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 49615
+	}
+
+}
+642 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 5435
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 7675
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 584
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 195
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 205
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 1638
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 79772
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = jewish
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = jewish
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = jewish
+		size= 825
+	}
+
+}
+643 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 7583
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 14346
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 666
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 246
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 256
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 861
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 78512
+	}
+
+}
+644 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 7760
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 13629
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 634
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 252
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 263
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 884
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 79783
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = jewish
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = jewish
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = jewish
+		size= 825
+	}
+
+}
+645 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 894
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 19
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 205
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 13892
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 563
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 85
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 44
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 462
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 7793
+	}
+
+}
+646 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = tengri_pagan_reformed
+		size= 605
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = tengri_pagan_reformed
+		size= 148
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = tengri_pagan_reformed
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = tengri_pagan_reformed
+		size= 15
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = tengri_pagan_reformed
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = tengri_pagan_reformed
+		size= 129
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = tengri_pagan_reformed
+		size= 29065
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 123
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 5289
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 1110
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 341
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 116
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 976
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 34011
+	}
+
+}
+648 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = tengri_pagan_reformed
+		size= 335
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = tengri_pagan_reformed
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = tengri_pagan_reformed
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = tengri_pagan_reformed
+		size= 9
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = tengri_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = tengri_pagan_reformed
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = tengri_pagan_reformed
+		size= 16277
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 267
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 103
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 22
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 189
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 12432
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 88
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 184
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 40
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 337
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 3019
+	}
+
+}
+649 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 5500
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 1633
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 305
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 118
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 1241
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = norse_pagan_reformed
+		size= 88686
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 3463
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 3687
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 689
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 267
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 234
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 2803
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = hellenic_pagan
+		size= 49751
+	}
+
+}
+650 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 2364
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size= 142
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 11
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 39237
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = tengri_pagan_reformed
+		size= 194
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = tengri_pagan_reformed
+		size= 166
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = tengri_pagan_reformed
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = tengri_pagan_reformed
+		size= 12
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = tengri_pagan_reformed
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = tengri_pagan_reformed
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = tengri_pagan_reformed
+		size= 2842
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 1493
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 666
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 147
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 50
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 418
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 23361
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 570
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 1246
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 275
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 93
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 783
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 6443
+	}
+
+}

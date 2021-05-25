@@ -1,0 +1,60 @@
+2244 = {
+	soldiers=
+	{
+		culture = tamil
+		religion = jain
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = tamil
+		religion = jain
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = tamil
+		religion = jain
+		size= 11
+	}
+
+}
+2406 = {
+	soldiers=
+	{
+		culture = tamil
+		religion = jain
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = tamil
+		religion = jain
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = tamil
+		religion = jain
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tamil
+		religion = jain
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = tamil
+		religion = jain
+		size= 95
+	}
+
+}

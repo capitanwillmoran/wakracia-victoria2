@@ -1,0 +1,8 @@
+owner=MAW
+controller=DEC
+add_core=GOC
+add_core=HND
+trade_goods = cotton
+life_rating = 32
+terrain = hills
+colonial=2

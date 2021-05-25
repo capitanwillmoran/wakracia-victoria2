@@ -1,0 +1,8 @@
+owner=X24
+controller=X24
+add_core=NZH
+add_core=X11
+add_core=X24
+trade_goods = grain
+life_rating = 35
+terrain = steppe

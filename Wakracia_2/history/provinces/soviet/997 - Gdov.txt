@@ -1,0 +1,7 @@
+owner=SLV
+controller=SLV
+add_core=NVG
+add_core=RUS
+trade_goods = grain
+life_rating = 35
+terrain = forest

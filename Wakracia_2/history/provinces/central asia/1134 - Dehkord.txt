@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=PER
+add_core=X07
+trade_goods = cotton
+life_rating = 35
+terrain = mountain
+colonial=2

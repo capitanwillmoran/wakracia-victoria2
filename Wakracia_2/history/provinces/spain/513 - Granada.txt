@@ -1,0 +1,13 @@
+owner=GLC
+controller=GLC
+add_core=ADU
+add_core=GLC
+trade_goods = iron
+life_rating = 35
+terrain = mountain
+state_building=
+{
+	level=1
+	building = cement_factory
+	upgrade = yes
+}

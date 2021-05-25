@@ -1,0 +1,1053 @@
+254 = {
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 7757
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 2770
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 450
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 139
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 145
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 582
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 126676
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 2772
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 450
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 139
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 146
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 582
+	}
+
+}
+255 = {
+	soldiers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 5287
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 19479
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 1809
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 334
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 237
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 1169
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 110818
+	}
+
+}
+256 = {
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 3939
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1407
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 229
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 70
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 295
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 64322
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 1407
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 229
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 70
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 296
+	}
+
+}
+257 = {
+	soldiers=
+	{
+		culture = irish
+		religion = catholic
+		size= 1056
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = catholic
+		size= 528
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = catholic
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = catholic
+		size= 50976
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1333
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1861
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 302
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 93
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 391
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 62593
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 2426
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 394
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 121
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 509
+	}
+
+}
+258 = {
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 7924
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 9904
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 920
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 170
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 149
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 594
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 121831
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 10133
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 941
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 174
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 152
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 608
+	}
+
+}
+259 = {
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 10929
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 3903
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 634
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 195
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 205
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 820
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 178468
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 3916
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 636
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 196
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 206
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 822
+	}
+
+}
+260 = {
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 12492
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 8923
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1450
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 446
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 468
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1874
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 197421
+	}
+
+}
+261 = {
+	soldiers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 3929
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 7858
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 1277
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 393
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 255
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 1650
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 181096
+	}
+
+}
+262 = {
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 7545
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 2695
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 438
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 135
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 141
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 849
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 122935
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 2712
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 441
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 136
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 854
+	}
+
+}
+263 = {
+	soldiers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 12179
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 16232
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 1172
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 361
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 379
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 3030
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 184118
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = hellenic_pagan
+		size= 52
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = hellenic_pagan
+		size= 3424
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = hellenic_pagan
+		size= 247
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = hellenic_pagan
+		size= 76
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = hellenic_pagan
+		size= 80
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = hellenic_pagan
+		size= 639
+	}
+
+}
+264 = {
+	soldiers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 5567
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 16341
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 758
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 280
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 245
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 1961
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 74248
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 1939
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 2424
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 113
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 42
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 291
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 29788
+	}
+
+}
+265 = {
+	soldiers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 3406
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 7793
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 563
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 208
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 182
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 1454
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 49983
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 2886
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 2319
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 62
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 433
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = norse_pagan_reformed
+		size= 45619
+	}
+
+}

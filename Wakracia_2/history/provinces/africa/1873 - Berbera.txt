@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=HAR
+trade_goods = cotton
+life_rating = 15
+terrain = mountain
+colonial=2
+naval_base = 1

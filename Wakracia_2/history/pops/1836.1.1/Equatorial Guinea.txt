@@ -1,0 +1,214 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 924
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 47
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1330
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 151
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 63
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = west_african_pagan_reformed
+		size= 138
+	}
+
+}
+1973 = {
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 1452
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 519
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 13
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 109
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 23725
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = west_african_pagan_reformed
+		size= 243
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = west_african_pagan_reformed
+		size= 692
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = west_african_pagan_reformed
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = west_african_pagan_reformed
+		size= 17
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = west_african_pagan_reformed
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = west_african_pagan_reformed
+		size= 145
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = west_african_pagan_reformed
+		size= 3079
+	}
+
+}

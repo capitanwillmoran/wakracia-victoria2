@@ -1,0 +1,7 @@
+owner=X19
+controller=X19
+add_core=BRY
+add_core=X19
+trade_goods = grain
+life_rating = 35
+terrain = mountain

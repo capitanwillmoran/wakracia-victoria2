@@ -1,0 +1,7 @@
+owner=FLR
+controller=FLR
+add_core=SHX
+add_core=WCR
+trade_goods = grain
+life_rating = 35
+terrain = woods

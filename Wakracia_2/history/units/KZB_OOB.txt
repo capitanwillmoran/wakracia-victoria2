@@ -1,0 +1,731 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 176
+	influence_value = 31
+	level = 4
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IRO = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 1
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 141
+	influence_value = 22
+	level = 4
+}
+PAN = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = -82
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Cinkonkole Kasanje"
+	date="1796.1.2"
+	type=sea
+	personality="stalwart"
+	background="brownnoser"
+}
+
+leader = {
+	name="Cinkonkole Bemba"
+	date="1804.6.27"
+	type=sea
+	personality="persistant"
+	background="generals_aide"
+}
+
+leader = {
+	name="Kanyembo Chibemba"
+	date="1814.1.30"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=1999
+	ship = {
+		name="1st Mayumbe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kribi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st São Tomé Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd São Tomé Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Luanda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bata Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1987
+	regiment = {
+		name="1st Mussumba Infantry"
+		type=infantry
+		home=1988
+	}
+	regiment = {
+		name="2nd Mussumba Infantry"
+		type=infantry
+		home=1988
+	}
+	regiment = {
+		name="1st Bunkeya Artillery"
+		type=artillery
+		home=1987
+	}
+	regiment = {
+		name="7th Bunkeya Infantry"
+		type=infantry
+		home=1987
+	}
+	regiment = {
+		name="7th Bunkeya Artillery"
+		type=artillery
+		home=1987
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1974
+	regiment = {
+		name="1st Lusambo Infantry"
+		type=infantry
+		home=1986
+	}
+	regiment = {
+		name="1st Bunkeya Infantry"
+		type=infantry
+		home=1987
+	}
+	regiment = {
+		name="1st Nyangwe Artillery"
+		type=artillery
+		home=1990
+	}
+	regiment = {
+		name="1st Mussumba Artillery"
+		type=artillery
+		home=1988
+	}
+	regiment = {
+		name="2nd Nyangwe Artillery"
+		type=artillery
+		home=1990
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2917
+	ship = {
+		name="1st Mbanza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mbanza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Loango Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mbanza Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2003
+	regiment = {
+		name="2nd Bunkeya Infantry"
+		type=infantry
+		home=1987
+	}
+	regiment = {
+		name="3rd Bunkeya Infantry"
+		type=infantry
+		home=1987
+	}
+	regiment = {
+		name="1st Munza Infantry"
+		type=infantry
+		home=1989
+	}
+	regiment = {
+		name="1st Munza Artillery"
+		type=artillery
+		home=1989
+	}
+	regiment = {
+		name="2nd Bunkeya Artillery"
+		type=artillery
+		home=1987
+	}
+	regiment = {
+		name="3rd Bunkeya Artillery"
+		type=artillery
+		home=1987
+	}
+	regiment = {
+		name="6th Bunkeya Infantry"
+		type=infantry
+		home=1987
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2624
+	ship = {
+		name="1st São Tomé Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mbanza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Loango Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mbanza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Mbanza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cabinda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Mbanza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Mbanza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Mbanza Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1986
+	regiment = {
+		name="3rd Mussumba Infantry"
+		type=infantry
+		home=1988
+	}
+	regiment = {
+		name="4th Bunkeya Infantry"
+		type=infantry
+		home=1987
+	}
+	regiment = {
+		name="1st Lusambo Artillery"
+		type=artillery
+		home=1986
+	}
+	regiment = {
+		name="2nd Munza Artillery"
+		type=artillery
+		home=1989
+	}
+	regiment = {
+		name="4th Bunkeya Artillery"
+		type=artillery
+		home=1987
+	}
+	regiment = {
+		name="1st Kasema Artillery"
+		type=artillery
+		home=2017
+	}
+	regiment = {
+		name="2nd Nyangwe Infantry"
+		type=infantry
+		home=1990
+	}
+	regiment = {
+		name="6th Bunkeya Artillery"
+		type=artillery
+		home=1987
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2001
+	regiment = {
+		name="1st Nyangwe Infantry"
+		type=infantry
+		home=1990
+	}
+	regiment = {
+		name="5th Bunkeya Infantry"
+		type=infantry
+		home=1987
+	}
+	regiment = {
+		name="5th Bunkeya Artillery"
+		type=artillery
+		home=1987
+	}
+	regiment = {
+		name="3rd Munza Artillery"
+		type=artillery
+		home=1989
+	}
+	regiment = {
+		name="3rd Nyangwe Infantry"
+		type=infantry
+		home=1990
+	}
+	regiment = {
+		name="4th Munza Artillery"
+		type=artillery
+		home=1989
+	}
+}
+

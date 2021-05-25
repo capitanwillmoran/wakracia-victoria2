@@ -1,0 +1,773 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 162
+	influence_value = 28
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 141
+	influence_value = 22
+	level = 3
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 22
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = -19
+	level = 2
+}
+IRO = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+ITA = {
+	value = 138
+	influence_value = 22
+	level = 3
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = -40
+	level = 2
+}
+USA = {
+	value = 101
+	influence_value = 12
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 95
+	influence_value = 11
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Porjojos Lubecka"
+	date="1804.11.16"
+	type=sea
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Putonum Maximus Ruzava"
+	date="1810.12.10"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Gabriel Pablum Templus"
+	date="1810.12.15"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Dionysios Pamphilios"
+	date="1815.12.3"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Sergios Co China"
+	date="1815.12.5"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Java von Script Socotra Failicus"
+	date="1817.9.20"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="5th Fleet"
+	location=243
+	ship = {
+		name="1st Charleston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Charleston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Newark Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st New Bedford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Charleston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Fredericton Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2954
+	ship = {
+		name="1st Concord Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Floridian Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Chonnonton Free Warriors"
+	location=241
+	regiment = {
+		name="1st Fort Wayne Infantry"
+		type=infantry
+		home=172
+	}
+	regiment = {
+		name="2nd Fort Wayne Infantry"
+		type=infantry
+		home=172
+	}
+}
+
+army = {
+	name="Buccaneer Battalion"
+	location=225
+	regiment = {
+		name="1st Harrisburg Infantry"
+		type=infantry
+		home=226
+	}
+	regiment = {
+		name="2nd Harrisburg Infantry"
+		type=infantry
+		home=226
+	}
+	regiment = {
+		name="3rd Harrisburg Infantry"
+		type=infantry
+		home=226
+	}
+	regiment = {
+		name="4th Harrisburg Infantry"
+		type=infantry
+		home=226
+	}
+}
+
+army = {
+	name="1st Army"
+	location=243
+	regiment = {
+		name="1st New York Infantry"
+		type=infantry
+		home=232
+	}
+	regiment = {
+		name="1st Erie Artillery"
+		type=artillery
+		home=228
+	}
+	regiment = {
+		name="2nd New York Infantry"
+		type=infantry
+		home=232
+	}
+	regiment = {
+		name="1st New York Artillery"
+		type=artillery
+		home=232
+	}
+	regiment = {
+		name="1st Hartford Artillery"
+		type=artillery
+		home=241
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2952
+	ship = {
+		name="1st Providence Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Perpignan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Tampa Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2945
+	ship = {
+		name="2nd Providence Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tampa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Floridian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tampa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Tampa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st New Bedford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Boston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Floridian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Providence Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=205
+	ship = {
+		name="1st Trenton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Floridian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Boston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Floridian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st New Bedford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Boston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd New Bedford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Providence Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Boston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Boston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd New Bedford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Long Island Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th New Bedford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th New Bedford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th New Bedford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Providence Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Boston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Charleston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Trenton Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="5th Army"
+	location=182
+	regiment = {
+		name="1st Harrisburg Artillery"
+		type=artillery
+		home=226
+	}
+	regiment = {
+		name="1st Williamsport Artillery"
+		type=artillery
+		home=225
+	}
+}
+

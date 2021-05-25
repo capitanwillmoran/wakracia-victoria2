@@ -1,0 +1,6 @@
+owner=X09
+controller=X09
+add_core=X09
+trade_goods = sulphur
+life_rating = 31
+terrain = hills

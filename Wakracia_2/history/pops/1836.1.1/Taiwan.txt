@@ -1,0 +1,298 @@
+1485 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6004
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 8937
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1676
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 223
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 179
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1876
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 281363
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = hellenic_pagan
+		size= 382
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = hellenic_pagan
+		size= 3584
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = hellenic_pagan
+		size= 672
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = hellenic_pagan
+		size= 90
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = hellenic_pagan
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = hellenic_pagan
+		size= 752
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = hellenic_pagan
+		size= 13541
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = theravada
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = theravada
+		size= 287
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = theravada
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = theravada
+		size= 7
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = theravada
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = theravada
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = theravada
+		size= 466
+	}
+
+}
+2562 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6336
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 9432
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1769
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 236
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 189
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1981
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 296903
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = hellenic_pagan
+		size= 403
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = hellenic_pagan
+		size= 3782
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = hellenic_pagan
+		size= 710
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = hellenic_pagan
+		size= 95
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = hellenic_pagan
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = hellenic_pagan
+		size= 794
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = hellenic_pagan
+		size= 14290
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = theravada
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = theravada
+		size= 303
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = theravada
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = theravada
+		size= 8
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = theravada
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = theravada
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = theravada
+		size= 491
+	}
+
+}

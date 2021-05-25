@@ -1,0 +1,157 @@
+graphical_culture = MiddleEasternGC
+color = { 27 130 137 }
+
+party = {
+	name = "BAB_reactionary"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = limited_citizenship
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "BAB_liberal"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "BAB_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = limited_citizenship
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "BAB_anarcho_liberal"
+	start_date = 1710.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "BAB_socialist"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "BAB_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "BAB_fascist"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+		"Ishtar" "Hammurabi" "The Hanging Garden" "The Tower" "The Whore" "Nebuchadnezzar" "Nanna" "Marduk" "Babel" "Nineveh" "Larsa"
+		"Uruk" "Assurbanipal" "Esarhaddon" "The Tigris" "The Euphrates" "The Code of Laws" "The First Dynasty" "Sargon of Akkad"
+		"Rimush" "Tashlultum" "Magan" "Enheduanna" "Dilmun" "Amanus" "Taurus" "The Lion" "Cuneiform" "Kish" "Ur" "Ensi" "Ashur"
+		"Nimrod" "Akkad" "Gilgamesh" "Chaldea" "Shinar" "Amraphel" "Samsu-iluna" "Great Ziggurat of Ur" "The Ziggurat" "Nabonidus"
+		"The Bull of Heaven"
+	}
+	ironclad = {
+		"Ishtar" "Hammurabi" "The Hanging Garden" "The Tower" "The Whore" "Nebuchadnezzar" "Nanna" "Marduk" "Babel" "Nineveh" "Larsa"
+		"Uruk" "Assurbanipal" "Esarhaddon" "The Tigris" "The Euphrates" "The Code of Laws" "The First Dynasty" "Sargon of Akkad"
+		"Rimush" "Tashlultum" "Magan" "Enheduanna" "Dilmun" "Amanus" "Taurus" "The Lion" "Cuneiform" "Kish" "Ur" "Ensi" "Ashur"
+		"Nimrod" "Akkad" "Gilgamesh" "Chaldea" "Shinar" "Amraphel" "Samsu-iluna" "Great Ziggurat of Ur" "The Ziggurat" "Nabonidus"
+		"The Bull of Heaven"
+	}
+	manowar = {
+		"Ishtar" "Hammurabi" "The Hanging Garden" "The Tower" "The Whore" "Nebuchadnezzar" "Nanna" "Marduk" "Babel" "Nineveh" "Larsa"
+		"Uruk" "Assurbanipal" "Esarhaddon" "The Tigris" "The Euphrates" "The Code of Laws" "The First Dynasty" "Sargon of Akkad"
+		"Rimush" "Tashlultum" "Magan" "Enheduanna" "Dilmun" "Amanus" "Taurus" "The Lion" "Cuneiform" "Kish" "Ur" "Ensi" "Ashur"
+		"Nimrod" "Akkad" "Gilgamesh" "Chaldea" "Shinar" "Amraphel" "Samsu-iluna" "Great Ziggurat of Ur" "The Ziggurat" "Nabonidus"
+		"The Bull of Heaven"
+	}
+	cruiser = {
+		"Ishtar" "Hammurabi" "The Hanging Garden" "The Tower" "The Whore" "Nebuchadnezzar" "Nanna" "Marduk" "Babel" "Nineveh" "Larsa"
+		"Uruk" "Assurbanipal" "Esarhaddon" "The Tigris" "The Euphrates" "The Code of Laws" "The First Dynasty" "Sargon of Akkad"
+		"Rimush" "Tashlultum" "Magan" "Enheduanna" "Dilmun" "Amanus" "Taurus" "The Lion" "Cuneiform" "Kish" "Ur" "Ensi" "Ashur"
+		"Nimrod" "Akkad" "Gilgamesh" "Chaldea" "Shinar" "Amraphel" "Samsu-iluna" "Great Ziggurat of Ur" "The Ziggurat" "Nabonidus"
+		"The Bull of Heaven"
+	}
+	frigate = {
+		"Ishtar" "Hammurabi" "The Hanging Garden" "The Tower" "The Whore" "Nebuchadnezzar" "Nanna" "Marduk" "Babel" "Nineveh" "Larsa"
+		"Uruk" "Assurbanipal" "Esarhaddon" "The Tigris" "The Euphrates" "The Code of Laws" "The First Dynasty" "Sargon of Akkad"
+		"Rimush" "Tashlultum" "Magan" "Enheduanna" "Dilmun" "Amanus" "Taurus" "The Lion" "Cuneiform" "Kish" "Ur" "Ensi" "Ashur"
+		"Nimrod" "Akkad" "Gilgamesh" "Chaldea" "Shinar" "Amraphel" "Samsu-iluna" "Great Ziggurat of Ur" "The Ziggurat" "Nabonidus"
+		"The Bull of Heaven"
+	}
+	monitor = {
+		"Ishtar" "Hammurabi" "The Hanging Garden" "The Tower" "The Whore" "Nebuchadnezzar" "Nanna" "Marduk" "Babel" "Nineveh" "Larsa"
+		"Uruk" "Assurbanipal" "Esarhaddon" "The Tigris" "The Euphrates" "The Code of Laws" "The First Dynasty" "Sargon of Akkad"
+		"Rimush" "Tashlultum" "Magan" "Enheduanna" "Dilmun" "Amanus" "Taurus" "The Lion" "Cuneiform" "Kish" "Ur" "Ensi" "Ashur"
+		"Nimrod" "Akkad" "Gilgamesh" "Chaldea" "Shinar" "Amraphel" "Samsu-iluna" "Great Ziggurat of Ur" "The Ziggurat" "Nabonidus"
+		"The Bull of Heaven"
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		"Ishtar" "Hammurabi" "The Hanging Garden" "The Tower" "The Whore" "Nebuchadnezzar" "Nanna" "Marduk" "Babel" "Nineveh" "Larsa"
+		"Uruk" "Assurbanipal" "Esarhaddon" "The Tigris" "The Euphrates" "The Code of Laws" "The First Dynasty" "Sargon of Akkad"
+		"Rimush" "Tashlultum" "Magan" "Enheduanna" "Dilmun" "Amanus" "Taurus" "The Lion" "Cuneiform" "Kish" "Ur" "Ensi" "Ashur"
+		"Nimrod" "Akkad" "Gilgamesh" "Chaldea" "Shinar" "Amraphel" "Samsu-iluna" "Great Ziggurat of Ur" "The Ziggurat" "Nabonidus"
+		"The Bull of Heaven"
+	}
+}

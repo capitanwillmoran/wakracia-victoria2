@@ -1,0 +1,8 @@
+owner=X24
+controller=X24
+add_core=SIB
+add_core=XIN
+add_core=ZUN
+trade_goods = sulphur
+life_rating = 35
+terrain = forest

@@ -1,0 +1,1387 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 129
+	influence_value = 19
+	level = 3
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 184
+	influence_value = 33
+	level = 3
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 7
+	level = 2
+}
+BYZ = {
+	value = -107
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 44
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 126
+	influence_value = 19
+	level = 3
+}
+CYI = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IRO = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = -25
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = -78
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = -21
+	level = 2
+}
+SLV = {
+	value = 158
+	influence_value = 27
+	level = 3
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = -9
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 43
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 46
+	level = 2
+}
+X03 = {
+	value = 63
+	influence_value = 3
+	level = 2
+}
+X04 = {
+	value = -42
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 81
+	influence_value = 7
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = -13
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = -7
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Sancho Orestes"
+	date="1787.8.22"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Herakleios Konstantios"
+	date="1805.2.1"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Eustratios II Komnenos"
+	date="1810.7.13"
+	type=land
+	personality="disciplined"
+	background="artillerist"
+}
+
+leader = {
+	name="Audoïn Herakleonas"
+	date="1814.11.14"
+	type=sea
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Maurikios Isaakios"
+	date="1817.11.21"
+	type=land
+	personality="audacious"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Sancho Hypatios"
+	date="1819.2.22"
+	type=sea
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Diogenes Hippolytos"
+	date="1819.2.26"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+
+#Armies
+navy = {
+	name="6th Fleet"
+	location=2761
+	ship = {
+		name="1st Middelburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Marseilles Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Pau Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Nice Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st La Rochelle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st La Roche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Groningen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Nantes Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Emden Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Marseilles Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Toulon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Pau Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Marseilles Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Carcassonne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Udine Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Zwolle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ravenna Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Corsica Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Nice Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Marseilles Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ravenna Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Groningen Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Flemish Company"
+	location=960
+	regiment = {
+		name="1st Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="2nd Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="3rd Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="4th Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="5th Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="6th Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="1st Basel Artillery"
+		type=artillery
+		home=604
+	}
+	regiment = {
+		name="2nd Basel Artillery"
+		type=artillery
+		home=604
+	}
+	regiment = {
+		name="3rd Basel Artillery"
+		type=artillery
+		home=604
+	}
+	regiment = {
+		name="7th Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="4th Basel Artillery"
+		type=artillery
+		home=604
+	}
+}
+
+army = {
+	name="Guardia Corsa"
+	location=1009
+	regiment = {
+		name="1st Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="2nd Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="3rd Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="4th Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="5th Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="6th Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="1st Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="2nd Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="3rd Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="7th Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="4th Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+}
+
+army = {
+	name="Myrmidones of Landshut"
+	location=702
+	regiment = {
+		name="1st Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="1st Alessandria Infantry"
+		type=infantry
+		home=723
+	}
+	regiment = {
+		name="1st Nice Infantry"
+		type=infantry
+		home=472
+	}
+	regiment = {
+		name="1st Bergamo Artillery"
+		type=artillery
+		home=727
+	}
+	regiment = {
+		name="1st Auxerre Infantry"
+		type=infantry
+		home=429
+	}
+}
+
+army = {
+	name="Myrmidones of Blois"
+	location=689
+	regiment = {
+		name="1st Avignon Infantry"
+		type=infantry
+		home=468
+	}
+	regiment = {
+		name="1st Carcassonne Infantry"
+		type=infantry
+		home=463
+	}
+	regiment = {
+		name="1st Bergamo Infantry"
+		type=infantry
+		home=727
+	}
+	regiment = {
+		name="1st Strasbourg Infantry"
+		type=infantry
+		home=409
+	}
+	regiment = {
+		name="2nd Nice Infantry"
+		type=infantry
+		home=472
+	}
+	regiment = {
+		name="1st Trent Artillery"
+		type=artillery
+		home=734
+	}
+	regiment = {
+		name="1st Parma Artillery"
+		type=artillery
+		home=738
+	}
+	regiment = {
+		name="1st Turin Artillery"
+		type=artillery
+		home=720
+	}
+	regiment = {
+		name="2nd Parma Artillery"
+		type=artillery
+		home=738
+	}
+	regiment = {
+		name="3rd Treviso Infantry"
+		type=infantry
+		home=732
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2756
+	ship = {
+		name="1st Utrecht Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Leghorn Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cagliari Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st St Brieuc Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Leeuwarden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Amsterdam Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Classis Adrianopolis"
+	location=2924
+	ship = {
+		name="1st Padua Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pau Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Groningen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ferrara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Trieste Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sassari Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Sassari Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Marseilles Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="13th Army"
+	location=682
+	regiment = {
+		name="3rd Nice Infantry"
+		type=infantry
+		home=472
+	}
+	regiment = {
+		name="1st Limoges Infantry"
+		type=infantry
+		home=445
+	}
+	regiment = {
+		name="1st Geneva Infantry"
+		type=infantry
+		home=607
+	}
+	regiment = {
+		name="1st Verona Infantry"
+		type=infantry
+		home=730
+	}
+	regiment = {
+		name="4th Nice Infantry"
+		type=infantry
+		home=472
+	}
+	regiment = {
+		name="1st Rouen Infantry"
+		type=infantry
+		home=415
+	}
+	regiment = {
+		name="2nd Geneva Infantry"
+		type=infantry
+		home=607
+	}
+	regiment = {
+		name="1st Fulda Artillery"
+		type=artillery
+		home=568
+	}
+	regiment = {
+		name="1st Lille Artillery"
+		type=artillery
+		home=399
+	}
+	regiment = {
+		name="1st Clermont-Ferrand Infantry"
+		type=infantry
+		home=448
+	}
+	regiment = {
+		name="1st Savona Artillery"
+		type=artillery
+		home=725
+	}
+}
+
+army = {
+	name="Myrmidones of Nicaea"
+	location=1009
+	regiment = {
+		name="5th Nice Infantry"
+		type=infantry
+		home=472
+	}
+	regiment = {
+		name="1st Ferrara Infantry"
+		type=infantry
+		home=742
+	}
+	regiment = {
+		name="6th Nice Infantry"
+		type=infantry
+		home=472
+	}
+	regiment = {
+		name="2nd Verona Infantry"
+		type=infantry
+		home=730
+	}
+	regiment = {
+		name="1st Laon Infantry"
+		type=infantry
+		home=403
+	}
+	regiment = {
+		name="3rd Parma Artillery"
+		type=artillery
+		home=738
+	}
+	regiment = {
+		name="1st Novara Artillery"
+		type=artillery
+		home=722
+	}
+	regiment = {
+		name="1st Treviso Artillery"
+		type=artillery
+		home=732
+	}
+}
+
+navy = {
+	name="Classis Alexandrina"
+	location=2750
+	ship = {
+		name="2nd Pau Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Amsterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Marseilles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bruges Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Sassari Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Nice Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Roche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Nice Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Classis Carpathia"
+	location=2766
+	ship = {
+		name="3rd Marseilles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Udine Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=952
+	regiment = {
+		name="1st Treviso Infantry"
+		type=infantry
+		home=732
+	}
+	regiment = {
+		name="7th Nice Infantry"
+		type=infantry
+		home=472
+	}
+	regiment = {
+		name="1st Alessandria Artillery"
+		type=artillery
+		home=723
+	}
+	regiment = {
+		name="6th Paris Infantry"
+		type=infantry
+		home=425
+	}
+}
+
+army = {
+	name="Myrmidones of Stralsund"
+	location=962
+	regiment = {
+		name="8th Nice Infantry"
+		type=infantry
+		home=472
+	}
+	regiment = {
+		name="9th Nice Infantry"
+		type=infantry
+		home=472
+	}
+	regiment = {
+		name="2nd Treviso Infantry"
+		type=infantry
+		home=732
+	}
+}
+
+army = {
+	name="Myrmidones of Stargard"
+	location=1009
+	regiment = {
+		name="2nd Alessandria Infantry"
+		type=infantry
+		home=723
+	}
+	regiment = {
+		name="10th Nice Infantry"
+		type=infantry
+		home=472
+	}
+	regiment = {
+		name="11th Nice Infantry"
+		type=infantry
+		home=472
+	}
+	regiment = {
+		name="2nd Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="1st Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="1st Emden Artillery"
+		type=artillery
+		home=543
+	}
+	regiment = {
+		name="1st Udine Artillery"
+		type=artillery
+		home=733
+	}
+	regiment = {
+		name="2nd Turin Artillery"
+		type=artillery
+		home=720
+	}
+	regiment = {
+		name="4th Turin Artillery"
+		type=artillery
+		home=720
+	}
+}
+
+army = {
+	name="Myrmidones of Ösel"
+	location=963
+	regiment = {
+		name="2nd Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="2nd Alessandria Artillery"
+		type=artillery
+		home=723
+	}
+	regiment = {
+		name="1st Plzen Infantry"
+		type=infantry
+		home=629
+	}
+}
+
+army = {
+	name="Myrmidones of Toropets"
+	location=1017
+	regiment = {
+		name="3rd Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="4th Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="3rd Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="2nd Ferrara Infantry"
+		type=infantry
+		home=742
+	}
+	regiment = {
+		name="5th Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="3rd Turin Artillery"
+		type=artillery
+		home=720
+	}
+	regiment = {
+		name="1st Milan Artillery"
+		type=artillery
+		home=726
+	}
+	regiment = {
+		name="1st Valence Artillery"
+		type=artillery
+		home=453
+	}
+}
+
+navy = {
+	name="Classis Euxeinos Pontos"
+	location=2722
+	ship = {
+		name="1st Dunkirk Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lucca Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Sassari Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Montpellier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Corsica Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Leghorn Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bruges Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Caen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dunkirk Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Amiens Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Carcassonne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cagliari Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Roche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arnhem Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cardiff Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Roche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Marseilles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Leeuwarden Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Channel Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Nantes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Marseilles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kalmar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kalmar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Montpellier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sassari Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sassari Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zwolle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Savona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rouen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Coruña Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rouen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ravenna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rotterdam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Pau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Pau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rotterdam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Carcassonne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Rochelle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Marseilles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Channel Islands Clipper Transport"
+		type=clipper_transport
+	}
+}
+

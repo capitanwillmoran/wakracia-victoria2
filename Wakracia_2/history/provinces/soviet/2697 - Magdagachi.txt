@@ -1,0 +1,9 @@
+owner=MYR
+controller=MYR
+add_core=CHI
+add_core=MCK
+add_core=MYR
+add_core=SOL
+trade_goods = grain
+life_rating = 35
+terrain = woods

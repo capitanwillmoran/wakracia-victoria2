@@ -1,0 +1,6 @@
+owner=HUR
+controller=HUR
+add_core=HUR
+trade_goods = cattle
+life_rating = 35
+terrain = farmlands

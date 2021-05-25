@@ -1,0 +1,7 @@
+owner=SLV
+controller=SLV
+add_core=BRG
+add_core=FRA
+trade_goods = coal
+life_rating = 40
+terrain = mountain

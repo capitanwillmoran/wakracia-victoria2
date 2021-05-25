@@ -1,0 +1,14 @@
+owner=KOR
+controller=CSH
+add_core=CHI
+add_core=MCK
+trade_goods = coal
+life_rating = 32
+terrain = plains
+colonial=2
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

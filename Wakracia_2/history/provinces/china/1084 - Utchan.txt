@@ -1,0 +1,8 @@
+owner=NVK
+controller=JAP
+add_core=CHI
+add_core=MCK
+add_core=NVK
+trade_goods = coal
+life_rating = 32
+terrain = hills

@@ -1,0 +1,8 @@
+owner=SKA
+controller=SKA
+add_core=MAD
+add_core=SKA
+add_core=X00
+trade_goods = grain
+life_rating = 35
+terrain = hills

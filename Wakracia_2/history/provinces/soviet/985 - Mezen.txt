@@ -1,0 +1,10 @@
+owner=MUS
+controller=MUS
+add_core=MUS
+add_core=UGR
+add_core=X17
+add_core=X22
+add_core=X26
+trade_goods = timber
+life_rating = 35
+terrain = arctic

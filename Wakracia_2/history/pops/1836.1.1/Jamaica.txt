@@ -1,0 +1,200 @@
+2217 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 15251
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 903
+	}
+
+	craftsmen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1379
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 322
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 52
+	}
+
+	clerks=
+	{
+		culture = carribean
+		religion = animist
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 24
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 17
+	}
+
+	capitalists=
+	{
+		culture = carribean
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 203
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 75098
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 4444
+	}
+
+	craftsmen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 6791
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 3497
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 568
+	}
+
+	clerks=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 451
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 262
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 184
+	}
+
+	capitalists=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 2203
+	}
+
+}
+2218 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 61
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 248
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 5
+	}
+
+}

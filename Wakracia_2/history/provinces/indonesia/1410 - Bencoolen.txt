@@ -1,0 +1,6 @@
+owner=MLC
+controller=MLC
+add_core=MLC
+trade_goods = tobacco
+life_rating = 30
+terrain = mountain

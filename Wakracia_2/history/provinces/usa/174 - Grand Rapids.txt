@@ -1,0 +1,7 @@
+owner=CYN
+controller=CYN
+add_core=FOX
+trade_goods = timber
+life_rating = 35
+terrain = woods
+fort = 2

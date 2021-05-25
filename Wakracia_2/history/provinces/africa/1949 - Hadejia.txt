@@ -1,0 +1,7 @@
+owner=MLI
+controller=MLI
+add_core=HAU
+add_core=MLI
+trade_goods = coal
+life_rating = 35
+terrain = plains

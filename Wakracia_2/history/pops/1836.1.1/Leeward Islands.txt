@@ -1,0 +1,456 @@
+2224 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1186
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 72
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = west_african_pagan_reformed
+		size= 4604
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 280
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 226
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 17
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 95
+	}
+
+}
+2225 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 305
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = west_african_pagan_reformed
+		size= 1143
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 67
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 55
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+}
+2226 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 173
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 949
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 45
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 19
+	}
+
+}
+2227 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1304
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 27
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 33
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = west_african_pagan_reformed
+		size= 4888
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 301
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 245
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 18
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 103
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=X09
+controller=X09
+add_core=DEN
+add_core=SCA
+trade_goods = cattle
+life_rating = 40
+terrain = plains

@@ -1,0 +1,6 @@
+owner=PIM
+controller=CAL
+add_core=PIM
+trade_goods = fruit
+life_rating = 35
+terrain = mountain

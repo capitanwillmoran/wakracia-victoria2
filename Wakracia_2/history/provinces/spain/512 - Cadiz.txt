@@ -1,0 +1,7 @@
+owner=GLC
+controller=GLC
+add_core=ADU
+add_core=GLC
+trade_goods = fish
+life_rating = 35
+terrain = mountain

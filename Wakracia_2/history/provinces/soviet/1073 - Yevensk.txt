@@ -1,0 +1,8 @@
+owner=CHV
+controller=CHV
+add_core=CHV
+add_core=HOD
+trade_goods = grain
+life_rating = 20
+terrain = arctic
+fort = 2

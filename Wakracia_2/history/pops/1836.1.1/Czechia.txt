@@ -1,0 +1,958 @@
+625 = {
+	soldiers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 15101
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 26934
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 4390
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 821
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 856
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 4310
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 341511
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 1261
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 8045
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 1311
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 245
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 255
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 1287
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 19931
+	}
+
+}
+626 = {
+	soldiers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 4824
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 9431
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 770
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 302
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 315
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 1055
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 111475
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 98
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 603
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 19
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 1663
+	}
+
+}
+627 = {
+	soldiers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 4335
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 4228
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 962
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 436
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 249
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 1308
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 141185
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = jewish
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = jewish
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = jewish
+		size= 925
+	}
+
+}
+628 = {
+	soldiers=
+	{
+		culture = czech
+		religion = fraticelli
+		size= 1423
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = fraticelli
+		size= 1082
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = fraticelli
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = fraticelli
+		size= 19
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = fraticelli
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = fraticelli
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = fraticelli
+		size= 28212
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = animist
+		size= 486
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = animist
+		size= 1822
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = animist
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = animist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = animist
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = animist
+		size= 109
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = animist
+		size= 7907
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 1431
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 7259
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 674
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 124
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 436
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 21030
+	}
+
+}
+629 = {
+	soldiers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 15635
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 19499
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 2229
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 212
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 364
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 1272
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 126280
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = animist
+		size= 746
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = animist
+		size= 3467
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = animist
+		size= 397
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = animist
+		size= 38
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = animist
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = animist
+		size= 226
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = animist
+		size= 2810
+	}
+
+}
+630 = {
+	soldiers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 2111
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 556
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 183
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 192
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 767
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = hellenic_pagan
+		size= 92107
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 270
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 627
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 165
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 54
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 228
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = norse_pagan_reformed
+		size= 7777
+	}
+
+}
+631 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 6134
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 5946
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 1201
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 174
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 310
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 1626
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = hellenic_pagan
+		size= 199196
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = norse_pagan_reformed
+		size= 1347
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = norse_pagan_reformed
+		size= 2312
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = norse_pagan_reformed
+		size= 467
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = norse_pagan_reformed
+		size= 68
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = norse_pagan_reformed
+		size= 120
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = norse_pagan_reformed
+		size= 632
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = norse_pagan_reformed
+		size= 41871
+	}
+
+}
+632 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 1041
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 2263
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 643
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 53
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 895
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 98601
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = jewish
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = jewish
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = jewish
+		size= 925
+	}
+
+}
+688 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 254
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 1017
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 165
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 214
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 23740
+	}
+
+}
+689 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 881
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 143
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 20
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 185
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 21305
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 266
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 1568
+	}
+
+}

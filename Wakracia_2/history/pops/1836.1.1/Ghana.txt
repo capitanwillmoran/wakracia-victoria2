@@ -1,0 +1,1082 @@
+1907 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 3869
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 426
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 426
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 11
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 16369
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 931
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 102
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 630
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 118
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 132
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 3179
+	}
+
+}
+1908 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 1451
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 174
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 174
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 6829
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 349
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 258
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 1333
+	}
+
+}
+1909 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 2056
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 226
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 226
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 8701
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 1544
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 170
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 566
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 106
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = hellenic_pagan
+		size= 5961
+	}
+
+}
+1910 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 3468
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 542
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 1896
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 14
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 114
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 20946
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 5377
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 840
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 7773
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 361
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 56
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 466
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 27062
+	}
+
+}
+1911 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 2170
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 229
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 516
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 8
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 8457
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 3430
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 363
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 2148
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 155
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 33
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 11782
+	}
+
+}
+1912 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 904
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 675
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 271
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 10148
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = tibet_bon
+		size= 145
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = tibet_bon
+		size= 108
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = tibet_bon
+		size= 358
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = tibet_bon
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = tibet_bon
+		size= 6
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = tibet_bon
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = tibet_bon
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = tibet_bon
+		size= 1251
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 1748
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 1305
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 2727
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 197
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 42
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 254
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 16981
+	}
+
+}
+1913 = {
+	slaves=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 1030
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 288
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 103
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 3680
+	}
+
+	slaves=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 1641
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 460
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 431
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 15
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 5481
+	}
+
+}
+1915 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 2170
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 186
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 419
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 7
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 6445
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 3430
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 294
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 1741
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 126
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 27
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 163
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = west_african_pagan_reformed
+		size= 8904
+	}
+
+}
+1916 = {
+	slaves=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 686
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 173
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 2141
+	}
+
+	slaves=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 1094
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 276
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 259
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 9
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = west_african_pagan_reformed
+		size= 3179
+	}
+
+}

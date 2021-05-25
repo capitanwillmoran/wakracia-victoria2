@@ -1,0 +1,14 @@
+owner=GLC
+controller=GLC
+add_core=GLC
+add_core=POR
+trade_goods = fish
+life_rating = 35
+terrain = hills
+naval_base = 2
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

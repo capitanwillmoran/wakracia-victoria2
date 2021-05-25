@@ -1,0 +1,8 @@
+owner=SLV
+controller=SLV
+add_core=FIN
+add_core=SCA
+add_core=SWE
+trade_goods = fish
+life_rating = 35
+terrain = farmlands

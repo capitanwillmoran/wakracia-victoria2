@@ -1,0 +1,9 @@
+owner=MUS
+controller=MUS
+add_core=MUS
+add_core=SIB
+add_core=UGR
+add_core=X17
+trade_goods = timber
+life_rating = 35
+terrain = forest

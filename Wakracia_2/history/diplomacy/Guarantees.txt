@@ -1,0 +1,80 @@
+guarantee=
+{
+	first="BOH"
+	second="SAX"
+	start_date="1820.9.1"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="BYZ"
+	second="CRI"
+	start_date="1703.12.16"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="BYZ"
+	second="HUR"
+	start_date="1754.7.16"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="UIL"
+	second="CYN"
+	start_date="1817.10.22"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="UIL"
+	second="CAN"
+	start_date="1817.12.17"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="MLI"
+	second="DAH"
+	start_date="1794.5.11"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="MLI"
+	second="WOL"
+	start_date="1802.6.30"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="X16"
+	second="MAW"
+	start_date="1798.5.20"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="X24"
+	second="RYA"
+	start_date="1818.10.7"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="X29"
+	second="X30"
+	start_date="1814.11.22"
+	end_date="1936.1.1"
+}
+

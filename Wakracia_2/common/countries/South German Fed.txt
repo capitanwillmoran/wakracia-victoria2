@@ -1,0 +1,228 @@
+graphical_culture = EuropeanGC
+color = { 142  201  208 }
+
+party = {
+	name = "SGF_liberal"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = anti_military
+}
+
+party = {
+	name = "SGF_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "SGF_liberal_2"
+	start_date = 1861.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = jingoism
+}
+
+party = {
+	name = "SGF_liberal_3"
+	start_date = 1861.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "SGF_socialist"
+	start_date = 1860.1.1
+	end_date = 1875.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = anti_military
+}
+
+party = {
+	name = "SGF_socialist_2"
+	start_date = 1848.1.1
+	end_date = 1875.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	trade_policy = free_trade
+	war_policy = anti_military
+}
+
+party = {
+	name = "SGF_socialist_3"
+	start_date = 1875.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	trade_policy = free_trade
+	war_policy = anti_military
+}
+
+party = {
+	name = "SGF_reactionary"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "SGF_conservative_2"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = residency
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "SGF_conservative_3"
+	start_date = 1878.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = residency
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "SGF_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "SGF_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "SGF_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+		Bayern "Von der Tann" Wittelsbach "Prinzregent Luitpold" Welf Nibelungen Walküre Babenberg Baden Zähringen Markgraf "Großherzog Leopold" 
+		"Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg
+	}
+	ironclad = {
+		"Maximilian Joseph" "Ludwig I" "Maximilian II" "Graf Montgelas" "Graf von Horn" "Von der Mark" "Von Le Suire" "Von Wrede" Baden Zähringen Markgraf 
+		"Großherzog Leopold" "Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg Württemberg Schwaben "König Friedrich" 
+		"Königin Charlotte" "König Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin" 
+	}
+	manowar = {
+		Graf Herzog König Kaiser Kurfürst Pfalzgraf Prinz Odin Wotan Balder Donar Baden Zähringen Markgraf "Großherzog Leopold" "Großherzog Karl Friedrich" 
+		Türkenlouis Reichsgraf Durlach Sausenberg Hachberg Württemberg Schwaben "König Friedrich" "Königin Charlotte" "König Wilhelm" "Prinz Albrecht" 
+		Alemania "Herzog von Urach" "Von Zeppelin" 
+	}
+	cruiser = {
+		Ansbach Augsburg Bamberg Bayreuth Fürth Ingoldstadt München Nürnberg Passau Regensburg  Baden Zähringen Markgraf "Großherzog Leopold" 
+		"Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg Württemberg Schwaben "König Friedrich" "Königin Charlotte" 
+		"König Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin" 
+	}
+	frigate = {
+		Fuchs Hyäna Leopard Löwe Luchs Marder Panther Tiger Wolf Baden Zähringen Markgraf "Großherzog Leopold" "Großherzog Karl Friedrich" 
+		Türkenlouis Reichsgraf Durlach Sausenberg Hachberg Württemberg Schwaben "König Friedrich" "Königin Charlotte" "König Wilhelm" "Prinz Albrecht" Alemania 
+		"Herzog von Urach" "Von Zeppelin" 
+	}
+	monitor = {
+		Höchstädt Landshut Lechfeld "Herzog Albrecht" "Prinz Ludwig" "Von Utzschneider" Steinheil Baden Zähringen Markgraf "Großherzog Leopold" 
+		"Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg Württemberg Schwaben "König Friedrich" "Königin Charlotte" "König Wilhelm"
+		"Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin" 
+	}
+	clipper_transport = {
+		Alster Donau Fellach Inn Isar Lech Main Pegnitz Saale Windach 	 Adler Albatross Amazone Bremse Brummer Donau Drache Feldberg Frauenlob
+		Greif Karlsruhe Natter Neckar Salamander Seeadler Rhein
+	}
+	steam_transport = {
+		"Sankt Erhard" "Sankt Georg" "Sankt Hubertus" "Sankt Michaël" "Sankt Peter" "Sankt Rupert" "Sankt Valentin" "Sankt Willibald" "Sankt Wolfgang"
+		Adler Albatross Amazone Bremse Brummer Donau Drache Feldberg Frauenlob Greif Karlsruhe Natter Neckar Salamander Seeadler Rhein 
+	}
+	commerce_raider = {
+	    Siegfried Kriemhild Gunther Gernot Giselher Siegmund Alberich Brünhild Hagen Baden Zähringen Markgraf "Großherzog Leopold" "Großherzog Karl Friedrich" 
+		Türkenlouis Reichsgraf Durlach Sausenberg Hachberg Württemberg Schwaben "König Friedrich" "Königin Charlotte" "König Wilhelm" "Prinz Albrecht" 
+		Alemania "Herzog von Urach" "Von Zeppelin" 
+	}
+}

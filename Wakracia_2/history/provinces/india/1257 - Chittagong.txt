@@ -1,0 +1,8 @@
+owner=ORI
+controller=X16
+add_core=HND
+add_core=ORI
+add_core=X23
+trade_goods = dye
+life_rating = 32
+terrain = jungle

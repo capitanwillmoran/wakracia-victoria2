@@ -1,0 +1,9 @@
+owner=X19
+controller=REB
+add_core=KHA
+add_core=KLK
+add_core=MGL
+add_core=X19
+trade_goods = timber
+life_rating = 32
+terrain = plains

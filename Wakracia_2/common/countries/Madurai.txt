@@ -1,0 +1,127 @@
+graphical_culture = IndianGC
+color = { 233 88 88 }
+
+party = {
+	name = "TRA_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "TRA_liberal"
+	start_date = 1680.1.1
+	end_date = 1936.1.1
+
+	ideology = liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = protectionism
+	war_policy = pacifism
+}
+
+party = {
+	name = "TRA_reactionary"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = residency
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "TRA_anarcho_liberal"
+	start_date = 1710.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "TRA_socialist"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "TRA_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "TRA_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+		"Rama Varma" "Aditya Varma" "Ravi Varma" "Balarama Varma" "Swathi Thirunal" "Uthram Thirunal" "Visakham Thirunal"
+		}
+	cruiser = {
+		Amar Anil Asim Bhavesh Chandrahas Dhirendra Gopan Jagajit Jishnu Mahabala Pinak Ranjit Satyajit Urjit Varun Vishvajit 
+	}
+	ironclad = {
+		Akshat Avanindra Dipendra Debashish Durjaya Ilesh Jagannath Meghnad Paramjit Samarjit Sudhir Vijay Vikrant
+	}
+	monitor = {
+		Atul Chapal Kartikeya Mahavir Nachiketa Prajit Rutujit Shreyas Veer Yuyutsu
+		}
+	manowar = {
+		Padmanabhapuram Thiruvananthapuram Kilimanoor Kollam Kochi Mavelikkara Thrissur
+	}
+	frigate = {
+		Abhay Akhilesh Baldev Chandresh Duranjaya Gaurav Jayant Parindra Prabir Shatrunjay Vipan Viraj Yudhisthir
+	}
+	clipper_transport = {
+	}
+	steam_transport = { 
+	}
+	commerce_raider = {
+		Anupam Arihant Bhanu Dhananjay Hemendra Jawahar Kaushal Makarand Manindra Narhari Nidhish Ratnakar Shashwat Srikant
+	}
+}

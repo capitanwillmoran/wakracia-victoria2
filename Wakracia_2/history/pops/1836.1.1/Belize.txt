@@ -1,0 +1,51 @@
+2190 = {
+	slaves=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1737
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 97
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 69
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 15
+	}
+
+}

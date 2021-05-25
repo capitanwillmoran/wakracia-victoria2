@@ -1,0 +1,700 @@
+1090 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 1810
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 516
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 29559
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = coptic
+		size= 1579
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = coptic
+		size= 1415
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = coptic
+		size= 326
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = coptic
+		size= 44
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = coptic
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = coptic
+		size= 373
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = coptic
+		size= 24025
+	}
+
+}
+1091 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 253
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 505
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 11672
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = coptic
+		size= 89
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = coptic
+		size= 180
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = coptic
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = coptic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = coptic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = coptic
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = coptic
+		size= 4098
+	}
+
+}
+1092 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 302
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 237
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 14353
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 333
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 2383
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 6
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 5529
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = coptic
+		size= 86
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = coptic
+		size= 113
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = coptic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = coptic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = coptic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = coptic
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = coptic
+		size= 4025
+	}
+
+}
+1093 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 105
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 5022
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = coptic
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = coptic
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = coptic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = coptic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = coptic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = coptic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = coptic
+		size= 1978
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 213
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 1299
+	}
+
+}
+1094 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 504
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 3530
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 189
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 25
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 212
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 20737
+	}
+
+}
+1095 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 341
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 682
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 128
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 15733
+	}
+
+}
+1096 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 347
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 695
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 16021
+	}
+
+}

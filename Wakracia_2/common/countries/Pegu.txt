@@ -1,0 +1,136 @@
+graphical_culture = AsianGC
+color = { 140 210 160 }
+
+party = {
+	name = "BUR_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "BUR_liberal"
+	start_date = 1680.1.1
+	end_date = 1936.1.1
+
+	ideology = liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = protectionism
+	war_policy = pacifism
+}
+
+party = {
+	name = "BUR_reactionary"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "BUR_anarcho_liberal"
+	start_date = 1710.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "BUR_socialist"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "BUR_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "BUR_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan 
+		Tavoy Mergui Tanintharyi Ye Irrawady
+	}
+	ironclad = {
+		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan 
+		Tavoy Mergui Tanintharyi Ye Irrawady
+	}
+	manowar = {
+		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan 
+		Tavoy Mergui Tanintharyi Ye Irrawady
+	}
+	cruiser = {
+		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan 
+		Tavoy Mergui Tanintharyi Ye Irrawady
+	}
+	frigate = {
+		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan 
+		Tavoy Mergui Tanintharyi Ye Irrawady
+	}
+	monitor = {
+		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan 
+		Tavoy Mergui Tanintharyi Ye Irrawady
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan 
+		Tavoy Mergui Tanintharyi Ye Irrawady
+	}
+}

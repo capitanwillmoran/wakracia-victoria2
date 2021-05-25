@@ -1,0 +1,784 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = -80
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -140
+	level = 2
+}
+BYZ = {
+	value = 162
+	influence_value = 28
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -37
+	level = 2
+}
+COM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 126
+	influence_value = 19
+	level = 3
+}
+CYI = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 74
+	influence_value = 6
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IRO = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 4
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Innokentios Penis Cortus"
+	date="1798.4.30"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Papadopoulos Eskorbuto"
+	date="1814.2.3"
+	type=sea
+	personality="persistant"
+	background="brownnoser"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=2310
+	regiment = {
+		name="1st Ica Infantry"
+		type=infantry
+		home=2297
+	}
+	regiment = {
+		name="1st Pucallpa Infantry"
+		type=infantry
+		home=2300
+	}
+	regiment = {
+		name="1st La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+	regiment = {
+		name="1st Ica Artillery"
+		type=artillery
+		home=2297
+	}
+	regiment = {
+		name="1st Lima Artillery"
+		type=artillery
+		home=2295
+	}
+	regiment = {
+		name="1st Ayacucho Infantry"
+		type=infantry
+		home=2299
+	}
+	regiment = {
+		name="1st Huaraz Artillery"
+		type=artillery
+		home=2298
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2298
+	ship = {
+		name="1st Piura Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tacna Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Iquique Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Arequipa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tacna Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Arequipa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Arequipa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Huaraz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Huaraz Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2304
+	regiment = {
+		name="2nd La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+	regiment = {
+		name="2nd Ica Infantry"
+		type=infantry
+		home=2297
+	}
+	regiment = {
+		name="1st Iquique Artillery"
+		type=artillery
+		home=2307
+	}
+	regiment = {
+		name="2nd Ica Artillery"
+		type=artillery
+		home=2297
+	}
+	regiment = {
+		name="1st Cochabamba Infantry"
+		type=infantry
+		home=2311
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2997
+	ship = {
+		name="1st Huaraz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ica Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2550
+	regiment = {
+		name="1st Calama Infantry"
+		type=infantry
+		home=2309
+	}
+	regiment = {
+		name="1st Tacna Infantry"
+		type=infantry
+		home=2578
+	}
+	regiment = {
+		name="1st Cusco Artillery"
+		type=artillery
+		home=2302
+	}
+	regiment = {
+		name="1st Santa Cruz Artillery"
+		type=artillery
+		home=2316
+	}
+	regiment = {
+		name="1st Potosí Infantry"
+		type=infantry
+		home=2314
+	}
+	regiment = {
+		name="1st Antofagasta Artillery"
+		type=artillery
+		home=2305
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2290
+	regiment = {
+		name="2nd Tacna Infantry"
+		type=infantry
+		home=2578
+	}
+	regiment = {
+		name="1st Lima Infantry"
+		type=infantry
+		home=2295
+	}
+	regiment = {
+		name="1st Puno Artillery"
+		type=artillery
+		home=2303
+	}
+	regiment = {
+		name="1st Cajamarca Artillery"
+		type=artillery
+		home=2290
+	}
+	regiment = {
+		name="1st Chuquisaca Infantry"
+		type=infantry
+		home=2313
+	}
+	regiment = {
+		name="2nd Cusco Artillery"
+		type=artillery
+		home=2302
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=3158
+	ship = {
+		name="1st Ica Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Piura Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ica Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Calama Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Huaraz Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2308
+	ship = {
+		name="3rd Tacna Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Piura Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arequipa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Iquique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Lima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Arequipa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Arequipa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Lima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Trujillo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Arequipa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tacna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Piura Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arica Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Lima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tacna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Huaraz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tacna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Piura Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2310
+	regiment = {
+		name="2nd Puno Artillery"
+		type=artillery
+		home=2303
+	}
+}
+

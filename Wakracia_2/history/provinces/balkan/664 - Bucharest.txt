@@ -1,0 +1,13 @@
+owner=X03
+controller=X03
+add_core=SER
+add_core=YUG
+trade_goods = grain
+life_rating = 35
+terrain = plains
+state_building=
+{
+	level=1
+	building = cement_factory
+	upgrade = yes
+}

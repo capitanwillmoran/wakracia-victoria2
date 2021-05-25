@@ -1,0 +1,8 @@
+owner=USA
+controller=USA
+add_core=CHE
+add_core=USA
+add_core=FLR
+trade_goods = coal
+life_rating = 35
+terrain = woods

@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=ARA
+add_core=HDJ
+trade_goods = wool
+life_rating = 35
+terrain = mountain
+colonial=2

@@ -1,0 +1,7 @@
+owner=X02
+controller=X02
+add_core=PER
+add_core=X02
+trade_goods = cotton
+life_rating = 35
+terrain = mountain

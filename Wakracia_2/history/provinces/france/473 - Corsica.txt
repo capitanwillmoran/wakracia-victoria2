@@ -1,0 +1,6 @@
+owner=X09
+controller=X09
+add_core=X09
+trade_goods = fish
+life_rating = 35
+terrain = plains

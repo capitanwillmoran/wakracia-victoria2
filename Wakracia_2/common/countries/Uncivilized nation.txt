@@ -1,0 +1,16 @@
+graphical_culture = Generic
+color = { 255 255 255 }
+
+party = {
+	name = "AAA_PARTY"
+	start_date = 769.1.1
+	end_date = 2000.1.1
+
+	ideology = noIdeology
+
+	citizenship_policy = noIssue
+	economic_policy = noIssue
+	religious_policy = noIssue
+	trade_policy = noIssue
+	war_policy = noIssue
+}

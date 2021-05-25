@@ -1,0 +1,8 @@
+owner=CSH
+controller=CSH
+add_core=CHI
+add_core=CSH
+add_core=YAN
+trade_goods = silk
+life_rating = 32
+terrain = plains

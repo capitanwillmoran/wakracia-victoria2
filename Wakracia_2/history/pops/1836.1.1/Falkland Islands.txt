@@ -1,0 +1,53 @@
+2131 = {
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 63
+	}
+
+}
+2133 = {
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 12
+	}
+
+}

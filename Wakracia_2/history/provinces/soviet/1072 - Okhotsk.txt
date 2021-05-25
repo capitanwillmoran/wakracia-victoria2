@@ -1,0 +1,8 @@
+owner=NVK
+controller=NVK
+add_core=BRY
+trade_goods = grain
+life_rating = 35
+terrain = mountain
+colonial=2
+naval_base = 1

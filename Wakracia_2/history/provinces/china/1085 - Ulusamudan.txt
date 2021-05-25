@@ -1,0 +1,9 @@
+owner=NVK
+controller=JAP
+add_core=CHI
+add_core=MCK
+add_core=NVK
+add_core=SOL
+trade_goods = grain
+life_rating = 32
+terrain = plains

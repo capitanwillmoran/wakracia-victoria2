@@ -1,0 +1,8 @@
+owner=ZUN
+controller=ZUN
+add_core=X14
+add_core=XIN
+add_core=ZUN
+trade_goods = sulphur
+life_rating = 32
+terrain = mountain

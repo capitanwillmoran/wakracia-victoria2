@@ -1,0 +1,9 @@
+owner=X19
+controller=REB
+add_core=KHA
+add_core=KLK
+add_core=MGL
+trade_goods = iron
+life_rating = 32
+terrain = hills
+colonial=2

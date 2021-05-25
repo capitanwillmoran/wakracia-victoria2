@@ -1,0 +1,5 @@
+owner=NVK
+controller=NVK
+trade_goods = coal
+life_rating = 35
+terrain = hills

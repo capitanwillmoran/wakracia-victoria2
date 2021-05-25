@@ -1,0 +1,8 @@
+owner=CHL
+controller=CHL
+add_core=CHL
+add_core=CRA
+add_core=CSU
+trade_goods = wool
+life_rating = 30
+terrain = mountain

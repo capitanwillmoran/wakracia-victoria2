@@ -1,0 +1,7 @@
+owner=X09
+controller=X09
+add_core=BSQ
+trade_goods = fruit
+life_rating = 31
+terrain = farmlands
+naval_base = 1

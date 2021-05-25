@@ -1,0 +1,6 @@
+owner=WIC
+controller=WIC
+add_core=WIC
+trade_goods = cattle
+life_rating = 35
+terrain = mountain

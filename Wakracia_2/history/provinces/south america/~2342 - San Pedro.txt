@@ -1,0 +1,5 @@
+owner=ARG
+controller=BRZ
+trade_goods = fruit
+life_rating = 30
+terrain = jungle

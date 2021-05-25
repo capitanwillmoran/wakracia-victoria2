@@ -1,0 +1,7 @@
+owner=X04
+controller=X04
+add_core=PCH
+add_core=X04
+trade_goods = timber
+life_rating = 35
+terrain = mountain

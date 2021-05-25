@@ -1,0 +1,7 @@
+owner=X03
+controller=X03
+add_core=CZH
+add_core=SLV
+trade_goods = cattle
+life_rating = 35
+terrain = hills

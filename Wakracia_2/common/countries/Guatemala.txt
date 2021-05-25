@@ -1,0 +1,131 @@
+graphical_culture = Generic
+color = { 174  206  203 }
+
+party = {
+	name = "GUA_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = full_citizenship
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "GUA_liberal"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "GUA_reactionary"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "GUA_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "GUA_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "GUA_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "GUA_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+		Constitución Guatemala "José Carrera Turcios" "José María Reina" "Justo Barrios" "Manuel Estrada" "Mariano Rivera" "Pedro Molina" Presidente "Vicente Cerna"
+	}
+	ironclad = {
+		Belice Dulce Hondo Lempa "Los Esclavos" "María Linda" Motagua Nahualete Paz Suchiate
+	}
+	manowar = {
+		Audaz Conquista Independencia Salvador "San José" "San Justo" "San Pedro" "San Vicente" "Santa María" Vencedora
+	}
+	cruiser = {
+		Barrigones "Bartolomé de las Casas" Cakchiquel Itzá Kiche "Nueva Sevilla" Olmeca "Pedro de Alvarado" Qeqchi Zapotitlán
+	}
+	frigate = {
+		"Ciudad de Guatemala" Flores Guastatoya Huehuetenango Jalapa Quetzaltenango Retalhuleu Salamá "Santa Cruz" Totonicapán
+	}
+	monitor = {
+		Acatenago Agua Almolonga Atitlán Fuego "Santa María" "Santo Tomás" Tacaná Tajumulco Tolimán
+	}
+	clipper_transport = {
+		Adoración Atlántica Emprendedora Gracia Huracán Maya Móvil Neptuno Nocturna Oceánica
+		Pacífica Rompeolas "San Cosme" "San Jorge" "San Pablo" Sirena Tikal Tormenta Tritón Ventisca
+	}
+	steam_transport = {
+		Adoración Atlántica Emprendedora Gracia Huracán Maya Móvil Neptuno Nocturna Oceánica
+		Pacífica Rompeolas "San Cosme" "San Jorge" "San Pablo" Sirena Tikal Tormenta Tritón Ventisca
+	}
+	commerce_raider = {
+		Chingo Chiquimula Destructor Flores Golpeador Guatemalteco Ixtepeque Lanzador "San Patricio" Suchitán
+	}
+}

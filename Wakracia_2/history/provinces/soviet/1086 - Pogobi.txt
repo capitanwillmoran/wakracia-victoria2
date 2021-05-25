@@ -1,0 +1,9 @@
+owner=NVK
+controller=NVK
+add_core=CHI
+add_core=MCK
+add_core=NVK
+trade_goods = fish
+life_rating = 35
+terrain = plains
+naval_base = 1

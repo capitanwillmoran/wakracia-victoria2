@@ -1,0 +1,779 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 24
+	level = 3
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IRO = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 33
+	level = 3
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = -47
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Harun IV de Abrantes"
+	date="1801.10.6"
+	type=land
+	personality="coolminded"
+	background="bootlicker"
+}
+
+leader = {
+	name="Bisi Deo"
+	date="1801.3.18"
+	type=land
+	personality="active_p"
+	background="engineer"
+}
+
+leader = {
+	name="Musa Toure"
+	date="1801.10.4"
+	type=sea
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Baki Keita"
+	date="1809.4.24"
+	type=sea
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="5th Army"
+	location=2573
+	regiment = {
+		name="1st Dori Infantry"
+		type=infantry
+		home=1903
+	}
+	regiment = {
+		name="1st Bida Infantry"
+		type=infantry
+		home=1940
+	}
+	regiment = {
+		name="1st Sokoto Infantry"
+		type=infantry
+		home=1948
+	}
+	regiment = {
+		name="1st Bussa Infantry"
+		type=infantry
+		home=1938
+	}
+	regiment = {
+		name="1st Say Artillery"
+		type=artillery
+		home=1809
+	}
+	regiment = {
+		name="1st Ilorin Infantry"
+		type=infantry
+		home=1927
+	}
+	regiment = {
+		name="2nd Say Artillery"
+		type=artillery
+		home=1809
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=1877
+	ship = {
+		name="1st Ifni Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Ifni Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sawira Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Ifni Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Ifni Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1690
+	regiment = {
+		name="2nd Dori Infantry"
+		type=infantry
+		home=1903
+	}
+	regiment = {
+		name="1st Fada Ngourma Infantry"
+		type=infantry
+		home=1904
+	}
+	regiment = {
+		name="1st Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="1st Nikki Artillery"
+		type=artillery
+		home=1921
+	}
+	regiment = {
+		name="5th Dori Infantry"
+		type=infantry
+		home=1903
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2919
+	ship = {
+		name="1st Sawira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bissau Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sawira Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1805
+	regiment = {
+		name="2nd Bussa Infantry"
+		type=infantry
+		home=1938
+	}
+	regiment = {
+		name="2nd Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="1st Fada Ngourma Artillery"
+		type=artillery
+		home=1904
+	}
+	regiment = {
+		name="1st Abuja Artillery"
+		type=artillery
+		home=1941
+	}
+	regiment = {
+		name="1st Kano Infantry"
+		type=infantry
+		home=1945
+	}
+	regiment = {
+		name="1st Timbuktu Artillery"
+		type=artillery
+		home=1803
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1819
+	regiment = {
+		name="1st Nikki Infantry"
+		type=infantry
+		home=1921
+	}
+	regiment = {
+		name="3rd Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="3rd Dori Infantry"
+		type=infantry
+		home=1903
+	}
+	regiment = {
+		name="1st Bougouni Artillery"
+		type=artillery
+		home=1798
+	}
+	regiment = {
+		name="2nd Fada Ngourma Artillery"
+		type=artillery
+		home=1904
+	}
+	regiment = {
+		name="1st Katsina Artillery"
+		type=artillery
+		home=1947
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1785
+	regiment = {
+		name="4th Dori Infantry"
+		type=infantry
+		home=1903
+	}
+	regiment = {
+		name="3rd Bussa Infantry"
+		type=infantry
+		home=1938
+	}
+	regiment = {
+		name="2nd Nikki Infantry"
+		type=infantry
+		home=1921
+	}
+	regiment = {
+		name="1st Sikasso Artillery"
+		type=artillery
+		home=1799
+	}
+	regiment = {
+		name="1st Gao Artillery"
+		type=artillery
+		home=1805
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1693
+	ship = {
+		name="4th Ifni Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Port Au Prince Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bissau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Trinidad Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Huaraz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bissau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Trinidad Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Agadir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Agadir Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2983
+	ship = {
+		name="1st Ifni Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Agadir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bissau Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1898
+	regiment = {
+		name="1st Bida Artillery"
+		type=artillery
+		home=1940
+	}
+	regiment = {
+		name="3rd Fada Ngourma Artillery"
+		type=artillery
+		home=1904
+	}
+}
+

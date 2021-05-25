@@ -1,0 +1,8 @@
+owner=CSH
+controller=CSH
+add_core=KHA
+add_core=MGL
+trade_goods = coal
+life_rating = 32
+terrain = hills
+colonial=2

@@ -1,0 +1,825 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 142
+	influence_value = 23
+	level = 2
+}
+CAL = {
+	value = -119
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 66
+	influence_value = 4
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = -104
+	level = 2
+}
+CYI = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EST = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 84
+	influence_value = 8
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 51
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IRO = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+KHI = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 0
+	level = 2
+}
+LDK = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRE = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+NRM = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 20
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = -87
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Drake Con Nombre Zenobia"
+	date="1798.12.30"
+	type=land
+	personality="chivalrous"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Felipe II Tzoulas"
+	date="1820.4.17"
+	type=land
+	personality="intuitive"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Juan José Konstantinos"
+	date="1805.5.5"
+	type=sea
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Manuel Damiane"
+	date="1805.5.14"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Carlos Phokas"
+	date="1810.9.3"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Crash Hispanicus Innokentios"
+	date="1820.1.3"
+	type=sea
+	personality="intuitive"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Apollón Pyrromano"
+	date="1820.2.1"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="11th Army"
+	location=2162
+	regiment = {
+		name="1st Bluefields Infantry"
+		type=infantry
+		home=2200
+	}
+	regiment = {
+		name="1st Guatemala Infantry"
+		type=infantry
+		home=2186
+	}
+	regiment = {
+		name="1st Puerto Lempira Infantry"
+		type=infantry
+		home=2196
+	}
+	regiment = {
+		name="1st Guanajuato Artillery"
+		type=artillery
+		home=2167
+	}
+	regiment = {
+		name="1st El Paso Artillery"
+		type=artillery
+		home=136
+	}
+	regiment = {
+		name="1st Limón Artillery"
+		type=artillery
+		home=2203
+	}
+	regiment = {
+		name="1st Mérida Artillery"
+		type=artillery
+		home=2183
+	}
+	regiment = {
+		name="1st San Luis Potosí Artillery"
+		type=artillery
+		home=2159
+	}
+	regiment = {
+		name="1st David Infantry"
+		type=infantry
+		home=2205
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2162
+	regiment = {
+		name="1st San Antonio Infantry"
+		type=infantry
+		home=137
+	}
+	regiment = {
+		name="1st Managua Infantry"
+		type=infantry
+		home=2197
+	}
+	regiment = {
+		name="1st Houston Infantry"
+		type=infantry
+		home=132
+	}
+	regiment = {
+		name="1st Guatemala Artillery"
+		type=artillery
+		home=2186
+	}
+	regiment = {
+		name="1st Acapulco Artillery"
+		type=artillery
+		home=2179
+	}
+	regiment = {
+		name="2nd Mérida Artillery"
+		type=artillery
+		home=2183
+	}
+	regiment = {
+		name="3rd Mérida Artillery"
+		type=artillery
+		home=2183
+	}
+	regiment = {
+		name="1st Oaxaca Infantry"
+		type=infantry
+		home=2177
+	}
+	regiment = {
+		name="1st Querétaro Artillery"
+		type=artillery
+		home=2173
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2145
+	regiment = {
+		name="1st Torreón Infantry"
+		type=infantry
+		home=2155
+	}
+	regiment = {
+		name="1st Mexico City Artillery"
+		type=artillery
+		home=2172
+	}
+	regiment = {
+		name="2nd Guanajuato Artillery"
+		type=artillery
+		home=2167
+	}
+	regiment = {
+		name="2nd Torreón Infantry"
+		type=infantry
+		home=2155
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2168
+	ship = {
+		name="1st San Salvador Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Los Albañiles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Puerto Vallarta Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2183
+	regiment = {
+		name="1st La Ceiba Infantry"
+		type=infantry
+		home=2195
+	}
+	regiment = {
+		name="1st Saltillo Infantry"
+		type=infantry
+		home=2151
+	}
+	regiment = {
+		name="1st Puebla Infantry"
+		type=infantry
+		home=2176
+	}
+	regiment = {
+		name="2nd San Luis Potosí Artillery"
+		type=artillery
+		home=2159
+	}
+	regiment = {
+		name="1st Zacatecas Artillery"
+		type=artillery
+		home=2158
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2183
+	ship = {
+		name="1st San Pedro Sula Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mérida Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Campeche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bacalar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bacalar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Belize Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Belize Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Veracruz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bacalar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Belize Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Campeche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Belize Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Campeche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Belize Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bacalar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tortola Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Belize Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Belize Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bacalar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Bacalar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Bacalar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Belize Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Belize Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Belize Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Bacalar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Agadir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Belize Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Veracruz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Campeche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Senj Clipper Transport"
+		type=clipper_transport
+	}
+}
+

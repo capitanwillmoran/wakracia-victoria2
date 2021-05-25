@@ -1,0 +1,8 @@
+owner=X02
+controller=X02
+add_core=ARL
+add_core=RDL
+add_core=SRN
+trade_goods = coal
+life_rating = 35
+terrain = hills

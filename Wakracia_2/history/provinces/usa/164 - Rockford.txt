@@ -1,0 +1,7 @@
+owner=UIL
+controller=UIL
+add_core=CAD
+trade_goods = coal
+life_rating = 35
+terrain = woods
+colonial=2

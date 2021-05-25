@@ -1,0 +1,7 @@
+owner=NVK
+controller=NVK
+trade_goods = grain
+life_rating = 35
+terrain = forest
+colonial=2
+naval_base = 1

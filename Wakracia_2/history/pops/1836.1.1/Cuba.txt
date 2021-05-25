@@ -1,0 +1,631 @@
+2209 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 9835
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1138
+	}
+
+	craftsmen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1634
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 1051
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 98
+	}
+
+	clerks=
+	{
+		culture = carribean
+		religion = animist
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 25
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	capitalists=
+	{
+		culture = carribean
+		religion = animist
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 189
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 6286
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 21529
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2491
+	}
+
+	craftsmen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 3577
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6906
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 641
+	}
+
+	clerks=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 239
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 168
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 104
+	}
+
+	capitalists=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1243
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 7514
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = west_african_pagan_reformed
+		size= 482
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 2061
+	}
+
+	craftsmen=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 2959
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 6265
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 582
+	}
+
+	clerks=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 152
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 94
+	}
+
+	capitalists=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 1127
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = west_african_pagan_reformed
+		size= 17327
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = west_african_pagan_reformed
+		size= 5685
+	}
+
+}
+2210 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 7983
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 723
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 903
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 22
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3060
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 32292
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 2921
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 8205
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 762
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 200
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 123
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 985
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6676
+	}
+
+}
+2211 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 5323
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 432
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 155
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1690
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 23902
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1938
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1539
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 250
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 115
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 80
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 647
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 6147
+	}
+
+}
+2212 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 3527
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 333
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 59
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1980
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = hellenic_pagan
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 60
+	}
+
+	clergymen=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	officers=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 26
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 15616
+	}
+
+	soldiers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 1173
+	}
+
+	clergymen=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 88
+	}
+
+	officers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 493
+	}
+
+	farmers=
+	{
+		culture = neokosmi
+		religion = hellenic_pagan
+		size= 4545
+	}
+
+}

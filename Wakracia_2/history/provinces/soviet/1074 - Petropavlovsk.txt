@@ -1,0 +1,8 @@
+owner=CHV
+controller=CHV
+add_core=CHV
+add_core=KMC
+trade_goods = fish
+life_rating = 20
+terrain = mountain
+colonial=2

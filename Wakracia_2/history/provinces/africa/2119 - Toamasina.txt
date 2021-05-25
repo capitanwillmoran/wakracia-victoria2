@@ -1,0 +1,9 @@
+owner=SKA
+controller=SKA
+add_core=MAD
+add_core=SKA
+add_core=X00
+trade_goods = fruit
+life_rating = 35
+terrain = plains
+naval_base = 1

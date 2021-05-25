@@ -1,0 +1,7 @@
+owner=X30
+controller=X30
+add_core=X30
+trade_goods = cotton
+life_rating = 35
+terrain = plains
+is_slave = yes

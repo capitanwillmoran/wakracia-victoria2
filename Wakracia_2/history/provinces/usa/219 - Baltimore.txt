@@ -1,0 +1,6 @@
+owner=X29
+controller=X29
+trade_goods = tobacco
+life_rating = 35
+terrain = farmlands
+naval_base = 1

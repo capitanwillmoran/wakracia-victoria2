@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=DNL
+add_core=ENG
+trade_goods = fish
+life_rating = 40
+terrain = plains
+naval_base = 1

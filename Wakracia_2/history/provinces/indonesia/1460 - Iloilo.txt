@@ -1,0 +1,9 @@
+owner=MNX
+controller=BYZ
+add_core=LNO
+add_core=PHI
+trade_goods = fish
+life_rating = 30
+terrain = plains
+colonial=2
+naval_base = 1

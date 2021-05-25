@@ -1,0 +1,7 @@
+owner=CHL
+controller=CHL
+add_core=CHL
+add_core=CHM
+trade_goods = coal
+life_rating = 35
+terrain = hills

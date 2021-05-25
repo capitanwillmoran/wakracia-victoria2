@@ -1,0 +1,3589 @@
+720 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 13058
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 20496
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1739
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 327
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 374
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 3918
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 192774
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = jewish
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = jewish
+		size= 490
+	}
+
+}
+721 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2224
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 3574
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 298
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 55
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 667
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 32830
+	}
+
+}
+722 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 3029
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 4867
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 406
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 76
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 454
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 45162
+	}
+
+}
+723 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 7324
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 610
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 114
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 130
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1595
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 61272
+	}
+
+}
+724 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 9784
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 15530
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1305
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 245
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 280
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2201
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 145177
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = jewish
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = jewish
+		size= 195
+	}
+
+}
+725 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = waldensian
+		size= 1754
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = waldensian
+		size= 313
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = waldensian
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = waldensian
+		size= 8
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = waldensian
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = waldensian
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = waldensian
+		size= 29107
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 296
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 419
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 4376
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2306
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2379
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 446
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 59
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 95
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 500
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 35386
+	}
+
+}
+726 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 9106
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 5521
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 923
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 111
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 123
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 1206
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 106040
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 16554
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 25593
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 4274
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 513
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 570
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 5590
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 170526
+	}
+
+}
+727 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 10620
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 885
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 165
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 94
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 991
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 101112
+	}
+
+}
+728 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 9992
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 7137
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1338
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 250
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 285
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1499
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 157936
+	}
+
+}
+729 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = norse_pagan_reformed
+		size= 1556
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = norse_pagan_reformed
+		size= 496
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = norse_pagan_reformed
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = norse_pagan_reformed
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = norse_pagan_reformed
+		size= 53154
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 397
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 749
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 264
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 12472
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1207
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2782
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 579
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 78
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 125
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 983
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 37022
+	}
+
+}
+730 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 7385
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 5275
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 989
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 185
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 211
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 3323
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 114508
+	}
+
+}
+731 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 13678
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 13380
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1115
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 208
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 357
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1457
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 118476
+	}
+
+}
+732 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 1363
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 852
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 9
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 22016
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 1289
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 4432
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 6400
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 343
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 64
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 384
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 15918
+	}
+
+}
+733 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 3615
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 1291
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 45
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 271
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 59039
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 566
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1695
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 318
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 59
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 356
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 7039
+	}
+
+}
+734 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 1947
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 1564
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 30929
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1944
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 4689
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 391
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 52
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 438
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 27122
+	}
+
+}
+735 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = hellenic_pagan
+		size= 1146
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = hellenic_pagan
+		size= 773
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = hellenic_pagan
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = hellenic_pagan
+		size= 9
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = hellenic_pagan
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = hellenic_pagan
+		size= 18388
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = norse_pagan_reformed
+		size= 85
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = norse_pagan_reformed
+		size= 217
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = norse_pagan_reformed
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = norse_pagan_reformed
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = norse_pagan_reformed
+		size= 1168
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1081
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 101
+	}
+
+}
+736 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 531
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 531
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 25232
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 580
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 20
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 366
+	}
+
+}
+737 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 2192
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 783
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 147
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 164
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 35463
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 343
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1028
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 193
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 36
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 216
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 4228
+	}
+
+}
+738 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 891
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 716
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 13955
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 7838
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1306
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 122
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 139
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2194
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 41934
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 2405
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 1932
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 322
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 30
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 541
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 37680
+	}
+
+}
+739 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2178
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 4356
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 817
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 152
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1830
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 99480
+	}
+
+}
+740 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2376
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 3818
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 318
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 42
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 356
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 35446
+	}
+
+}
+741 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 6023
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 9680
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 807
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 151
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 172
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 904
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 89824
+	}
+
+}
+742 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 1062
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 190
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 7
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = norse_pagan_reformed
+		size= 17595
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 248
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 9
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hellenic_pagan
+		size= 2344
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1377
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1420
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 266
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 50
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 447
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 20965
+	}
+
+}
+743 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = norse_pagan_reformed
+		size= 1411
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = norse_pagan_reformed
+		size= 1134
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = norse_pagan_reformed
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = norse_pagan_reformed
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = norse_pagan_reformed
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = norse_pagan_reformed
+		size= 22416
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2075
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 4469
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 372
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 50
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 417
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 29600
+	}
+
+}
+744 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 10409
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 16239
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1384
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 260
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 297
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 3643
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 153153
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = jewish
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = jewish
+		size= 490
+	}
+
+}
+745 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 6237
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 8799
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 810
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 111
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 178
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2183
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 91808
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = jewish
+		size= 1225
+	}
+
+}
+746 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2145
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 3447
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 287
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 38
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 322
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 31995
+	}
+
+}
+747 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 2738
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 2200
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 183
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 34
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 205
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 43491
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2710
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 6556
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 546
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 102
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 612
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 37758
+	}
+
+}
+748 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 1327
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 1066
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 21081
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1314
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 3178
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 265
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 49
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 297
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 18304
+	}
+
+}
+749 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 10515
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 9694
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 2050
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 277
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 332
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 2712
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 249741
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = jewish
+		size= 1375
+	}
+
+}
+750 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 1676
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 1764
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 331
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 44
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 432
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 39799
+	}
+
+}
+751 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 5845
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 14613
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 783
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 146
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 167
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1023
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 81804
+	}
+
+}
+752 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2530
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1807
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 339
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 63
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 569
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 39798
+	}
+
+}
+753 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 17543
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 939
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 126
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 200
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1053
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 95114
+	}
+
+}
+754 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 18677
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 30016
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2501
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 334
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 534
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 4202
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 277248
+	}
+
+}
+755 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 8481
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 21201
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1136
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 273
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 242
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1272
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 118834
+	}
+
+}
+756 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 13210
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 20103
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1077
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 144
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 345
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1206
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 107506
+	}
+
+}
+757 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 13129
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 19979
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1070
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 143
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 342
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1198
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 106846
+	}
+
+}
+758 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 6629
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 10088
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 540
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 72
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 173
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 605
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 53947
+	}
+
+}
+759 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 5545
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 20429
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1094
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 146
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 175
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1226
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 117303
+	}
+
+}
+760 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 8139
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 12385
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 663
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 88
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 212
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 743
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 66234
+	}
+
+}
+761 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 7933
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 19833
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1062
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 142
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 227
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1190
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 111276
+	}
+
+}
+762 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 17286
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 26306
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1410
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 188
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 450
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 2368
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 139890
+	}
+
+}
+763 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 8312
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 12649
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 678
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 90
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 217
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 759
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 67643
+	}
+
+}
+764 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 16425
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 24995
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1339
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 179
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 428
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1500
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 133669
+	}
+
+}
+765 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = hellenic_pagan
+		size= 3345
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = hellenic_pagan
+		size= 3164
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = hellenic_pagan
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = hellenic_pagan
+		size= 23
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = hellenic_pagan
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = hellenic_pagan
+		size= 190
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = hellenic_pagan
+		size= 38261
+	}
+
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 3257
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 9326
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 500
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 67
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 133
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 560
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 30173
+	}
+
+}
+766 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1817
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 1608
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 301
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 57
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 337
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 28262
+	}
+
+	soldiers=
+	{
+		culture = south_italian
+		religion = hellenic_pagan
+		size= 868
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = hellenic_pagan
+		size= 310
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = hellenic_pagan
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = hellenic_pagan
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = hellenic_pagan
+		size= 14174
+	}
+
+}
+2567 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 6042
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 15105
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 809
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 108
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 173
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 906
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = hellenic_pagan
+		size= 84751
+	}
+
+}

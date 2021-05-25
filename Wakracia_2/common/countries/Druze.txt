@@ -1,0 +1,143 @@
+graphical_culture = MiddleEasternGC
+color = { 170 204 255 }
+
+party = {
+	name = "SYR_reactionary"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = limited_citizenship
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "SYR_liberal"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "SYR_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = limited_citizenship
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "SYR_anarcho_liberal"
+	start_date = 1710.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pro_military
+}
+
+party = {
+	name = "SYR_socialist"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "SYR_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "SYR_fascist"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	citizenship_policy = limited_citizenship
+	economic_policy = state_capitalism
+	religious_policy = secularized
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+unit_names= {
+	dreadnought = {
+		Syriana "Salah Al-Din" "Sultan Pasha al-Atrash" "al-Hattin" "al-Hirasa" "Tawfiq Bay" Sham Halab Lattakia Homs Hama Palmyra 
+		"Mu'aviyye" Tartus "Faisal I" "Sayf al-Sultan" Zainab "Minat al-Baida" Baniyas Kadisia "al-Assad" "Ibrahim Hananu" Karrusa "al-Abyad" "Al-Hakim Bi-Amrih"	
+		
+	}
+	ironclad = {
+		Syriana "Salah Al-Din" "Sultan Pasha al-Atrash" "al-Hattin" "al-Hirasa" "Tawfiq Bay" Sham Halab Lattakia Homs Hama Palmyra 
+		"Mu'aviyye" Tartus "Faisal I" "Sayf al-Sultan" Zainab "Minat al-Baida" Baniyas Kadisia "al-Assad" Karrusa "al-Abyad" "Al-Hakim Bi-Amrih"	
+		
+	}
+	manowar = {
+		Syriana "Salah Al-Din" "Sultan Pasha al-Atrash" "al-Hattin" "al-Hirasa" "Tawfiq Bay" Sham Halab Lattakia Homs Hama Palmyra 
+		"Mu'aviyye" Tartus "Faisal I" "Sayf al-Sultan" Zainab "Minat al-Baida" Baniyas Kadisia "al-Assad" Karrusa "al-Abyad" "Al-Hakim Bi-Amrih"	
+		
+	}
+	cruiser = {
+		Syriana "Salah Al-Din" "Sultan Pasha al-Atrash" "al-Hattin" "al-Hirasa" "Tawfiq Bay" Sham Halab Lattakia Homs Hama Palmyra 
+		"Mu'aviyye" Tartus "Faisal I" "Sayf al-Sultan" Zainab "Minat al-Baida" Baniyas Kadisia "al-Assad" Karrusa "al-Abyad" "Al-Hakim Bi-Amrih"	
+		
+	}
+	frigate = {
+		Syriana "Salah Al-Din" "Sultan Pasha al-Atrash" "al-Hattin" "al-Hirasa" "Tawfiq Bay" Sham Halab Lattakia Homs Hama Palmyra 
+		"Mu'aviyye" Tartus "Faisal I" "Sayf al-Sultan" Zainab "Minat al-Baida" Baniyas Kadisia "al-Assad" Karrusa "al-Abyad" "Al-Hakim Bi-Amrih"	
+		
+	}
+	monitor = {
+		Syriana "Salah Al-Din" "Sultan Pasha al-Atrash" "al-Hattin" "al-Hirasa" "Tawfiq Bay" Sham Halab Lattakia Homs Hama Palmyra 
+		"Mu'aviyye" Tartus "Faisal I" "Sayf al-Sultan" Zainab "Minat al-Baida" Baniyas Kadisia "al-Assad" Karrusa "al-Abyad" "Al-Hakim Bi-Amrih"	
+		
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Syriana "Salah Al-Din" "Sultan Pasha al-Atrash" "al-Hattin" "al-Hirasa" "Tawfiq Bay" Sham Halab Lattakia Homs Hama Palmyra 
+		"Mu'aviyye" Tartus "Faisal I" "Sayf al-Sultan" Zainab "Minat al-Baida" Baniyas Kadisia "al-Assad" Karrusa "al-Abyad" "Al-Hakim Bi-Amrih"	
+		
+	}
+}

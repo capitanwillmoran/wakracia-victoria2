@@ -1,0 +1,7 @@
+owner=ORI
+controller=ORI
+add_core=HND
+trade_goods = tropical_wood
+life_rating = 35
+terrain = jungle
+colonial=2

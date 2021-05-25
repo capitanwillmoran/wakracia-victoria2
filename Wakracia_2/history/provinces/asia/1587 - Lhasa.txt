@@ -1,0 +1,7 @@
+owner=X16
+controller=CSH
+add_core=TIB
+trade_goods = cattle
+life_rating = 30
+terrain = plains
+colonial=2

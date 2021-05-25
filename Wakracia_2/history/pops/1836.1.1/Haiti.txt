@@ -1,0 +1,249 @@
+2213 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 10700
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 599
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 749
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 67
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = hellenic_pagan
+		size= 69096
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = hellenic_pagan
+		size= 3869
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = hellenic_pagan
+		size= 10423
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = hellenic_pagan
+		size= 484
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = hellenic_pagan
+		size= 223
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = hellenic_pagan
+		size= 156
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = hellenic_pagan
+		size= 938
+	}
+
+}
+2215 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 8448
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 473
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 591
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 71
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 21370
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 1197
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 3281
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 152
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 70
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 394
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = hellenic_pagan
+		size= 22392
+	}
+
+	soldiers=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 1254
+	}
+
+	artisans=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 3437
+	}
+
+	clergymen=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 160
+	}
+
+	bureaucrats=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 74
+	}
+
+	officers=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = novisvet
+		religion = hellenic_pagan
+		size= 412
+	}
+
+}

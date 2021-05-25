@@ -1,0 +1,8 @@
+owner=SLV
+controller=SLV
+add_core=NOR
+add_core=SCA
+trade_goods = grain
+life_rating = 35
+terrain = hills
+naval_base = 1

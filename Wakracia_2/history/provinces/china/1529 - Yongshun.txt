@@ -1,0 +1,8 @@
+owner=MNX
+controller=MNX
+add_core=CHI
+add_core=CMI
+add_core=MNX
+trade_goods = silk
+life_rating = 32
+terrain = hills
