@@ -1,5 +1,6 @@
 capital = 84
 primary_culture = dongren
+culture = sonoran
 culture = zzz_religion_mahayana
 religion = mahayana
 government = absolute_monarchy

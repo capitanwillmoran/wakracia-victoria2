@@ -1,6 +1,6 @@
 owner=CUB
 controller=CUB
-add_core=CUB
+add_core=VNZ
 trade_goods = tropical_wood
 life_rating = 25
 terrain = jungle

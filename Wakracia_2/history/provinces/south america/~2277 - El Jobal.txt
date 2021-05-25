@@ -1,8 +1,6 @@
 owner=CLM
 controller=CLM
 add_core=CAB
-add_core=VNZ
-add_core=CLM
 trade_goods = fruit
 life_rating = 25
 terrain = hills

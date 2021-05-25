@@ -1,6 +1,5 @@
 capital = 554
 primary_culture = north_german
-culture = czech
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy

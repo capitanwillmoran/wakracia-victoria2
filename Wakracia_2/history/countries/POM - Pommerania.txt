@@ -1,6 +1,5 @@
 capital = 626
-primary_culture = polish
-culture = czech
+primary_culture = north_german
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy
