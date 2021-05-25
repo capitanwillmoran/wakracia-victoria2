@@ -1,4 +1,4 @@
-graphical_culture = UsGC
+graphical_culture = IndianGC
 color = { 70 125 147 }
 
 party = {

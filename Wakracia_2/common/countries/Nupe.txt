@@ -1,4 +1,4 @@
-graphical_culture = UsGC
+graphical_culture = AfricanGC
 color = { 211 84 79 }
 
 party = {
