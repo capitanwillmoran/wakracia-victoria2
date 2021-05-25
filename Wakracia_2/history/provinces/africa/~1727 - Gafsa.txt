@@ -1,0 +1,6 @@
+owner=X05
+controller=X05
+trade_goods = wool
+life_rating = 35
+terrain = desert
+colonial=2
