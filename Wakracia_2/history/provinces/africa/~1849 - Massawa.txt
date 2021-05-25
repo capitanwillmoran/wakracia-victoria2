@@ -1,6 +1,5 @@
 owner=BYZ
 controller=BYZ
-add_core=ETH
 trade_goods = fruit
 life_rating = 35
 terrain = plains

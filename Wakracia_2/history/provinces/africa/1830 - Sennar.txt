@@ -2,6 +2,7 @@ owner=MKA
 controller=BYZ
 add_core=MKA
 add_core=NUB
+add_core=ETH
 trade_goods = grain
 life_rating = 30
 terrain = plains

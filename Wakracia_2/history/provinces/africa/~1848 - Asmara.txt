@@ -1,7 +1,7 @@
 owner=BYZ
 controller=BYZ
-add_core=ETH
+add_core=MED
 trade_goods = fruit
 life_rating = 35
-terrain = plains
+terrain = hills
 colonial=2

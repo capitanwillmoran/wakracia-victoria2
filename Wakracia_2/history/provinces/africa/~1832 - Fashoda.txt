@@ -1,6 +1,5 @@
 owner=MKA
 controller=MKA
-add_core=ETH
 add_core=NUB
 trade_goods = grain
 life_rating = 30

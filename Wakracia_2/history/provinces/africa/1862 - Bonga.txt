@@ -2,6 +2,7 @@ owner=BYZ
 controller=BYZ
 add_core=ENA
 add_core=KAF
+add_core=ETH
 trade_goods = grain
 life_rating = 30
 terrain = mountain

@@ -1,7 +1,7 @@
 owner=BYZ
 controller=BYZ
-add_core=ETH
-trade_goods = grain
+add_core=JIM
+trade_goods = coffee
 life_rating = 30
 terrain = mountain
 colonial=2

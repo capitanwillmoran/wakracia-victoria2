@@ -1,8 +1,7 @@
 owner=BYZ
 controller=BYZ
-add_core=HAR
-add_core=ETH
-trade_goods = grain
+add_core=SOM
+trade_goods = cattle
 life_rating = 15
 terrain = plains
 colonial=2
