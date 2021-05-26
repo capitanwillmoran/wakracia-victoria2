@@ -1,9 +1,8 @@
 owner=BYZ
 controller=BYZ
-add_core=PER
-add_core=IRQ
-add_core=X07
-trade_goods = cotton
+add_core=RDL
+add_core=SRN
+trade_goods = wool
 life_rating = 35
 terrain = mountain
 colonial=2

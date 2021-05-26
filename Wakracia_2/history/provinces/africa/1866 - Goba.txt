@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=JIM
+add_core=ETH
 trade_goods = cattle
 life_rating = 30
 terrain = hills

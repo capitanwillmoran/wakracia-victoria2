@@ -1,8 +1,8 @@
 owner=BYZ
 controller=BYZ
 add_core=PER
-add_core=IRQ
+add_core=X07
 trade_goods = fruit
 life_rating = 35
-terrain = marsh
+terrain = mountain
 colonial=2

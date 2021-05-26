@@ -1,8 +1,5 @@
 owner=BYZ
 controller=BYZ
-add_core=BYZ
-add_core=GRE
-add_core=ALB
-trade_goods = fish
+trade_goods = iron
 life_rating = 35
 terrain = plains
