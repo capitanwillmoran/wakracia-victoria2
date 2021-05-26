@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=BYZ
+add_core=X09
+trade_goods = fruit
+life_rating = 35
+terrain = plains
+naval_base = 2
