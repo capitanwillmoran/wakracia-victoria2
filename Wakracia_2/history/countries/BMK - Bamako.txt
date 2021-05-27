@@ -1,7 +1,8 @@
-capital = 2609
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+capital = 1794
+primary_culture = songhai
+culture = hausa
+culture = zzz_religion_west_african_pagan_reformed
+religion = west_african_pagan_reformed
 government = democracy
 plurality = 0
 nationalvalue = nv_order

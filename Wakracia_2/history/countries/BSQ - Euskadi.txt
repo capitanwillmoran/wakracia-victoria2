@@ -1,7 +1,7 @@
 capital = 492
 primary_culture = basque
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = zzz_religion_west_african_pagan_reformed
+religion = west_african_pagan_reformed
 government = democracy
 plurality = 0
 nationalvalue = nv_order

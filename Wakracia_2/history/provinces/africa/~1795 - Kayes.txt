@@ -1,0 +1,6 @@
+owner=MLI
+controller=MLI
+trade_goods = wool
+life_rating = 15
+terrain = plains
+colonial=2

@@ -1,6 +1,5 @@
 capital = 964
-primary_culture = greek
-culture = tatar
+primary_culture = tatar
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = prussian_constitutionalism

@@ -1,5 +1,6 @@
 capital = 984
 primary_culture = finnish
+culture = sami
 culture = zzz_religion_norse_pagan_reformed
 religion = norse_pagan_reformed
 government = absolute_monarchy

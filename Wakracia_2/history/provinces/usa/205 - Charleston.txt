@@ -2,6 +2,7 @@ owner=FLR
 controller=FLR
 add_core=USA
 add_core=FLR
+add_core=X29
 trade_goods = coal
 life_rating = 35
 terrain = farmlands

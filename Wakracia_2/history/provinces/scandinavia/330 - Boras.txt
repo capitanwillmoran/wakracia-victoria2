@@ -1,6 +1,7 @@
 owner=SLV
 controller=SLV
 add_core=SCA
+add_core=GOT
 add_core=SWE
 trade_goods = fish
 life_rating = 35

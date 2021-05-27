@@ -1,6 +1,5 @@
 capital = 1206
 primary_culture = tajik
-culture = pecheneg
 culture = tatar
 culture = zzz_religion_gelugpa
 religion = gelugpa

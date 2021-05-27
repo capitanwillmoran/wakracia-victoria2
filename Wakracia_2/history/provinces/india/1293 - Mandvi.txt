@@ -1,6 +1,7 @@
 owner=RAJ
 controller=JGD
 add_core=RAJ
+add_core=GUJ
 trade_goods = cotton
 life_rating = 32
 terrain = plains

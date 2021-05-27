@@ -2,6 +2,7 @@ owner=SLV
 controller=SLV
 add_core=NOR
 add_core=SCA
+add_core=GOT
 trade_goods = fish
 life_rating = 35
 terrain = hills

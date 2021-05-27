@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=SIC
+add_core=MLT
 trade_goods = fish
 life_rating = 35
 terrain = hills

@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=X15
+add_core=GEO
 trade_goods = fruit
 life_rating = 35
 terrain = mountain

@@ -1,7 +1,6 @@
 owner=CRI
 controller=CRI
 add_core=CRI
-add_core=GUJ
 trade_goods = opium
 life_rating = 25
 terrain = steppe

@@ -1,7 +1,7 @@
 capital = 252
 primary_culture = icelandic
-culture = zzz_religion_protestant
-religion = protestant
+culture = zzz_religion_norse_pagan_reformed
+religion = norse_pagan_reformed
 government = democracy
 plurality = 0
 nationalvalue = nv_liberty

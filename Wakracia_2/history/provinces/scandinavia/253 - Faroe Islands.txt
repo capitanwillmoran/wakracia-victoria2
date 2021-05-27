@@ -2,6 +2,7 @@ owner=ENG
 controller=ENG
 add_core=ICL
 add_core=SCA
+add_core=FRO
 trade_goods = fish
 life_rating = 35
 terrain = plains

@@ -1,7 +1,8 @@
 capital = 806
 primary_culture = macedonian
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = greek
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = democracy
 plurality = 0
 nationalvalue = nv_order

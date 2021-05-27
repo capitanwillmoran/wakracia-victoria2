@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=AWS
+add_core=ERI
 add_core=ETH
 trade_goods = fruit
 life_rating = 35

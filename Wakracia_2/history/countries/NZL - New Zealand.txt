@@ -1,6 +1,5 @@
 capital = 2511
-primary_culture = nanren
-culture = notios
+primary_culture = notios
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = presidential_dictatorship

@@ -2,6 +2,7 @@ owner=SLV
 controller=SLV
 add_core=SCA
 add_core=SWE
+add_core=GOT
 trade_goods = grain
 life_rating = 35
 terrain = plains

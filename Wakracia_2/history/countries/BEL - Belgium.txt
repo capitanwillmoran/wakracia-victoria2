@@ -1,7 +1,7 @@
 capital = 387
 primary_culture = wallonian
-culture = zzz_religion_catholic
-religion = catholic
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = hms_government
 plurality = 0
 nationalvalue = nv_liberty

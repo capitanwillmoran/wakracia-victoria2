@@ -1,7 +1,7 @@
 capital = 917
-primary_culture = outremer
-culture = zzz_religion_catholic
-religion = catholic
+primary_culture = mashriqi
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = theocracy
 plurality = 0
 nationalvalue = nv_order
