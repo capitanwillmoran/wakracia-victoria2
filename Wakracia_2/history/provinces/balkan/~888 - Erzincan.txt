@@ -1,7 +1,6 @@
 owner=BYZ
 controller=BYZ
 add_core=PCH
-add_core=PNT
 trade_goods = iron
 life_rating = 35
 terrain = hills

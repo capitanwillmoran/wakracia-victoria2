@@ -2,6 +2,7 @@ owner=BYZ
 controller=BYZ
 add_core=BYZ
 add_core=TBZ
+add_core=PNT
 trade_goods = fish
 life_rating = 35
 terrain = mountain

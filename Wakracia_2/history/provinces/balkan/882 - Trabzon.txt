@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=PCH
+add_core=PNT
 add_core=TBZ
 trade_goods = cattle
 life_rating = 35

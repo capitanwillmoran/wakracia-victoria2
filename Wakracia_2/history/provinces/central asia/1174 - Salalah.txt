@@ -2,6 +2,7 @@ owner=BYZ
 controller=BYZ
 add_core=ARA
 add_core=MHR
+add_core=OMA
 trade_goods = opium
 life_rating = 35
 terrain = desert

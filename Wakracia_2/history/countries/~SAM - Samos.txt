@@ -1,11 +1,11 @@
-capital = 273
-primary_culture = welsh
-culture = zzz_religion_norse_pagan_reformed
-religion = norse_pagan_reformed
-government = absolute_monarchy
+capital = 843
+primary_culture = dummy
+culture = zzz_religion_shamanist
+religion = shamanist
+government = hms_government
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.0399953
+literacy = 0
 
 civilized = yes
 
@@ -17,34 +17,33 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
-
-# political reforms
+# Political Reforms
 slavery=yes_slavery
 vote_franschise=none_voting
-upper_house_composition=party_appointed
-voting_system=first_past_the_post
-public_meetings=no_meeting
-press_rights=state_press
+upper_house_composition=appointed
+voting_system=jefferson_method
+public_meetings=yes_meeting
+press_rights=censored_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = ENG_reactionary
+ruling_party = GRE_conservative
 upper_house = 
 {
 	fascist = 0
-	liberal = 8
-	conservative = 86
-	reactionary = 6
+	liberal = 25
+	conservative = 65
+	reactionary = 10
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
 
 # Starting Consciousness
-consciousness = 1.66667
+consciousness = 0
 nonstate_consciousness= 0
 
 # Technologies
 prestige=0
-oob = "WHA_OOB.txt"
+oob = "SAM_OOB.txt"
 set_country_flag = religi

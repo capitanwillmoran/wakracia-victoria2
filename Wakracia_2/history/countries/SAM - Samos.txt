@@ -1,7 +1,7 @@
 capital = 843
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+primary_culture = greek
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = hms_government
 plurality = 0
 nationalvalue = nv_order

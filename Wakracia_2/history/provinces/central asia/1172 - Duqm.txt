@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=ARA
+add_core=OMA
 add_core=MHR
 trade_goods = fish
 life_rating = 35

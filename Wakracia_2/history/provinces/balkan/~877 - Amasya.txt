@@ -1,7 +1,7 @@
 owner=BYZ
 controller=BYZ
-add_core=PCH
-add_core=PNT
-trade_goods = iron
+add_core=BYZ
+add_core=GRE
+trade_goods = wool
 life_rating = 35
 terrain = hills
