@@ -122,3 +122,13 @@ nationalsyndicalist = {
 	appoint_ruling_party = yes
 	flagType = fascist
 }
+
+agrarist = {
+	#which ideology of parties.
+	agrarist = yes
+	
+	election = no
+	appoint_ruling_party = yes
+	flagType = republic
+}
+

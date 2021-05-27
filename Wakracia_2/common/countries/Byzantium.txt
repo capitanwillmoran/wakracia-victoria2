@@ -233,7 +233,7 @@ party = {
 	ideology = agrarist
 
 	citizenship_policy = residency
-	economic_policy = laissez_faire
+	economic_policy = agrarism
 	religious_policy = pro_atheism
 	trade_policy = free_trade
 	war_policy = pacifism
