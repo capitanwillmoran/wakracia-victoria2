@@ -1,5 +1,5 @@
 capital = 913
-primary_culture = phoenician
+primary_culture = mashriqi
 culture = zzz_religion_canaanite
 religion = canaanite
 government = democracy
