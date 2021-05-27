@@ -184,6 +184,20 @@ party = {
 }
 
 party = {
+	name = "BYZ_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = full_citizenship
+	economic_policy = interventionism
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
 	name = "BYZ_fascist"
 	start_date = 1905.1.1
 	end_date = 2000.1.1
@@ -195,6 +209,34 @@ party = {
 	religious_policy = moralism
 	trade_policy = protectionism
 	war_policy = jingoism
+}
+
+party = {
+	name = "BYZ_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "BYZ_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarist
+
+	citizenship_policy = residency
+	economic_policy = laissez_faire
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
 }
 unit_names= {
 	dreadnought = {

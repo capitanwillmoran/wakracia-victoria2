@@ -17,6 +17,7 @@ presidential_dictatorship = {
 	reactionary = yes
 	fascist = yes
 	conservative = yes
+	agrarist = yes
 	
 	election = no
 	appoint_ruling_party = yes
@@ -26,6 +27,7 @@ presidential_dictatorship = {
 bourgeois_dictatorship = {
 	#which ideology of parties.
 	anarcho_liberal = yes
+	agrarist = yes
 	
 	election = no
 	appoint_ruling_party = yes
@@ -35,6 +37,7 @@ bourgeois_dictatorship = {
 fascist_dictatorship = {
 	#which ideology of parties.
 	fascist = yes
+	nationalsyndicalist = yes
 	
 	election = no
 	appoint_ruling_party = yes
@@ -89,6 +92,9 @@ democracy = {
 	communist = yes
 	anarcho_liberal = yes
 	fascist = yes
+	agrarist = yes
+	nationalsyndicalist = yes
+	theocratic = yes
 	
 	
 	election = yes
@@ -101,10 +107,18 @@ theocracy = {
 	#which ideology of parties.
 	reactionary = yes
 	conservative = yes
+	theocratic = yes
 	
 	election = no
 	appoint_ruling_party = yes
 	flagType = monarchy
 }
- 
 
+nationalsyndicalist = {
+	#which ideology of parties.
+	nationalsyndicalist = yes
+	
+	election = no
+	appoint_ruling_party = yes
+	flagType = fascist
+}
