@@ -1,7 +1,6 @@
 owner=AST
 controller=AST
 add_core=AST
-add_core=ABO
 trade_goods = timber
 life_rating = 30
 terrain = plains
