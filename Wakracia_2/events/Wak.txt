@@ -1,0 +1,48 @@
+country_event = {
+
+	id = 85700
+	news = yes
+	news_desc_long = "EVTDESC85700_NEWS_LONG"
+	news_desc_medium = "EVTDESC85700_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC85700_NEWS_SHORT"
+
+	trigger = {
+		OR = { tag = BYZ tag = BYZ }
+		year = 1836
+		NOT = {
+			year = 1837
+		}
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 2
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1836
+		}
+	}
+
+	title = "EVTNAME85700"
+	desc = "EVTDESC85700"
+	picture = "sight"
+
+	option = {
+		name = "EVTOPTA85700"
+		prestige = -5
+		labourers = {
+			consciousness = 1
+		}
+		craftsmen = {
+			consciousness = 1
+		}
+		artisans = {
+			consciousness = 1
+		}
+		soldiers = {
+			consciousness = 1
+		}
+	}
+}
