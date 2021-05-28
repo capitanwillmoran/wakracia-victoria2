@@ -1,0 +1,70 @@
+#A House Divided
+country_event = {
+	id = 96000
+	title = "EVTNAME96000"
+	desc = "EVTDESC96000"
+	major = yes
+	
+	trigger = {
+		tag = BYZ
+		infamy = 15
+		militancy = 10
+		NOT = {
+			set_global_flag = magnagreek_civil_war_has_happened
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA96000"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = SIC
+			}
+			secede_province = SIC
+		}
+		SIC = {
+			capital = 749
+			leadership = 120
+		}
+		capital = 749
+		war = {
+			target = SIC
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		set_global_flag = magnagreek_civil_war_has_happened
+	}
+	
+	option = {
+		name = "EVTOPTB96000"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = SIC
+			}
+			secede_province = SIC
+		}
+		SIC = {
+			capital = 749
+			leadership = 120
+		}
+		capital = 749
+		set_global_flag = magnagreek_civil_war_has_happened
+	}
+}
