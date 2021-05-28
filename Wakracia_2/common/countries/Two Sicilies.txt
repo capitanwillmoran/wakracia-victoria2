@@ -1,4 +1,4 @@
-graphical_culture = Generic
+graphical_culture = ItalianGC
 color = { 73  152  76 }
 
 party = {

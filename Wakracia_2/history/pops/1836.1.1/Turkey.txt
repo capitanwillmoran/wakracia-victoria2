@@ -261,35 +261,35 @@
 861 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 961
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 6729
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 721
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 67
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 38
 	}
@@ -303,7 +303,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 39141
 	}
@@ -312,35 +312,35 @@
 862 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1618
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 11329
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1214
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 113
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 65
 	}
@@ -354,7 +354,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 65899
 	}
@@ -363,35 +363,35 @@
 863 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 2025
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 13684
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1509
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 142
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 81
 	}
@@ -405,7 +405,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 82023
 	}
@@ -424,53 +424,60 @@
 		size= 490
 	}
 
+	aristocrats=
+	{
+		culture = anatolian
+		religion = hellenic_pagan
+		size= 150
+	}
+
 }
 864 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 4775
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 7266
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 778
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 52
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 125
 	}
 
 	aristocrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 509
 	}
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 38393
 	}
@@ -479,49 +486,49 @@
 865 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 3094
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 4708
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 504
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 34
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 81
 	}
 
 	aristocrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 330
 	}
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 24880
 	}
@@ -530,49 +537,49 @@
 866 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1159
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1863
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 155
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 21
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 33
 	}
 
 	aristocrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 174
 	}
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 17295
 	}
@@ -581,49 +588,49 @@
 867 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 3859
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 207
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 28
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 270
 	}
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 19047
 	}
@@ -632,49 +639,49 @@
 868 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 4567
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 245
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 33
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 274
 	}
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 26440
 	}
@@ -683,35 +690,35 @@
 869 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 8016
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 9248
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1257
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 157
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 209
 	}
@@ -725,7 +732,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 64144
 	}
@@ -744,53 +751,59 @@
 		size= 2950
 	}
 
+	aristocrats=
+	{
+		culture = anatolian
+		religion = hellenic_pagan
+		size= 333
+	}
 }
 870 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 3455
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 8637
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 925
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 62
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 99
 	}
 
 	aristocrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1209
 	}
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 47308
 	}
@@ -799,49 +812,49 @@
 871 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 4348
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 10869
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1165
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 78
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 124
 	}
 
 	aristocrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 652
 	}
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 60398
 	}
@@ -850,49 +863,49 @@
 872 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 3345
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 358
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 24
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 234
 	}
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian               
 		religion = hellenic_pagan
 		size= 15777
 	}
@@ -901,21 +914,21 @@
 873 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 8971
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 8775
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 731
 	}
@@ -943,7 +956,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 77844
 	}
@@ -952,28 +965,28 @@
 874 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1710
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 4050
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 338
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 45
 	}
@@ -994,7 +1007,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 38425
 	}
@@ -1003,21 +1016,21 @@
 875 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 7233
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 7071
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 758
 	}
@@ -1038,14 +1051,14 @@
 
 	aristocrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 848
 	}
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 34484
 	}
@@ -1061,28 +1074,28 @@
 
 	artisans=
 	{
-		culture = lombard
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 4750
 	}
 
 	clergymen=
 	{
-		culture = lombard
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 254
 	}
 
 	bureaucrats=
 	{
-		culture = lombard
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 61
 	}
 
 	officers=
 	{
-		culture = lombard
+		culture = greek
 		religion = hellenic_pagan
 		size= 81
 	}
@@ -1096,7 +1109,7 @@
 
 	farmers=
 	{
-		culture = lombard
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 25373
 	}
@@ -1138,37 +1151,37 @@
 
 	aristocrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 223
 	}
 
 	farmers=
 	{
-		culture = greek
+		culture = lombard
 		religion = hellenic_pagan
-		size= 19856
+		size= 7856
 	}
 
 }
 877 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 4458
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 239
 	}
@@ -1196,7 +1209,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 22653
 	}
@@ -1254,35 +1267,35 @@
 
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1158
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 2728
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 511
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 95
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 109
 	}
@@ -1296,7 +1309,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 15505
 	}
@@ -1305,21 +1318,21 @@
 879 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 3141
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 5049
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 420
 	}
@@ -1347,7 +1360,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian   
 		religion = hellenic_pagan
 		size= 46842
 	}
@@ -1356,21 +1369,21 @@
 880 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 7233
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 6375
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 531
 	}
@@ -1398,7 +1411,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 55894
 	}
@@ -1407,21 +1420,21 @@
 881 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 2074
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 173
 	}
@@ -1449,7 +1462,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 19519
 	}
@@ -1458,49 +1471,49 @@
 882 = {
 	soldiers=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1100
 	}
 
 	artisans=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 7702
 	}
 
 	clergymen=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 413
 	}
 
 	bureaucrats=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 77
 	}
 
 	officers=
 	{
-		culture = pecheneg
+		culture = greek
 		religion = hellenic_pagan
 		size= 44
 	}
 
 	aristocrats=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 616
 	}
 
 	farmers=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 45063
 	}
@@ -1509,21 +1522,21 @@
 883 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 4094
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 341
 	}
@@ -1551,7 +1564,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 39349
 	}
@@ -1560,35 +1573,35 @@
 884 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1916
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 4791
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 257
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 34
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 55
 	}
@@ -1602,7 +1615,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 26883
 	}
@@ -1802,21 +1815,21 @@
 
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 367
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 2383
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 447
 	}
@@ -1844,7 +1857,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 14554
 	}
@@ -1951,21 +1964,21 @@
 
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 429
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 3479
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 186
 	}
@@ -1986,14 +1999,14 @@
 
 	aristocrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 209
 	}
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 3289
 	}
@@ -2002,98 +2015,98 @@
 888 = {
 	soldiers=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 3649
 	}
 
 	artisans=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 8491
 	}
 
 	clergymen=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 455
 	}
 
 	bureaucrats=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 60
 	}
 
 	officers=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 97
 	}
 
 	aristocrats=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 510
 	}
 
 	farmers=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 51890
 	}
 
 	soldiers=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = coptic
 		size= 749
 	}
 
 	artisans=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = coptic
 		size= 2502
 	}
 
 	clergymen=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = coptic
 		size= 134
 	}
 
 	bureaucrats=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = coptic
 		size= 18
 	}
 
 	officers=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = coptic
 		size= 29
 	}
 
 	aristocrats=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = coptic
 		size= 150
 	}
 
 	farmers=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = coptic
 		size= 9789
 	}
@@ -2102,49 +2115,49 @@
 889 = {
 	soldiers=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 2758
 	}
 
 	artisans=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 6895
 	}
 
 	clergymen=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 369
 	}
 
 	bureaucrats=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 49
 	}
 
 	officers=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 79
 	}
 
 	aristocrats=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 414
 	}
 
 	farmers=
 	{
-		culture = pecheneg
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 38686
 	}
@@ -2202,21 +2215,21 @@
 
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 242
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1639
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 307
 	}
@@ -2237,14 +2250,14 @@
 
 	aristocrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 344
 	}
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 9498
 	}
@@ -2253,84 +2266,84 @@
 891 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 184
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 184
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 34
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 39
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 8742
 	}
 
 	soldiers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = coptic
 		size= 158
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = coptic
 		size= 500
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = coptic
 		size= 94
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = coptic
 		size= 13
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = coptic
 		size= 10
 	}
@@ -2344,7 +2357,7 @@
 
 	farmers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = coptic
 		size= 7028
 	}
@@ -2451,49 +2464,49 @@
 
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 30
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 191
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 36
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 7
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 40
 	}
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1172
 	}
@@ -2502,98 +2515,98 @@
 893 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 744
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 744
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 139
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 19
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 182
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 35354
 	}
 
 	soldiers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = coptic
 		size= 569
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = coptic
 		size= 1882
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = coptic
 		size= 353
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = coptic
 		size= 47
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = coptic
 		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = greek
 		religion = coptic
 		size= 461
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = coptic
 		size= 25090
 	}
@@ -2602,35 +2615,35 @@
 894 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1210
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 8469
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 454
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 85
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 48
 	}
@@ -2644,7 +2657,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 48871
 	}
@@ -2653,14 +2666,14 @@
 895 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 2198
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 3345
 	}
@@ -2695,7 +2708,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 17886
 	}
@@ -2704,14 +2717,14 @@
 896 = {
 	soldiers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 864
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 3888
 	}
@@ -2746,7 +2759,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 37648
 	}
@@ -2755,49 +2768,49 @@
 898 = {
 	soldiers=
 	{
-		culture = mashriqi
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 3486
 	}
 
 	artisans=
 	{
-		culture = mashriqi
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 8716
 	}
 
 	clergymen=
 	{
-		culture = mashriqi
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 467
 	}
 
 	bureaucrats=
 	{
-		culture = mashriqi
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 112
 	}
 
 	officers=
 	{
-		culture = mashriqi
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 100
 	}
 
 	aristocrats=
 	{
-		culture = mashriqi
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 523
 	}
 
 	farmers=
 	{
-		culture = mashriqi
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 48852
 	}
@@ -2806,49 +2819,49 @@
 899 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 1685
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 7583
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 632
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 84
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 67
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 708
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = anatolian
 		religion = hellenic_pagan
 		size= 73492
 	}

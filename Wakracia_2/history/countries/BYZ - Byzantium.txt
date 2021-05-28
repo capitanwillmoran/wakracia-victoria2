@@ -34,11 +34,14 @@ upper_house =
 {
 	fascist = 0
 	liberal = 10
-	conservative = 84
+	conservative = 80
 	reactionary = 6
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
+	agrarist = 1
+	nationalsyndicalist = 0
+	theocratic = 3
 }
 
 # Starting Consciousness

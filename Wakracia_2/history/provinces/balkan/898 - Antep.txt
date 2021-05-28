@@ -1,6 +1,6 @@
 owner=BYZ
 controller=BYZ
-add_core=IRQ
+add_core=RUM
 add_core=SYR
 trade_goods = wool
 life_rating = 35

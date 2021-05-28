@@ -2,7 +2,7 @@ graphical_culture = EuropeanGC
 color = { 155 131 93 }
 
 party = {
-	name = "ENG_liberal"
+	name = "GRE_liberal"
 	start_date = 1680.1.1
 	end_date = 2000.1.1
 
@@ -16,7 +16,7 @@ party = {
 }
 
 party = {
-	name = "ENG_conservative"
+	name = "GRE_conservative"
 	start_date = 1000.1.1
 	end_date = 2000.1.1
 
@@ -30,7 +30,7 @@ party = {
 }
 
 party = {
-	name = "ENG_socialist"
+	name = "GRE_socialist"
 	start_date = 1790.1.1
 	end_date = 2000.1.1
 
@@ -44,7 +44,7 @@ party = {
 }
 
 party = {
-	name = "ENG_reactionary"
+	name = "GRE_reactionary"
 	start_date = 1680.1.1
 	end_date = 2000.1.1
 
@@ -58,7 +58,7 @@ party = {
 }
 
 party = {
-	name = "ENG_anarcho_liberal"
+	name = "GRE_anarcho_liberal"
 	start_date = 1710.1.1
 	end_date = 2000.1.1
 
@@ -72,7 +72,7 @@ party = {
 }
 
 party = {
-	name = "ENG_communist"
+	name = "GRE_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -86,7 +86,7 @@ party = {
 }
 
 party = {
-	name = "ENG_fascist"
+	name = "GRE_fascist"
 	start_date = 1900.1.1
 	end_date = 2000.1.1
 
