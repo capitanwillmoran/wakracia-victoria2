@@ -1,7 +1,8 @@
 owner=ENG
 controller=ENG
 add_core=ENG
-add_core=WHA
+add_core=CEL
+add_core=SCO
 trade_goods = coal
 life_rating = 35
 terrain = hills

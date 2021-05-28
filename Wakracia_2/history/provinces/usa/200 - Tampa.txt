@@ -2,6 +2,7 @@ owner=CUB
 controller=CUB
 add_core=X30
 add_core=X29
+add_core=FLR
 trade_goods = fruit
 life_rating = 25
 terrain = marsh

@@ -2,6 +2,7 @@ owner=ENG
 controller=ENG
 add_core=DNL
 add_core=WHA
+add_core=CEL
 trade_goods = iron
 life_rating = 35
 terrain = hills

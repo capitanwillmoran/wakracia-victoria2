@@ -1,6 +1,7 @@
 owner=ENG
 controller=ENG
 add_core=AES
+add_core=CEL
 add_core=ENG
 trade_goods = coal
 life_rating = 35

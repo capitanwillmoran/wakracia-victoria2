@@ -1,6 +1,8 @@
 owner=ENG
 controller=ENG
 add_core=DNL
+add_core=CEL
+add_core=WHA
 trade_goods = sulphur
 life_rating = 35
 terrain = woods
