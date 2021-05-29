@@ -33,6 +33,15 @@ country_event = {
 		SIC = {
 			capital = 749
 			leadership = 120
+		define_general = {
+   			name = "Ignaerium"
+   			picture = russian_general_12
+   			date = 1836.1.1
+   			type = land
+    			personality = soldierly
+    			background = aristocrat
+   			prestige = 0.9
+			}
 		}
 		war = {
 			target = SIC
@@ -62,6 +71,15 @@ country_event = {
 		SIC = {
 			capital = 749
 			leadership = 120
+		define_general = {
+   			name = "Ignaerium"
+   			picture = russian_general_12
+   			date = 1836.1.1
+   			type = land
+    			personality = soldierly
+    			background = aristocrat
+   			prestige = 0.9
+			}
 		}
 		set_global_flag = magnagreek_civil_war_has_happened
 	}
@@ -100,6 +118,15 @@ country_event = {
 		RUM = {
 			capital = 861
 			leadership = 120
+		define_general = {
+   			name = "Traxium"
+   			picture = russian_general_1
+   			date = 1836.1.1
+   			type = land
+			personality = implacable
+			background = gifted_administrator
+   			prestige = 10
+			}
 		}
 		war = {
 			target = RUM
@@ -129,6 +156,15 @@ country_event = {
 		RUM = {
 			capital = 861
 			leadership = 120
+		define_general = {
+   			name = "Traxium"
+   			picture = russian_general_1
+   			date = 1836.1.1
+   			type = land
+			personality = implacable
+			background = gifted_administrator
+   			prestige = 10
+			}
 		}
 		set_global_flag = anatolian_civil_war_has_happened
 	}

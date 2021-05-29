@@ -3,8 +3,8 @@
 
 #Leaders
 leader = {
-	name="Traxium"
-	date="1817.10.8"
+	name="Traxium Traximedes"
+	date="1836.1.1"
 	type=land
 	personality="implacable"
 	background="gifted_administrator"

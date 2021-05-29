@@ -3,12 +3,15 @@
 
 #Leaders
 leader = {
-	name="Ignaerium"
-	date="1812.10.8"
-	type=land
-	personality="merciless"
-	background="politician"
+    name = "Ignaerium Magnus"
+    picture = russian_general_12
+    date = 1836.1.1
+    type = land
+    personality = soldierly
+    background = aristocrat
+    prestige = 0.9
 }
+
 
 
 #Armies
