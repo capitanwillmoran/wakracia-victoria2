@@ -5627,6 +5627,14 @@ zzz_religions = {
 		last_names = { LNU }
 		
 	}
+	matense = {
+		color = { 199 232 152 }
+		
+		first_names = { Adamantios Aléxandros Anastásios Andréas Antónios Aristídis Athanásios Avgóstinos Venizélos Charálampos Charílaos Dimítrios Diomídis Elefthérios Emmanouíl Epameínontas Evripídis Gennaíos Geórgios Ilías Ionnis Kítsos Konstantínos Kyriákos Kyriakoúlis Leonídas Makários Márkos Míchael Militiadis Nikólaos Odysséas Óthon Panagiótis Pavlos Pétros Sofoklís Sotíris Spyridíon Spýros Stáïkos Stéfanos Stylianós Themistoklís Theódoros Tharývoulos Tzannís Vásos Víktor Zinóvios }
+		
+		last_names = { Charalámpis Christákis-Zográfos Daglis Dousmanis Foúmis Gonatás Chatzianéstis Kallérgis Kanáris Katsimiros Kolokotrónis Kondýlis Kountouriótis Kriezís Makriiánnis Mános Mavrokordátos Mavrovouniótis Metaxás Moúskos Níder Othonaíos Paláskas Pan'galos Papadiamantópoulos Papadópoulos Papágos Papoúlas Parakevópoulos Plapoútas Plastíras Sapountzákis Saráfis Smolénskis Sofoúlis Soútsos Spyromílios Staïkópoulos Stanotas tis Elládas Trikoúpis Tsakalótos Tsolákoglou Typáldos-Alfonsátos Tzavélas Vássos Venizélos Voúlgaris Zaïmis Zymvrakákis }
+		
+	}
 	
 }
 
