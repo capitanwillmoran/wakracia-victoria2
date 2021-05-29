@@ -3629,49 +3629,49 @@
 
 	soldiers=
 	{
-		culture = french
+		culture = bulgarian
 		religion = norse_pagan_reformed
 		size= 1594
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = bulgarian
 		religion = norse_pagan_reformed
 		size= 1993
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = bulgarian
 		religion = norse_pagan_reformed
 		size= 107
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = bulgarian
 		religion = norse_pagan_reformed
 		size= 26
 	}
 
 	officers=
 	{
-		culture = french
+		culture = bulgarian
 		religion = norse_pagan_reformed
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = bulgarian
 		religion = norse_pagan_reformed
 		size= 120
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = bulgarian
 		religion = norse_pagan_reformed
 		size= 23652
 	}
@@ -3685,49 +3685,49 @@
 
 	soldiers=
 	{
-		culture = french
+		culture = bulgarian
 		religion = hellenic_pagan
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = bulgarian
 		religion = hellenic_pagan
 		size= 6755
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = bulgarian
 		religion = hellenic_pagan
 		size= 362
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = bulgarian
 		religion = hellenic_pagan
 		size= 87
 	}
 
 	officers=
 	{
-		culture = french
+		culture = bulgarian
 		religion = hellenic_pagan
 		size= 77
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = bulgarian
 		religion = hellenic_pagan
 		size= 405
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = bulgarian
 		religion = hellenic_pagan
 		size= 21060
 	}
@@ -3848,49 +3848,49 @@
 
 	soldiers=
 	{
-		culture = french
+		culture = bulgarian
 		religion = hellenic_pagan
 		size= 195
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = bulgarian
 		religion = hellenic_pagan
 		size= 2098
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = bulgarian
 		religion = hellenic_pagan
 		size= 112
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = bulgarian
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	officers=
 	{
-		culture = french
+		culture = bulgarian
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = bulgarian
 		religion = hellenic_pagan
 		size= 126
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = bulgarian
 		religion = hellenic_pagan
 		size= 6711
 	}

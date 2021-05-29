@@ -1,21 +1,21 @@
 849 = {
 	soldiers=
 	{
-		culture = greek
+		culture = albanian
 		religion = hellenic_pagan
 		size= 3982
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = albanian
 		religion = hellenic_pagan
 		size= 2844
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = albanian
 		religion = hellenic_pagan
 		size= 533
 	}
@@ -43,7 +43,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = albanian
 		religion = hellenic_pagan
 		size= 61936
 	}

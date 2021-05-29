@@ -1,6 +1,5 @@
 capital = 2301
-primary_culture = neokosmi
-culture = aimara
+primary_culture = aimara
 culture = quechua
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
