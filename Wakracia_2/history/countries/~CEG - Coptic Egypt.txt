@@ -1,7 +1,7 @@
 capital = 1751
-primary_culture = misri
-culture = zzz_religion_coptic
-religion = coptic
+primary_culture = dummy
+culture = zzz_religion_shamanist
+religion = shamanist
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

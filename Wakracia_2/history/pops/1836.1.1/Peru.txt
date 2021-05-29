@@ -50,49 +50,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 239
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 433
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 70
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 22
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 91
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 7673
 	}
@@ -201,49 +201,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 52
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 93
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 1661
 	}
@@ -287,49 +287,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 54
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 94
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 1746
 	}
@@ -912,49 +912,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 7233
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 550
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 89
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 41
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 29
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 115
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 3663
 	}
@@ -1156,49 +1156,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 33
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 56
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 23
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 1032
 	}
@@ -1554,49 +1554,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 86
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 150
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 24
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 31
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 2751
 	}
@@ -1654,49 +1654,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 378
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 633
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 103
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 47
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 33
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 266
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 12026
 	}
@@ -1754,49 +1754,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 844
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 137
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 63
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 27
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 177
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = canonian
 		religion = hellenic_pagan
 		size= 12499
 	}

@@ -50,49 +50,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1324
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 96
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 50
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 124
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 11086
 	}
@@ -143,49 +143,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 73
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 352
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 25
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 13
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 33
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3150
 	}
@@ -236,49 +236,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 102
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 8
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1193
 	}
@@ -322,49 +322,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 35
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 171
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 6
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 16
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1530
 	}
@@ -415,49 +415,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 109
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 18
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 8
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 23
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1339
 	}
@@ -508,49 +508,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 107
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 8
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 22
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1288
 	}
@@ -594,49 +594,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 72
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 5
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 539
 	}
@@ -687,49 +687,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 109
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 18
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 8
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 23
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1326
 	}
@@ -773,98 +773,98 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 43
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 47
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 4
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 2061
 	}
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 60
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 4
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 116
 	}
@@ -908,49 +908,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 31
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 67
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 5
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 14
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1414
 	}
@@ -987,98 +987,98 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 30
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 33
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 2
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 1424
 	}
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 39
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 41
 	}
@@ -1122,49 +1122,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 71
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 5
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 509
 	}
@@ -1194,84 +1194,84 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 14
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 16
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 687
 	}
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 20
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 40
 	}
@@ -1301,84 +1301,84 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 15
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 17
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 730
 	}
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 20
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 21
 	}
@@ -1429,49 +1429,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 141
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 307
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 50
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 23
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 65
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 6469
 	}
@@ -1522,49 +1522,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 49
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 104
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 8
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 22
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2226
 	}
@@ -1608,49 +1608,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 167
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 6
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 16
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 490
 	}
@@ -1680,84 +1680,84 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 14
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 15
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 673
 	}
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 20
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 61
 	}
@@ -1787,98 +1787,98 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 28
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 30
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 2
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 1310
 	}
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 40
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 117
 	}
@@ -1922,49 +1922,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 32
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 69
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 5
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 14
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1455
 	}
@@ -2008,49 +2008,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 40
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 87
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 14
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 6
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 18
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1833
 	}
@@ -2087,49 +2087,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 16
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 35
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 745
 	}
@@ -2159,84 +2159,84 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 13
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 15
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 2
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = theravada
 		size= 636
 	}
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 19
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 58
 	}
@@ -2280,91 +2280,91 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 47
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 51
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 4
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = hindu
 		size= 2238
 	}
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 59
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 4
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 12
 	}
@@ -2401,49 +2401,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 36
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 757
 	}
@@ -2480,49 +2480,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 16
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 34
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 724
 	}
@@ -2559,49 +2559,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 36
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 757
 	}
@@ -2638,49 +2638,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 16
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 34
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 718
 	}
@@ -2717,49 +2717,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 36
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 757
 	}
@@ -2810,49 +2810,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 83
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 184
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 30
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 14
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 39
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3800
 	}
@@ -2903,49 +2903,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 43
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 96
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 7
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1984
 	}
@@ -2989,49 +2989,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 32
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 71
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 5
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1480
 	}
@@ -3068,49 +3068,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 14
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 32
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 662
 	}
@@ -3154,49 +3154,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 29
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 64
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 5
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1319
 	}
@@ -3226,42 +3226,42 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 8
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 18
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 380
 	}
@@ -3291,42 +3291,42 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 24
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 504
 	}
@@ -3363,49 +3363,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 14
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 32
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 662
 	}
@@ -3449,49 +3449,49 @@
 
 	soldiers=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 69
 	}
 
 	artisans=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 157
 	}
 
 	clergymen=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 26
 	}
 
 	bureaucrats=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 8
 	}
 
 	officers=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 33
 	}
 
 	farmers=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 3165
 	}
@@ -3535,49 +3535,49 @@
 
 	soldiers=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 26
 	}
 
 	artisans=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 60
 	}
 
 	clergymen=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 3
 	}
 
 	officers=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 1198
 	}
@@ -3607,42 +3607,42 @@
 
 	soldiers=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 22
 	}
 
 	clergymen=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 442
 	}
@@ -3730,42 +3730,42 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 7
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 16
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 325
 	}
@@ -3795,42 +3795,42 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 8
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 17
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 357
 	}
@@ -3860,35 +3860,35 @@
 
 	soldiers=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 9
 	}
 
 	clergymen=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = phianam
+		culture = carline
 		religion = sunni
 		size= 184
 	}
@@ -3918,49 +3918,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 24
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 52
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 4
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1099
 	}
@@ -3997,49 +3997,49 @@
 
 	soldiers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 12
 	}
 
 	artisans=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 27
 	}
 
 	clergymen=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 2
 	}
 
 	officers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = dakshin
+		culture = dakshinee
 		religion = jain
 		size= 561
 	}

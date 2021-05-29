@@ -1,6 +1,6 @@
 capital = 199
-primary_culture = neokosmi
-culture = afro_greek
+primary_culture = americangreek
+culture = afrogreek
 culture = muskogean
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan

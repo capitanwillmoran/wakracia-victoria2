@@ -1,7 +1,6 @@
 capital = 219
 primary_culture = nyasverigian
-culture = afro_norse
-culture = bomullborgar
+culture = afronorse
 culture = zzz_religion_norse_pagan_reformed
 religion = norse_pagan_reformed
 government = absolute_monarchy

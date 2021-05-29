@@ -1,5 +1,5 @@
 capital = 2222
-primary_culture = neokosmi
+primary_culture = afronorse
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = democracy

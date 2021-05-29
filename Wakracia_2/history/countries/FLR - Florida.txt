@@ -1,5 +1,5 @@
 capital = 243
-primary_culture = neokosmi
+primary_culture = americangreek
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = democracy

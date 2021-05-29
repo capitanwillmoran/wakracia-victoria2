@@ -1,5 +1,5 @@
 capital = 2295
-primary_culture = neokosmi
+primary_culture = canonian
 culture = chibchan
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan

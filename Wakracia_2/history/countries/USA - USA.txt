@@ -1,9 +1,7 @@
 capital = 195
-primary_culture = americano
+primary_culture = americangreek
 culture = cherokee
 culture = dixie
-culture = muskogean
-culture = native_american_minor
 culture = texan
 culture = yankee
 culture = zzz_religion_hellenic_pagan

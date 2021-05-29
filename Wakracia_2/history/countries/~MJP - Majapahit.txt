@@ -1,5 +1,5 @@
 capital = 2529
-primary_culture = melanesian
+primary_culture = javan
 culture = zzz_religion_hindu
 religion = hindu
 government = absolute_monarchy

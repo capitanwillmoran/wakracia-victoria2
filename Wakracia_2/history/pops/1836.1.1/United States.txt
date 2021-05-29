@@ -459,49 +459,49 @@
 
 	soldiers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 32
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 53
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 4
 	}
 
 	officers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 1028
 	}
@@ -557,7 +557,7 @@
 
 	farmers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = theravada
 		size= 7
 	}
@@ -1136,7 +1136,7 @@
 
 	farmers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 629
 	}
@@ -1213,91 +1213,91 @@
 
 	soldiers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 19
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 30
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 2
 	}
 
 	officers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 6
 	}
 
 	soldiers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = theravada
 		size= 32
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = theravada
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = theravada
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = theravada
 		size= 4
 	}
 
 	officers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = theravada
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = theravada
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = theravada
 		size= 1023
 	}
@@ -1327,112 +1327,112 @@
 
 	soldiers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 82
 	}
 
 	soldiers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = totemism
 		size= 9
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = totemism
 		size= 9
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = totemism
 		size= 1
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = totemism
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = totemism
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = totemism
 		size= 305
 	}
 
 	soldiers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = gelugpa
 		size= 14
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = gelugpa
 		size= 31
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = gelugpa
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = gelugpa
 		size= 2
 	}
 
 	officers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = gelugpa
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = gelugpa
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = gelugpa
 		size= 428
 	}
@@ -1555,7 +1555,7 @@
 
 	farmers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 270
 	}
@@ -1576,42 +1576,42 @@
 
 	soldiers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 62
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 5
 	}
 
 	officers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 13
 	}
@@ -1648,42 +1648,42 @@
 
 	soldiers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 62
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 255
 	}
@@ -1762,49 +1762,49 @@
 
 	soldiers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 110
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 18
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 8
 	}
 
 	officers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 23
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 2288
 	}
@@ -1848,49 +1848,49 @@
 
 	soldiers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 116
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 19
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 9
 	}
 
 	officers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 24
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 1412
 	}
@@ -2526,49 +2526,49 @@
 
 	soldiers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 114
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 4
 	}
 
 	officers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 944
 	}
@@ -2738,49 +2738,49 @@
 
 	soldiers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 65
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 2
 	}
 
 	officers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 523
 	}
@@ -2873,49 +2873,49 @@
 
 	soldiers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 13
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 59
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 5
 	}
 
 	officers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = qinlifornian
 		religion = mahayana
 		size= 1194
 	}
@@ -3393,49 +3393,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 18
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 55
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 793
 	}
@@ -3600,49 +3600,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 32
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 455
 	}
@@ -3656,49 +3656,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 7
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 21
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 296
 	}
@@ -4235,91 +4235,91 @@
 
 	soldiers=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = norse_pagan_reformed
 		size= 19
 	}
 
 	clergymen=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = norse_pagan_reformed
 		size= 242
 	}
 
 	soldiers=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = hellenic_pagan
 		size= 47
 	}
 
 	clergymen=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	officers=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = hellenic_pagan
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = hellenic_pagan
 		size= 298
 	}
@@ -4426,49 +4426,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 18
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 58
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 802
 	}
@@ -4554,49 +4554,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 41
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 198
 	}
@@ -4787,49 +4787,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 18
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 58
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 802
 	}
@@ -5320,49 +5320,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 30
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 422
 	}
@@ -5383,49 +5383,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 30
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 430
 	}
@@ -5588,49 +5588,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 14
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 33
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 200
 	}
@@ -5709,98 +5709,98 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 34
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 512
 	}
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 26
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 381
 	}
@@ -5851,42 +5851,42 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 20
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 57
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 876
 	}
@@ -5928,7 +5928,7 @@
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1
 	}
@@ -6021,49 +6021,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 30
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 86
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 14
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 4
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 18
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1276
 	}
@@ -6149,49 +6149,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 33
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 94
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 5
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1365
 	}
@@ -6249,49 +6249,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 61
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 960
 	}
@@ -6342,56 +6342,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 558
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 169
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 28
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 35
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1899
 	}
@@ -6463,56 +6463,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 344
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 64
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 148
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 24
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 31
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2546
 	}
@@ -6591,49 +6591,49 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 6
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 16
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 34
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 684
 	}
@@ -6691,49 +6691,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 26
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 62
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1171
 	}
@@ -6770,42 +6770,42 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 69
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 16
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 325
 	}
@@ -6849,56 +6849,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 184
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 119
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 21
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1249
 	}
@@ -6970,42 +6970,42 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 22
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1012
 	}
@@ -7098,49 +7098,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1123
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 189
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 58
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 245
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 11113
 	}
@@ -7212,49 +7212,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 590
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 96
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 30
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 124
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 3246
 	}
@@ -7326,49 +7326,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 109
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 284
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 46
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 14
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 60
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1911
 	}
@@ -7454,49 +7454,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 124
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 331
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 54
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 17
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 69
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2249
 	}
@@ -7617,49 +7617,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 171
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 466
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 76
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 24
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 98
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 5378
 	}
@@ -7745,49 +7745,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 43
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 118
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 19
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 6
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1957
 	}
@@ -7859,49 +7859,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 46
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 129
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 21
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 6
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 27
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2058
 	}
@@ -8178,49 +8178,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 56
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 157
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 26
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 8
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 33
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2503
 	}
@@ -8497,49 +8497,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 158
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 445
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 72
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 22
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 93
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 5412
 	}
@@ -8895,49 +8895,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 18
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 58
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 793
 	}
@@ -9065,49 +9065,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 114
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 19
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 6
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 24
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 529
 	}
@@ -9221,49 +9221,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 57
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 764
 	}
@@ -9356,49 +9356,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 16
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 55
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 697
 	}
@@ -9526,49 +9526,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 57
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 749
 	}
@@ -9661,91 +9661,91 @@
 
 	soldiers=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = norse_pagan_reformed
 		size= 19
 	}
 
 	clergymen=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = norse_pagan_reformed
 		size= 330
 	}
 
 	soldiers=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = hellenic_pagan
 		size= 48
 	}
 
 	clergymen=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	officers=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = hellenic_pagan
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = vinlanderr
 		religion = hellenic_pagan
 		size= 324
 	}
@@ -9845,49 +9845,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 15
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 54
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 646
 	}
@@ -9973,49 +9973,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 31
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 106
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 5
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 22
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1343
 	}
@@ -10080,49 +10080,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 8
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 27
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 340
 	}
@@ -10180,49 +10180,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 15
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 53
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 639
 	}
@@ -10322,49 +10322,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 57
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 746
 	}
@@ -10853,49 +10853,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 37
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 242
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 39
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 18
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 51
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3322
 	}
@@ -11030,49 +11030,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 147
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 595
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 66
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 42
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 27
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 178
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 9576
 	}
@@ -11335,56 +11335,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 451
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 77
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 486
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 79
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 36
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 102
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 6419
 	}
@@ -11577,56 +11577,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 1025
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 703
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3423
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 247
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 114
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 80
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 319
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 19206
 	}
@@ -11875,49 +11875,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 971
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 158
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 92
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 51
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 204
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 10119
 	}
@@ -12245,49 +12245,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 14
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 106
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 20
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 45
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1210
 	}
@@ -12373,49 +12373,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 81
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 34
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 877
 	}
@@ -12501,49 +12501,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 20
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 76
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 4
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 16
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 893
 	}
@@ -12878,49 +12878,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 226
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1406
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 228
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 134
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 46
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 295
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 20265
 	}
@@ -13050,56 +13050,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 1621
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 400
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2292
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 372
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 218
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 74
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 481
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 34532
 	}
@@ -13178,56 +13178,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 540
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 216
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1239
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 201
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 118
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 40
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 260
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 19002
 	}
@@ -13341,56 +13341,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 5500
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 546
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1181
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 192
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 89
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 62
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 248
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 11684
 	}
@@ -13455,56 +13455,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 6243
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1211
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2556
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 415
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 243
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 134
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 537
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 31896
 	}
@@ -13569,56 +13569,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 4988
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 168
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1059
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 172
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 79
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 34
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 222
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 10057
 	}
@@ -13732,56 +13732,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 3608
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 122
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 781
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 127
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 59
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 25
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 164
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 7291
 	}
@@ -13853,49 +13853,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 22733
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2918
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 474
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 146
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 95
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 613
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 17060
 	}
@@ -14132,49 +14132,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 357
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2220
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 160
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 49
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 32
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 414
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 11294
 	}
@@ -14246,49 +14246,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 792
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 1696
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 122
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 38
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 39
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 316
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 4951
 	}
@@ -14344,49 +14344,49 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 12
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 66
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 12
 	}
@@ -14507,49 +14507,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 169
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 374
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 27
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 10
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 35
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 709
 	}
@@ -14614,112 +14614,112 @@
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 99
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 42
 	}
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 401
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 207
 	}
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = totemism
 		size= 5503
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 209
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 569
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 93
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 28
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 239
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 3796
 	}
@@ -14784,56 +14784,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 2161
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 230
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 703
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 51
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 27
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 66
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2796
 	}
@@ -14905,49 +14905,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 96
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 278
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 45
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 21
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 58
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = west_african_pagan_reformed
 		size= 2466
 	}
@@ -14961,49 +14961,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1229
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 200
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 92
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 40
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 258
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 5971
 	}
@@ -15068,168 +15068,168 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 1014
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 39
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 41
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 9
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 857
 	}
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = totemism
 		size= 2196
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 85
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 114
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 19
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 9
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 24
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 1818
 	}
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = hellenic_pagan
 		size= 744
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = hellenic_pagan
 		size= 29
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = hellenic_pagan
 		size= 215
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = hellenic_pagan
 		size= 35
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = hellenic_pagan
 		size= 16
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = hellenic_pagan
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = hellenic_pagan
 		size= 45
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = hellenic_pagan
 		size= 356
 	}
@@ -15243,49 +15243,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 985
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 160
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 74
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 32
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 207
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 4608
 	}
@@ -15329,147 +15329,147 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 116
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 9
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 101
 	}
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = totemism
 		size= 180
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 7
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 24
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 2
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = totemism
 		size= 144
 	}
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = hellenic_pagan
 		size= 69
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = hellenic_pagan
 		size= 47
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = hellenic_pagan
 		size= 10
 	}
@@ -15483,49 +15483,49 @@
 
 	soldiers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 29
 	}
 
 	artisans=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 218
 	}
 
 	clergymen=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 7
 	}
 
 	officers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = americano
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 433
 	}
@@ -15553,56 +15553,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 1463
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 58
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 336
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 24
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 32
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 997
 	}
@@ -15667,56 +15667,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 2704
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 162
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 915
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 66
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 20
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 85
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 4148
 	}
@@ -15760,49 +15760,49 @@
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 72
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 63
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 1120
 	}
@@ -16009,56 +16009,56 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 2062
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 114
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 327
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 54
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 17
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 69
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 3018
 	}
@@ -16123,56 +16123,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 11204
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 267
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1503
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 244
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 113
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 49
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 316
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 12980
 	}
@@ -16237,56 +16237,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 19900
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 961
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1683
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 305
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 141
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 99
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 395
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 10648
 	}
@@ -16351,56 +16351,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 22779
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 451
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2522
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 410
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 189
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 82
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1060
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 17535
 	}
@@ -16465,56 +16465,56 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 4804
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 7233
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 852
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 138
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 43
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 28
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 358
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 2758
 	}
@@ -16579,56 +16579,56 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 5379
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 421
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 1172
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 190
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 59
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 246
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 13542
 	}
@@ -16693,56 +16693,56 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 7602
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 344
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 967
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 157
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 48
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 31
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 203
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 7879
 	}
@@ -16807,56 +16807,56 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 10027
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 1466
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 1435
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 234
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 72
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 76
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 302
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 12569
 	}
@@ -16970,56 +16970,56 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 18267
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 2955
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 2842
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 462
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 143
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 149
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 597
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 27364
 	}
@@ -17119,7 +17119,7 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 5682
 	}
@@ -17233,56 +17233,56 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 7510
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 311
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 833
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 135
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 42
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 27
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 175
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 6524
 	}
@@ -17347,56 +17347,56 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 6863
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 338
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 872
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 142
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 44
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 28
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 275
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 8347
 	}
@@ -17461,56 +17461,56 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 3454
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 418
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 68
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 21
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 88
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 2278
 	}
@@ -17682,56 +17682,56 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 5261
 	}
 
 	soldiers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 286
 	}
 
 	artisans=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 818
 	}
 
 	clergymen=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 133
 	}
 
 	bureaucrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 41
 	}
 
 	officers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 27
 	}
 
 	aristocrats=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 172
 	}
 
 	farmers=
 	{
-		culture = bomullborgar
+		culture = hellulander
 		religion = norse_pagan_reformed
 		size= 7572
 	}
@@ -17796,56 +17796,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 5172
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 129
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 761
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 124
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 57
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 25
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 160
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 6502
 	}
@@ -17910,7 +17910,7 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = cathar
 		size= 16859
 	}
@@ -18024,7 +18024,7 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 17212
 	}
@@ -18173,7 +18173,7 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 4649
 	}
@@ -18287,56 +18287,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 3667
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 116
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 617
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 100
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 46
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 259
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 6788
 	}
@@ -18401,56 +18401,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 4690
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 692
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3246
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 584
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 273
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 118
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 765
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 58476
 	}
@@ -18571,49 +18571,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 714
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1336
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 217
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 100
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 70
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 281
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 22773
 	}
@@ -18741,49 +18741,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1376
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 224
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 103
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 72
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 289
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 22723
 	}
@@ -18925,49 +18925,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 13433
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2230
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 362
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 168
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 117
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 468
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 24436
 	}
@@ -19081,56 +19081,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 1738
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1345
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2639
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 429
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 198
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 139
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 831
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 40732
 	}
@@ -19237,49 +19237,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 800
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 130
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 60
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 168
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 11864
 	}
@@ -19393,56 +19393,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 2524
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 246
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2854
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 206
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 95
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 41
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 533
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 18106
 	}
@@ -19500,49 +19500,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 464
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 858
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 139
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 82
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 45
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 180
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 14803
 	}
@@ -19600,49 +19600,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 396
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 732
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 119
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 70
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 154
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 12621
 	}
@@ -19756,56 +19756,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 3649
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 6105
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1050
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 488
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 342
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2051
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 111240
 	}
@@ -19891,49 +19891,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 476
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 855
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 139
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 64
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 45
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 269
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 15157
 	}
@@ -20054,49 +20054,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1478
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2757
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 448
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 262
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 145
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 579
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 47133
 	}
@@ -20317,49 +20317,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 857
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1795
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 292
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 135
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 94
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 377
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 27061
 	}
@@ -20775,56 +20775,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 1302
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1367
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2488
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 404
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 187
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 131
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1045
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 41901
 	}
@@ -20889,112 +20889,112 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 90
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 7
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 19
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 172
 	}
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = shamanism
 		size= 651
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = shamanism
 		size= 474
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = shamanism
 		size= 850
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = shamanism
 		size= 138
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = shamanism
 		size= 64
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = shamanism
 		size= 45
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = shamanism
 		size= 179
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = shamanism
 		size= 14524
 	}
@@ -21101,49 +21101,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2204
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 3839
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 624
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 326
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 202
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1209
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 70307
 	}
@@ -21201,49 +21201,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 661
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1162
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 189
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 87
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 61
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 488
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 20973
 	}
@@ -21336,49 +21336,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 172
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1072
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 50
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 23
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 129
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 4696
 	}
@@ -21501,49 +21501,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 1257
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2294
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 372
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 218
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 120
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 962
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 39672
 	}
@@ -21650,49 +21650,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 638
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 2744
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 198
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 104
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 64
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 384
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 18656
 	}
@@ -22111,56 +22111,56 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 6870
 	}
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 157
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 909
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 148
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 68
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 30
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 191
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = americangreek
 		religion = hellenic_pagan
 		size= 7330
 	}

@@ -1,7 +1,5 @@
 capital = 37
-primary_culture = neokosmi
-culture = central_algonquian
-culture = na_dene
+primary_culture = central_algonquian
 culture = plains_algonquian
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan

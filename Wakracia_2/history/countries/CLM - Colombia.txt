@@ -1,6 +1,6 @@
 capital = 2254
-primary_culture = north_andean
-culture = chibchan
+primary_culture = kepnian
+culture = afrogreek
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy

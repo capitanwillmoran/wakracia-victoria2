@@ -1,7 +1,5 @@
 capital = 2183
-primary_culture = neokosmi
-culture = mayan
-culture = nahua
+primary_culture = rogirian
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy

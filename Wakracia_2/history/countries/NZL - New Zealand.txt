@@ -1,5 +1,5 @@
 capital = 2511
-primary_culture = notios
+primary_culture = carline
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = presidential_dictatorship

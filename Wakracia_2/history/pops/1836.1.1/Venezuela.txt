@@ -136,21 +136,21 @@
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 135
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 28
 	}
@@ -164,28 +164,28 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 26
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 6
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 2414
 	}
@@ -243,49 +243,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 200
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 334
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 54
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 17
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 70
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 6455
 	}
@@ -485,49 +485,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 91
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 412
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 67
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 21
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 86
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 8414
 	}
@@ -685,49 +685,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 512
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 859
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 140
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 43
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 45
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 181
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 16484
 	}
@@ -785,49 +785,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 1078
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 175
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 54
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 57
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 226
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 19902
 	}
@@ -934,49 +934,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 291
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 488
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 79
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 24
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 102
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 9368
 	}
@@ -1083,49 +1083,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 476
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 804
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 131
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 40
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 42
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 169
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 15343
 	}
@@ -1183,49 +1183,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 246
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 40
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 51
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 4607
 	}
@@ -1418,49 +1418,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 7233
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 2047
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 95
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 44
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 31
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 246
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 2945
 	}
@@ -1597,49 +1597,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 6
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 30
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 577
 	}

@@ -201,49 +201,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = rogirian
 		religion = hellenic_pagan
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = rogirian
 		religion = hellenic_pagan
 		size= 535
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = rogirian
 		religion = hellenic_pagan
 		size= 87
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = rogirian
 		religion = hellenic_pagan
 		size= 26
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = rogirian
 		religion = hellenic_pagan
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = rogirian
 		religion = hellenic_pagan
 		size= 112
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = rogirian
 		religion = hellenic_pagan
 		size= 10063
 	}
@@ -287,49 +287,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = rogirian
 		religion = hellenic_pagan
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = rogirian
 		religion = hellenic_pagan
 		size= 94
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = rogirian
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = rogirian
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = rogirian
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = rogirian
 		religion = hellenic_pagan
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = rogirian
 		religion = hellenic_pagan
 		size= 920
 	}

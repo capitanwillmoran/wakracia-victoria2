@@ -1,7 +1,6 @@
 owner=BYZ
 controller=BYZ
 add_core=EGY
-add_core=COP
 trade_goods = grain
 life_rating = 35
 terrain = farmlands

@@ -85,70 +85,70 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 2491
 	}
 
 	craftsmen=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 3577
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 6906
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 641
 	}
 
 	clerks=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 239
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 168
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 104
 	}
 
 	capitalists=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 67
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 1243
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 7514
 	}
@@ -225,7 +225,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 17327
 	}
@@ -304,49 +304,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 2921
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 8205
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 762
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 200
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 123
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 985
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 6676
 	}
@@ -418,49 +418,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 1938
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 1539
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 250
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 115
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 80
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 647
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 6147
 	}
@@ -525,7 +525,7 @@
 
 	slaves=
 	{
-		culture = afro_slavic
+		culture = afroslavic
 		religion = hellenic_pagan
 		size= 40
 	}
@@ -581,49 +581,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 1173
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 191
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 88
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 61
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 493
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = atlantean
 		religion = hellenic_pagan
 		size= 4545
 	}

@@ -305,49 +305,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 163
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 272
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 44
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 14
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 57
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kepnian
 		religion = hellenic_pagan
 		size= 5255
 	}

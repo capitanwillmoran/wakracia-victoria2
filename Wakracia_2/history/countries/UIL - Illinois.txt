@@ -1,5 +1,5 @@
 capital = 193
-primary_culture = americano
+primary_culture = americangreek
 culture = zzz_religion_west_african_pagan_reformed
 religion = west_african_pagan_reformed
 government = absolute_monarchy

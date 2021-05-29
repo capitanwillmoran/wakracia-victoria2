@@ -1,0 +1,274 @@
+political_decisions = {
+ terra_nullius1 = {
+	potential = {
+		TAG = ARG
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = matense
+	}
+ }
+ terra_nullius2 = {
+	potential = {
+		TAG = PEU
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = canonian
+	}
+ }
+ terra_nullius3 = {
+	potential = {
+		TAG = CLM
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = kepnian
+	}
+ }
+ terra_nullius4 = {
+	potential = {
+		TAG = CUB
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = atlantean
+	}
+ }
+ terra_nullius5 = {
+	potential = {
+		TAG = MEX
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = rogirian
+	}
+ }
+ terra_nullius6 = {
+	potential = {
+		TAG = BRZ
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = afrobrazilian
+	}
+ }
+ terra_nullius7 = {
+	potential = {
+		TAG = JAM
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = afronorse
+	}
+ }
+ terra_nullius8 = {
+	potential = {
+		TAG = VNZ
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = kepnian
+	}
+ }
+ terra_nullius9 = {
+	potential = {
+		TAG = HAI
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = afroslavic
+	}
+ }
+ terra_nullius10 = {
+	potential = {
+		TAG = CRB
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = afroslavic
+	}
+ }
+ terra_nullius10 = {
+	potential = {
+		TAG = BAH
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = carribbean
+	}
+ }
+ terra_nullius10 = {
+	potential = {
+		TAG = NZL
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = carline
+	}
+ }
+ terra_nullius11 = {
+	potential = {
+		TAG = AST
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = dakshinee
+	}
+ }
+ terra_nullius12 = {
+	potential = {
+		TAG = CAL
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = qinlifornian
+	}
+ }
+ terra_nullius14 = {
+	potential = {
+		TAG = USA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = americangreek
+	}
+ }
+ terra_nullius16 = {
+	potential = {
+		TAG = X30
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = americangreek
+	}
+ }
+ terra_nullius15 = {
+	potential = {
+		TAG = FLR
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = americangreek
+	}
+ }
+ terra_nullius13 = {
+	potential = {
+		TAG = UIL
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = americangreek
+	}
+ }
+ terra_nullius17 = {
+	potential = {
+		TAG = X29
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = hellulander
+	}
+ }
+ terra_nullius18 = {
+	potential = {
+		TAG = ACA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = vinlanderr
+	}
+ }
+ terra_nullius19 = {
+	potential = {
+		TAG = PRI
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = afronorse
+	}
+ }

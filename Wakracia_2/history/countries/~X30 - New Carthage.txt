@@ -1,7 +1,9 @@
-capital = 84
-primary_culture = qinlifornian
-culture = zzz_religion_mahayana
-religion = mahayana
+capital = 199
+primary_culture = neokosmi
+culture = afro_greek
+culture = muskogean
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
@@ -20,20 +22,20 @@ school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
-vote_franschise=wealth_weighted_voting
-upper_house_composition=appointed
-voting_system=jefferson_method
+vote_franschise=none_voting
+upper_house_composition=party_appointed
+voting_system=first_past_the_post
 public_meetings=no_meeting
 press_rights=state_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = CAL_reactionary
+ruling_party = X30_reactionary
 upper_house = 
 {
 	fascist = 0
-	liberal = 9
-	conservative = 86
+	liberal = 10
+	conservative = 85
 	reactionary = 5
 	anarcho_liberal = 0
 	socialist = 0
@@ -41,38 +43,24 @@ upper_house =
 }
 
 # Starting Consciousness
-consciousness = 1.54347
-nonstate_consciousness= 0.00379694
+consciousness = 2.06859
+nonstate_consciousness= 0
 
 # Technologies
-ad_hoc_money_bill_printing = 1
-alphabetic_flag_signaling = 1
-basic_chemistry = 1
-battleship_column_doctrine = 1
 bronze_muzzle_loaded_artillery = 1
 classicism_n_early_romanticism = 1
 clipper_design = 1
 early_classical_theory_and_critique = 1
-enlightenment_thought = 1
 flintlock_rifles = 1
 freedom_of_trade = 1
 guild_based_production = 1
-introspectionism = 1
 late_enlightenment_philosophy = 1
-malthusian_thought = 1
-mechanized_mining = 1
-naval_design_bureaus = 1
 no_standard = 1
 post_nelsonian_thought = 1
 private_banks = 1
 publishing_industry = 1
-romanticism = 1
-steamers = 1
-stock_exchange = 1
 the_command_principle = 1
 water_wheel_power = 1
-prestige=3.74904
-oob = "CAL_OOB.txt"
-set_country_flag = post_colonial_country
-set_country_flag = postcol_1
+prestige=0
+oob = "X30_OOB.txt"
 set_country_flag = religi

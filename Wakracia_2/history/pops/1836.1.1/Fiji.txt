@@ -2,49 +2,49 @@
 	soldiers=
 	{
 		culture = melanesian
-		religion = animist
+		religion = shamanism
 		size= 373
 	}
 
 	artisans=
 	{
 		culture = melanesian
-		religion = animist
+		religion = shamanism
 		size= 746
 	}
 
 	clergymen=
 	{
 		culture = melanesian
-		religion = animist
+		religion = shamanism
 		size= 140
 	}
 
 	bureaucrats=
 	{
 		culture = melanesian
-		religion = animist
+		religion = shamanism
 		size= 19
 	}
 
 	officers=
 	{
 		culture = melanesian
-		religion = animist
+		religion = shamanism
 		size= 15
 	}
 
 	aristocrats=
 	{
 		culture = melanesian
-		religion = animist
+		religion = shamanism
 		size= 157
 	}
 
 	farmers=
 	{
 		culture = melanesian
-		religion = animist
+		religion = shamanism
 		size= 17199
 	}
 
@@ -53,49 +53,49 @@
 	soldiers=
 	{
 		culture = melanesian
-		religion = animist
+		religion = shamanism
 		size= 34
 	}
 
 	artisans=
 	{
 		culture = melanesian
-		religion = animist
+		religion = shamanism
 		size= 68
 	}
 
 	clergymen=
 	{
 		culture = melanesian
-		religion = animist
+		religion = shamanism
 		size= 13
 	}
 
 	bureaucrats=
 	{
 		culture = melanesian
-		religion = animist
+		religion = shamanism
 		size= 2
 	}
 
 	officers=
 	{
 		culture = melanesian
-		religion = animist
+		religion = shamanism
 		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = melanesian
-		religion = animist
+		religion = shamanism
 		size= 14
 	}
 
 	farmers=
 	{
 		culture = melanesian
-		religion = animist
+		religion = shamanism
 		size= 1563
 	}
 

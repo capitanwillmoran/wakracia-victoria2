@@ -64,49 +64,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 1284
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 1027
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 167
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 77
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 54
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 431
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 18662
 	}
@@ -164,49 +164,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 436
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 772
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 56
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 26
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 145
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 6339
 	}
@@ -257,49 +257,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 46
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 105
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 22
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 2095
 	}
@@ -357,49 +357,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 456
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 368
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 60
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 28
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 155
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 7062
 	}

@@ -2,7 +2,6 @@ owner=MKA
 controller=MKA
 add_core=MKA
 add_core=EGY
-add_core=COP
 add_core=NUB
 trade_goods = fruit
 life_rating = 30

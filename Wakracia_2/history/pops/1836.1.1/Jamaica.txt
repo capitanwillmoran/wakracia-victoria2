@@ -71,7 +71,7 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 75098
 	}
@@ -171,28 +171,28 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 14
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 39
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 5
 	}

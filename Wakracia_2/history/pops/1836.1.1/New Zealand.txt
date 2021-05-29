@@ -43,49 +43,49 @@
 
 	soldiers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 160
 	}
 
 	clergymen=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 26
 	}
 
 	bureaucrats=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 8
 	}
 
 	officers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 34
 	}
 
 	farmers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 2465
 	}
@@ -122,49 +122,49 @@
 
 	soldiers=
 	{
-		culture = nanren
+		culture = carline
 		religion = theravada
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = nanren
+		culture = carline
 		religion = theravada
 		size= 76
 	}
 
 	clergymen=
 	{
-		culture = nanren
+		culture = carline
 		religion = theravada
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = nanren
+		culture = carline
 		religion = theravada
 		size= 16
 	}
 
 	farmers=
 	{
-		culture = nanren
+		culture = carline
 		religion = theravada
 		size= 580
 	}
 
 	bureaucrats=
 	{
-		culture = nanren
+		culture = carline
 		religion = theravada
 		size= 4
 	}
 
 	officers=
 	{
-		culture = nanren
+		culture = carline
 		religion = theravada
 		size= 2
 	}
@@ -208,49 +208,49 @@
 
 	soldiers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 54
 	}
 
 	artisans=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 261
 	}
 
 	clergymen=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 19
 	}
 
 	bureaucrats=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 6
 	}
 
 	officers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 24
 	}
 
 	farmers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 2338
 	}
@@ -373,49 +373,49 @@
 
 	soldiers=
 	{
-		culture = nanren
+		culture = carline
 		religion = theravada
 		size= 16
 	}
 
 	artisans=
 	{
-		culture = nanren
+		culture = carline
 		religion = theravada
 		size= 36
 	}
 
 	clergymen=
 	{
-		culture = nanren
+		culture = carline
 		religion = theravada
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = nanren
+		culture = carline
 		religion = theravada
 		size= 2
 	}
 
 	officers=
 	{
-		culture = nanren
+		culture = carline
 		religion = theravada
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = nanren
+		culture = carline
 		religion = theravada
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = nanren
+		culture = carline
 		religion = theravada
 		size= 756
 	}
@@ -452,49 +452,49 @@
 
 	soldiers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 16
 	}
 
 	artisans=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 35
 	}
 
 	clergymen=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 2
 	}
 
 	officers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 751
 	}
@@ -538,49 +538,49 @@
 
 	soldiers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 71
 	}
 
 	clergymen=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 4
 	}
 
 	officers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 501
 	}
@@ -675,49 +675,49 @@
 
 	soldiers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 259
 	}
 
 	clergymen=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 19
 	}
 
 	bureaucrats=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 6
 	}
 
 	officers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = nanren
+		culture = carline
 		religion = mahayana
 		size= 1249
 	}
