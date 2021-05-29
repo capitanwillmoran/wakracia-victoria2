@@ -21,8 +21,8 @@ country_event = {
 	option = {
 		name = "EVTOPTA96000"
 		any_pop = {
-			consciousness = -7
-			militancy = -3
+			consciousness = 3
+			militancy = 3
 		}
 		any_owned = {
 			limit = {
@@ -34,7 +34,6 @@ country_event = {
 			capital = 749
 			leadership = 120
 		}
-		capital = 749
 		war = {
 			target = SIC
 			attacker_goal = {
@@ -64,7 +63,73 @@ country_event = {
 			capital = 749
 			leadership = 120
 		}
-		capital = 749
 		set_global_flag = magnagreek_civil_war_has_happened
+	}
+}
+
+#A House Divided
+country_event = {
+	id = 96001
+	title = "EVTNAME96001"
+	desc = "EVTDESC96001"
+	major = yes
+	
+	trigger = {
+		tag = BYZ
+		infamy = 15
+		militancy = 10
+		has_global_flag = magnagreek_civil_war_has_happened
+		}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA96001"
+		any_pop = {
+			consciousness = 3
+			militancy = 3
+		}
+		any_owned = {
+			limit = {
+				is_core = RUM
+			}
+			secede_province = RUM
+		}
+		RUM = {
+			capital = 861
+			leadership = 120
+		}
+		war = {
+			target = RUM
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		set_global_flag = anatolian_civil_war_has_happened
+	}
+	
+	option = {
+		name = "EVTOPTB96001"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = RUM
+			}
+			secede_province = RUM
+		}
+		RUM = {
+			capital = 861
+			leadership = 120
+		}
+		set_global_flag = anatolian_civil_war_has_happened
 	}
 }

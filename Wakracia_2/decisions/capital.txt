@@ -1,0 +1,17 @@
+move_capital_to_wakandinopla = {
+    picture = restore_washington_capital
+    potential = {
+		tag = BYZ
+		owns = 860
+		NOT = { capital = 860 }
+	}	
+	
+	allow = {
+		controls = 860
+		NOT = { capital = 860 }
+	}
+	
+	effect = {
+		capital = 860
+	}
+}

@@ -4,13 +4,14 @@
 #Leaders
 leader = {
 	name="Ignaerium"
-	date="1807.10.8"
+	date="1812.10.8"
 	type=land
 	personality="merciless"
 	background="politician"
 }
-#Armies
 
+
+#Armies
 
 army = {
 	name="Magna Greek Defender Guard"

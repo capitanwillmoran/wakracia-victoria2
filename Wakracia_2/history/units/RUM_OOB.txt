@@ -13,8 +13,6 @@ leader = {
 
 #Armies
 
-}
-
 army = {
 	name="Anatolian Guard"
 	location=861

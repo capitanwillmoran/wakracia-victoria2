@@ -508,6 +508,13 @@ leader = {
 	personality="hellbent"
 	background="cartographer"
 }
+leader = {
+	name="Pooky"
+	date="1812.10.8"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
 
 
 #Armies
