@@ -32,12 +32,15 @@ ruling_party = X09_conservative
 upper_house = 
 {
 	fascist = 0
-	liberal = 12
-	conservative = 83
+	liberal = 1
+	conservative = 35
 	reactionary = 5
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
+	agrarist = 0
+	nationalsyndicalist = 0
+	theocratic = 59
 }
 
 # Starting Consciousness

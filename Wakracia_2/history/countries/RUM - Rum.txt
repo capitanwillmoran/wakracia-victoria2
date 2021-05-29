@@ -1,8 +1,8 @@
 capital = 873
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
-government = absolute_monarchy
+primary_culture = anatolian
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
+government = bourgeois_dictatorship
 plurality = 0
 nationalvalue = nv_order
 literacy = 0
@@ -27,7 +27,7 @@ press_rights=censored_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = TUR_reactionary
+ruling_party = GRE_reactionary
 upper_house = 
 {
 	fascist = 0

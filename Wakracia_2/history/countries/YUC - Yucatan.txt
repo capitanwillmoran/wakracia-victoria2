@@ -1,7 +1,7 @@
 capital = 2183
 primary_culture = mayan
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = democracy
 plurality = 0
 nationalvalue = nv_order

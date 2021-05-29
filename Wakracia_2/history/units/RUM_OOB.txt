@@ -2,5 +2,64 @@
 
 
 #Leaders
+leader = {
+	name="Traxium Traximedes"
+	date="1836.1.1"
+	type=land
+	personality="implacable"
+	background="gifted_administrator"
+}
+
 
 #Armies
+
+army = {
+	name="Anatolian Guard"
+	location=861
+	regiment = {
+		name="2nd Infantry"
+		type=infantry
+		home=861
+	}
+	regiment = {
+		name="1st Infantry"
+		type=infantry
+		home=873
+	}
+	regiment = {
+		name="3rd Infantry"
+		type=infantry
+		home=862
+	}
+	regiment = {
+		name="4th Infantry"
+		type=infantry
+		home=874
+	}
+	regiment = {
+		name="5th Infantry"
+		type=infantry
+		home=878
+	}
+	regiment = {
+		name="6th Infantry"
+		type=infantry
+		home=884
+	}
+	regiment = {
+		name="1st Artillery"
+		type=artillery
+		home=891
+	}
+	regiment = {
+		name="2nd Artillery"
+		type=artillery
+		home=869
+	}
+	regiment = {
+		name="3rd Artillery"
+		type=artillery
+		home=889
+	}
+}
+
