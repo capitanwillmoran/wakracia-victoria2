@@ -683,42 +683,42 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 75
 	}
@@ -1048,49 +1048,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 16
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 87
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 14
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 7
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 18
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 634
 	}
@@ -1148,49 +1148,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 26
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 228
 	}
@@ -1241,49 +1241,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 22
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 159
 	}
@@ -1334,49 +1334,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 23
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 164
 	}
@@ -1434,49 +1434,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 46
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 7
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 406
 	}
@@ -1534,49 +1534,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 49
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 478
 	}
@@ -1634,49 +1634,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 53
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 489
 	}
@@ -1734,49 +1734,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 51
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 478
 	}
@@ -1848,49 +1848,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 16
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 69
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 14
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 667
 	}
@@ -1985,49 +1985,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 49
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 512
 	}
@@ -2078,49 +2078,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 516
 	}
@@ -2178,49 +2178,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 550
 	}
@@ -2278,49 +2278,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 6
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 246
 	}
@@ -2520,49 +2520,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 28
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 361
 	}
@@ -2648,49 +2648,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 7
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 318
 	}
@@ -2883,49 +2883,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 14
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 51
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 602
 	}
@@ -2997,49 +2997,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 51
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 577
 	}
@@ -3578,49 +3578,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 29
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 418
 	}
@@ -4025,49 +4025,49 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 107
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	officers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 232
 	}
@@ -4848,42 +4848,42 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 18
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 278
 	}
@@ -7264,42 +7264,42 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 202
 	}
@@ -7343,42 +7343,42 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 11
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 149
 	}
@@ -7582,35 +7582,35 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 17
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 128
 	}
@@ -7624,7 +7624,7 @@
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
@@ -7840,42 +7840,42 @@
 
 	soldiers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = kanada
 		religion = hellenic_pagan
 		size= 202
 	}

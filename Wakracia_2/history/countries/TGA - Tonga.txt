@@ -1,6 +1,5 @@
 capital = 2540
 primary_culture = polynesian
-culture = zzz_religion_shamanist
 religion = shamanist
 government = absolute_monarchy
 plurality = 0

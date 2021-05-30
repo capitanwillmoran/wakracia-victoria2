@@ -1,6 +1,7 @@
 capital = 37
 primary_culture = central_algonquian
 culture = plains_algonquian
+culture = kanada
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = democracy
@@ -29,7 +30,7 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=gerrymandering
 
-ruling_party = CAN_liberal
+ruling_party = GRE_liberal
 upper_house = 
 {
 	fascist = 0

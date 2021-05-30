@@ -1,5 +1,6 @@
-capital = 2454
-primary_culture = melanesian
+capital = 2540
+primary_culture = polynesian
+culture = zzz_religion_shamanist
 religion = shamanist
 government = absolute_monarchy
 plurality = 0
@@ -25,7 +26,7 @@ press_rights=censored_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = NWZ_liberal
+ruling_party = HAW_conservative
 upper_house = 
 {
 	fascist = 0
@@ -43,5 +44,5 @@ nonstate_consciousness= 0
 
 # Technologies
 prestige=0
-oob = "FIJ_OOB.txt"
+oob = "TGA_OOB.txt"
 set_country_flag = religi

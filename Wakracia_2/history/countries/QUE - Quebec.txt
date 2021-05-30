@@ -1,5 +1,5 @@
 capital = 65
-primary_culture = magnagreek
+primary_culture = kanada
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy
@@ -27,7 +27,7 @@ press_rights=state_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = ITA_reactionary
+ruling_party = GRE_reactionary
 upper_house = 
 {
 	fascist = 0

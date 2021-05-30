@@ -272,3 +272,29 @@ political_decisions = {
 		primary_culture = afronorse
 	}
  }
+ terra_nullius20 = {
+	potential = {
+		TAG = X05
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = berber
+	}
+ }
+ terra_nullius21 = {
+	potential = {
+		TAG = QUE
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = kanada
+	}
+ }

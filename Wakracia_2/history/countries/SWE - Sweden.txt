@@ -1,5 +1,5 @@
-capital = 203
-primary_culture = hjartnaaeter
+capital = 344
+primary_culture = swedish
 culture = finnish
 culture = sami
 culture = ugrian
