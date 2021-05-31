@@ -64,7 +64,7 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 			quadTextureSprite ="GFX_frontend_button_236"	
 			buttonText = "EXIT"
-			buttonFont = "vic_22_black"
+			buttonFont = "vic_22"
 		}
 		
 		### PLAYER INFO
@@ -432,7 +432,7 @@ guiTypes = {
 				position = { x = 560 y = 166 }
 				quadTextureSprite ="GFX_button_standard_177"	
 				buttonText = "LEDGER"
-				buttonFont = "vic_18_black"
+				buttonFont = "vic_18"
 				Orientation = "UPPER_LEFT"
 			}
 		}	
