@@ -692,6 +692,43 @@ style =
 			picture = "news/greek_newspaper_title.dds"
 		}
 
+		case = {
+			trigger = { ruling_party_ideology = communist}
+			picture = "news/BYZ_communist_newspaper_title.dds"
+		}
+
+		case = {
+			trigger = { ruling_party_ideology = fascist }
+			picture = "news/BYZ_facist_newspaper_title_title.dds"
+		}
+
+		case = {
+			trigger = {ruling_party_ideology = reactionary }
+			picture = "news/BYZ_reactionary_newspaper_title.dds"
+		}
+
+		# BYZ ###################
+
+		case =	{
+			trigger = { tag = BYZ }
+			picture = "news/greek_newspaper_title.dds"
+		}
+
+		case = {
+			trigger = { ruling_party_ideology = communist}
+			picture = "news/BYZ_communist_newspaper_title.dds"
+		}
+
+		case = {
+			trigger = { ruling_party_ideology = fascist }
+			picture = "news/BYZ_facist_newspaper_title_title.dds"
+		}
+
+		case = {
+			trigger = {ruling_party_ideology = reactionary }
+			picture = "news/BYZ_reactionary_newspaper_title.dds"
+		}
+
 		# TUR ###################
 		case =	{
 			trigger = { tag = TUR }

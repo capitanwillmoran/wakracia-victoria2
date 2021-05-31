@@ -78,7 +78,7 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 21529
 	}
@@ -155,70 +155,70 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = carribean
 		religion = west_african_pagan_reformed
 		size= 482
 	}
 
 	soldiers=
 	{
-		culture = caribeno
+		culture = carribean
 		religion = west_african_pagan_reformed
 		size= 2061
 	}
 
 	craftsmen=
 	{
-		culture = caribeno
+		culture = carribean
 		religion = west_african_pagan_reformed
 		size= 2959
 	}
 
 	artisans=
 	{
-		culture = caribeno
+		culture = carribean
 		religion = west_african_pagan_reformed
 		size= 6265
 	}
 
 	clergymen=
 	{
-		culture = caribeno
+		culture = carribean
 		religion = west_african_pagan_reformed
 		size= 582
 	}
 
 	clerks=
 	{
-		culture = caribeno
+		culture = carribean
 		religion = west_african_pagan_reformed
 		size= 217
 	}
 
 	bureaucrats=
 	{
-		culture = caribeno
+		culture = carribean
 		religion = west_african_pagan_reformed
 		size= 152
 	}
 
 	officers=
 	{
-		culture = caribeno
+		culture = carribean
 		religion = west_african_pagan_reformed
 		size= 94
 	}
 
 	capitalists=
 	{
-		culture = caribeno
+		culture = carribean
 		religion = west_african_pagan_reformed
 		size= 61
 	}
 
 	aristocrats=
 	{
-		culture = caribeno
+		culture = carribean
 		religion = west_african_pagan_reformed
 		size= 1127
 	}
@@ -232,7 +232,7 @@
 
 	farmers=
 	{
-		culture = caribeno
+		culture = carribean
 		religion = west_african_pagan_reformed
 		size= 5685
 	}
@@ -297,7 +297,7 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 32292
 	}
@@ -411,7 +411,7 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 23902
 	}
@@ -574,7 +574,7 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 15616
 	}

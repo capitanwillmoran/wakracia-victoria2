@@ -1,35 +1,35 @@
 2131 = {
 	soldiers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	clergymen=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 63
 	}
@@ -38,14 +38,14 @@
 2133 = {
 	artisans=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = neokosmi
+		culture = matense
 		religion = hellenic_pagan
 		size= 12
 	}

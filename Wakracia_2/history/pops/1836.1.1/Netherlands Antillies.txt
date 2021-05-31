@@ -43,7 +43,7 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 2642
 	}
@@ -122,7 +122,7 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 528
 	}
@@ -194,7 +194,7 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 650
 	}
@@ -222,7 +222,7 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = west_african_pagan_reformed
 		size= 381
 	}

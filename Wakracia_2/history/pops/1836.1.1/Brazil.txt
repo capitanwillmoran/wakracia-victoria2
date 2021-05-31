@@ -1866,7 +1866,7 @@
 
 	slaves=
 	{
-		culture = afro_caribbean
+		culture = afrocaribbean
 		religion = catholic
 		size= 643
 	}
