@@ -9,9 +9,7 @@ country_event = {
 		tag = BYZ
 		infamy = 15
 		militancy = 1
-		NOT = {
-			exists = SIC
-		}
+		NOT = {exists = SIC}
 	}
 	
 	mean_time_to_happen = {
@@ -52,6 +50,7 @@ country_event = {
 			defender_goal = {
 				casus_belli = status_quo
 			}
+		set_global_flag = italian_civil_war_happened
 		}
 	}
 	
@@ -102,7 +101,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTA96001"
+		name = "EVTOPTB96001"
 		any_pop = {
 			consciousness = 5
 			militancy = 3
@@ -139,7 +138,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTB96001"
+		name = "EVTOPTA96001"
 		any_pop = {
 			consciousness = -7
 			militancy = -3
@@ -175,6 +174,7 @@ country_event = {
 	
 	trigger = {
 		tag = BYZ
+		tag = GRE
 		infamy = 15
 		militancy = 5
 		exists = RUM
@@ -309,6 +309,42 @@ country_event = {
 			background = butcher
    			prestige = 1
 			}
+		}
+	}
+}
+
+country_event = { 
+	id = 96003
+	title = EVTNAME96003
+	desc = EVTDESC96003
+
+	trigger = { 
+		tag = BYZ
+		RUM = { exists = yes }
+		SIC = { exists = yes }
+	}
+
+	mean_time_to_happen = { months = 1 }
+
+	option = { 
+		name = EVTOPTA96003
+		BYZ = {
+			all_core = {
+				limit = { is_primary_culture = yes } #workaround to get Greek provinces
+				add_core = GRE
+			}
+		}
+		BYZ = {
+			all_core = { remove_core = BYZ }
+		change_tag = GRE
+		}
+	}
+
+	option = { 
+		name = EVTOPTB96003
+		any_pop = {
+			consciousness = 10
+			militancy = 10
 		}
 	}
 }

@@ -1338,6 +1338,7 @@ country_event = {
 
 	trigger = { 
 		tag = BYZ
+		year = 1914
 		number_of_states = 3
 		NOT = { has_global_flag = greek_BYZ }
 	}

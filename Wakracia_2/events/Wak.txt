@@ -109,3 +109,19 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = 97000
+	title = EVT97000TITLE
+	desc = EVT97000DESC
+	picture = observer
+	major = yes
+	
+	trigger = {
+		ai = no
+		NOT = { has_global_flag = hello_player }
+	}
+	option = {
+		name = EVT97000PLAY
+		set_global_flag = hello_player
+	}

@@ -9,6 +9,7 @@ country_event = {
 	trigger = {
 		ai = no
 		NOT = { has_global_flag = hello_player }
+		year = 2000
 	}
 	
 	mean_time_to_happen = { months = 0.0001 }
@@ -441,7 +442,7 @@ country_event = {
 		}
 		total_pops = 1
 		capital_scope = {
-			pop_majority_culture = afro_brazilian
+			pop_majority_culture = afrobrazilian
 		}
 	}
 
@@ -451,7 +452,7 @@ country_event = {
 
 	option = {
 		name = EVTOPTA000002
-		primary_culture = afro_brazilian
+		primary_culture = afrobrazilian
 	}
 }
 country_event = {
@@ -467,7 +468,7 @@ country_event = {
 		}
 		total_pops = 1
 		capital_scope = {
-			pop_majority_culture = afro_caribbean
+			pop_majority_culture = afrocaribbean
 		}
 	}
 
@@ -477,7 +478,7 @@ country_event = {
 
 	option = {
 		name = EVTOPTA000002
-		primary_culture = afro_caribbean
+		primary_culture = afrocaribbean
 	}
 }
 country_event = {
@@ -545,7 +546,7 @@ country_event = {
 		}
 		total_pops = 1
 		capital_scope = {
-			pop_majority_culture = afro_greek
+			pop_majority_culture = afrogreek
 		}
 	}
 
@@ -555,7 +556,7 @@ country_event = {
 
 	option = {
 		name = EVTOPTA000002
-		primary_culture = afro_greek
+		primary_culture = afrogreek
 	}
 }
 country_event = {
@@ -597,7 +598,7 @@ country_event = {
 		}
 		total_pops = 1
 		capital_scope = {
-			pop_majority_culture = afro_norse
+			pop_majority_culture = afronorse
 		}
 	}
 
@@ -607,7 +608,7 @@ country_event = {
 
 	option = {
 		name = EVTOPTA000002
-		primary_culture = afro_norse
+		primary_culture = afronorse
 	}
 }
 country_event = {
@@ -623,7 +624,7 @@ country_event = {
 		}
 		total_pops = 1
 		capital_scope = {
-			pop_majority_culture = afro_slavic
+			pop_majority_culture = afroslavic
 		}
 	}
 
@@ -633,7 +634,7 @@ country_event = {
 
 	option = {
 		name = EVTOPTA000002
-		primary_culture = afro_slavic
+		primary_culture = afroslavic
 	}
 }
 country_event = {
