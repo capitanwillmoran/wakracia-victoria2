@@ -101,98 +101,98 @@
 924 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 209
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 209
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 39
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 44
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 9949
 	}
 
 	soldiers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 250
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 709
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 133
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 18
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 149
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 11218
 	}
@@ -252,49 +252,49 @@
 926 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = monophysite
 		size= 1209
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = monophysite
 		size= 1514
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = monophysite
 		size= 378
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = monophysite
 		size= 60
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = monophysite
 		size= 48
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = monophysite
 		size= 508
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = monophysite
 		size= 52718
 	}
@@ -464,91 +464,91 @@
 
 	soldiers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 248
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 248
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 46
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 6
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 52
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 11791
 	}
 
 	soldiers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 256
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 48
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 6
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 54
 	}
@@ -557,98 +557,98 @@
 928 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = monophysite
 		size= 178
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = monophysite
 		size= 622
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = monophysite
 		size= 33
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = monophysite
 		size= 4
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = monophysite
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = monophysite
 		size= 37
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = monophysite
 		size= 8006
 	}
 
 	soldiers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 233
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 2253
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 121
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 16
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 135
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 8879
 	}
@@ -657,49 +657,49 @@
 929 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 504
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 2268
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 189
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 35
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 212
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 21969
 	}
@@ -757,49 +757,49 @@
 
 	soldiers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 158
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 643
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 121
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 23
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 135
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 6828
 	}
@@ -808,49 +808,49 @@
 931 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 37
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 74
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 14
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 16
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 1716
 	}
@@ -959,49 +959,49 @@
 933 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 684
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 1368
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 257
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 34
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 27
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 287
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 31543
 	}
@@ -1010,49 +1010,49 @@
 934 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 432
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 863
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 162
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 22
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 181
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = coptic
 		size= 19899
 	}

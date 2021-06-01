@@ -1,5 +1,5 @@
-capital = 354
-primary_culture = mashriqi
+capital = 1412
+primary_culture = bedouin
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = prussian_constitutionalism

@@ -357,126 +357,126 @@
 
 	slaves=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 114
 	}
 
 	soldiers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 24
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 11
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 481
 	}
 
 	slaves=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 10
 	}
 
 	soldiers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 13
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 31
 	}
 
 	slaves=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = sunni
 		size= 43
 	}
 
 	soldiers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = sunni
 		size= 9
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = sunni
 		size= 41
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = sunni
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = sunni
 		size= 144
 	}
@@ -485,49 +485,49 @@
 1172 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 31
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 214
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 1255
 	}

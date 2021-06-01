@@ -1,6 +1,5 @@
 owner=BYZ
 controller=BYZ
-add_core=SYR
 add_core=RUM
 trade_goods = iron
 life_rating = 35

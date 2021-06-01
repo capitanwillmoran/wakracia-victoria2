@@ -1,10 +1,7 @@
 owner=BYZ
 controller=BYZ
-add_core=SYR
-add_core=BAB
-add_core=JER
-add_core=PLS
+add_core=IRQ
 trade_goods = grain
 life_rating = 35
-terrain = plains
+terrain = desert
 colonial=2

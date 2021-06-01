@@ -8,9 +8,9 @@ country_event = {
 	trigger = {
 		tag = BYZ
 		infamy = 15
-		militancy = 10
+		militancy = 1
 		NOT = {
-			set_global_flag = magnagreek_civil_war_has_happened
+			exists = SIC
 		}
 	}
 	
@@ -21,7 +21,7 @@ country_event = {
 	option = {
 		name = "EVTOPTA96000"
 		any_pop = {
-			consciousness = 3
+			consciousness = 7
 			militancy = 3
 		}
 		any_owned = {
@@ -53,7 +53,6 @@ country_event = {
 				casus_belli = status_quo
 			}
 		}
-		set_global_flag = magnagreek_civil_war_has_happened
 	}
 	
 	option = {
@@ -81,7 +80,6 @@ country_event = {
    			prestige = 0.9
 			}
 		}
-		set_global_flag = magnagreek_civil_war_has_happened
 	}
 }
 
@@ -95,8 +93,8 @@ country_event = {
 	trigger = {
 		tag = BYZ
 		infamy = 15
-		militancy = 10
-		has_global_flag = magnagreek_civil_war_has_happened
+		militancy = 5
+		exists = SIC
 		}
 	
 	mean_time_to_happen = {
@@ -106,7 +104,7 @@ country_event = {
 	option = {
 		name = "EVTOPTA96001"
 		any_pop = {
-			consciousness = 3
+			consciousness = 5
 			militancy = 3
 		}
 		any_owned = {
@@ -138,7 +136,6 @@ country_event = {
 				casus_belli = status_quo
 			}
 		}
-		set_global_flag = anatolian_civil_war_has_happened
 	}
 	
 	option = {
@@ -166,6 +163,152 @@ country_event = {
    			prestige = 10
 			}
 		}
-		set_global_flag = anatolian_civil_war_has_happened
+	}
+}
+
+#A House Divided
+country_event = {
+	id = 96002
+	title = "EVTNAME96002"
+	desc = "EVTDESC96002"
+	major = yes
+	
+	trigger = {
+		tag = BYZ
+		infamy = 15
+		militancy = 5
+		exists = RUM
+		}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA96002"
+		any_pop = {
+			consciousness = 5
+			militancy = 3
+		}
+		any_owned = {
+			limit = {
+				is_core = BAB
+			}
+			secede_province = BAB
+		}
+		BAB = {
+			capital = 926
+			leadership = 60
+		define_general = {
+   			name = "Synkrouomai Ispania"
+   			picture = russian_general_2
+   			date = 1846.1.1
+   			type = land
+			personality = brutish
+			background = butcher
+   			prestige = 1
+			}
+		define_general = {
+   			name = "Liones"
+   			picture = russian_general_3
+   			date = 1846.1.1
+   			type = land
+			personality = vicious
+			background = old_school
+   			prestige = 1
+			}
+		}
+		war = {
+			target = BAB
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB96002"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = BAB
+			}
+			secede_province = BAB
+		}
+		BAB = {
+			capital = 926
+			leadership = 60
+		define_general = {
+   			name = "Synkrouomai Ispania"
+   			picture = russian_general_2
+   			date = 1846.1.1
+   			type = land
+			personality = brutish
+			background = butcher
+   			prestige = 1
+			}
+		define_general = {
+   			name = "Liones"
+   			picture = russian_general_3
+   			date = 1846.1.1
+   			type = land
+			personality = vicious
+			background = old_school
+   			prestige = 1
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTC96002"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = SYR
+			}
+			secede_province = SYR
+		}
+		any_owned = {
+			limit = {
+				is_core = IRQ
+			}
+			secede_province = IRQ
+		}
+		IRQ = {
+			capital = 926
+			leadership = 30
+		define_general = {
+   			name = "Liones"
+   			picture = russian_general_3
+   			date = 1846.1.1
+   			type = land
+			personality = vicious
+			background = old_school
+   			prestige = 1
+			}
+		}
+		SYR = {
+			capital = 902
+			leadership = 30
+		define_general = {
+   			name = "Synkrouomai Ispania"
+   			picture = russian_general_2
+   			date = 1846.1.1
+   			type = land
+			personality = brutish
+			background = butcher
+   			prestige = 1
+			}
+		}
 	}
 }

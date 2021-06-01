@@ -298,3 +298,29 @@ political_decisions = {
 		primary_culture = kanada
 	}
  }
+ terra_nullius22 = {
+	potential = {
+		TAG = SYR
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = mashriqi
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = ARA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = bedouin
+	}
+ }

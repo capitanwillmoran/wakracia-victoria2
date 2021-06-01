@@ -13,16 +13,13 @@ country_event = {
 	news_desc_short = "EVTDESC23400_NEWS_SHORT"
 
 	trigger = {
-		NOT = { tag = AAA }
-		NOT = { is_culture_group = anti_human }
-		NOT = { is_culture_group = non_human }
 		NOT = { has_country_flag = IOCMember }
 		year = 1893
 		war = no # Nation can NOT be at war at the time of invite
 		or = { 
-			is_greater_power = yes # Nation is a great power
+			is_BYZater_power = yes # Nation is a BYZat power
 			prestige = 500 # Non-Euro/non GP need to be high prestige to get invite in this era
-			tag = GRE # Greece projected to host first games so has to get invite
+			tag = BYZ # BYZece projected to host first games so has to get invite
 			and = {
 				capital_scope = { continent = europe } # European nation with > 25 prestige
 				prestige = 25
@@ -71,13 +68,13 @@ country_event = {
 	}
 }
 
-# 1st Olympiad - Greece gets first crack to host if it wants
+# 1st Olympiad - BYZece gets first crack to host if it wants
 country_event = {
 
 	id = 23401 
 
 	trigger = {
-		tag = GRE # Greece hosted 1896 Olympics
+		tag = BYZ # BYZece hosted 1896 Olympics
 		has_country_flag = IOCMember
 		NOT = {
 			OR = {
@@ -118,12 +115,12 @@ country_event = {
 	option = {
 		name = "EVTOPTB23401" # NOT interested
 		prestige = -25
-		set_global_flag = GRENoHost1Olympiad
+		set_global_flag = BYZNoHost1Olympiad
 		set_country_flag = NoHost1Olympiad
 	}
 }
 
-# 1st Olympiad - Other nation hosts because GRE says no or doesn't exist
+# 1st Olympiad - Other nation hosts because BYZ says no or doesn't exist
 country_event = {
 
 	id = 23402 
@@ -131,8 +128,8 @@ country_event = {
 	trigger = {
 		NOT = { has_global_flag = Host1Olympiad }
 		OR = {
-			has_global_flag = GRENoHost1Olympiad
-			NOT = { exists = GRE }
+			has_global_flag = BYZNoHost1Olympiad
+			NOT = { exists = BYZ }
 		}
 		has_country_flag = IOCMember
 		NOT = {

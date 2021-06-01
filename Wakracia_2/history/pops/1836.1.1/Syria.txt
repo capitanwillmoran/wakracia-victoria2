@@ -1,49 +1,49 @@
 897 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 1600
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 9747
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 550
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 80
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 64
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 1008
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 65429
 	}
@@ -164,49 +164,49 @@
 
 	soldiers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 1241
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 1509
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 252
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 23
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 34
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 423
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = mashriqi
 		religion = hellenic_pagan
 		size= 13290
 	}

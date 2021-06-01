@@ -1,4 +1,4 @@
-capital = 1751
+capital = 1745
 primary_culture = misri
 culture = zzz_religion_coptic
 religion = coptic

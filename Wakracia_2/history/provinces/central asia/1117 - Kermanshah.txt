@@ -3,6 +3,7 @@ controller=BYZ
 add_core=RDL
 add_core=PER
 add_core=IRQ
+add_core=BAB
 add_core=SRN
 trade_goods = wool
 life_rating = 35
