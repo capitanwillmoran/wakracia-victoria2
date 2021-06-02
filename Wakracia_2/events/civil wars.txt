@@ -91,8 +91,8 @@ country_event = {
 	
 	trigger = {
 		tag = BYZ
-		infamy = 15
-		militancy = 5
+		infamy = 20
+		militancy = 4
 		exists = SIC
 		}
 	
@@ -175,9 +175,9 @@ country_event = {
 	trigger = {
 		tag = BYZ
 		tag = GRE
-		infamy = 15
-		militancy = 5
-		exists = RUM
+		RUM = { exists = yes }
+		SIC = { exists = yes }
+		infamy = 10
 		}
 	
 	mean_time_to_happen = {
