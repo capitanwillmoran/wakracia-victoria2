@@ -111,6 +111,58 @@ country_event = {
 }
 
 country_event = {
+
+	id = 97500
+	news = yes
+	news_desc_long = "EVTDESC97500_NEWS_LONG"
+	news_desc_medium = "EVTDESC97500_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC97500_NEWS_SHORT"
+
+	trigger = {
+		OR = { tag = BYZ tag = BYZ }
+		year = 1842
+		NOT = {
+			year = 1843
+		}
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 12
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1842
+		}
+	}
+
+	title = "EVTNAME97500"
+	desc = "EVTDESC97500"
+	picture = "Nobel_Literature"
+
+	option = {
+		name = "EVTOPTA97500"
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+
+	option = { 
+		name = EVTOPTB97500
+		prestige = -1
+		{any_pop = { literacy = 0.40 }
+		labourers = {
+			consciousness = 1
+		}
+		craftsmen = {
+			consciousness = 1
+		}
+		artisans = {
+			consciousness = 1
+		}
+	}
+}
+
+country_event = {
 	id = 97000
 	title = EVT97000TITLE
 	desc = EVT97000DESC
