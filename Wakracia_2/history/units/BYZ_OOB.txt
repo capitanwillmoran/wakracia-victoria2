@@ -1001,7 +1001,7 @@ navy = {
 }
 
 army = {
-	name="Legio Arabica+"
+	name="Legio Arabica"
 	location=927
 	regiment = {
 		name="1st Aquila Infantry"
@@ -1662,27 +1662,27 @@ army = {
 }
 
 army = {
-	name="Thema Perugia"
+	name="Army of Rome"
 	location=751
 	regiment = {
-		name="1st Varna Infantry"
+		name="Rome Infantry"
 		type=infantry
-		home=814
+		home=749
 	}
 	regiment = {
-		name="2nd Foggia Infantry"
+		name="2nd Aquila Infantry"
 		type=infantry
-		home=757
+		home=753
 	}
 	regiment = {
 		name="2nd Burgas Infantry"
 		type=infantry
-		home=817
+		home=756
 	}
 	regiment = {
 		name="3rd Naples Infantry"
 		type=infantry
-		home=754
+		home=764
 	}
 	regiment = {
 		name="1st Rome Infantry"
@@ -1692,7 +1692,7 @@ army = {
 	regiment = {
 		name="3rd Palermo Infantry"
 		type=infantry
-		home=762
+		home=749
 	}
 	regiment = {
 		name="1st Rome Cavalry"
@@ -1700,49 +1700,49 @@ army = {
 		home=749
 	}
 	regiment = {
-		name="2nd Catania Artillery"
+		name="1st Salerno Artillery"
 		type=artillery
-		home=764
+		home=755
 	}
 	regiment = {
-		name="1st Myteline Artillery"
+		name="1st Calabrian Artillery"
 		type=artillery
-		home=844
+		home=759
 	}
 	regiment = {
-		name="1st Khalkis Artillery"
+		name="1st Foggia Artillery"
 		type=artillery
-		home=838
+		home=757
 	}
 	regiment = {
-		name="1st Bursa Artillery"
+		name="2nd Foggia Artillery"
 		type=artillery
-		home=863
+		home=757
 	}
 	regiment = {
-		name="1st Corfu Artillery"
+		name="3rd Foggia Artillery"
 		type=artillery
-		home=826
+		home=757
 	}
 	regiment = {
-		name="2nd Balikesir Artillery"
+		name="1st Potenza Artillery"
 		type=artillery
-		home=864
+		home=761
 	}
 	regiment = {
-		name="1st Konya Cavalry"
+		name="1st Baro Cavalry"
 		type=cavalry
-		home=873
+		home=756
 	}
 	regiment = {
-		name="1st Mugla Cavalry"
+		name="2nd Bari Cavalry"
 		type=cavalry
-		home=872
+		home=756
 	}
 	regiment = {
-		name="2nd Mugla Cavalry"
+		name="3rd Bari Cavalry"
 		type=cavalry
-		home=872
+		home=756
 	}
 }
 

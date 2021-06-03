@@ -1,8 +1,7 @@
 owner=X16
 controller=X16
-add_core=KHA
-add_core=HND
-add_core=X16
-trade_goods = fruit
+add_core=XIN
+trade_goods = grain
 life_rating = 32
 terrain = plains
+colonial=2

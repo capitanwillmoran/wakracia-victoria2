@@ -1,34 +1,19 @@
 political_decisions = {
-# move_capital_to_wakandinopla = {
-    potential = {
-		tag = BYZ
-		owns = 860
-		NOT = { capital = 860 }
-	}	
-	
-	allow = {
-		controls = 860
-		NOT = { capital = 860 }
-	}
-	
-	effect = {
-		capital = 860
-	}
-}
-political_decisions = {
 	wak_academy = {
 		potential = {
 			tag = BYZ
 			year = 1838
+			NOT = {
+				has_country_flag = wakratian_academy
+			}
+		}	
+		allow = {
+			tag = BYZ
+			cash = 5000
 		}
-	}	
-	
-	allow = {
-		tag = BYZ
-		cash = 5000
-	}
-	
-	effect = {
-		any_pop = { literacy = 0.40 }
-	}
+		effect = {
+			any_pop = { literacy = 0.04 }
+			set_country_flag = wakratian_academy
+		}
+	}		
 }

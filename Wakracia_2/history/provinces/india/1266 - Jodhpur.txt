@@ -1,6 +1,7 @@
 owner=RAJ
 controller=MAW
 add_core=RAJ
+add_core=HND
 trade_goods = tea
 life_rating = 32
 terrain = plains

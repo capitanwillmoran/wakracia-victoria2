@@ -7,7 +7,7 @@ country_event = {
 	
 	trigger = {
 		tag = BYZ
-		infamy = 15
+		infamy = 10
 		militancy = 1
 		NOT = {exists = SIC}
 	}
@@ -50,7 +50,7 @@ country_event = {
 			defender_goal = {
 				casus_belli = status_quo
 			}
-		set_global_flag = italian_civil_war_happened
+		set_country_flag = italian_civil_war_happened
 		}
 	}
 	
@@ -91,8 +91,8 @@ country_event = {
 	
 	trigger = {
 		tag = BYZ
-		infamy = 20
-		militancy = 4
+		infamy = 10
+		militancy = 5
 		exists = SIC
 		}
 	
@@ -209,7 +209,7 @@ country_event = {
    			prestige = 1
 			}
 		define_general = {
-   			name = "Liones"
+   			name = "Agori Skafon"
    			picture = russian_general_3
    			date = 1846.1.1
    			type = land
@@ -255,7 +255,7 @@ country_event = {
    			prestige = 1
 			}
 		define_general = {
-   			name = "Liones"
+   			name = "Agori Skafon"
    			picture = russian_general_3
    			date = 1846.1.1
    			type = land
@@ -288,7 +288,7 @@ country_event = {
 			capital = 926
 			leadership = 30
 		define_general = {
-   			name = "Liones"
+   			name = "Agori Skafon"
    			picture = russian_general_3
    			date = 1846.1.1
    			type = land

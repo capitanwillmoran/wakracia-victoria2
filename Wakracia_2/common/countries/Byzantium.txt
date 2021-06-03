@@ -190,11 +190,11 @@ party = {
 
 	ideology = theocratic
 
-	citizenship_policy = full_citizenship
-	economic_policy = interventionism
-	religious_policy = pro_atheism
-	trade_policy = protectionism
-	war_policy = jingoism
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pacifism
 }
 
 party = {
