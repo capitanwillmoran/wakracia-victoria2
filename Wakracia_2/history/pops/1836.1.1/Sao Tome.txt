@@ -43,7 +43,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 787
 	}
@@ -85,7 +85,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = tibet_bon
 		size= 603
 	}
@@ -127,7 +127,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = shamanism
 		size= 1058
 	}

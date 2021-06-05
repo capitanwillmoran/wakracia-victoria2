@@ -1,0 +1,5 @@
+owner=X02
+controller=JGD
+trade_goods = wool
+life_rating = 35
+terrain = hills

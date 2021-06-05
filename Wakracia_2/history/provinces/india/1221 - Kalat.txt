@@ -1,5 +1,6 @@
 owner=X02
 controller=JGD
+add_core=AFG
 trade_goods = wool
 life_rating = 32
 terrain = mountain

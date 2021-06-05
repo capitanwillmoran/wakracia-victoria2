@@ -1,12 +1,13 @@
 capital = 1858
 primary_culture = afar
-culture = zzz_religion_sunni
-religion = sunni
+culture = zzz_religion_coptic
+religion = coptic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.0399953
 
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

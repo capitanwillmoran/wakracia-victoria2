@@ -1,6 +1,7 @@
 owner=CRI
 controller=CRI
 add_core=DKU
+add_core=ALN
 add_core=CRI
 trade_goods = grain
 life_rating = 35

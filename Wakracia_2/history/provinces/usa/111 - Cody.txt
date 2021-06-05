@@ -1,6 +1,6 @@
-owner=LSK
-controller=LSK
-add_core=LSK
+owner=CAL
+controller=CAL
+add_core=CAL
 trade_goods = coal
 life_rating = 35
 terrain = mountain

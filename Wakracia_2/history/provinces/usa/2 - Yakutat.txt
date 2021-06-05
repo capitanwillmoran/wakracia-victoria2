@@ -1,5 +1,6 @@
 owner=CAL
 controller=CAL
+add_core=LSK
 trade_goods = fish
 life_rating = 20
 terrain = plains

@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=ADE
+add_core=ASR
 add_core=ARA
 trade_goods = wool
 life_rating = 35

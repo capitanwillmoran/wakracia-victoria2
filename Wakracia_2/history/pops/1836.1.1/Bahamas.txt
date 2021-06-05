@@ -106,7 +106,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 3301
 	}

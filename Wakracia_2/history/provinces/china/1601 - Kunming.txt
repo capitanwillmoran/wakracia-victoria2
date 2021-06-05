@@ -2,6 +2,7 @@ owner=HSE
 controller=HSE
 add_core=CDL
 add_core=CHI
+add_core=YNN
 add_core=HSE
 trade_goods = silk
 life_rating = 32

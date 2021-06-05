@@ -1,12 +1,13 @@
 capital = 1242
 primary_culture = avadhi
-culture = zzz_religion_shiite
-religion = shiite
+culture = zzz_religion_sikh
+religion = sikh
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.0399953
 
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

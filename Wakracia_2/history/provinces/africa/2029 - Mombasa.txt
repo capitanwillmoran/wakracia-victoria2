@@ -1,5 +1,6 @@
 owner=SWA
 controller=SWA
+add_core=ZAN
 add_core=SWA
 trade_goods = fish
 life_rating = 35

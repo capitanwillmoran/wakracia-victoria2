@@ -1,7 +1,6 @@
 owner=SWE
 controller=SMI
 add_core=SWE
-add_core=UGR
 add_core=SCA
 add_core=FIN
 trade_goods = timber

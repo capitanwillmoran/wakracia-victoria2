@@ -113,7 +113,7 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 382
 	}
@@ -276,7 +276,7 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 168
 	}
@@ -446,7 +446,7 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 228
 	}
@@ -560,7 +560,7 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 276
 	}
@@ -1141,7 +1141,7 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 186
 	}
@@ -1190,7 +1190,7 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = west_african_pagan_reformed
 		size= 458
 	}
@@ -1362,7 +1362,7 @@
 
 	slaves=
 	{
-		culture = afro_greek
+		culture = afrogreek
 		religion = hellenic_pagan
 		size= 87
 	}

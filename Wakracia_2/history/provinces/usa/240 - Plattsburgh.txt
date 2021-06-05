@@ -1,6 +1,7 @@
 owner=IRO
 controller=IRO
 add_core=MHC
+add_core=ABE
 add_core=FLR
 trade_goods = timber
 life_rating = 35

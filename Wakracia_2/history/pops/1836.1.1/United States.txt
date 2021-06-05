@@ -6014,7 +6014,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 49
 	}
@@ -6142,7 +6142,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 110
 	}
@@ -7091,7 +7091,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 8992
 	}
@@ -7205,7 +7205,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 6438
 	}
@@ -7319,7 +7319,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 3041
 	}
@@ -7447,7 +7447,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 3359
 	}
@@ -7610,7 +7610,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 2299
 	}
@@ -8490,7 +8490,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 1672
 	}
@@ -13846,7 +13846,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 7845
 	}
@@ -14125,7 +14125,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 3326
 	}
@@ -14239,7 +14239,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 6198
 	}
@@ -14500,7 +14500,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 1680
 	}
@@ -14898,7 +14898,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = west_african_pagan_reformed
 		size= 1817
 	}
@@ -14954,7 +14954,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = hellenic_pagan
 		size= 7286
 	}
@@ -15236,7 +15236,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = hellenic_pagan
 		size= 7516
 	}
@@ -15476,7 +15476,7 @@
 
 	slaves=
 	{
-		culture = afro_brazilian
+		culture = afrobrazilian
 		religion = hellenic_pagan
 		size= 727
 	}

@@ -2,6 +2,7 @@ owner=ZUN
 controller=REB
 add_core=XIN
 add_core=ZUN
+add_core=X28
 trade_goods = grain
 life_rating = 32
 terrain = woods

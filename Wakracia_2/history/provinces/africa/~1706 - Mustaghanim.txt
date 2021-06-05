@@ -1,0 +1,6 @@
+owner=X06
+controller=X06
+add_core=X06
+trade_goods = fruit
+life_rating = 35
+terrain = plains

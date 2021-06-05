@@ -2,6 +2,7 @@ owner=CAL
 controller=CAL
 add_core=CAL
 add_core=NAH
+add_core=APA
 trade_goods = cattle
 life_rating = 35
 terrain = mountain

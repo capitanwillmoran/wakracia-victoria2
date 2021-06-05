@@ -1,5 +1,5 @@
 capital = 595
-primary_culture = dummy
+primary_culture = tatar
 culture = zzz_religion_shamanist
 religion = shamanist
 government = absolute_monarchy
@@ -8,6 +8,7 @@ nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

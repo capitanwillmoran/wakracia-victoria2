@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=ADE
+add_core=ARA
+trade_goods = fish
+life_rating = 35
+terrain = plains
+colonial=2

@@ -1,5 +1,6 @@
 owner=X03
 controller=X03
+add_core=YUG
 add_core=DLM
 add_core=MRL
 trade_goods = fruit

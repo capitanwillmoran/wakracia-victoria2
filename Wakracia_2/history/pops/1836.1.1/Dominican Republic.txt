@@ -113,7 +113,7 @@
 
 	slaves=
 	{
-		culture = afro_slavic
+		culture = afroslavic
 		religion = hellenic_pagan
 		size= 3506
 	}
@@ -227,7 +227,7 @@
 
 	slaves=
 	{
-		culture = afro_slavic
+		culture = afroslavic
 		religion = hellenic_pagan
 		size= 5181
 	}

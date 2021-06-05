@@ -1,5 +1,6 @@
 owner=CRI
 controller=CRI
+add_core=AKH
 add_core=CRI
 trade_goods = wool
 life_rating = 35

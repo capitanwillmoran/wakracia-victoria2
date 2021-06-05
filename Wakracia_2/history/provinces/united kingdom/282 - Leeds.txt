@@ -2,6 +2,7 @@ owner=ENG
 controller=ENG
 add_core=DNL
 add_core=ENG
+add_core=YOR
 trade_goods = coal
 life_rating = 35
 terrain = farmlands

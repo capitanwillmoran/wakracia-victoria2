@@ -1,5 +1,6 @@
 owner=X24
 controller=X24
+add_core=UGR
 add_core=X11
 add_core=X24
 trade_goods = grain

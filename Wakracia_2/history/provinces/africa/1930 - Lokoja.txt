@@ -1,6 +1,7 @@
 owner=MLI
 controller=MLI
 add_core=NUP
+add_core=ARO
 trade_goods = cattle
 life_rating = 35
 terrain = plains

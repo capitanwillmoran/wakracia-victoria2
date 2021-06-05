@@ -1,6 +1,7 @@
 owner=KZB
 controller=KZB
 add_core=NDO
+add_core=ANG
 trade_goods = fruit
 life_rating = 15
 terrain = plains

@@ -2,6 +2,7 @@ owner=BYZ
 controller=BYZ
 add_core=ADE
 add_core=ARA
+add_core=YEM
 trade_goods = grain
 life_rating = 35
 terrain = mountain

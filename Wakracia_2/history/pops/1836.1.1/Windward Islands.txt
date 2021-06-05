@@ -57,7 +57,7 @@
 
 	slaves=
 	{
-		culture = afro_norse
+		culture = afronorse
 		religion = norse_pagan_reformed
 		size= 18528
 	}
@@ -164,7 +164,7 @@
 
 	slaves=
 	{
-		culture = afro_slavic
+		culture = afroslavic
 		religion = hellenic_pagan
 		size= 4063
 	}
@@ -264,7 +264,7 @@
 
 	slaves=
 	{
-		culture = afro_slavic
+		culture = afroslavic
 		religion = hellenic_pagan
 		size= 3980
 	}
@@ -364,7 +364,7 @@
 
 	slaves=
 	{
-		culture = afro_slavic
+		culture = afroslavic
 		religion = hellenic_pagan
 		size= 6693
 	}
@@ -464,7 +464,7 @@
 
 	slaves=
 	{
-		culture = afro_slavic
+		culture = afroslavic
 		religion = hellenic_pagan
 		size= 4781
 	}

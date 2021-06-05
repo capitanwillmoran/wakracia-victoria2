@@ -464,49 +464,49 @@
 
 	soldiers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 188
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 36
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 4
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 40
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 3417
 	}
@@ -766,91 +766,91 @@
 1159 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 44
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = tengri_pagan_reformed
 		size= 1126
 	}
 
 	soldiers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 176
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 32
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 4
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 36
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 1994
 	}
@@ -1052,98 +1052,98 @@
 1163 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 915
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 76
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 10
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 128
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 12103
 	}
 
 	soldiers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = yazidi
 		size= 159
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = yazidi
 		size= 1086
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = yazidi
 		size= 90
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = yazidi
 		size= 12
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = yazidi
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = yazidi
 		size= 152
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = yazidi
 		size= 6452
 	}
@@ -1152,98 +1152,98 @@
 1164 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 235
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 44
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 8
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 49
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = coptic
 		size= 10367
 	}
 
 	soldiers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = yazidi
 		size= 222
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = yazidi
 		size= 679
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = yazidi
 		size= 127
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = yazidi
 		size= 24
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = yazidi
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = yazidi
 		size= 143
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = bedouin
 		religion = yazidi
 		size= 9889
 	}

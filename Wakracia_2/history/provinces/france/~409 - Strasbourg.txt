@@ -1,0 +1,12 @@
+owner=X09
+controller=X09
+add_core=GER
+trade_goods = grain
+life_rating = 33
+terrain = woods
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}

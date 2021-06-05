@@ -2,6 +2,7 @@ owner=MUS
 controller=SLV
 add_core=MUS
 add_core=RUS
+add_core=YAR
 trade_goods = timber
 life_rating = 35
 terrain = forest

@@ -1770,133 +1770,133 @@
 1693 = {
 	soldiers=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = zikri
 		size= 39
 	}
 
 	artisans=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = zikri
 		size= 20
 	}
 
 	clergymen=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = zikri
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = zikri
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = zikri
 		size= 1896
 	}
 
 	soldiers=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
 	artisans=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 26
 	}
 
 	clergymen=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 294
 	}
 
 	soldiers=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 130
 	}
 
 	artisans=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 306
 	}
 
 	clergymen=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 50
 	}
 
 	bureaucrats=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 8
 	}
 
 	officers=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 64
 	}
 
 	farmers=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 5935
 	}
@@ -2575,98 +2575,98 @@
 2563 = {
 	soldiers=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = zikri
 		size= 152
 	}
 
 	artisans=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = zikri
 		size= 152
 	}
 
 	clergymen=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = zikri
 		size= 25
 	}
 
 	bureaucrats=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = zikri
 		size= 4
 	}
 
 	officers=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = zikri
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = zikri
 		size= 32
 	}
 
 	farmers=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = zikri
 		size= 7242
 	}
 
 	soldiers=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 210
 	}
 
 	artisans=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 572
 	}
 
 	clergymen=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 93
 	}
 
 	bureaucrats=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 14
 	}
 
 	officers=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 120
 	}
 
 	farmers=
 	{
-		culture = occitan
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 9471
 	}

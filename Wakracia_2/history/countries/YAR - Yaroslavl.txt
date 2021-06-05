@@ -1,7 +1,7 @@
 capital = 1001
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+primary_culture = russian
+culture = ugrian
+culture = zzz_religion_animist
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

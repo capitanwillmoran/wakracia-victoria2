@@ -1,6 +1,7 @@
 owner=MAW
 controller=DEC
 add_core=HND
+add_core=AMD
 add_core=MRT
 trade_goods = tea
 life_rating = 32

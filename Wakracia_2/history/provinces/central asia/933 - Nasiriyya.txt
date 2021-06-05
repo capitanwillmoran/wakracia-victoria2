@@ -3,6 +3,7 @@ controller=BYZ
 add_core=PER
 add_core=IRQ
 add_core=BAB
+add_core=ASY
 trade_goods = fruit
 life_rating = 35
 terrain = plains

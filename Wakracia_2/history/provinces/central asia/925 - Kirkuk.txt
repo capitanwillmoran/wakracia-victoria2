@@ -2,6 +2,7 @@ owner=BYZ
 controller=BYZ
 add_core=RDL
 add_core=SRN
+add_core=ASY
 add_core=BAB
 add_core=IRQ
 trade_goods = grain
