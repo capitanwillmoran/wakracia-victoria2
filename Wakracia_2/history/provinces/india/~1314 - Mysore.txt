@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=HND
+add_core=MYS
+trade_goods = silk
+life_rating = 32
+terrain = hills
+colonial=2

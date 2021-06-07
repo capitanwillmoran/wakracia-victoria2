@@ -2,6 +2,7 @@ owner=X03
 controller=X03
 add_core=SER
 add_core=YUG
+add_core=WAL
 trade_goods = coal
 life_rating = 35
 terrain = woods

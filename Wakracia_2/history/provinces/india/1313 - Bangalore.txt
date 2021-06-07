@@ -2,6 +2,7 @@ owner=BYZ
 controller=BYZ
 add_core=HND
 add_core=MYS
+add_core=VIJ
 trade_goods = wool
 life_rating = 32
 terrain = woods

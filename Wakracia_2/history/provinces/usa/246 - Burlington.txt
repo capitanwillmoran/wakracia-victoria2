@@ -3,6 +3,7 @@ controller=IRO
 add_core=LEN
 add_core=MHC
 add_core=MIK
+add_core=VRM
 add_core=POW
 add_core=ABE
 add_core=FLR

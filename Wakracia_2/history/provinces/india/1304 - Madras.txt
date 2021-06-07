@@ -2,6 +2,7 @@ owner=XMA
 controller=XMA
 add_core=DEC
 add_core=HND
+add_core=VIJ
 add_core=XMA
 trade_goods = grain
 life_rating = 32

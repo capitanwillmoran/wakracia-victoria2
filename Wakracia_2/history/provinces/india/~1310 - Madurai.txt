@@ -1,0 +1,9 @@
+owner=SRI
+controller=SRI
+add_core=HND
+add_core=SRI
+add_core=XMA
+trade_goods = dye
+life_rating = 32
+terrain = plains
+naval_base = 1

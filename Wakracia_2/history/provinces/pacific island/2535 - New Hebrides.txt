@@ -1,5 +1,6 @@
 owner=DEC
 controller=DEC
+add_core=VTU
 trade_goods = fish
 life_rating = 15
 terrain = plains

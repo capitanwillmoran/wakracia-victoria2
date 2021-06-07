@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=HAR
+add_core=WRL
 add_core=SOM
 add_core=ETH
 trade_goods = grain

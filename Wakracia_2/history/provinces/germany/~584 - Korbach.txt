@@ -1,0 +1,7 @@
+owner=X09
+controller=X09
+add_core=GER
+add_core=HES
+trade_goods = timber
+life_rating = 40
+terrain = plains

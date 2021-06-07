@@ -1,6 +1,6 @@
 owner=X16
 controller=X16
-add_core=XIN
+add_core=X16
 add_core=HND
 trade_goods = dye
 life_rating = 32

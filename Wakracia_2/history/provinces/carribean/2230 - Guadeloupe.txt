@@ -1,6 +1,7 @@
 owner=CUB
 controller=CUB
 add_core=CRB
+add_core=WSI
 trade_goods = fruit
 life_rating = 35
 terrain = hills

@@ -1,5 +1,6 @@
 owner=X09
 controller=X09
+add_core=WBG
 trade_goods = fruit
 life_rating = 40
 terrain = farmlands

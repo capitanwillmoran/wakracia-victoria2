@@ -1,0 +1,7 @@
+owner=CSH
+controller=CSH
+add_core=CHI
+add_core=CSH
+trade_goods = coal
+life_rating = 32
+terrain = woods

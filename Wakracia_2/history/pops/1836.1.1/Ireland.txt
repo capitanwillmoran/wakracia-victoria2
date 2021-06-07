@@ -50,42 +50,42 @@
 
 	soldiers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 2772
 	}
 
 	clergymen=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 450
 	}
 
 	bureaucrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 139
 	}
 
 	officers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 146
 	}
 
 	aristocrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 582
 	}
@@ -94,49 +94,49 @@
 255 = {
 	soldiers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 5287
 	}
 
 	artisans=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 19479
 	}
 
 	clergymen=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 1809
 	}
 
 	bureaucrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 334
 	}
 
 	officers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 237
 	}
 
 	aristocrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 1169
 	}
 
 	farmers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 110818
 	}
@@ -194,42 +194,42 @@
 
 	soldiers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 1407
 	}
 
 	clergymen=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 229
 	}
 
 	bureaucrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 70
 	}
 
 	officers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 74
 	}
 
 	aristocrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 296
 	}
@@ -336,42 +336,42 @@
 
 	soldiers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 19
 	}
 
 	artisans=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 2426
 	}
 
 	clergymen=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 394
 	}
 
 	bureaucrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 121
 	}
 
 	officers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 79
 	}
 
 	aristocrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 509
 	}
@@ -429,42 +429,42 @@
 
 	soldiers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 91
 	}
 
 	artisans=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 10133
 	}
 
 	clergymen=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 941
 	}
 
 	bureaucrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 174
 	}
 
 	officers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 152
 	}
 
 	aristocrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 608
 	}
@@ -522,42 +522,42 @@
 
 	soldiers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 18
 	}
 
 	artisans=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 3916
 	}
 
 	clergymen=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 636
 	}
 
 	bureaucrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 196
 	}
 
 	officers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 206
 	}
 
 	aristocrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 822
 	}
@@ -617,49 +617,49 @@
 261 = {
 	soldiers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 3929
 	}
 
 	artisans=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 7858
 	}
 
 	clergymen=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 1277
 	}
 
 	bureaucrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 393
 	}
 
 	officers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 255
 	}
 
 	aristocrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 1650
 	}
 
 	farmers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 181096
 	}
@@ -717,42 +717,42 @@
 
 	soldiers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 24
 	}
 
 	artisans=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 2712
 	}
 
 	clergymen=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 441
 	}
 
 	bureaucrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 136
 	}
 
 	officers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 142
 	}
 
 	aristocrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 854
 	}
@@ -761,91 +761,91 @@
 263 = {
 	soldiers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 12179
 	}
 
 	artisans=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 16232
 	}
 
 	clergymen=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 1172
 	}
 
 	bureaucrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 361
 	}
 
 	officers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 379
 	}
 
 	aristocrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 3030
 	}
 
 	farmers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 184118
 	}
 
 	soldiers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = hellenic_pagan
 		size= 52
 	}
 
 	artisans=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = hellenic_pagan
 		size= 3424
 	}
 
 	clergymen=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = hellenic_pagan
 		size= 247
 	}
 
 	bureaucrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = hellenic_pagan
 		size= 76
 	}
 
 	officers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = hellenic_pagan
 		size= 80
 	}
 
 	aristocrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = hellenic_pagan
 		size= 639
 	}
@@ -854,49 +854,49 @@
 264 = {
 	soldiers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 5567
 	}
 
 	artisans=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 16341
 	}
 
 	clergymen=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 758
 	}
 
 	bureaucrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 280
 	}
 
 	officers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 245
 	}
 
 	aristocrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 1961
 	}
 
 	farmers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 74248
 	}
@@ -954,49 +954,49 @@
 265 = {
 	soldiers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 3406
 	}
 
 	artisans=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 7793
 	}
 
 	clergymen=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 563
 	}
 
 	bureaucrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 208
 	}
 
 	officers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 182
 	}
 
 	aristocrats=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 1454
 	}
 
 	farmers=
 	{
-		culture = elsinorian
+		culture = irish
 		religion = norse_pagan_reformed
 		size= 49983
 	}
