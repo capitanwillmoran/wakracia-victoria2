@@ -1,0 +1,8 @@
+owner=X04
+controller=X04
+add_core=PER
+add_core=X04
+add_core=X20
+trade_goods = cattle
+life_rating = 35
+terrain = mountain

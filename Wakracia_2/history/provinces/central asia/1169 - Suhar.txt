@@ -1,6 +1,5 @@
 owner=BYZ
 controller=BYZ
-add_core=PER
 add_core=ARA
 trade_goods = grain
 life_rating = 35

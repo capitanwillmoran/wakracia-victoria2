@@ -1,0 +1,6 @@
+owner=UIL
+controller=UIL
+trade_goods = timber
+life_rating = 35
+terrain = forest
+colonial=2

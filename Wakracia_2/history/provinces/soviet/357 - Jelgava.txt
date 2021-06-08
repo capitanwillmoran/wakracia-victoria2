@@ -2,6 +2,7 @@ owner=SLV
 controller=SLV
 add_core=LIT
 add_core=PLC
+add_core=UBD
 trade_goods = cattle
 life_rating = 35
 terrain = farmlands

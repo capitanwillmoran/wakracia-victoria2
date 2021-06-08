@@ -1,6 +1,7 @@
 owner=UIL
 controller=UIL
 add_core=CAD
+add_core=FSA
 trade_goods = coal
 life_rating = 35
 terrain = woods

@@ -1,7 +1,7 @@
 capital = 1594
 primary_culture = uighur
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = zzz_religion_tengri_pagan_reformed
+religion = tengri_pagan_reformed
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

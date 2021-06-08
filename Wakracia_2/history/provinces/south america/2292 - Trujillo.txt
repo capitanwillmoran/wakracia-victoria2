@@ -1,6 +1,7 @@
 owner=PEU
 controller=PEU
 add_core=PEU
+add_core=INC
 add_core=CHM
 trade_goods = coal
 life_rating = 35

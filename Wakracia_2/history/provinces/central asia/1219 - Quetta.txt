@@ -1,6 +1,5 @@
 owner=X02
 controller=X02
-add_core=KMN
 add_core=X02
 trade_goods = wool
 life_rating = 35

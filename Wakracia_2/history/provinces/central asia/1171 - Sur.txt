@@ -1,6 +1,5 @@
 owner=BYZ
 controller=BYZ
-add_core=PER
 add_core=ARA
 add_core=OMA
 trade_goods = fruit

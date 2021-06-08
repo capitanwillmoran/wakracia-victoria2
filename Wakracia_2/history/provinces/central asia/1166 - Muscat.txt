@@ -1,7 +1,6 @@
 owner=BYZ
 controller=BYZ
 add_core=OMA
-add_core=PER
 add_core=ARA
 trade_goods = opium
 life_rating = 35

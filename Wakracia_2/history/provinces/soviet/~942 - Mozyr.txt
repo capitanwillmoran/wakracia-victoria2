@@ -1,0 +1,8 @@
+owner=RYA
+controller=RYA
+add_core=BYE
+add_core=PLT
+add_core=X27
+trade_goods = cattle
+life_rating = 35
+terrain = marsh

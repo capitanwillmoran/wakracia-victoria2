@@ -1,4 +1,4 @@
-owner=SLV
+owner=CRI
 controller=SLV
 add_core=PLC
 add_core=POL
