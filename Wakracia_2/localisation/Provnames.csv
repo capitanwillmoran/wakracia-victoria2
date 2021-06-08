@@ -1,63 +1,63 @@
 KEY;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;ITALIAN;HUNGARIAN;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;X
-PROV860;Wakandinople;;;;;;;;;;;;;X
-PROV878;Caesarea;;;;;;;;;;;;;X
-PROV894;Cilicia;;;;;;;;;;;;;X
-PROV876;Ancyra;;;;;;;;;;;;;X
-TUR_876;Ancyra ad Antiochia;;;;;;;;;;;;;X
-GREEK_830;Alexandroupolis;;;;;;;;;;;;;X
-PROV830;Alexandroupolis;;;;;;;;;;;;;X
-TUR_1860;Thrace;;;;;;;;;;;;;X
-PROV858;Saranta Ekklisies;;;;;;;;;;;;;X
-PROV861;Scutarion;;;;;;;;;;;;;X
-TUR_863;Fake Prussia;;;;;;;;;;;;;X
-PROV862;Nikomedeia;;;;;;;;;;;;;X
-PROV866;Akroinon;;;;;;;;;;;;;X
-PROV867;Kotiaion;;;;;;;;;;;;;X
-PROV868;Dorylaeum;;;;;;;;;;;;;X
-TUR_869;Tralles;;;;;;;;;;;;;X
-PROV865;Dardanellion;;;;;;;;;;;;;X
-TUR_873;Ikonion;;;;;;;;;;;;;X
-PROV873;Ikonion;;;;;;;;;;;;;X
-PROV874;Polydorion;;;;;;;;;;;;;X
-PROV875;Attaleia;;;;;;;;;;;;;X
-TUR_884;Trapezunta;;;;;;;;;;;;;X
-PROV879;Sebastia;;;;;;;;;;;;;X
-PROV887;Theodosiopolis;;;;;;;;;;;;;X
-PROV879;Acisilene;;;;;;;;;;;;;X
-PROV724;Genua;;;;;;;;;;;;;X
-PROV863;Fake Prussia;;;;;;;;;;;;;X
-PROV864;Palaeokastron;;;;;;;;;;;;;X
-PROV868;Dorileon;;;;;;;;;;;;;X
-PROV870;Magnesia ad Sipylum;;;;;;;;;;;;;X
-PROV869;Trogitis;;;;;;;;;;;;;X
-PROV872;Mylasa;;;;;;;;;;;;;X
-PROV846;Rodos;;;;;;;;;;;;;X
-PROV871;Attouda;;;;;;;;;;;;;X
-PROV874;Limnombria;;;;;;;;;;;;;X
-PROV895;Zephyrium;;;;;;;;;;;;;X
-PROV873;Archelais;;;;;;;;;;;;;X
-PROV881;Claudiopolis;;;;;;;;;;;;;X
-PROV356;Neapolis Limasol;;;;;;;;;;;;;X
-PROV1768;Kamilandria;;;;;;;;;;;;;X
-PROV880;Timonion;;;;;;;;;;;;;X
-PROV883;Sinope;;;;;;;;;;;;;X
-PROV877;Amaseia;;;;;;;;;;;;;X
-PROV855;Lefkosia;;;;;;;;;;;;;X
-PROV857;Ammochostos;;;;;;;;;;;;;X
-PROV878;Caesarea Cappadocia;;;;;;;;;;;;;X
-PROV894;Antiochia ad Sarum;;;;;;;;;;;;;X
-PROV859;Kallipolis;;;;;;;;;;;;;X
-PROV828;Crashia;;;;;;;;;;;;;X
-PROV884;Farnacia;;;;;;;;;;;;;X
-PROV882;Trapezunta;;;;;;;;;;;;;X
-PROV888;Acilisene;;;;;;;;;;;;;X
-PROV896;Germanicia Cesarea;;;;;;;;;;;;;X
-PROV898;Antiochia ad Taurum;;;;;;;;;;;;;X
-PROV900;Antiochia;;;;;;;;;;;;;X
-PROV901;Dura-Europos;;;;;;;;;;;;;X
-PROV897;Beroea;;;;;;;;;;;;;X
-PROV904;Emathous;;;;;;;;;;;;;X
-PROV905;Laodicea;;;;;;;;;;;;;X
+PROV860;Wakandinople;Wakandinople;Wakandinople;Wakandinople;Wakandinople;;;;;;;;;X
+PROV878;Caesarea;Caesarea;Caesarea;Caesarea;Caesarea;;;;;;;;;X
+PROV894;Cilicia;Cilicia;Cilicia;Cilicia;Cilicia;;;;;;;;;X
+PROV876;Ancyra;Ancyra;Ancyra;Ancyra;Ancyra;;;;;;;;;X
+TUR_876;Ancyra ad Antiochia;Ancyra ad Antiochia;Ancyra ad Antiochia;Ancyra ad Antiochia;Ancyra ad Antiochia;;;;;;;;;X
+GREEK_830;Alexandroupolis;Alexandroupolis;Alexandroupolis;Alexandroupolis;Alexandroupolis;;;;;;;;;X
+PROV830;Alexandroupolis;Alexandroupolis;Alexandroupolis;Alexandroupolis;Alexandroupolis;;;;;;;;;X
+TUR_1860;Thraki;Thraki;Thraki;Thraki;Thraki;;;;;;;;;X
+PROV858;Saranta Ekklisies;Saranta Ekklisies;Saranta Ekklisies;Saranta Ekklisies;Saranta Ekklisies;;;;;;;;;X
+PROV861;Scutarion;Scutarion;Scutarion;Scutarion;Scutarion;;;;;;;;;X
+TUR_863;Fake Prussia;Fake Prussia;Fake Prussia;Fake Prussia;Fake Prussia;;;;;;;;;X
+PROV862;Nikomedeia;Nikomedeia;Nikomedeia;Nikomedeia;Nikomedeia;;;;;;;;;X
+PROV866;Akroinon;Akroinon;Akroinon;Akroinon;Akroinon;;;;;;;;;X
+PROV867;Kotiaion;Kotiaion;Kotiaion;Kotiaion;Kotiaion;;;;;;;;;X
+PROV868;Dorylaeum;Dorylaeum;Dorylaeum;Dorylaeum;Dorylaeum;;;;;;;;;X
+TUR_869;Tralles;Tralles;Tralles;Tralles;Tralles;;;;;;;;;X
+PROV865;Dardanellion;Dardanellion;Dardanellion;Dardanellion;Dardanellion;;;;;;;;;X
+TUR_873;Ikonion;Ikonion;Ikonion;Ikonion;Ikonion;;;;;;;;;X
+PROV873;Ikonion;Ikonion;Ikonion;Ikonion;Ikonion;;;;;;;;;X
+PROV874;Polydorion;Polydorion;Polydorion;Polydorion;Polydorion;;;;;;;;;X
+PROV875;Attaleia;Attaleia;Attaleia;Attaleia;Attaleia;;;;;;;;;X
+TUR_884;Trapezunta;Trapezunta;Trapezunta;Trapezunta;Trapezunta;;;;;;;;;X
+PROV879;Sebastia;Sebastia;Sebastia;Sebastia;Sebastia;;;;;;;;;X
+PROV887;Theodosiopolis;Theodosiopolis;Theodosiopolis;Theodosiopolis;Theodosiopolis;;;;;;;;;X
+PROV879;Acisilene;Acisilene;Acisilene;Acisilene;Acisilene;;;;;;;;;X
+PROV724;Genua;Genua;Genua;Genua;Genua;;;;;;;;;X
+PROV863;Fake Prussia;Fake Prussia;Fake Prussia;Fake Prussia;Fake Prussia;;;;;;;;;X
+PROV864;Palaeokastron;Palaeokastron;Palaeokastron;Palaeokastron;Palaeokastron;;;;;;;;;X
+PROV868;Dorileon;Dorileon;Dorileon;Dorileon;Dorileon;;;;;;;;;X
+PROV870;Magnesia ad Sipylum;Magnesia ad Sipylum;Magnesia ad Sipylum;Magnesia ad Sipylum;Magnesia ad Sipylum;;;;;;;;;X
+PROV869;Trogitis;Trogitis;Trogitis;Trogitis;Trogitis;;;;;;;;;X
+PROV872;Mylasa;Mylasa;Mylasa;Mylasa;Mylasa;;;;;;;;;X
+PROV846;Rodos;Rodos;Rodos;Rodos;Rodos;;;;;;;;;X
+PROV871;Attouda;Attouda;Attouda;Attouda;Attouda;;;;;;;;;X
+PROV874;Limnombria;Limnombria;Limnombria;Limnombria;Limnombria;;;;;;;;;X
+PROV895;Zephyrium;Zephyrium;Zephyrium;Zephyrium;Zephyrium;;;;;;;;;X
+PROV873;Archelais;Archelais;Archelais;Archelais;Archelais;;;;;;;;;X
+PROV881;Claudiopolis;Claudiopolis;Claudiopolis;Claudiopolis;Claudiopolis;;;;;;;;;X
+PROV356;Neapolis Limasol;Neapolis Limasol;Neapolis Limasol;Neapolis Limasol;Neapolis Limasol;;;;;;;;;X
+PROV1768;Kamilandria;Kamilandria;Kamilandria;Kamilandria;Kamilandria;;;;;;;;;X
+PROV880;Timonion;Timonion;Timonion;Timonion;Timonion;;;;;;;;;X
+PROV883;Sinope;Sinope;Sinope;Sinope;Sinope;;;;;;;;;X
+PROV877;Amaseia;Amaseia;Amaseia;Amaseia;Amaseia;;;;;;;;;X
+PROV855;Lefkosia;Lefkosia;Lefkosia;Lefkosia;Lefkosia;;;;;;;;;X
+PROV857;Ammochostos;Ammochostos;Ammochostos;Ammochostos;Ammochostos;;;;;;;;;X
+PROV878;Caesarea Cappadocia;Caesarea Cappadocia;Caesarea Cappadocia;Caesarea Cappadocia;Caesarea Cappadocia;;;;;;;;;X
+PROV894;Antiochia ad Sarum;Antiochia ad Sarum;Antiochia ad Sarum;Antiochia ad Sarum;Antiochia ad Sarum;;;;;;;;;X
+PROV859;Kallipolis;Kallipolis;Kallipolis;Kallipolis;Kallipolis;;;;;;;;;X
+PROV828;Crashia;Crashia;Crashia;Crashia;Crashia;;;;;;;;;X
+PROV884;Farnacia;Farnacia;Farnacia;Farnacia;Farnacia;;;;;;;;;X
+PROV882;Trapezunta;Trapezunta;Trapezunta;Trapezunta;Trapezunta;;;;;;;;;X
+PROV888;Acilisene;Acilisene;Acilisene;Acilisene;Acilisene;;;;;;;;;X
+PROV896;Germanicia Cesarea;Germanicia Cesarea;Germanicia Cesarea;Germanicia Cesarea;Germanicia Cesarea;;;;;;;;;X
+PROV898;Antiochia ad Taurum;Antiochia ad Taurum;Antiochia ad Taurum;Antiochia ad Taurum;Antiochia ad Taurum;;;;;;;;;X
+PROV900;Antiochia;Antiochia;Antiochia;Antiochia;Antiochia;;;;;;;;;X
+PROV901;Dura-Europos;Dura-Europos;Dura-Europos;Dura-Europos;Dura-Europos;;;;;;;;;X
+PROV897;Beroea;Beroea;Beroea;Beroea;Beroea;;;;;;;;;X
+PROV904;Emathous;Emathous;Emathous;Emathous;Emathous;;;;;;;;;X
+PROV905;Laodicea;Laodicea;Laodicea;Laodicea;Laodicea;;;;;;;;;X
 ;;;;;;;;;;;;;;X
 ;;;;;;;;;;;;;;X
 ;;;;;;;;;;;;;;X

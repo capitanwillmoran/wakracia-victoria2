@@ -1,18 +1,18 @@
-EVTNAME19356;A war to end all wars;;;;;;;;;;;;;x
-EVTDESC19356;It has become increasingly clear that we have entered a new era of unprecedented warfare. The conflicts of our time are no longer mere local issues, but instead reach every corner of the world. Considering the ever increasing stakes and the terrifying impact of these hostilities on the nations involved, there is no longer any need for restrain.\n\n From now on a great war will allow a side that is clearly winning the ability to add even more wargoals;;;;;;;;;;;;;x
-EVTOPTA19356;Gentlemen, all I ask for is war, a war so grand as to make Hell itself tremble;;;;;;;;;;;;;x
-EVTDESC19356_NEWS_LONG;It has become increasingly clear that we have entered a new era of unprecedented warfare. The conflicts of our time are no longer mere local issues, but instead reach every corner of the world. Considering the ever increasing stakes and the terrifying impact of these hostilities on the nations involved, there is no longer any need for restrain.;;;;;;;;;;;;;x
-EVTDESC19356_NEWS_MEDIUM;It has become increasingly clear that we have entered a new era of unprecedented warfare. The conflicts of our time are no longer mere local issues, but instead reach every corner of the world. Considering the ever increasing stakes and the terrifying impact of these hostilities on the nations involved, there is no longer any need for restrain.;;;;;;;;;;;;;x
-EVTDESC19356_NEWS_SHORT;It has become increasingly clear that we have entered a new era of unprecedented warfare.;;;;;;;;;;;;;x
-ASSIMILATE_EFFECT;Assimilate all Pops in state\n;;;;;;;;;;;;;x
-WORLD_WARS_ENABLE_DESC;Great wars can now become World wars;;;;;;;;;;;;;x
-WORLD_WARS_ENABLED_DESC;World wars are enabled;;;;;;;;;;;;;x
-WORLD_WARS_DISABLED_DESC;World wars are NOT enabled;;;;;;;;;;;;;x
-SM_WINDOW;Window mode;;;;;;;;;;;;;x
-SM_WINDOWED;Windowed;;;;;;;;;;;;;x
-SM_FULLSCREEN;Fullscreen;;;;;;;;;;;;;x
-SM_BORDERLESS;Borderless;;;;;;;;;;;;;x
-IGNORE_DECISION_ON;This decision is set to NOT notify the player when it is available to be taken.\n\n§GClick to change notification status.§!;;;;;;;;;;;;;x
-IGNORE_DECISION_OFF;This decision is set to notify the player when it is available to be taken.\n\n§GClick to change notification status.§!;;;;;;;;;;;;;x
-SPLITINHALF;Split in Half;;;;;;;;;;;;;x
-SPLITINHALF_DRO;Split in half will split the current unit into two roughly even-sized units and select the larger of the two units.;;;;;;;;;;;;;x
+EVTNAME19356;A war to end all wars;;;;Una guerra para acabar con todas las guerras;;;;;;;;;x
+EVTDESC19356;It has become increasingly clear that we have entered a new era of unprecedented warfare. The conflicts of our time are no longer mere local issues, but instead reach every corner of the world. Considering the ever increasing stakes and the terrifying impact of these hostilities on the nations involved, there is no longer any need for restrain.\n\n From now on a great war will allow a side that is clearly winning the ability to add even more wargoals;;;;Cada vez está más claro que hemos entrado en una nueva era de guerras sin precedentes. Los conflictos de nuestro tiempo ya no son meros asuntos locales, sino que llegan a todos los rincones del mundo. Teniendo en cuenta lo que está en juego y el aterrador impacto de estas hostilidades en las naciones implicadas, ya no hay necesidad de moderación.\NA partir de ahora una gran guerra permitirá a un bando que esté ganando claramente la capacidad de añadir aún más objetivos de guerra;;;;;;;;;x
+EVTOPTA19356;Gentlemen, all I ask for is war, a war so grand as to make Hell itself tremble;;;;Caballeros, todo lo que pido es una guerra, una guerra tan grande que haga temblar al mismísimo infierno;;;;;;;;;x
+EVTDESC19356_NEWS_LONG;It has become increasingly clear that we have entered a new era of unprecedented warfare. The conflicts of our time are no longer mere local issues, but instead reach every corner of the world. Considering the ever increasing stakes and the terrifying impact of these hostilities on the nations involved, there is no longer any need for restrain.;;;;Cada vez está más claro que hemos entrado en una nueva era de guerra sin precedentes. Los conflictos de nuestro tiempo ya no son meros asuntos locales, sino que llegan a todos los rincones del mundo. Teniendo en cuenta lo que está en juego y el aterrador impacto de estas hostilidades en las naciones implicadas, ya no es necesario contenerse.;;;;;;;;;x
+EVTDESC19356_NEWS_MEDIUM;It has become increasingly clear that we have entered a new era of unprecedented warfare. The conflicts of our time are no longer mere local issues, but instead reach every corner of the world. Considering the ever increasing stakes and the terrifying impact of these hostilities on the nations involved, there is no longer any need for restrain.;;;;Cada vez está más claro que hemos entrado en una nueva era de guerras sin precedentes. Los conflictos de nuestro tiempo ya no son meros asuntos locales, sino que llegan a todos los rincones del mundo. Teniendo en cuenta que lo que está en juego es cada vez más importante y que las repercusiones de estas hostilidades son aterradoras para las naciones implicadas, ya no hay necesidad de moderación.;;;;;;;;;x
+EVTDESC19356_NEWS_SHORT;It has become increasingly clear that we have entered a new era of unprecedented warfare.;;;;Cada vez está más claro que hemos entrado en una nueva era de guerra sin precedentes.;;;;;;;;;x
+ASSIMILATE_EFFECT;Assimilate all Pops in state\n;;;;Asimilar a todos los papas en el estado\n;;;;;;;;;x
+WORLD_WARS_ENABLE_DESC;Great wars can now become World wars;;;;Las grandes guerras pueden convertirse ahora en guerras mundiales;;;;;;;;;x
+WORLD_WARS_ENABLED_DESC;World wars are enabled;;;;Las guerras mundiales están habilitadas;;;;;;;;;x
+WORLD_WARS_DISABLED_DESC;World wars are NOT enabled;;;;Las guerras mundiales NO están habilitadas;;;;;;;;;x
+SM_WINDOW;Window mode;;;;Modo ventana;;;;;;;;;x
+SM_WINDOWED;Windowed;;;;Ventana;;;;;;;;;x
+SM_FULLSCREEN;Fullscreen;;;;Pantalla completa;;;;;;;;;x
+SM_BORDERLESS;Borderless;;;;Sin bordes;;;;;;;;;x
+IGNORE_DECISION_ON;This decision is set to NOT notify the player when it is available to be taken.\n\n§GClick to change notification status.§!;;;;Esta decisión está configurada para NO notificar al jugador cuando esté disponible para ser tomada.;;;;;;;;;x
+IGNORE_DECISION_OFF;This decision is set to notify the player when it is available to be taken.\n\n§GClick to change notification status.§!;;;;Esta decisión está configurada para notificar al jugador cuando esté disponible para ser tomada.;;;;;;;;;x
+SPLITINHALF;Split in Half;;;;Dividir por la mitad;;;;;;;;;x
+SPLITINHALF_DRO;Split in half will split the current unit into two roughly even-sized units and select the larger of the two units.;;;;Dividir por la mitad dividirá la unidad actual en dos unidades más o menos iguales y seleccionará la mayor de las dos unidades.;;;;;;;;;x

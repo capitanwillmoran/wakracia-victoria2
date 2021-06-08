@@ -7,14 +7,18 @@ country_event = {
 	
 	trigger = {
 		tag = BYZ
-		infamy = 10
+		infamy = 9
 		militancy = 1
+		NOT = {exists = SYC}
+		NOT = {exists = NAP}
 		NOT = {exists = SIC}
 	}
 	
 	mean_time_to_happen = {
 		months = 1
 	}
+
+	fire_only_once = yes
 	
 	option = {
 		name = "EVTOPTA96000"
@@ -78,6 +82,7 @@ country_event = {
     			background = aristocrat
    			prestige = 0.9
 			}
+		set_country_flag = italian_civil_war_happened
 		}
 	}
 }
@@ -92,12 +97,19 @@ country_event = {
 	trigger = {
 		tag = BYZ
 		infamy = 10
-		militancy = 5
-		exists = SIC
+		militancy = 3
+		NOT = {
+			owns = 749
 		}
-	
+		OR = {
+			year = 1865
+		}
+	}
+
+	fire_only_once = yes
+
 	mean_time_to_happen = {
-		months = 1
+		months = 5
 	}
 	
 	option = {
@@ -134,6 +146,7 @@ country_event = {
 			defender_goal = {
 				casus_belli = status_quo
 			}
+		set_country_flag = anatolian_civil_war_happened
 		}
 	}
 	
@@ -161,6 +174,7 @@ country_event = {
 			background = gifted_administrator
    			prestige = 10
 			}
+		set_country_flag = anatolian_civil_war_happened
 		}
 	}
 }
@@ -173,12 +187,14 @@ country_event = {
 	major = yes
 	
 	trigger = {
-		tag = BYZ
-		tag = GRE
-		RUM = { exists = yes }
-		SIC = { exists = yes }
-		infamy = 10
+		OR = {
+			tag = BYZ
+			tag = GRE
 		}
+		year = 1871
+		}
+
+	fire_only_once = yes
 	
 	mean_time_to_happen = {
 		months = 1
@@ -318,10 +334,19 @@ country_event = {
 	title = EVTNAME96003
 	desc = EVTDESC96003
 
-	trigger = { 
-		tag = BYZ
+
+	trigger = {
+		OR = {
+			tag = BYZ
+			tag = GRE
+		}
 		RUM = { exists = yes }
 		SIC = { exists = yes }
+		OR = {
+			SYC = { exists = yes }
+			NAP = { exists = yes }
+			}
+		}
 	}
 
 	mean_time_to_happen = { months = 1 }

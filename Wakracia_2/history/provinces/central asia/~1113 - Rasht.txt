@@ -1,0 +1,12 @@
+owner=X02
+controller=X02
+add_core=X02
+trade_goods = timber
+life_rating = 35
+terrain = mountain
+state_building=
+{
+	level=1
+	building = regular_clothes_factory
+	upgrade = yes
+}

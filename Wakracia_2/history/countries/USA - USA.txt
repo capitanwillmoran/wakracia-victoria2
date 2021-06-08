@@ -32,7 +32,7 @@ press_rights=state_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = USA_reactionary
+ruling_party = USA_conservative
 upper_house = 
 {
 	fascist = 0
@@ -68,7 +68,7 @@ publishing_industry = 1
 stock_exchange = 1
 the_command_principle = 1
 water_wheel_power = 1
-prestige=0
+prestige=0.285789
 oob = "USA_OOB.txt"
 set_country_flag = post_colonial_country
 set_country_flag = postcol_1

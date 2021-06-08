@@ -20,6 +20,13 @@
 		size= 17
 	}
 
+	clergymen=
+	{
+		culture = matense
+		religion = hellenic_pagan
+		size= 150
+	}
+
 	bureaucrats=
 	{
 		culture = guarani
@@ -48,7 +55,7 @@
 		size= 4880
 	}
 
-	soldiers=
+	labourers=
 	{
 		culture = matense
 		religion = hellenic_pagan
@@ -1292,7 +1299,14 @@
 		size= 95
 	}
 
-	artisans=
+	clergymen=
+	{
+		culture = matense
+		religion = hellenic_pagan
+		size= 150
+	}
+
+	labourers=
 	{
 		culture = matense
 		religion = hellenic_pagan
@@ -1413,7 +1427,7 @@
 		size= 38
 	}
 
-	officers=
+	labourers=
 	{
 		culture = matense
 		religion = hellenic_pagan
@@ -1471,7 +1485,7 @@
 		size= 2
 	}
 
-	farmers=
+	labourers=
 	{
 		culture = guarani
 		religion = animist

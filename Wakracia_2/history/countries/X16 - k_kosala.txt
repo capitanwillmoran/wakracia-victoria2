@@ -1,5 +1,5 @@
 capital = 1241
-primary_culture = mongol
+primary_culture = bengali
 culture = zzz_religion_jain
 religion = jain
 government = absolute_monarchy

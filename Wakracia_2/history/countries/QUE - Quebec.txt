@@ -27,7 +27,7 @@ press_rights=state_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = GRE_reactionary
+ruling_party = GRE_liberal
 upper_house = 
 {
 	fascist = 0

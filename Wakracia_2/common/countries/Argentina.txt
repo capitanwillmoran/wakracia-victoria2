@@ -36,7 +36,7 @@ party = {
 
 	ideology = conservative
 
-	citizenship_policy = residency
+	citizenship_policy = full_citizenship
 	economic_policy = interventionism
 	religious_policy = moralism
 	trade_policy = free_trade
