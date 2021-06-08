@@ -700,7 +700,7 @@
 				tooltipText =""
 				delayedTooltipText = ""
 				buttonText = "FE_BACK"
-				buttonFont = "vic_32_black"
+				buttonFont = "vic_32"
 
 				Orientation = "LOWER_LEFT"
 			}
@@ -713,7 +713,7 @@
 				tooltipText =""
 				delayedTooltipText = ""
 				buttonText = "PLAY"
-				buttonFont = "vic_32_black"
+				buttonFont = "vic_32"
 
 				Orientation = "LOWER_RIGHT"
 				clicksound = start_game

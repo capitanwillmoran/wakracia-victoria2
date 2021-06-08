@@ -315,7 +315,7 @@ guiTypes = {
 					name = "support_side"
 					position = { x = 10 y = 110 }
 					quadTextureSprite = "GFX_button_thin_160"
-					buttonFont = "vic_18_black"
+					buttonFont = "vic_18"
 					Orientation = "UPPER_LEFT"
 					buttonText = "SUPPORT_SIDE"
 					clicksound = click
@@ -325,7 +325,7 @@ guiTypes = {
 					name = "back_down"
 					position = { x = 10 y = 110 }
 					quadTextureSprite = "GFX_button_thin_160"
-					buttonFont = "vic_18_black"
+					buttonFont = "vic_18"
 					Orientation = "UPPER_LEFT"
 					buttonText = "CRISIS_BACK_DOWN"
 					clicksound = click
@@ -397,7 +397,7 @@ guiTypes = {
 					name = "support_side"
 					position = { x = 5 y = 110 }
 					quadTextureSprite = "GFX_button_thin_160"
-					buttonFont = "vic_18_black"
+					buttonFont = "vic_18"
 					Orientation = "UPPER_LEFT"
 					buttonText = "SUPPORT_SIDE"
 					clicksound = click
@@ -407,7 +407,7 @@ guiTypes = {
 					name = "back_down"
 					position = { x = 10 y = 110 }
 					quadTextureSprite = "GFX_button_thin_160"
-					buttonFont = "vic_18_black"
+					buttonFont = "vic_18"
 					Orientation = "UPPER_LEFT"
 					buttonText = "CRISIS_BACK_DOWN"
 					clicksound = click
@@ -1267,7 +1267,7 @@ guiTypes = {
 			guiButtonType = {
 				name = "add_wargoal"
 				quadTextureSprite = "GFX_button_thin_120"
-				buttonFont = "vic_18_black"
+				buttonFont = "vic_18"
 				buttonText = "DIPLOMACY_ADD_WARGOAL"
 				Orientation = "UPPER_LEFT"
 				clicksound = click
@@ -1689,7 +1689,7 @@ guiTypes = {
 		guiButtonType = {
 				name = "action_option"
 				quadTextureSprite = "GFX_button_thin_160"
-				buttonFont = "vic_18_black"
+				buttonFont = "vic_18"
 				Orientation = "UPPER_LEFT"
 				clicksound = click
 		}		
