@@ -2,6 +2,7 @@ owner=KLK
 controller=CSH
 add_core=KHA
 add_core=KLK
+add_core=YUA
 add_core=MGL
 trade_goods = cattle
 life_rating = 32

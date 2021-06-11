@@ -1,5 +1,5 @@
 capital = 1336
-primary_culture = dummy
+primary_culture = shan
 culture = zzz_religion_shamanist
 religion = shamanist
 government = absolute_monarchy

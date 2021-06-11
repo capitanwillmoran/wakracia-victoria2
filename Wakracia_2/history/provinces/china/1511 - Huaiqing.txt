@@ -1,5 +1,6 @@
 owner=MNX
 controller=MNX
+add_core=XIA
 add_core=CHI
 trade_goods = tea
 life_rating = 32

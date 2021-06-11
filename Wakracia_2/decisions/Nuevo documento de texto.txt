@@ -1689,3 +1689,458 @@ political_decisions = {
 		primary_culture = quechua
 	}
  }
+ terra_nullius22 = {
+	potential = {
+		TAG = MAY
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = mayan
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = KHA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = mongol
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = OIR
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = mongol
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = PAL
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = north_german
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TEU
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = north_german
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = SHA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = shan
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = WUU
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = hakka
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = YUA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = beifaren
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = XIA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = beifaren
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = THU
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = north_german
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TIB
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = tibetan
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TIG
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = tigray
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TMR
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = melanesian
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TRT
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = bihari
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TIR
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = tatargerman
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TLA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = zapotec
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TOG
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = ewe
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TGA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = polynesian
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TOK
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = vietnamese
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TOS
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = japanese
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TOT
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = nahua
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TUL
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = occitan
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TAM
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = manchu
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TRX
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = uighur
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TRA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = malayalam
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TER
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = north_german
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TTB
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = afroslavic
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TRI
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = maghrebi
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TBK
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = luba
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TPQ
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = tupi
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TKS
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = uzbek
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = FER
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = magnagreek
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TVE
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = russian
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = TYR
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = irish
+	}
+ }
+ terra_nullius22 = {
+	potential = {
+		TAG = LAC
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = mayan
+	}
+ }

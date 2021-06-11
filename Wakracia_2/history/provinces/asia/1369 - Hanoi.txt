@@ -2,6 +2,7 @@ owner=DAI
 controller=DAI
 add_core=DAI
 add_core=IDO
+add_core=TOK
 trade_goods = grain
 life_rating = 30
 terrain = hills

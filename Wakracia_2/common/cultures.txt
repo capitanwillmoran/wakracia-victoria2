@@ -5767,4 +5767,12 @@ zzz_culturess = {
 		last_names = { Charalámpis Christákis-Zográfos Daglis Dousmanis Foúmis Gonatás Chatzianéstis Kallérgis Kanáris Katsimiros Kolokotrónis Kondýlis Kountouriótis Kriezís Makriiánnis Mános Mavrokordátos Mavrovouniótis Metaxás Moúskos Níder Othonaíos Paláskas Pan'galos Papadiamantópoulos Papadópoulos Papágos Papoúlas Parakevópoulos Plapoútas Plastíras Sapountzákis Saráfis Smolénskis Sofoúlis Soútsos Spyromílios Staïkópoulos Stanotas tis Elládas Trikoúpis Tsakalótos Tsolákoglou Typáldos-Alfonsátos Tzavélas Vássos Venizélos Voúlgaris Zaïmis Zymvrakákis }
 		
 	}
+	tatargerman = {
+		color = { 45 87 99 }
+		
+		first_names = { Asaf Baqi Galiaskar Ismail Makhmut Musa Rustam Yusuf }
+		
+		last_names = { Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev }
+		
+	}
 }

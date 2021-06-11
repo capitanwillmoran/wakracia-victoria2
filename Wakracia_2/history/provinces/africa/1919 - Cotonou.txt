@@ -1,6 +1,7 @@
 owner=DAH
 controller=DAH
 add_core=DAH
+add_core=TOG
 trade_goods = cattle
 life_rating = 15
 terrain = plains

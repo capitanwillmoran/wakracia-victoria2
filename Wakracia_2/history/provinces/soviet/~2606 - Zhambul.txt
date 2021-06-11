@@ -1,0 +1,8 @@
+owner=X24
+controller=X24
+add_core=X14
+add_core=XIN
+add_core=ZUN
+trade_goods = coal
+life_rating = 25
+terrain = hills

@@ -1,0 +1,5 @@
+owner=MNX
+controller=MNX
+trade_goods = timber
+life_rating = 32
+terrain = plains

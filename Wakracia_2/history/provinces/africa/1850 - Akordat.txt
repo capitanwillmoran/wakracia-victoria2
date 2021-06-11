@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=MED
+add_core=TIG
 add_core=ETH
 add_core=ERI
 trade_goods = fruit

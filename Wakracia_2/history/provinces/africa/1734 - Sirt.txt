@@ -1,5 +1,6 @@
 owner=X05
 controller=X05
+add_core=TRI
 add_core=X05
 trade_goods = wool
 life_rating = 35

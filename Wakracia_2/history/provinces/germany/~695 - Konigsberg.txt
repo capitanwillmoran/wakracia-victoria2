@@ -1,0 +1,8 @@
+owner=SLV
+controller=SLV
+add_core=LIT
+add_core=PLC
+trade_goods = cattle
+life_rating = 40
+terrain = farmlands
+naval_base = 1

@@ -2,6 +2,7 @@ owner=BYZ
 controller=BYZ
 add_core=MED
 add_core=WLY
+add_core=TIG
 add_core=ETH
 trade_goods = cattle
 life_rating = 30

@@ -1,0 +1,8 @@
+owner=MCK
+controller=CSH
+add_core=MCK
+add_core=YAK
+trade_goods = cattle
+life_rating = 35
+terrain = hills
+fort = 2

@@ -1,49 +1,49 @@
 2087 = {
 	soldiers=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 850
 	}
 
 	artisans=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 1699
 	}
 
 	clergymen=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 276
 	}
 
 	bureaucrats=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 123
 	}
 
 	officers=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 34
 	}
 
 	aristocrats=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 357
 	}
 
 	farmers=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 39147
 	}
@@ -103,49 +103,49 @@
 2089 = {
 	soldiers=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 591
 	}
 
 	artisans=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 1182
 	}
 
 	clergymen=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 192
 	}
 
 	bureaucrats=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 86
 	}
 
 	officers=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 24
 	}
 
 	aristocrats=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 248
 	}
 
 	farmers=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 27231
 	}
@@ -154,49 +154,49 @@
 2090 = {
 	soldiers=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 536
 	}
 
 	artisans=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 1073
 	}
 
 	clergymen=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 174
 	}
 
 	bureaucrats=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 78
 	}
 
 	officers=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 225
 	}
 
 	farmers=
 	{
-		culture = khoisan
+		culture = boer
 		religion = shamanism
 		size= 24709
 	}

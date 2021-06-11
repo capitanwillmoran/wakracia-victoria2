@@ -1,13 +1,14 @@
 capital = 1538
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+primary_culture = nanfaren
+culture = zzz_religion_mahayana
+religion = mahayana
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

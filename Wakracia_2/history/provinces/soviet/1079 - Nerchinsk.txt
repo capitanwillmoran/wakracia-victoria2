@@ -2,6 +2,7 @@ owner=KLK
 controller=KLK
 add_core=BRY
 add_core=YAK
+add_core=YUA
 trade_goods = grain
 life_rating = 35
 terrain = plains

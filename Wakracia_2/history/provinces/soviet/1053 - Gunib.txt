@@ -1,6 +1,7 @@
 owner=CRI
 controller=CRI
 add_core=ALN
+add_core=TCA
 trade_goods = silk
 life_rating = 35
 terrain = hills

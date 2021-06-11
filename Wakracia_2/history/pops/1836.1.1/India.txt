@@ -3306,42 +3306,42 @@
 
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 92
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 6867
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 1116
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 172
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 137
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 1682
 	}
@@ -3648,49 +3648,49 @@
 
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 900
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 9215
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 1498
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 230
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 185
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 1935
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 77439
 	}
@@ -3795,49 +3795,49 @@
 
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 834
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 1667
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 271
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 42
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 33
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 350
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 80170
 	}
@@ -3846,98 +3846,98 @@
 1240 = {
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 5155
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 10309
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 1675
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 361
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 206
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 2526
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 495222
 	}
 
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 5382
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 31835
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 5173
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 1114
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 637
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 7800
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 486213
 	}
@@ -3946,49 +3946,49 @@
 1241 = {
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 25564
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 82171
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 5934
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 913
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 1461
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 7670
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 789291
 	}
@@ -4297,49 +4297,49 @@
 1245 = {
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 16533
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 24387
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 3963
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 610
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 487
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 5121
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 558561
 	}
@@ -4348,49 +4348,49 @@
 1246 = {
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 15134
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 2460
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 378
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 302
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 3178
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 352751
 	}
@@ -4497,49 +4497,49 @@
 1247 = {
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 5457
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 21826
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 3546
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 764
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 436
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 4583
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 509036
 	}
@@ -4989,49 +4989,49 @@
 
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 2569
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 10275
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 1670
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 257
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 206
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 2158
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 239745
 	}
@@ -5480,49 +5480,49 @@
 
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 57
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 3363
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 546
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 84
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 67
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 706
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 868
 	}
@@ -6123,49 +6123,49 @@
 
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 41
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 2405
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 391
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 60
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 48
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 505
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 619
 	}
@@ -6419,49 +6419,49 @@
 
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 1382
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 5530
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 899
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 138
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 111
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 1161
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 129018
 	}
@@ -8445,98 +8445,98 @@
 
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 426
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 852
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 138
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 21
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 179
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = tengri_pagan_reformed
 		size= 40942
 	}
 
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 477
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 2760
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 448
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 69
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 55
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 580
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 43321
 	}
@@ -9043,49 +9043,49 @@
 1273 = {
 	soldiers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 904
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 4200
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 682
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 105
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 84
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 882
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = kanauji
 		religion = jain
 		size= 83522
 	}
@@ -9792,49 +9792,49 @@
 1280 = {
 	soldiers=
 	{
-		culture = uighur
+		culture = oriya
 		religion = jain
 		size= 1251
 	}
 
 	artisans=
 	{
-		culture = uighur
+		culture = oriya
 		religion = jain
 		size= 2501
 	}
 
 	clergymen=
 	{
-		culture = uighur
+		culture = oriya
 		religion = jain
 		size= 406
 	}
 
 	bureaucrats=
 	{
-		culture = uighur
+		culture = oriya
 		religion = jain
 		size= 88
 	}
 
 	officers=
 	{
-		culture = uighur
+		culture = oriya
 		religion = jain
 		size= 50
 	}
 
 	aristocrats=
 	{
-		culture = uighur
+		culture = oriya
 		religion = jain
 		size= 525
 	}
 
 	farmers=
 	{
-		culture = uighur
+		culture = oriya
 		religion = jain
 		size= 120253
 	}
@@ -10039,49 +10039,49 @@
 
 	soldiers=
 	{
-		culture = uighur
+		culture = oriya
 		religion = jain
 		size= 875
 	}
 
 	artisans=
 	{
-		culture = uighur
+		culture = oriya
 		religion = jain
 		size= 3500
 	}
 
 	clergymen=
 	{
-		culture = uighur
+		culture = oriya
 		religion = jain
 		size= 569
 	}
 
 	bureaucrats=
 	{
-		culture = uighur
+		culture = oriya
 		religion = jain
 		size= 88
 	}
 
 	officers=
 	{
-		culture = uighur
+		culture = oriya
 		religion = jain
 		size= 70
 	}
 
 	aristocrats=
 	{
-		culture = uighur
+		culture = oriya
 		religion = jain
 		size= 735
 	}
 
 	farmers=
 	{
-		culture = uighur
+		culture = oriya
 		religion = jain
 		size= 81674
 	}

@@ -2,6 +2,7 @@ owner=ENG
 controller=ENG
 add_core=IRE
 add_core=ULS
+add_core=TYR
 add_core=CEL
 trade_goods = cattle
 life_rating = 35

@@ -1,6 +1,7 @@
 owner=X02
 controller=X02
 add_core=RDL
+add_core=TCA
 add_core=SRN
 trade_goods = wool
 life_rating = 35

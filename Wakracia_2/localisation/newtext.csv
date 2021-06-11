@@ -1295,8 +1295,8 @@ CALLALLY_WE_ACCEPT_3;§Y$ACTOR$§W;§Y$ACTOR$§W;§Y$ACTOR$§W;;§Y$ACTOR$§W;;;;;;;;;x;
 CALLALLY_WE_ACCEPT_4;is only just worthy of our support in the;était digne de notre soutien dans le conflit;unser Unterstützung gerade noch würdig. Wir helfen ihnen im;;merece nuestro apoyo en la;;;;;;;;;x;
 CALLALLY_WE_ACCEPT_5;$VERSUS$;$VERSUS$;$VERSUS$;;$VERSUS$;;;;;;;;;x;
 CALLALLY_WE_ACCEPT_6;*;*;*;;*;;;;;;;;;x;
-CALLALLY_WE_ACCEPT_BTN1;OK;D'accord;OK;OK;;OK;;;;;;;;;x
-CALLALLY_WE_ACCEPT_BTN2;OK;D'accord;OK;OK;;OK;;;;;;;;;x
+CALLALLY_WE_ACCEPT_BTN1;OK;D'accord;OK;OK;OK;OK;;;;;;;;;x
+CALLALLY_WE_ACCEPT_BTN2;OK;D'accord;OK;OK;OK;OK;;;;;;;;;x
 CALLALLY_WE_ACCEPT_BTN3;Go to;Voir;Gehe zu;;Ir a;;;;;;;;;x;
 CALLALLY_OTHER_ACCEPT_HEADER;The Foreign Minister reports;Le ministre des Affaires étrangères indique :;Der Außenminister berichtet:;;El Ministro de Asuntos Exteriores informa;;;;;;;;;x;
 CALLALLY_OTHER_ACCEPT_1;§Y$RECIPIENT$§W;§Y$RECIPIENT$§W ;§Y$RECIPIENT$§W;;§Y$RECIPIENT$§W;;;;;;;;;x;
@@ -1305,8 +1305,8 @@ CALLALLY_OTHER_ACCEPT_3;Military Alliance with;alliance militaire avec;Militärbü
 CALLALLY_OTHER_ACCEPT_4;§Y$ACTOR$§W;§Y$ACTOR$§W.;§Y$ACTOR$§W geehrt.;;§Y$ACTOR$§W;;;;;;;;;x;
 CALLALLY_OTHER_ACCEPT_5;They are now part of the;Ils participent désormais au conflit;Sie kämpfen nun im;;Ahora forma parte de la;;;;;;;;;x;
 CALLALLY_OTHER_ACCEPT_6;$VERSUS$;$VERSUS$;$VERSUS$;;$VERSUS$;;;;;;;;;x;
-CALLALLY_OTHER_ACCEPT_BTN1;OK;D'accord;OK;OK;;OK;;;;;;;;;x
-CALLALLY_OTHER_ACCEPT_BTN2;OK;D'accord;OK;OK;;OK;;;;;;;;;x
+CALLALLY_OTHER_ACCEPT_BTN1;OK;D'accord;OK;OK;OK;OK;;;;;;;;;x
+CALLALLY_OTHER_ACCEPT_BTN2;OK;D'accord;OK;OK;OK;OK;;;;;;;;;x
 CALLALLY_OTHER_ACCEPT_BTN3;Go to;Voir;Gehe zu;;Ir a;;;;;;;;;x;
 BUILD_CIVILIZED;Civilized;Civilisé;Zivilisiert;;Civilizado;;;;;;;;;x;
 DIPLOMACY_CANNOT_JOIN_WAR_INVALID_ALLY;Already at war with §Y$COUNTRY$§W, we cannot join their side in this war.;Déjà en guerre contre §Y$COUNTRY$§W, nous ne pouvons pas nous allier à ce pays.;Wir sind bereits im Krieg mit §Y$COUNTRY$§W und können in diesem Krieg nicht auf ihrer Seite intervenieren.;;Ya está en guerra con §Y$COUNTRY$§W, no podemos unirnos a su bando en esta guerra.;;;;;;;;;x;

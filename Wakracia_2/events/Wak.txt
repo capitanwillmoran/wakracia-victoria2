@@ -135,7 +135,7 @@ country_event = {
 
 	title = "EVTNAME97500"
 	desc = "EVTDESC97500"
-	picture = "Nobel_Literature"
+	picture = "Fjol"
 
 	option = {
 		name = "EVTOPTA97500"

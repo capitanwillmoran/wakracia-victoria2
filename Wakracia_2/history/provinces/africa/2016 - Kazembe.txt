@@ -1,5 +1,6 @@
 owner=SWA
 controller=SWA
+add_core=TBK
 add_core=ZAM
 trade_goods = grain
 life_rating = 15

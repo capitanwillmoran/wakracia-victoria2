@@ -886,98 +886,98 @@
 732 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = norse_pagan_reformed
 		size= 1363
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = norse_pagan_reformed
 		size= 852
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = norse_pagan_reformed
 		size= 46
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = norse_pagan_reformed
 		size= 9
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = norse_pagan_reformed
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = norse_pagan_reformed
 		size= 51
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = norse_pagan_reformed
 		size= 22016
 	}
 
 	soldiers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 350
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 1289
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 69
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 77
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 4432
 	}
@@ -1035,49 +1035,49 @@
 733 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 3615
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 1291
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 242
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 45
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 52
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 271
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 59039
 	}
@@ -1377,49 +1377,49 @@
 736 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 531
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 531
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 100
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 19
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 111
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 25232
 	}
@@ -1477,49 +1477,49 @@
 737 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 2192
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 783
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 147
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 27
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 31
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 164
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 35463
 	}
@@ -1675,49 +1675,49 @@
 
 	soldiers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 2405
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 1932
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 322
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 30
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 34
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 541
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 37680
 	}
@@ -1879,98 +1879,98 @@
 742 = {
 	soldiers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = norse_pagan_reformed
 		size= 1062
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = norse_pagan_reformed
 		size= 190
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = norse_pagan_reformed
 		size= 36
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = norse_pagan_reformed
 		size= 7
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = norse_pagan_reformed
 		size= 60
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = norse_pagan_reformed
 		size= 17595
 	}
 
 	soldiers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 162
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 248
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 46
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 78
 	}
 
 	farmers=
 	{
-		culture = tatar
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 2344
 	}

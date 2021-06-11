@@ -1,6 +1,7 @@
 owner=SLV
 controller=SLV
 add_core=LAT
+add_core=TEU
 add_core=UBD
 add_core=X08
 trade_goods = grain

@@ -2,6 +2,7 @@ owner=X24
 controller=X24
 add_core=X13
 add_core=XIN
+add_core=TRX
 trade_goods = coal
 life_rating = 25
 terrain = steppe

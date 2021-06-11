@@ -1,5 +1,6 @@
 owner=X24
 controller=CRI
+add_core=TRX
 add_core=KAZ
 trade_goods = wool
 life_rating = 35

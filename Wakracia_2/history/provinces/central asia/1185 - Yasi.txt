@@ -2,6 +2,7 @@ owner=X24
 controller=X24
 add_core=X12
 add_core=X14
+add_core=TRX
 add_core=XIN
 trade_goods = wool
 life_rating = 35

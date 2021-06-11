@@ -1,5 +1,6 @@
 owner=BYZ
 controller=BYZ
+add_core=TGA
 trade_goods = fish
 life_rating = 15
 terrain = plains
