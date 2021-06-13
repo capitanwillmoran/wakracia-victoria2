@@ -1,0 +1,8 @@
+owner=CAL
+controller=CAL
+add_core=CAL
+add_core=YKT
+trade_goods = cattle
+life_rating = 35
+terrain = plains
+naval_base = 2

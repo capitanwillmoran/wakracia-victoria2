@@ -3,6 +3,7 @@ controller=X19
 add_core=BRY
 add_core=YUA
 add_core=X19
+add_core=YAK
 trade_goods = timber
 life_rating = 35
 terrain = woods

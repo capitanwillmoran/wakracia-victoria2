@@ -1,13 +1,13 @@
-capital = 2068
 primary_culture = british
-culture = zzz_religion_protestant
-religion = protestant
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = hms_government
 plurality = 0
 nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
+is_releasable_vassal = no
 
 # Social Reforms
 wage_reform = no_minimum_wage

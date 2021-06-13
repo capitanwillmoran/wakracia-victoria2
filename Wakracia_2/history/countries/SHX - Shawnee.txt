@@ -1,4 +1,4 @@
-capital = 223
+capital = 181
 primary_culture = central_algonquian
 culture = zzz_religion_totemism
 religion = totemism
@@ -7,6 +7,7 @@ plurality = 0
 nationalvalue = nv_order
 literacy = 0.0457089
 
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

@@ -1,13 +1,14 @@
 capital = 2543
 primary_culture = melanesian
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = zzz_religion_jain
+religion = jain
 government = democracy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

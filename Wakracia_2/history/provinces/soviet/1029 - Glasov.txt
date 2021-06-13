@@ -2,6 +2,7 @@ owner=X24
 controller=MUS
 add_core=UGR
 add_core=X17
+add_core=SIB
 add_core=X24
 add_core=X26
 trade_goods = timber

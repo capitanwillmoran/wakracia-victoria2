@@ -1,6 +1,8 @@
 owner=X09
 controller=X09
 add_core=GER
+add_core=COB
+add_core=MEI
 trade_goods = iron
 life_rating = 40
 terrain = plains

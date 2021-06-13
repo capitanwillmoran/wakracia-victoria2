@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=MLC
+add_core=SAK
 add_core=MLY
 trade_goods = grain
 life_rating = 30

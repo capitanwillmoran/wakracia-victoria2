@@ -1,6 +1,7 @@
 owner=X24
 controller=X24
 add_core=TRX
+add_core=SIB
 add_core=XIN
 trade_goods = timber
 life_rating = 35

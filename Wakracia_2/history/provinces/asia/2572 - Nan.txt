@@ -2,6 +2,7 @@ owner=HSE
 controller=HSE
 add_core=IDO
 add_core=LNA
+add_core=SUK
 add_core=SIA
 trade_goods = opium
 life_rating = 30

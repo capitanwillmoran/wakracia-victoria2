@@ -1,6 +1,7 @@
 owner=NZL
 controller=NZL
 add_core=NZL
+add_core=SNZ
 add_core=AOT
 trade_goods = wool
 life_rating = 30

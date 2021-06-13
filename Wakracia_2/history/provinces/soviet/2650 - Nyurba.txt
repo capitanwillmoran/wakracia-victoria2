@@ -1,5 +1,6 @@
 owner=X19
 controller=X19
+add_core=YAK
 trade_goods = grain
 life_rating = 15
 terrain = arctic

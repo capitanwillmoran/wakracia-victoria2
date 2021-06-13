@@ -2,7 +2,6 @@ owner=SLV
 controller=SLV
 add_core=PLC
 add_core=POL
-add_core=SLV
 trade_goods = fruit
 life_rating = 35
 terrain = plains

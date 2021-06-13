@@ -2,6 +2,7 @@ owner=MUS
 controller=SLV
 add_core=BYE
 add_core=PLT
+add_core=SMK
 add_core=X27
 trade_goods = grain
 life_rating = 35

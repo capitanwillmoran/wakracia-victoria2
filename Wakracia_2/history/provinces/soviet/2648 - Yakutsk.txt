@@ -1,5 +1,6 @@
 owner=NVK
 controller=NVK
+add_core=YAK
 add_core=BRY
 trade_goods = grain
 life_rating = 35

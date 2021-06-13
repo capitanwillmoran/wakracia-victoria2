@@ -1,12 +1,13 @@
 capital = 603
 primary_culture = swiss
-culture = zzz_religion_catholic
-religion = catholic
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = theocracy
 plurality = 0
 nationalvalue = nv_liberty
 literacy = 0.0471373
 
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

@@ -3,6 +3,7 @@ controller=HSE
 add_core=IDO
 add_core=LNA
 add_core=SIA
+add_core=SUK
 trade_goods = opium
 life_rating = 30
 terrain = mountain

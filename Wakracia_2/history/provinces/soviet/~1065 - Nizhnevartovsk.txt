@@ -1,0 +1,6 @@
+owner=X24
+controller=X24
+add_core=X24
+trade_goods = timber
+life_rating = 15
+terrain = arctic

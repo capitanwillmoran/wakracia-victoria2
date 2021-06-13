@@ -2,6 +2,7 @@ owner=KZB
 controller=KZB
 add_core=KON
 add_core=KZB
+add_core=SYO
 trade_goods = iron
 life_rating = 15
 terrain = jungle

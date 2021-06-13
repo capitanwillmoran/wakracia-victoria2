@@ -2,6 +2,7 @@ owner=MCK
 controller=CSH
 add_core=MCK
 add_core=TAM
+add_core=SOL
 add_core=YAK
 trade_goods = cattle
 life_rating = 35

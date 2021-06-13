@@ -1,5 +1,6 @@
 owner=X19
 controller=X19
+add_core=SIB
 trade_goods = coal
 life_rating = 35
 terrain = forest

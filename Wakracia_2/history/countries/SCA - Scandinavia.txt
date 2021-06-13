@@ -1,13 +1,14 @@
 capital = 322
 primary_culture = swedish
-culture = zzz_religion_protestant
-religion = protestant
+culture = zzz_religion_norse_pagan_reformed
+religion = norse_pagan_reformed
 government = hms_government
 plurality = 0
 nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
+is_releasable_vassal = no
 
 # Social Reforms
 wage_reform = no_minimum_wage

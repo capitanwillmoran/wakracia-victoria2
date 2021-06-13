@@ -1,0 +1,8 @@
+owner=MUS
+controller=MUS
+add_core=BYE
+add_core=PLT
+add_core=X27
+trade_goods = grain
+life_rating = 35
+terrain = plains

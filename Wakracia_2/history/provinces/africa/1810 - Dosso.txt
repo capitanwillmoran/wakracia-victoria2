@@ -1,6 +1,7 @@
 owner=MLI
 controller=MLI
 add_core=HAU
+add_core=SOK
 add_core=MLI
 trade_goods = grain
 life_rating = 15

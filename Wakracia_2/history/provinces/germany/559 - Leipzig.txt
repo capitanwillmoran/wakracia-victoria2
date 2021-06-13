@@ -2,6 +2,7 @@ owner=BOH
 controller=BOH
 add_core=BOH
 add_core=GER
+add_core=COB
 add_core=SAX
 trade_goods = coal
 life_rating = 40

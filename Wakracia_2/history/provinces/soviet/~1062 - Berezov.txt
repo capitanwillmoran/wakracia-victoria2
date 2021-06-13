@@ -1,0 +1,6 @@
+owner=X24
+controller=X24
+add_core=XIN
+trade_goods = iron
+life_rating = 35
+terrain = forest

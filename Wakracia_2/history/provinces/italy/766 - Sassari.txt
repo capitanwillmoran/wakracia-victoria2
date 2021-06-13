@@ -1,6 +1,8 @@
 owner=X09
 controller=X09
 add_core=X09
+add_core=SAR
+add_core=SRD
 trade_goods = grain
 life_rating = 35
 terrain = plains

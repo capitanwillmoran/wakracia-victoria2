@@ -1,6 +1,7 @@
 owner=MLI
 controller=MLI
 add_core=ZAF
+add_core=SGU
 trade_goods = fruit
 life_rating = 15
 terrain = plains

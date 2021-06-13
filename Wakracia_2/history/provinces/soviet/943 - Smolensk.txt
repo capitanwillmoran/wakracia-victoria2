@@ -1,6 +1,7 @@
 owner=RYA
 controller=RYA
 add_core=RUS
+add_core=SMK
 add_core=RYA
 trade_goods = cattle
 life_rating = 35

@@ -1,5 +1,6 @@
 owner=SWA
 controller=SWA
+add_core=SOF
 add_core=SWA
 trade_goods = grain
 life_rating = 35

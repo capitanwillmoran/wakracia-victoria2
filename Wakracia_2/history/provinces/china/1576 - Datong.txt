@@ -1,6 +1,7 @@
 owner=CSH
 controller=CSH
 add_core=CHI
+add_core=SXI
 add_core=CSH
 trade_goods = timber
 life_rating = 32

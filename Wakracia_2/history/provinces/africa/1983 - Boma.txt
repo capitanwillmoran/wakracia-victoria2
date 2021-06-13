@@ -1,6 +1,7 @@
 owner=KZB
 controller=KZB
 add_core=KON
+add_core=SYO
 add_core=KZB
 trade_goods = timber
 life_rating = 15

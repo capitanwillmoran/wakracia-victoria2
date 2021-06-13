@@ -1,7 +1,6 @@
 owner=CSH
 controller=CSH
 add_core=GUG
-add_core=SIB
 add_core=TKS
 trade_goods = cattle
 life_rating = 30

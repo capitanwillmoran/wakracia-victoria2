@@ -1,12 +1,13 @@
 capital = 1868
 primary_culture = somali
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = zzz_religion_sunni
+religion = sunni
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0
 
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

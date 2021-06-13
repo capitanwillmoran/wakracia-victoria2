@@ -1,6 +1,7 @@
 owner=MLI
 controller=MLI
 add_core=ZAF
+add_core=SGH
 trade_goods = cattle
 life_rating = 10
 terrain = plains

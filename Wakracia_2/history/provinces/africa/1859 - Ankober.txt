@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=JIM
+add_core=SHW
 add_core=ETH
 trade_goods = coffee
 life_rating = 30

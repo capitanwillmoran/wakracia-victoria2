@@ -2,6 +2,7 @@ owner=SAX
 controller=SAX
 add_core=CZE
 add_core=CZH
+add_core=COB
 add_core=POM
 add_core=SAX
 trade_goods = iron
