@@ -1,5 +1,5 @@
-owner=CAL
-controller=CAL
+owner=WIC
+controller=WIC
 add_core=WIC
 trade_goods = coal
 life_rating = 35

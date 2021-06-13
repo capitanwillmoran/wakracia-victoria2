@@ -1,6 +1,7 @@
 owner=X04
 controller=X04
 add_core=PCH
+add_core=PAN
 add_core=X04
 trade_goods = grain
 life_rating = 35

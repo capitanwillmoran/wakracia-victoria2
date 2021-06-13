@@ -1,6 +1,7 @@
 owner=ARG
 controller=BRZ
 add_core=ARG
+add_core=PRG
 trade_goods = cattle
 life_rating = 30
 terrain = jungle

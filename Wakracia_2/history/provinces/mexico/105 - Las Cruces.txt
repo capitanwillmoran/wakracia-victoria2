@@ -1,6 +1,5 @@
 owner=CAL
 controller=CAL
-add_core=CAL
 add_core=PUE
 trade_goods = cattle
 life_rating = 35

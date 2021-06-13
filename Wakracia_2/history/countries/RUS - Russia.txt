@@ -1,13 +1,14 @@
 capital = 994
 primary_culture = russian
-culture = zzz_religion_orthodox
-religion = orthodox
+culture = zzz_religion_animist
+religion = animist
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
+is_releasable_vassal = no
 
 # Social Reforms
 wage_reform = no_minimum_wage

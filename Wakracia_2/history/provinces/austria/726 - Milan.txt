@@ -1,5 +1,6 @@
 owner=X09
 controller=X09
+add_core=PAR
 add_core=X09
 trade_goods = iron
 life_rating = 35

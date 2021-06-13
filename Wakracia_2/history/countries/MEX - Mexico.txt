@@ -8,6 +8,7 @@ nationalvalue = nv_order
 literacy = 0.330822
 
 civilized = yes
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

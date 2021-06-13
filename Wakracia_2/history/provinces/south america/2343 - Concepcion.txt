@@ -1,5 +1,6 @@
 owner=PEU
 controller=PEU
+add_core=PRG
 add_core=PEU
 add_core=ARG
 trade_goods = cattle

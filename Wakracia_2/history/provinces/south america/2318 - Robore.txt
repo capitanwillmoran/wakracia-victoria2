@@ -1,5 +1,6 @@
 owner=ARG
 controller=BRZ
+add_core=PRG
 add_core=GRI
 trade_goods = wool
 life_rating = 30

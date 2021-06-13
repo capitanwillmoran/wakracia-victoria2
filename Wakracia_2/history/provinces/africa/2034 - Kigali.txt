@@ -1,11 +1,6 @@
 owner=SWA
 controller=SWA
+add_core=RWA
 trade_goods = coffee
 life_rating = 15
 terrain = plains
-state_building=
-{
-	level=1
-	building = fabric_factory
-	upgrade = yes
-}

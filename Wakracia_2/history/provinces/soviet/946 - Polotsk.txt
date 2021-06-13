@@ -2,6 +2,7 @@ owner=MUS
 controller=SLV
 add_core=MUS
 add_core=NVG
+add_core=PSK
 add_core=RUS
 add_core=X27
 trade_goods = wool

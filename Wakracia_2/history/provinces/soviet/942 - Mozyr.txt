@@ -3,6 +3,7 @@ controller=RYA
 add_core=BYE
 add_core=UKR
 add_core=PLT
+add_core=RYA
 add_core=X27
 trade_goods = cattle
 life_rating = 35

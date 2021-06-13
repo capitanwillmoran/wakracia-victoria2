@@ -1,6 +1,5 @@
 owner=X02
 controller=X02
-add_core=PAN
 add_core=TCA
 add_core=ARM
 trade_goods = iron

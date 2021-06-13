@@ -3,6 +3,7 @@ controller=X09
 add_core=AUS
 add_core=TRE
 add_core=AQU
+add_core=VEN
 trade_goods = grain
 life_rating = 35
 terrain = hills

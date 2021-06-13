@@ -1,13 +1,14 @@
-capital = 2463
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+capital = 2461
+primary_culture = afrobrazilian
+culture = zzz_religion_west_african_pagan_reformed
+religion = west_african_pagan_reformed
 government = democracy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

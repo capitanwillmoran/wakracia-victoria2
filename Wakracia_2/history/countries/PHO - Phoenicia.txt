@@ -1,7 +1,7 @@
 capital = 913
 primary_culture = mashriqi
-culture = zzz_religion_canaanite
-religion = canaanite
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = democracy
 plurality = 0
 nationalvalue = nv_order

@@ -1,5 +1,6 @@
 owner=DEC
 controller=DEC
+add_core=PPG
 trade_goods = grain
 life_rating = 15
 terrain = hills

@@ -2,6 +2,7 @@ owner=X09
 controller=X09
 add_core=X09
 add_core=SAR
+add_core=PAR
 trade_goods = cattle
 life_rating = 35
 terrain = farmlands
