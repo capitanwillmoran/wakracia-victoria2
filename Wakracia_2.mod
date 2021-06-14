@@ -1,4 +1,4 @@
-name = "Converted - Wakracia_2"
+name = "Wakracia: Acero y Carbon"
 path = "mod/Wakracia_2"
 user_dir = "Wakracia_2"
 replace = "history/provinces"
