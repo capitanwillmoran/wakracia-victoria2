@@ -1,5 +1,5 @@
 capital = 425
-primary_culture = frankish
+primary_culture = rollonian
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = theocracy

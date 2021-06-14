@@ -2,6 +2,7 @@ owner=SLV
 controller=SLV
 add_core=DEN
 add_core=SCA
+add_core=OLD
 trade_goods = fish
 life_rating = 40
 terrain = plains

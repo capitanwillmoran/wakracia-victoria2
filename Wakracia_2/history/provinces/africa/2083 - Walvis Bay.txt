@@ -1,5 +1,6 @@
 owner=QUE
 controller=QUE
+add_core=NMB
 trade_goods = wool
 life_rating = 15
 terrain = hills

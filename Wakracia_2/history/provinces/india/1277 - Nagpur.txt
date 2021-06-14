@@ -1,6 +1,7 @@
 owner=MAW
 controller=MAW
 add_core=GOC
+add_core=NAG
 add_core=HND
 trade_goods = dye
 life_rating = 32
