@@ -311,7 +311,7 @@ political_decisions = {
 		primary_culture = mashriqi
 	}
  }
- terra_nullius22 = {
+ terra_nullius23 = {
 	potential = {
 		TAG = ARA
 		primary_culture = dummy
@@ -324,7 +324,7 @@ political_decisions = {
 		primary_culture = bedouin
 	}
  }
- terra_nullius22 = {
+ terra_nullius24 = {
 	potential = {
 		TAG = ABU
 		primary_culture = dummy
@@ -337,7 +337,7 @@ political_decisions = {
 		primary_culture = bedouin
 	}
  }
- terra_nullius22 = {
+ terra_nullius25 = {
 	potential = {
 		TAG = ADE
 		primary_culture = dummy
@@ -350,7 +350,7 @@ political_decisions = {
 		primary_culture = bedouin
 	}
  }
- terra_nullius22 = {
+ terra_nullius26 = {
 	potential = {
 		TAG = AWS
 		primary_culture = dummy
@@ -363,7 +363,7 @@ political_decisions = {
 		primary_culture = afar
 	}
  }
- terra_nullius22 = {
+ terra_nullius27 = {
 	potential = {
 		TAG = AFG
 		primary_culture = dummy
@@ -376,7 +376,7 @@ political_decisions = {
 		primary_culture = pashtun
 	}
  }
- terra_nullius22 = {
+ terra_nullius28 = {
 	potential = {
 		TAG = AMD
 		primary_culture = dummy
@@ -389,7 +389,7 @@ political_decisions = {
 		primary_culture = rajput
 	}
  }
- terra_nullius22 = {
+ terra_nullius29 = {
 	potential = {
 		TAG = AIN
 		primary_culture = dummy
@@ -402,7 +402,7 @@ political_decisions = {
 		primary_culture = ainu
 	}
  }
- terra_nullius22 = {
+ terra_nullius30 = {
 	potential = {
 		TAG = AYR
 		primary_culture = dummy
@@ -415,7 +415,7 @@ political_decisions = {
 		primary_culture = tuareg
 	}
  }
- terra_nullius22 = {
+ terra_nullius31 = {
 	potential = {
 		TAG = AJU
 		primary_culture = dummy
@@ -428,7 +428,7 @@ political_decisions = {
 		primary_culture = somali
 	}
  }
- terra_nullius22 = {
+ terra_nullius32 = {
 	potential = {
 		TAG = ALN
 		primary_culture = dummy
@@ -441,7 +441,7 @@ political_decisions = {
 		primary_culture = alan
 	}
  }
- terra_nullius22 = {
+ terra_nullius33 = {
 	potential = {
 		TAG = LSK
 		primary_culture = dummy
@@ -454,7 +454,7 @@ political_decisions = {
 		primary_culture = eskaleut
 	}
  }
- terra_nullius22 = {
+ terra_nullius34 = {
 	potential = {
 		TAG = ALE
 		primary_culture = dummy
@@ -467,7 +467,7 @@ political_decisions = {
 		primary_culture = french
 	}
  }
- terra_nullius22 = {
+ terra_nullius35 = {
 	potential = {
 		TAG = ALD
 		primary_culture = dummy
@@ -480,7 +480,7 @@ political_decisions = {
 		primary_culture = berber
 	}
  }
- terra_nullius22 = {
+ terra_nullius36 = {
 	potential = {
 		TAG = ALS
 		primary_culture = dummy
@@ -493,7 +493,7 @@ political_decisions = {
 		primary_culture = south_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius37 = {
 	potential = {
 		TAG = ADU
 		primary_culture = dummy
@@ -506,7 +506,7 @@ political_decisions = {
 		primary_culture = andalucian
 	}
  }
- terra_nullius22 = {
+ terra_nullius38 = {
 	potential = {
 		TAG = AES
 		primary_culture = dummy
@@ -519,7 +519,7 @@ political_decisions = {
 		primary_culture = anglo_saxon
 	}
  }
- terra_nullius22 = {
+ terra_nullius39 = {
 	potential = {
 		TAG = AGC
 		primary_culture = dummy
@@ -532,7 +532,7 @@ political_decisions = {
 		primary_culture = swahili
 	}
  }
- terra_nullius22 = {
+ terra_nullius40 = {
 	potential = {
 		TAG = ANG
 		primary_culture = dummy
@@ -545,7 +545,7 @@ political_decisions = {
 		primary_culture = ovimbundu
 	}
  }
- terra_nullius22 = {
+ terra_nullius41 = {
 	potential = {
 		TAG = AGU
 		primary_culture = dummy
@@ -558,7 +558,7 @@ political_decisions = {
 		primary_culture = afronorse
 	}
  }
- terra_nullius22 = {
+ terra_nullius42 = {
 	potential = {
 		TAG = ANH
 		primary_culture = dummy
@@ -571,7 +571,7 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius43 = {
 	potential = {
 		TAG = HUI
 		primary_culture = dummy
@@ -584,7 +584,7 @@ political_decisions = {
 		primary_culture = nanfaren
 	}
  }
- terra_nullius22 = {
+ terra_nullius44 = {
 	potential = {
 		TAG = ANS
 		primary_culture = dummy
@@ -597,7 +597,7 @@ political_decisions = {
 		primary_culture = tatar
 	}
  }
- terra_nullius22 = {
+ terra_nullius45 = {
 	potential = {
 		TAG = X00
 		primary_culture = dummy
@@ -610,7 +610,7 @@ political_decisions = {
 		primary_culture = magalasy
 	}
  }
- terra_nullius22 = {
+ terra_nullius46 = {
 	potential = {
 		TAG = X00
 		primary_culture = dummy
@@ -623,7 +623,7 @@ political_decisions = {
 		primary_culture = maori
 	}
  }
- terra_nullius22 = {
+ terra_nullius47 = {
 	potential = {
 		TAG = APA
 		primary_culture = dummy
@@ -636,7 +636,7 @@ political_decisions = {
 		primary_culture = na_dene
 	}
  }
- terra_nullius22 = {
+ terra_nullius48 = {
 	potential = {
 		TAG = AQU
 		primary_culture = dummy
@@ -649,7 +649,7 @@ political_decisions = {
 		primary_culture = tatar
 	}
  }
- terra_nullius22 = {
+ terra_nullius49 = {
 	potential = {
 		TAG = ARN
 		primary_culture = dummy
@@ -662,7 +662,7 @@ political_decisions = {
 		primary_culture = catalan
 	}
  }
- terra_nullius22 = {
+ terra_nullius50 = {
 	potential = {
 		TAG = ARK
 		primary_culture = dummy
@@ -675,7 +675,7 @@ political_decisions = {
 		primary_culture = burmese
 	}
  }
- terra_nullius22 = {
+ terra_nullius51 = {
 	potential = {
 		TAG = ARK
 		primary_culture = dummy
@@ -688,7 +688,7 @@ political_decisions = {
 		primary_culture = plains_algonquian
 	}
  }
- terra_nullius22 = {
+ terra_nullius52 = {
 	potential = {
 		TAG = ARW
 		primary_culture = dummy
@@ -701,7 +701,7 @@ political_decisions = {
 		primary_culture = guajiro
 	}
  }
- terra_nullius22 = {
+ terra_nullius53 = {
 	potential = {
 		TAG = ARL
 		primary_culture = dummy
@@ -714,7 +714,7 @@ political_decisions = {
 		primary_culture = azerbaijani
 	}
  }
- terra_nullius22 = {
+ terra_nullius54 = {
 	potential = {
 		TAG = AMG
 		primary_culture = dummy
@@ -727,7 +727,7 @@ political_decisions = {
 		primary_culture = occitan
 	}
  }
- terra_nullius22 = {
+ terra_nullius55 = {
 	potential = {
 		TAG = ARM
 		primary_culture = dummy
@@ -740,7 +740,7 @@ political_decisions = {
 		primary_culture = armenian
 	}
  }
- terra_nullius22 = {
+ terra_nullius56 = {
 	potential = {
 		TAG = ARO
 		primary_culture = dummy
@@ -753,7 +753,7 @@ political_decisions = {
 		primary_culture = yoruba
 	}
  }
- terra_nullius22 = {
+ terra_nullius57 = {
 	potential = {
 		TAG = ASH
 		primary_culture = dummy
@@ -766,7 +766,7 @@ political_decisions = {
 		primary_culture = akan
 	}
  }
- terra_nullius22 = {
+ terra_nullius58 = {
 	potential = {
 		TAG = ASR
 		primary_culture = dummy
@@ -779,7 +779,7 @@ political_decisions = {
 		primary_culture = bedouin
 	}
  }
- terra_nullius22 = {
+ terra_nullius59 = {
 	potential = {
 		TAG = ASM
 		primary_culture = dummy
@@ -792,7 +792,7 @@ political_decisions = {
 		primary_culture = assamese
 	}
  }
- terra_nullius22 = {
+ terra_nullius60 = {
 	potential = {
 		TAG = ASI
 		primary_culture = dummy
@@ -805,7 +805,7 @@ political_decisions = {
 		primary_culture = siouan
 	}
  }
- terra_nullius22 = {
+ terra_nullius61 = {
 	potential = {
 		TAG = ASY
 		primary_culture = dummy
@@ -818,7 +818,7 @@ political_decisions = {
 		primary_culture = assyrian
 	}
  }
- terra_nullius22 = {
+ terra_nullius62 = {
 	potential = {
 		TAG = AKH
 		primary_culture = dummy
@@ -831,7 +831,7 @@ political_decisions = {
 		primary_culture = tatar
 	}
  }
- terra_nullius22 = {
+ terra_nullius63 = {
 	potential = {
 		TAG = AVA
 		primary_culture = dummy
@@ -844,7 +844,7 @@ political_decisions = {
 		primary_culture = burmese
 	}
  }
- terra_nullius22 = {
+ terra_nullius64 = {
 	potential = {
 		TAG = AWA
 		primary_culture = dummy
@@ -857,7 +857,7 @@ political_decisions = {
 		primary_culture = avadhi
 	}
  }
- terra_nullius22 = {
+ terra_nullius65 = {
 	potential = {
 		TAG = X12
 		primary_culture = dummy
@@ -870,7 +870,7 @@ political_decisions = {
 		primary_culture = uighur
 	}
  }
- terra_nullius22 = {
+ terra_nullius67 = {
 	potential = {
 		TAG = AZB
 		primary_culture = dummy
@@ -883,7 +883,7 @@ political_decisions = {
 		primary_culture = azerbaijani
 	}
  }
- terra_nullius22 = {
+ terra_nullius68 = {
 	potential = {
 		TAG = ZUL
 		primary_culture = dummy
@@ -896,7 +896,7 @@ political_decisions = {
 		primary_culture = azerbaijani
 	}
  }
- terra_nullius22 = {
+ terra_nullius69 = {
 	potential = {
 		TAG = ZBW
 		primary_culture = dummy
@@ -909,7 +909,7 @@ political_decisions = {
 		primary_culture = shona
 	}
  }
- terra_nullius22 = {
+ terra_nullius70 = {
 	potential = {
 		TAG = ZAM
 		primary_culture = dummy
@@ -922,7 +922,7 @@ political_decisions = {
 		primary_culture = southern_african
 	}
  }
- terra_nullius22 = {
+ terra_nullius71 = {
 	potential = {
 		TAG = YKA
 		primary_culture = dummy
@@ -935,7 +935,7 @@ political_decisions = {
 		primary_culture = mongo
 	}
  }
- terra_nullius22 = {
+ terra_nullius72 = {
 	potential = {
 		TAG = YAR
 		primary_culture = dummy
@@ -948,7 +948,7 @@ political_decisions = {
 		primary_culture = russian
 	}
  }
- terra_nullius22 = {
+ terra_nullius73 = {
 	potential = {
 		TAG = YEM
 		primary_culture = dummy
@@ -961,7 +961,7 @@ political_decisions = {
 		primary_culture = mashriqi
 	}
  }
- terra_nullius22 = {
+ terra_nullius74 = {
 	potential = {
 		TAG = YOK
 		primary_culture = dummy
@@ -974,7 +974,7 @@ political_decisions = {
 		primary_culture = mayan
 	}
  }
- terra_nullius22 = {
+ terra_nullius75 = {
 	potential = {
 		TAG = YKT
 		primary_culture = dummy
@@ -987,7 +987,7 @@ political_decisions = {
 		primary_culture = petunian
 	}
  }
- terra_nullius22 = {
+ terra_nullius76 = {
 	potential = {
 		TAG = YZW
 		primary_culture = dummy
@@ -1000,7 +1000,7 @@ political_decisions = {
 		primary_culture = japanese
 	}
  }
- terra_nullius22 = {
+ terra_nullius77 = {
 	potential = {
 		TAG = YOR
 		primary_culture = dummy
@@ -1013,7 +1013,7 @@ political_decisions = {
 		primary_culture = anglo_saxon
 	}
  }
- terra_nullius22 = {
+ terra_nullius78 = {
 	potential = {
 		TAG = YUG
 		primary_culture = dummy
@@ -1026,7 +1026,7 @@ political_decisions = {
 		primary_culture = serb
 	}
  }
- terra_nullius22 = {
+ terra_nullius79 = {
 	potential = {
 		TAG = UGR
 		primary_culture = dummy
@@ -1039,7 +1039,7 @@ political_decisions = {
 		primary_culture = ugrian
 	}
  }
- terra_nullius22 = {
+ terra_nullius80 = {
 	potential = {
 		TAG = X28
 		primary_culture = dummy
@@ -1052,7 +1052,7 @@ political_decisions = {
 		primary_culture = uighur
 	}
  }
- terra_nullius22 = {
+ terra_nullius81 = {
 	potential = {
 		TAG = YNN
 		primary_culture = dummy
@@ -1065,7 +1065,7 @@ political_decisions = {
 		primary_culture = nanfaren
 	}
  }
- terra_nullius22 = {
+ terra_nullius82 = {
 	potential = {
 		TAG = XAL
 		primary_culture = dummy
@@ -1078,7 +1078,7 @@ political_decisions = {
 		primary_culture = nahua
 	}
  }
- terra_nullius22 = {
+ terra_nullius83 = {
 	potential = {
 		TAG = XHO
 		primary_culture = dummy
@@ -1091,7 +1091,7 @@ political_decisions = {
 		primary_culture = xhosa
 	}
  }
- terra_nullius22 = {
+ terra_nullius84 = {
 	potential = {
 		TAG = CXI
 		primary_culture = dummy
@@ -1104,7 +1104,7 @@ political_decisions = {
 		primary_culture = nanfaren
 	}
  }
- terra_nullius22 = {
+ terra_nullius85 = {
 	potential = {
 		TAG = XBI
 		primary_culture = dummy
@@ -1117,7 +1117,7 @@ political_decisions = {
 		primary_culture = beifaren
 	}
  }
- terra_nullius22 = {
+ terra_nullius86 = {
 	potential = {
 		TAG = XIN
 		primary_culture = dummy
@@ -1130,7 +1130,7 @@ political_decisions = {
 		primary_culture = beifaren
 	}
  }
- terra_nullius22 = {
+ terra_nullius87 = {
 	potential = {
 		TAG = XIU
 		primary_culture = dummy
@@ -1143,7 +1143,7 @@ political_decisions = {
 		primary_culture = mayan
 	}
  }
- terra_nullius22 = {
+ terra_nullius88 = {
 	potential = {
 		TAG = WHA
 		primary_culture = dummy
@@ -1156,7 +1156,7 @@ political_decisions = {
 		primary_culture = welsh
 	}
  }
- terra_nullius22 = {
+ terra_nullius89 = {
 	potential = {
 		TAG = WLL
 		primary_culture = dummy
@@ -1169,7 +1169,7 @@ political_decisions = {
 		primary_culture = wallonian
 	}
  }
- terra_nullius22 = {
+ terra_nullius90 = {
 	potential = {
 		TAG = WAL
 		primary_culture = dummy
@@ -1182,7 +1182,7 @@ political_decisions = {
 		primary_culture = romanian
 	}
  }
- terra_nullius22 = {
+ terra_nullius91 = {
 	potential = {
 		TAG = WRI
 		primary_culture = dummy
@@ -1195,7 +1195,7 @@ political_decisions = {
 		primary_culture = edo
 	}
  }
- terra_nullius22 = {
+ terra_nullius92 = {
 	potential = {
 		TAG = WRL
 		primary_culture = dummy
@@ -1208,7 +1208,7 @@ political_decisions = {
 		primary_culture = somali
 	}
  }
- terra_nullius22 = {
+ terra_nullius93 = {
 	potential = {
 		TAG = WLY
 		primary_culture = dummy
@@ -1221,7 +1221,7 @@ political_decisions = {
 		primary_culture = tigray
 	}
  }
- terra_nullius22 = {
+ terra_nullius94 = {
 	potential = {
 		TAG = WSI
 		primary_culture = dummy
@@ -1234,7 +1234,7 @@ political_decisions = {
 		primary_culture = afrogreek
 	}
  }
- terra_nullius22 = {
+ terra_nullius95 = {
 	potential = {
 		TAG = WES
 		primary_culture = dummy
@@ -1247,7 +1247,7 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius96 = {
 	potential = {
 		TAG = WIA
 		primary_culture = dummy
@@ -1260,7 +1260,7 @@ political_decisions = {
 		primary_culture = lao
 	}
  }
- terra_nullius22 = {
+ terra_nullius97 = {
 	potential = {
 		TAG = WIC
 		primary_culture = dummy
@@ -1273,7 +1273,7 @@ political_decisions = {
 		primary_culture = caddoan
 	}
  }
- terra_nullius22 = {
+ terra_nullius98 = {
 	potential = {
 		TAG = WUR
 		primary_culture = dummy
@@ -1286,7 +1286,7 @@ political_decisions = {
 		primary_culture = south_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius99 = {
 	potential = {
 		TAG = WBG
 		primary_culture = dummy
@@ -1299,7 +1299,7 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius100 = {
 	potential = {
 		TAG = X23
 		primary_culture = dummy
@@ -1312,7 +1312,7 @@ political_decisions = {
 		primary_culture = bengali
 	}
  }
- terra_nullius22 = {
+ terra_nullius101 = {
 	potential = {
 		TAG = VTU
 		primary_culture = dummy
@@ -1325,7 +1325,7 @@ political_decisions = {
 		primary_culture = melanesian
 	}
  }
- terra_nullius22 = {
+ terra_nullius102 = {
 	potential = {
 		TAG = VEN
 		primary_culture = dummy
@@ -1338,7 +1338,7 @@ political_decisions = {
 		primary_culture = magnagreek
 	}
  }
- terra_nullius22 = {
+ terra_nullius103 = {
 	potential = {
 		TAG = VRM
 		primary_culture = dummy
@@ -1351,7 +1351,7 @@ political_decisions = {
 		primary_culture = americangreek
 	}
  }
- terra_nullius22 = {
+ terra_nullius104 = {
 	potential = {
 		TAG = VIJ
 		primary_culture = dummy
@@ -1364,7 +1364,7 @@ political_decisions = {
 		primary_culture = tamil
 	}
  }
- terra_nullius22 = {
+ terra_nullius105 = {
 	potential = {
 		TAG = UKR
 		primary_culture = dummy
@@ -1377,7 +1377,7 @@ political_decisions = {
 		primary_culture = ukrainian
 	}
  }
- terra_nullius22 = {
+ terra_nullius106 = {
 	potential = {
 		TAG = ULM
 		primary_culture = dummy
@@ -1390,7 +1390,7 @@ political_decisions = {
 		primary_culture = south_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius107 = {
 	potential = {
 		TAG = ULS
 		primary_culture = dummy
@@ -1403,7 +1403,7 @@ political_decisions = {
 		primary_culture = irish
 	}
  }
- terra_nullius22 = {
+ terra_nullius108 = {
 	potential = {
 		TAG = UBD
 		primary_culture = dummy
@@ -1416,7 +1416,7 @@ political_decisions = {
 		primary_culture = latvian
 	}
  }
- terra_nullius22 = {
+ terra_nullius109 = {
 	potential = {
 		TAG = URU
 		primary_culture = dummy
@@ -1429,7 +1429,7 @@ political_decisions = {
 		primary_culture = matense
 	}
  }
- terra_nullius22 = {
+ terra_nullius110 = {
 	potential = {
 		TAG = UTR
 		primary_culture = dummy
@@ -1442,7 +1442,7 @@ political_decisions = {
 		primary_culture = dutch
 	}
  }
- terra_nullius22 = {
+ terra_nullius111 = {
 	potential = {
 		TAG = KMN
 		primary_culture = dummy
@@ -1455,7 +1455,7 @@ political_decisions = {
 		primary_culture = uighur
 	}
  }
- terra_nullius22 = {
+ terra_nullius112 = {
 	potential = {
 		TAG = UYG
 		primary_culture = dummy
@@ -1468,7 +1468,7 @@ political_decisions = {
 		primary_culture = uighur
 	}
  }
- terra_nullius22 = {
+ terra_nullius113 = {
 	potential = {
 		TAG = UZB
 		primary_culture = dummy
@@ -1481,7 +1481,7 @@ political_decisions = {
 		primary_culture = uzbek
 	}
  }
- terra_nullius22 = {
+ terra_nullius114 = {
 	potential = {
 		TAG = TAC
 		primary_culture = dummy
@@ -1494,7 +1494,7 @@ political_decisions = {
 		primary_culture = japanese
 	}
  }
- terra_nullius22 = {
+ terra_nullius115 = {
 	potential = {
 		TAG = TAH
 		primary_culture = dummy
@@ -1507,7 +1507,7 @@ political_decisions = {
 		primary_culture = polynesian
 	}
  }
- terra_nullius22 = {
+ terra_nullius116 = {
 	potential = {
 		TAG = TAI
 		primary_culture = dummy
@@ -1520,7 +1520,7 @@ political_decisions = {
 		primary_culture = nanfaren
 	}
  }
- terra_nullius22 = {
+ terra_nullius117 = {
 	potential = {
 		TAG = TAJ
 		primary_culture = dummy
@@ -1533,7 +1533,7 @@ political_decisions = {
 		primary_culture = tajik
 	}
  }
- terra_nullius22 = {
+ terra_nullius118 = {
 	potential = {
 		TAG = TNZ
 		primary_culture = dummy
@@ -1546,7 +1546,7 @@ political_decisions = {
 		primary_culture = swahili
 	}
  }
- terra_nullius22 = {
+ terra_nullius119 = {
 	potential = {
 		TAG = TNT
 		primary_culture = dummy
@@ -1559,7 +1559,7 @@ political_decisions = {
 		primary_culture = beifaren
 	}
  }
- terra_nullius22 = {
+ terra_nullius120 = {
 	potential = {
 		TAG = TUA
 		primary_culture = dummy
@@ -1572,7 +1572,7 @@ political_decisions = {
 		primary_culture = je
 	}
  }
- terra_nullius22 = {
+ terra_nullius121 = {
 	potential = {
 		TAG = TRS
 		primary_culture = dummy
@@ -1585,7 +1585,7 @@ political_decisions = {
 		primary_culture = tarascan
 	}
  }
- terra_nullius22 = {
+ terra_nullius122 = {
 	potential = {
 		TAG = TTE
 		primary_culture = dummy
@@ -1598,7 +1598,7 @@ political_decisions = {
 		primary_culture = moluccan
 	}
  }
- terra_nullius22 = {
+ terra_nullius123 = {
 	potential = {
 		TAG = TEX
 		primary_culture = dummy
@@ -1611,7 +1611,7 @@ political_decisions = {
 		primary_culture = rogirian
 	}
  }
- terra_nullius22 = {
+ terra_nullius124 = {
 	potential = {
 		TAG = ABO
 		primary_culture = dummy
@@ -1624,7 +1624,7 @@ political_decisions = {
 		primary_culture = aborigine
 	}
  }
- terra_nullius22 = {
+ terra_nullius125 = {
 	potential = {
 		TAG = AZT
 		primary_culture = dummy
@@ -1634,10 +1634,10 @@ political_decisions = {
 		primary_culture = dummy
 	}
 	effect = {
-		primary_culture = aztec
+		primary_culture = nahua
 	}
  }
- terra_nullius22 = {
+ terra_nullius126 = {
 	potential = {
 		TAG = BHM
 		primary_culture = dummy
@@ -1650,7 +1650,7 @@ political_decisions = {
 		primary_culture = carribean
 	}
  }
- terra_nullius22 = {
+ terra_nullius127 = {
 	potential = {
 		TAG = DKU
 		primary_culture = dummy
@@ -1663,7 +1663,7 @@ political_decisions = {
 		primary_culture = north_caucasian
 	}
  }
- terra_nullius22 = {
+ terra_nullius128 = {
 	potential = {
 		TAG = FSA
 		primary_culture = dummy
@@ -1676,7 +1676,7 @@ political_decisions = {
 		primary_culture = americangreek
 	}
  }
- terra_nullius22 = {
+ terra_nullius129 = {
 	potential = {
 		TAG = INC
 		primary_culture = dummy
@@ -1689,7 +1689,7 @@ political_decisions = {
 		primary_culture = quechua
 	}
  }
- terra_nullius22 = {
+ terra_nullius130 = {
 	potential = {
 		TAG = MAY
 		primary_culture = dummy
@@ -1702,7 +1702,7 @@ political_decisions = {
 		primary_culture = mayan
 	}
  }
- terra_nullius22 = {
+ terra_nullius131 = {
 	potential = {
 		TAG = KHA
 		primary_culture = dummy
@@ -1715,7 +1715,7 @@ political_decisions = {
 		primary_culture = mongol
 	}
  }
- terra_nullius22 = {
+ terra_nullius132 = {
 	potential = {
 		TAG = OIR
 		primary_culture = dummy
@@ -1728,7 +1728,7 @@ political_decisions = {
 		primary_culture = mongol
 	}
  }
- terra_nullius22 = {
+ terra_nullius133 = {
 	potential = {
 		TAG = PAL
 		primary_culture = dummy
@@ -1741,7 +1741,7 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius134 = {
 	potential = {
 		TAG = TEU
 		primary_culture = dummy
@@ -1754,7 +1754,7 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius135 = {
 	potential = {
 		TAG = SHA
 		primary_culture = dummy
@@ -1767,7 +1767,7 @@ political_decisions = {
 		primary_culture = shan
 	}
  }
- terra_nullius22 = {
+ terra_nullius136 = {
 	potential = {
 		TAG = WUU
 		primary_culture = dummy
@@ -1780,7 +1780,7 @@ political_decisions = {
 		primary_culture = hakka
 	}
  }
- terra_nullius22 = {
+ terra_nullius137 = {
 	potential = {
 		TAG = YUA
 		primary_culture = dummy
@@ -1793,7 +1793,7 @@ political_decisions = {
 		primary_culture = beifaren
 	}
  }
- terra_nullius22 = {
+ terra_nullius138 = {
 	potential = {
 		TAG = XIA
 		primary_culture = dummy
@@ -1806,7 +1806,7 @@ political_decisions = {
 		primary_culture = beifaren
 	}
  }
- terra_nullius22 = {
+ terra_nullius139 = {
 	potential = {
 		TAG = THU
 		primary_culture = dummy
@@ -1819,7 +1819,7 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius140 = {
 	potential = {
 		TAG = TIB
 		primary_culture = dummy
@@ -1832,7 +1832,7 @@ political_decisions = {
 		primary_culture = tibetan
 	}
  }
- terra_nullius22 = {
+ terra_nullius141 = {
 	potential = {
 		TAG = TIG
 		primary_culture = dummy
@@ -1845,7 +1845,7 @@ political_decisions = {
 		primary_culture = tigray
 	}
  }
- terra_nullius22 = {
+ terra_nullius142 = {
 	potential = {
 		TAG = TMR
 		primary_culture = dummy
@@ -1858,7 +1858,7 @@ political_decisions = {
 		primary_culture = melanesian
 	}
  }
- terra_nullius22 = {
+ terra_nullius143 = {
 	potential = {
 		TAG = TRT
 		primary_culture = dummy
@@ -1871,7 +1871,7 @@ political_decisions = {
 		primary_culture = bihari
 	}
  }
- terra_nullius22 = {
+ terra_nullius144 = {
 	potential = {
 		TAG = TIR
 		primary_culture = dummy
@@ -1884,7 +1884,7 @@ political_decisions = {
 		primary_culture = tatargerman
 	}
  }
- terra_nullius22 = {
+ terra_nullius145 = {
 	potential = {
 		TAG = TLA
 		primary_culture = dummy
@@ -1897,7 +1897,7 @@ political_decisions = {
 		primary_culture = zapotec
 	}
  }
- terra_nullius22 = {
+ terra_nullius146 = {
 	potential = {
 		TAG = TOG
 		primary_culture = dummy
@@ -1910,7 +1910,7 @@ political_decisions = {
 		primary_culture = ewe
 	}
  }
- terra_nullius22 = {
+ terra_nullius147 = {
 	potential = {
 		TAG = TGA
 		primary_culture = dummy
@@ -1923,7 +1923,7 @@ political_decisions = {
 		primary_culture = polynesian
 	}
  }
- terra_nullius22 = {
+ terra_nullius148 = {
 	potential = {
 		TAG = TOK
 		primary_culture = dummy
@@ -1936,7 +1936,7 @@ political_decisions = {
 		primary_culture = vietnamese
 	}
  }
- terra_nullius22 = {
+ terra_nullius149 = {
 	potential = {
 		TAG = TOS
 		primary_culture = dummy
@@ -1949,7 +1949,7 @@ political_decisions = {
 		primary_culture = japanese
 	}
  }
- terra_nullius22 = {
+ terra_nullius150 = {
 	potential = {
 		TAG = TOT
 		primary_culture = dummy
@@ -1962,7 +1962,7 @@ political_decisions = {
 		primary_culture = nahua
 	}
  }
- terra_nullius22 = {
+ terra_nullius151 = {
 	potential = {
 		TAG = TUL
 		primary_culture = dummy
@@ -1975,7 +1975,7 @@ political_decisions = {
 		primary_culture = occitan
 	}
  }
- terra_nullius22 = {
+ terra_nullius152 = {
 	potential = {
 		TAG = TAM
 		primary_culture = dummy
@@ -1988,7 +1988,7 @@ political_decisions = {
 		primary_culture = manchu
 	}
  }
- terra_nullius22 = {
+ terra_nullius153 = {
 	potential = {
 		TAG = TRX
 		primary_culture = dummy
@@ -2001,7 +2001,7 @@ political_decisions = {
 		primary_culture = uighur
 	}
  }
- terra_nullius22 = {
+ terra_nullius154 = {
 	potential = {
 		TAG = TRA
 		primary_culture = dummy
@@ -2014,7 +2014,7 @@ political_decisions = {
 		primary_culture = malayalam
 	}
  }
- terra_nullius22 = {
+ terra_nullius155 = {
 	potential = {
 		TAG = TER
 		primary_culture = dummy
@@ -2027,7 +2027,7 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius156 = {
 	potential = {
 		TAG = TTB
 		primary_culture = dummy
@@ -2040,7 +2040,7 @@ political_decisions = {
 		primary_culture = afroslavic
 	}
  }
- terra_nullius22 = {
+ terra_nullius157 = {
 	potential = {
 		TAG = TRI
 		primary_culture = dummy
@@ -2053,7 +2053,7 @@ political_decisions = {
 		primary_culture = maghrebi
 	}
  }
- terra_nullius22 = {
+ terra_nullius158 = {
 	potential = {
 		TAG = TBK
 		primary_culture = dummy
@@ -2066,7 +2066,7 @@ political_decisions = {
 		primary_culture = luba
 	}
  }
- terra_nullius22 = {
+ terra_nullius159 = {
 	potential = {
 		TAG = TPQ
 		primary_culture = dummy
@@ -2079,7 +2079,7 @@ political_decisions = {
 		primary_culture = tupi
 	}
  }
- terra_nullius22 = {
+ terra_nullius160 = {
 	potential = {
 		TAG = TKS
 		primary_culture = dummy
@@ -2092,7 +2092,7 @@ political_decisions = {
 		primary_culture = uzbek
 	}
  }
- terra_nullius22 = {
+ terra_nullius161 = {
 	potential = {
 		TAG = FER
 		primary_culture = dummy
@@ -2105,7 +2105,7 @@ political_decisions = {
 		primary_culture = magnagreek
 	}
  }
- terra_nullius22 = {
+ terra_nullius162 = {
 	potential = {
 		TAG = TVE
 		primary_culture = dummy
@@ -2118,7 +2118,7 @@ political_decisions = {
 		primary_culture = russian
 	}
  }
- terra_nullius22 = {
+ terra_nullius163 = {
 	potential = {
 		TAG = TYR
 		primary_culture = dummy
@@ -2131,7 +2131,7 @@ political_decisions = {
 		primary_culture = irish
 	}
  }
- terra_nullius22 = {
+ terra_nullius164 = {
 	potential = {
 		TAG = LAC
 		primary_culture = dummy
@@ -2144,7 +2144,7 @@ political_decisions = {
 		primary_culture = mayan
 	}
  }
- terra_nullius22 = {
+ terra_nullius165 = {
 	potential = {
 		TAG = SAA
 		primary_culture = dummy
@@ -2157,7 +2157,7 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius166 = {
 	potential = {
 		TAG = SKN
 		primary_culture = dummy
@@ -2170,7 +2170,7 @@ political_decisions = {
 		primary_culture = carribean
 	}
  }
- terra_nullius22 = {
+ terra_nullius167 = {
 	potential = {
 		TAG = STL
 		primary_culture = dummy
@@ -2183,7 +2183,7 @@ political_decisions = {
 		primary_culture = afrogreek
 	}
  }
- terra_nullius22 = {
+ terra_nullius168 = {
 	potential = {
 		TAG = YAK
 		primary_culture = dummy
@@ -2196,7 +2196,7 @@ political_decisions = {
 		primary_culture = yakut
 	}
  }
- terra_nullius22 = {
+ terra_nullius169 = {
 	potential = {
 		TAG = SAL
 		primary_culture = dummy
@@ -2209,7 +2209,7 @@ political_decisions = {
 		primary_culture = petunian
 	}
  }
- terra_nullius22 = {
+ terra_nullius170 = {
 	potential = {
 		TAG = SMO
 		primary_culture = dummy
@@ -2222,7 +2222,7 @@ political_decisions = {
 		primary_culture = melanesian
 	}
  }
- terra_nullius22 = {
+ terra_nullius171 = {
 	potential = {
 		TAG = SWK
 		primary_culture = dummy
@@ -2235,7 +2235,7 @@ political_decisions = {
 		primary_culture = bornean
 	}
  }
- terra_nullius22 = {
+ terra_nullius172 = {
 	potential = {
 		TAG = SRD
 		primary_culture = dummy
@@ -2248,7 +2248,7 @@ political_decisions = {
 		primary_culture = magnagreek
 	}
  }
- terra_nullius22 = {
+ terra_nullius173 = {
 	potential = {
 		TAG = SAR
 		primary_culture = dummy
@@ -2261,7 +2261,7 @@ political_decisions = {
 		primary_culture = magnagreek
 	}
  }
- terra_nullius22 = {
+ terra_nullius174 = {
 	potential = {
 		TAG = SAT
 		primary_culture = dummy
@@ -2274,7 +2274,7 @@ political_decisions = {
 		primary_culture = japanese
 	}
  }
- terra_nullius22 = {
+ terra_nullius175 = {
 	potential = {
 		TAG = X22
 		primary_culture = dummy
@@ -2287,7 +2287,7 @@ political_decisions = {
 		primary_culture = ugrian
 	}
  }
- terra_nullius22 = {
+ terra_nullius176 = {
 	potential = {
 		TAG = SVY
 		primary_culture = dummy
@@ -2300,7 +2300,7 @@ political_decisions = {
 		primary_culture = magnagreek
 	}
  }
- terra_nullius22 = {
+ terra_nullius177 = {
 	potential = {
 		TAG = COB
 		primary_culture = dummy
@@ -2313,7 +2313,7 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius178 = {
 	potential = {
 		TAG = MEI
 		primary_culture = dummy
@@ -2326,7 +2326,7 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius179 = {
 	potential = {
 		TAG = WEI
 		primary_culture = dummy
@@ -2339,7 +2339,7 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius180 = {
 	potential = {
 		TAG = SCH
 		primary_culture = dummy
@@ -2352,7 +2352,7 @@ political_decisions = {
 		primary_culture = danish
 	}
  }
- terra_nullius22 = {
+ terra_nullius181 = {
 	potential = {
 		TAG = SCO
 		primary_culture = dummy
@@ -2365,7 +2365,7 @@ political_decisions = {
 		primary_culture = scottish
 	}
  }
- terra_nullius22 = {
+ terra_nullius182 = {
 	potential = {
 		TAG = SEN
 		primary_culture = dummy
@@ -2378,7 +2378,7 @@ political_decisions = {
 		primary_culture = japanese
 	}
  }
- terra_nullius22 = {
+ terra_nullius183 = {
 	potential = {
 		TAG = SER
 		primary_culture = dummy
@@ -2391,7 +2391,7 @@ political_decisions = {
 		primary_culture = serb
 	}
  }
- terra_nullius22 = {
+ terra_nullius184 = {
 	potential = {
 		TAG = SEY
 		primary_culture = dummy
@@ -2404,7 +2404,7 @@ political_decisions = {
 		primary_culture = malagasy
 	}
  }
- terra_nullius22 = {
+ terra_nullius185 = {
 	potential = {
 		TAG = SGU
 		primary_culture = dummy
@@ -2417,7 +2417,7 @@ political_decisions = {
 		primary_culture = bambara
 	}
  }
- terra_nullius22 = {
+ terra_nullius186 = {
 	potential = {
 		TAG = SHD
 		primary_culture = dummy
@@ -2430,7 +2430,7 @@ political_decisions = {
 		primary_culture = beifaren
 	}
  }
- terra_nullius22 = {
+ terra_nullius187 = {
 	potential = {
 		TAG = SHG
 		primary_culture = dummy
@@ -2443,7 +2443,7 @@ political_decisions = {
 		primary_culture = nanfaren
 	}
  }
- terra_nullius22 = {
+ terra_nullius188 = {
 	potential = {
 		TAG = SXI
 		primary_culture = dummy
@@ -2456,7 +2456,7 @@ political_decisions = {
 		primary_culture = beifaren
 	}
  }
- terra_nullius22 = {
+ terra_nullius189 = {
 	potential = {
 		TAG = SHX
 		primary_culture = dummy
@@ -2469,7 +2469,7 @@ political_decisions = {
 		primary_culture = central_algonquian
 	}
  }
- terra_nullius22 = {
+ terra_nullius190 = {
 	potential = {
 		TAG = SHW
 		primary_culture = dummy
@@ -2482,7 +2482,7 @@ political_decisions = {
 		primary_culture = oromo
 	}
  }
- terra_nullius22 = {
+ terra_nullius191 = {
 	potential = {
 		TAG = SHO
 		primary_culture = dummy
@@ -2495,7 +2495,7 @@ political_decisions = {
 		primary_culture = shona
 	}
  }
- terra_nullius22 = {
+ terra_nullius192 = {
 	potential = {
 		TAG = SHS
 		primary_culture = dummy
@@ -2508,7 +2508,7 @@ political_decisions = {
 		primary_culture = sonoran
 	}
  }
- terra_nullius22 = {
+ terra_nullius193 = {
 	potential = {
 		TAG = SAK
 		primary_culture = dummy
@@ -2521,7 +2521,7 @@ political_decisions = {
 		primary_culture = malay
 	}
  }
- terra_nullius22 = {
+ terra_nullius194 = {
 	potential = {
 		TAG = SIA
 		primary_culture = dummy
@@ -2534,7 +2534,7 @@ political_decisions = {
 		primary_culture = thai
 	}
  }
- terra_nullius22 = {
+ terra_nullius195 = {
 	potential = {
 		TAG = SIB
 		primary_culture = dummy
@@ -2547,7 +2547,7 @@ political_decisions = {
 		primary_culture = siberian
 	}
  }
- terra_nullius22 = {
+ terra_nullius196 = {
 	potential = {
 		TAG = SZC
 		primary_culture = dummy
@@ -2560,7 +2560,7 @@ political_decisions = {
 		primary_culture = nanfaren
 	}
  }
- terra_nullius22 = {
+ terra_nullius197 = {
 	potential = {
 		TAG = SIE
 		primary_culture = dummy
@@ -2573,7 +2573,7 @@ political_decisions = {
 		primary_culture = romanian
 	}
  }
- terra_nullius22 = {
+ terra_nullius198 = {
 	potential = {
 		TAG = SIN
 		primary_culture = dummy
@@ -2586,7 +2586,7 @@ political_decisions = {
 		primary_culture = sindi
 	}
  }
- terra_nullius22 = {
+ terra_nullius199 = {
 	potential = {
 		TAG = SGP
 		primary_culture = dummy
@@ -2599,7 +2599,7 @@ political_decisions = {
 		primary_culture = malay
 	}
  }
- terra_nullius22 = {
+ terra_nullius200 = {
 	potential = {
 		TAG = SIO
 		primary_culture = dummy
@@ -2612,7 +2612,7 @@ political_decisions = {
 		primary_culture = siouan
 	}
  }
- terra_nullius22 = {
+ terra_nullius201 = {
 	potential = {
 		TAG = SLN
 		primary_culture = dummy
@@ -2625,7 +2625,7 @@ political_decisions = {
 		primary_culture = irish
 	}
  }
- terra_nullius22 = {
+ terra_nullius202 = {
 	potential = {
 		TAG = SLO
 		primary_culture = dummy
@@ -2638,7 +2638,7 @@ political_decisions = {
 		primary_culture = slovene
 	}
  }
- terra_nullius22 = {
+ terra_nullius203 = {
 	potential = {
 		TAG = SMK
 		primary_culture = dummy
@@ -2651,7 +2651,7 @@ political_decisions = {
 		primary_culture = russian
 	}
  }
- terra_nullius22 = {
+ terra_nullius204 = {
 	potential = {
 		TAG = SOF
 		primary_culture = dummy
@@ -2664,7 +2664,7 @@ political_decisions = {
 		primary_culture = makua
 	}
  }
- terra_nullius22 = {
+ terra_nullius205 = {
 	potential = {
 		TAG = SOK
 		primary_culture = dummy
@@ -2677,7 +2677,7 @@ political_decisions = {
 		primary_culture = hausa
 	}
  }
- terra_nullius22 = {
+ terra_nullius206 = {
 	potential = {
 		TAG = SOK
 		primary_culture = dummy
@@ -2690,7 +2690,7 @@ political_decisions = {
 		primary_culture = manchu
 	}
  }
- terra_nullius22 = {
+ terra_nullius207 = {
 	potential = {
 		TAG = SOM
 		primary_culture = dummy
@@ -2703,7 +2703,7 @@ political_decisions = {
 		primary_culture = somali
 	}
  }
- terra_nullius22 = {
+ terra_nullius208 = {
 	potential = {
 		TAG = SGH
 		primary_culture = dummy
@@ -2716,7 +2716,7 @@ political_decisions = {
 		primary_culture = mande
 	}
  }
- terra_nullius22 = {
+ terra_nullius209 = {
 	potential = {
 		TAG = SON
 		primary_culture = dummy
@@ -2729,7 +2729,7 @@ political_decisions = {
 		primary_culture = qinlifornian
 	}
  }
- terra_nullius22 = {
+ terra_nullius210 = {
 	potential = {
 		TAG = SRB
 		primary_culture = dummy
@@ -2742,7 +2742,7 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius211 = {
 	potential = {
 		TAG = SAF
 		primary_culture = dummy
@@ -2755,7 +2755,7 @@ political_decisions = {
 		primary_culture = morado
 	}
  }
- terra_nullius22 = {
+ terra_nullius212 = {
 	potential = {
 		TAG = SNZ
 		primary_culture = dummy
@@ -2768,7 +2768,7 @@ political_decisions = {
 		primary_culture = carline
 	}
  }
- terra_nullius22 = {
+ terra_nullius213 = {
 	potential = {
 		TAG = TST
 		primary_culture = dummy
@@ -2781,7 +2781,7 @@ political_decisions = {
 		primary_culture = south_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius214 = {
 	potential = {
 		TAG = SYO
 		primary_culture = dummy
@@ -2794,7 +2794,7 @@ political_decisions = {
 		primary_culture = bakongo
 	}
  }
- terra_nullius22 = {
+ terra_nullius215 = {
 	potential = {
 		TAG = STY
 		primary_culture = dummy
@@ -2807,7 +2807,7 @@ political_decisions = {
 		primary_culture = south_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius216 = {
 	potential = {
 		TAG = SDT
 		primary_culture = dummy
@@ -2820,7 +2820,7 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius217 = {
 	potential = {
 		TAG = SUK
 		primary_culture = dummy
@@ -2833,7 +2833,7 @@ political_decisions = {
 		primary_culture = burmese
 	}
  }
- terra_nullius22 = {
+ terra_nullius218 = {
 	potential = {
 		TAG = SLW
 		primary_culture = dummy
@@ -2846,7 +2846,7 @@ political_decisions = {
 		primary_culture = moluccan
 	}
  }
- terra_nullius22 = {
+ terra_nullius219 = {
 	potential = {
 		TAG = SUL
 		primary_culture = dummy
@@ -2859,7 +2859,7 @@ political_decisions = {
 		primary_culture = filipino
 	}
  }
- terra_nullius22 = {
+ terra_nullius220 = {
 	potential = {
 		TAG = SUA
 		primary_culture = dummy
@@ -2872,7 +2872,7 @@ political_decisions = {
 		primary_culture = nguni
 	}
  }
- terra_nullius22 = {
+ terra_nullius221 = {
 	potential = {
 		TAG = X10
 		primary_culture = dummy
@@ -2885,7 +2885,7 @@ political_decisions = {
 		primary_culture = south_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius222 = {
 	potential = {
 		TAG = SAO
 		primary_culture = dummy
@@ -2898,7 +2898,7 @@ political_decisions = {
 		primary_culture = fang
 	}
  }
- terra_nullius22 = {
+ terra_nullius223 = {
 	potential = {
 		TAG = RVA
 		primary_culture = dummy
@@ -2911,7 +2911,7 @@ political_decisions = {
 		primary_culture = tatargerman
 	}
  }
- terra_nullius22 = {
+ terra_nullius224 = {
 	potential = {
 		TAG = RHI
 		primary_culture = dummy
@@ -2924,7 +2924,7 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
- terra_nullius22 = {
+ terra_nullius225 = {
 	potential = {
 		TAG = RIG
 		primary_culture = dummy
@@ -2937,7 +2937,7 @@ political_decisions = {
 		primary_culture = lithuanian
 	}
  }
- terra_nullius22 = {
+ terra_nullius226 = {
 	potential = {
 		TAG = RGS
 		primary_culture = dummy
@@ -2950,7 +2950,7 @@ political_decisions = {
 		primary_culture = afrobrazilian
 	}
  }
- terra_nullius22 = {
+ terra_nullius227 = {
 	potential = {
 		TAG = ROM
 		primary_culture = dummy
@@ -2963,7 +2963,7 @@ political_decisions = {
 		primary_culture = romanian
 	}
  }
- terra_nullius22 = {
+ terra_nullius228 = {
 	potential = {
 		TAG = RUT
 		primary_culture = dummy
@@ -2976,7 +2976,7 @@ political_decisions = {
 		primary_culture = ukrainian
 	}
  }
- terra_nullius22 = {
+ terra_nullius229 = {
 	potential = {
 		TAG = RWA
 		primary_culture = dummy
@@ -2989,7 +2989,7 @@ political_decisions = {
 		primary_culture = ruanda
 	}
  }
- terra_nullius22 = {
+ terra_nullius230 = {
 	potential = {
 		TAG = RYA
 		primary_culture = dummy
@@ -3002,7 +3002,7 @@ political_decisions = {
 		primary_culture = russian
 	}
  }
- terra_nullius22 = {
+ terra_nullius231 = {
 	potential = {
 		TAG = RGR
 		primary_culture = dummy
@@ -3015,7 +3015,7 @@ political_decisions = {
 		primary_culture = rogirian
 	}
  }
- terra_nullius22 = {
+ terra_nullius232 = {
 	potential = {
 		TAG = QAT
 		primary_culture = dummy
@@ -3028,7 +3028,7 @@ political_decisions = {
 		primary_culture = bedouin
 	}
  }
- terra_nullius22 = {
+ terra_nullius233 = {
 	potential = {
 		TAG = QIC
 		primary_culture = dummy
@@ -3041,7 +3041,7 @@ political_decisions = {
 		primary_culture = beifaren
 	}
  }
- terra_nullius22 = {
+ terra_nullius234 = {
 	potential = {
 		TAG = QTO
 		primary_culture = dummy
@@ -3054,7 +3054,7 @@ political_decisions = {
 		primary_culture = chibchan
 	}
  }
- terra_nullius22 = {
+ terra_nullius235 = {
 	potential = {
 		TAG = PLS
 		primary_culture = dummy
@@ -3067,7 +3067,7 @@ political_decisions = {
 		primary_culture = mashriqi
 	}
  }
- terra_nullius22 = {
+ terra_nullius236 = {
 	potential = {
 		TAG = PNM
 		primary_culture = dummy
@@ -3080,7 +3080,7 @@ political_decisions = {
 		primary_culture = kepnian
 	}
  }
- terra_nullius22 = {
+ terra_nullius237 = {
 	potential = {
 		TAG = PAN
 		primary_culture = dummy
@@ -3093,7 +3093,7 @@ political_decisions = {
 		primary_culture = panjabi
 	}
  }
- terra_nullius22 = {
+ terra_nullius238 = {
 	potential = {
 		TAG = PPG
 		primary_culture = dummy
@@ -3106,7 +3106,7 @@ political_decisions = {
 		primary_culture = moluccan
 	}
  }
- terra_nullius22 = {
+ terra_nullius239 = {
 	potential = {
 		TAG = PRG
 		primary_culture = dummy
@@ -3116,10 +3116,10 @@ political_decisions = {
 		primary_culture = dummy
 	}
 	effect = {
-		primary_culture = matense
+		primary_culture = guarani
 	}
  }
- terra_nullius22 = {
+ terra_nullius240 = {
 	potential = {
 		TAG = PAR
 		primary_culture = dummy
@@ -3132,7 +3132,7 @@ political_decisions = {
 		primary_culture = magnagreek
 	}
  }
- terra_nullius22 = {
+ terra_nullius241 = {
 	potential = {
 		TAG = PTG
 		primary_culture = dummy
@@ -3145,7 +3145,7 @@ political_decisions = {
 		primary_culture = matense
 	}
  }
- terra_nullius22 = {
+ terra_nullius242 = {
 	potential = {
 		TAG = PAT
 		primary_culture = dummy
@@ -3158,7 +3158,7 @@ political_decisions = {
 		primary_culture = malay
 	}
  }
- terra_nullius22 = {
+ terra_nullius243 = {
 	potential = {
 		TAG = PCH
 		primary_culture = dummy
@@ -3171,7 +3171,7 @@ political_decisions = {
 		primary_culture = pecheneg
 	}
  }
- terra_nullius22 = {
+ terra_nullius244 = {
 	potential = {
 		TAG = PAW
 		primary_culture = dummy
@@ -3184,7 +3184,7 @@ political_decisions = {
 		primary_culture = caddoan
 	}
  }
- terra_nullius22 = {
+ terra_nullius245 = {
 	potential = {
 		TAG = PEG
 		primary_culture = dummy
@@ -3197,7 +3197,7 @@ political_decisions = {
 		primary_culture = burmese
 	}
  }
- terra_nullius22 = {
+ terra_nullius246 = {
 	potential = {
 		TAG = PEQ
 		primary_culture = dummy
@@ -3210,7 +3210,7 @@ political_decisions = {
 		primary_culture = eastern_algonquian
 	}
  }
- terra_nullius22 = {
+ terra_nullius247 = {
 	potential = {
 		TAG = PHO
 		primary_culture = dummy
@@ -3223,7 +3223,7 @@ political_decisions = {
 		primary_culture = mashriqi
 	}
  }
- terra_nullius22 = {
+ terra_nullius248 = {
 	potential = {
 		TAG = PIM
 		primary_culture = dummy
@@ -3236,7 +3236,7 @@ political_decisions = {
 		primary_culture = sonoran
 	}
  }
- terra_nullius22 = {
+ terra_nullius249 = {
 	potential = {
 		TAG = PIN
 		primary_culture = dummy
@@ -3249,7 +3249,7 @@ political_decisions = {
 		primary_culture = greek
 	}
  }
- terra_nullius22 = {
+ terra_nullius250 = {
 	potential = {
 		TAG = PLT
 		primary_culture = dummy
@@ -3262,7 +3262,7 @@ political_decisions = {
 		primary_culture = byelorussian
 	}
  }
- terra_nullius22 = {
+ terra_nullius251 = {
 	potential = {
 		TAG = POW
 		primary_culture = dummy
@@ -3275,7 +3275,7 @@ political_decisions = {
 		primary_culture = eastern_algonquian
 	}
  }
- terra_nullius22 = {
+ terra_nullius252 = {
 	potential = {
 		TAG = PRO
 		primary_culture = dummy
@@ -3288,7 +3288,7 @@ political_decisions = {
 		primary_culture = occitan
 	}
  }
- terra_nullius22 = {
+ terra_nullius253 = {
 	potential = {
 		TAG = PRT
 		primary_culture = dummy
@@ -3301,7 +3301,7 @@ political_decisions = {
 		primary_culture = pruthenian
 	}
  }
- terra_nullius22 = {
+ terra_nullius254 = {
 	potential = {
 		TAG = PSK
 		primary_culture = dummy
@@ -3314,7 +3314,7 @@ political_decisions = {
 		primary_culture = russian
 	}
  }
- terra_nullius22 = {
+ terra_nullius255 = {
 	potential = {
 		TAG = PRI
 		primary_culture = dummy
@@ -3327,7 +3327,7 @@ political_decisions = {
 		primary_culture = afronorse
 	}
  }
- terra_nullius22 = {
+ terra_nullius256 = {
 	potential = {
 		TAG = PYO
 		primary_culture = dummy
@@ -3338,5 +3338,57 @@ political_decisions = {
 	}
 	effect = {
 		primary_culture = korean
+	}
+ }
+ terra_nullius257 = {
+	potential = {
+		TAG = SBA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = matense
+	}
+ }
+ terra_nullius258 = {
+	potential = {
+		TAG = ENT
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = matense
+	}
+ }
+ terra_nullius259 = {
+	potential = {
+		TAG = VNZ
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = kepnian
+	}
+ }
+ terra_nullius260 = {
+	potential = {
+		TAG = CRS
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = magnagreek
 	}
  }

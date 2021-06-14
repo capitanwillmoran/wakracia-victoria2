@@ -1,6 +1,7 @@
 owner=HUR
 controller=HUR
 add_core=HUR
+add_core=ACA
 trade_goods = cattle
 life_rating = 35
 terrain = forest

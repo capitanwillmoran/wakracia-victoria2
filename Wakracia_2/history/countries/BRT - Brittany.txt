@@ -1,7 +1,7 @@
 capital = 424
 primary_culture = breton
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_order

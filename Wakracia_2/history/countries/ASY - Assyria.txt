@@ -1,6 +1,5 @@
 capital = 927
 primary_culture = assyrian
-culture = syriac
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy

@@ -1,7 +1,7 @@
 capital = 608
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+primary_culture = swiss
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_order

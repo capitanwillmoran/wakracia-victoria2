@@ -1,6 +1,6 @@
 capital = 2339
-primary_culture = matense
-culture = canonian
+primary_culture = guarani
+culture = matense
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = presidential_dictatorship

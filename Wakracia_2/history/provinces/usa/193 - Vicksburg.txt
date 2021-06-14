@@ -2,6 +2,7 @@ owner=UIL
 controller=UIL
 add_core=CHN
 add_core=CRK
+add_core=CCW
 trade_goods = grain
 life_rating = 35
 terrain = plains

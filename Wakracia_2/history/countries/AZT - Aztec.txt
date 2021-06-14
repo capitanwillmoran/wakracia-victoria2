@@ -1,5 +1,5 @@
 capital = 2172
-primary_culture = aztec
+primary_culture = nahua
 culture = zzz_religion_nahuatl
 religion = nahuatl
 government = absolute_monarchy

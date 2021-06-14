@@ -1,5 +1,5 @@
 capital = 2348
-primary_culture = neokosmi
+primary_culture = matense
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = democracy

@@ -1,7 +1,7 @@
 capital = 718
 primary_culture = byelorussian
-culture = zzz_religion_orthodox
-religion = orthodox
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = democracy
 plurality = 0
 nationalvalue = nv_order

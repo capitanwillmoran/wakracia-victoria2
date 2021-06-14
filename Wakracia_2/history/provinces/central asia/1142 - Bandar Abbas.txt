@@ -1,6 +1,7 @@
 owner=X02
 controller=BYZ
 add_core=PER
+add_core=X01
 add_core=X02
 trade_goods = fruit
 life_rating = 35

@@ -1,8 +1,8 @@
 capital = 533
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
-government = proletarian_dictatorship
+primary_culture = danish
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
+government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0

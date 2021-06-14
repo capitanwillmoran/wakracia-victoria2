@@ -2,6 +2,7 @@ owner=X24
 controller=CRI
 add_core=X24
 add_core=CRI
+add_core=UGR
 trade_goods = cattle
 life_rating = 35
 terrain = steppe

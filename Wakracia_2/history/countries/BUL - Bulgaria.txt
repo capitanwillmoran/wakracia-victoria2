@@ -1,7 +1,7 @@
 capital = 809
 primary_culture = bulgarian
-culture = zzz_religion_orthodox
-religion = orthodox
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = hms_government
 plurality = 0
 nationalvalue = nv_order

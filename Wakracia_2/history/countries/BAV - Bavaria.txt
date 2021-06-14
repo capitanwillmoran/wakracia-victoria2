@@ -1,5 +1,6 @@
 capital = 599
-primary_culture = south_german
+primary_culture = tatargerman
+culture = south_german
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy
@@ -8,6 +9,7 @@ nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage
