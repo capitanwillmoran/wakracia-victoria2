@@ -1,6 +1,7 @@
 owner=MUS
 controller=MUS
 add_core=X11
+add_core=OKA
 trade_goods = grain
 life_rating = 35
 terrain = forest

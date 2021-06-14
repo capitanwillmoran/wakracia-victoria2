@@ -3392,3 +3392,68 @@ political_decisions = {
 		primary_culture = magnagreek
 	}
  }
+ terra_nullius261 = {
+	potential = {
+		TAG = X26
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = ugrian
+	}
+ }
+ terra_nullius262 = {
+	potential = {
+		TAG = UOR
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = qinlifornian
+	}
+ }
+ terra_nullius263 = {
+	potential = {
+		TAG = ORL
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = rollonian
+	}
+ }
+ terra_nullius264 = {
+	potential = {
+		TAG = NAG
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = marathi
+	}
+ }
+ terra_nullius265 = {
+	potential = {
+		TAG = NMB
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = herero
+	}
+ }

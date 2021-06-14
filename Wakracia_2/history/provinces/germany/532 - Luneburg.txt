@@ -1,6 +1,7 @@
 owner=SLV
 controller=SLV
 add_core=GER
+add_core=DEN
 trade_goods = cattle
 life_rating = 40
 terrain = plains

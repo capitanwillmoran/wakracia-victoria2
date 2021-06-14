@@ -1,6 +1,5 @@
 owner=BOH
 controller=BOH
-add_core=PLC
 add_core=POL
 add_core=POM
 trade_goods = coal
