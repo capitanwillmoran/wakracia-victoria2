@@ -3457,3 +3457,172 @@ political_decisions = {
 		primary_culture = herero
 	}
  }
+ terra_nullius266 = {
+	potential = {
+		TAG = UNB
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = herero
+	}
+ }
+ terra_nullius267 = {
+	potential = {
+		TAG = X17
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = ugrian
+	}
+ }
+ terra_nullius268 = {
+	potential = {
+		TAG = NEV
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = magnagreek
+	}
+ }
+ terra_nullius269 = {
+	potential = {
+		TAG = UNM
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = rogirian
+	}
+ }
+ terra_nullius270 = {
+	potential = {
+		TAG = UNY
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = americangreek
+	}
+ }
+ terra_nullius271 = {
+	potential = {
+		TAG = NEW
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = vinlanderr
+	}
+ }
+ terra_nullius272 = {
+	potential = {
+		TAG = NNG
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = nanfaren
+	}
+ }
+ terra_nullius273 = {
+	potential = {
+		TAG = NNG
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = manchu
+	}
+ }
+ terra_nullius274 = {
+	potential = {
+		TAG = NRM
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = guillaumois
+	}
+ }
+ terra_nullius275 = {
+	potential = {
+		TAG = NYE
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = mashriqi
+	}
+ }
+ terra_nullius276 = {
+	potential = {
+		TAG = NOL
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = elsinorian
+	}
+ }
+ terra_nullius277 = {
+	potential = {
+		TAG = NUM
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = tatargerman
+	}
+ }
+ terra_nullius278 = {
+	potential = {
+		TAG = AOM
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = yue
+	}
+ }

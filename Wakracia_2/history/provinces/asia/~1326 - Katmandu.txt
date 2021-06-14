@@ -1,0 +1,7 @@
+owner=X16
+controller=X16
+add_core=TKS
+trade_goods = tea
+life_rating = 25
+terrain = mountain
+colonial=2

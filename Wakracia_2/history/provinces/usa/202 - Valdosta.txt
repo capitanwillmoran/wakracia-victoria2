@@ -1,6 +1,7 @@
 owner=X29
 controller=X29
 add_core=X29
+add_core=X30
 trade_goods = cotton
 life_rating = 35
 terrain = plains

@@ -2,6 +2,7 @@ owner=ENG
 controller=ENG
 add_core=ENG
 add_core=DNL
+add_core=NOL
 trade_goods = coal
 life_rating = 35
 terrain = plains

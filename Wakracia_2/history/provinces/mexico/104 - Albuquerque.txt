@@ -1,5 +1,7 @@
 owner=SAL
 controller=CAL
+add_core=NAH
+add_core=UNM
 add_core=SAL
 trade_goods = cattle
 life_rating = 35

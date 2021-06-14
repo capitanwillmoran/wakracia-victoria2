@@ -3,6 +3,7 @@ controller=BYZ
 add_core=ADE
 add_core=YEM
 add_core=ARA
+add_core=NYE
 trade_goods = grain
 life_rating = 35
 terrain = plains

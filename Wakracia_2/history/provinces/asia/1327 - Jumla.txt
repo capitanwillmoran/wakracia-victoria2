@@ -1,6 +1,7 @@
 owner=JML
 controller=X16
 add_core=HND
+add_core=NEP
 add_core=JML
 trade_goods = tea
 life_rating = 25

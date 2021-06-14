@@ -1,5 +1,6 @@
 owner=CAL
 controller=CAL
+add_core=UNM
 add_core=PUE
 trade_goods = fruit
 life_rating = 35

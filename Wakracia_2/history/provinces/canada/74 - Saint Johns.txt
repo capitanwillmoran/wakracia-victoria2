@@ -1,6 +1,7 @@
 owner=HUR
 controller=HUR
 add_core=ACA
+add_core=NEW
 trade_goods = fish
 life_rating = 35
 terrain = plains
