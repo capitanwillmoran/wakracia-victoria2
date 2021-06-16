@@ -1,6 +1,7 @@
 owner=MNX
 controller=MNX
 add_core=JAV
+add_core=MTR
 add_core=MJP
 trade_goods = fruit
 life_rating = 30

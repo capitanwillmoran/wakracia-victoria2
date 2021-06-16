@@ -2,6 +2,7 @@ owner=CUB
 controller=CUB
 add_core=WSI
 add_core=CRB
+add_core=MNR
 trade_goods = cotton
 life_rating = 35
 terrain = hills

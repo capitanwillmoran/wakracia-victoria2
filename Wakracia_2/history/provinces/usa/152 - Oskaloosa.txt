@@ -1,6 +1,5 @@
 owner=UIL
 controller=UIL
-add_core=UIL
 add_core=FSA
 add_core=ARP
 trade_goods = grain

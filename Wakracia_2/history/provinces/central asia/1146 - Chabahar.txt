@@ -1,6 +1,7 @@
 owner=X02
 controller=X02
 add_core=AFG
+add_core=MAK
 add_core=BLC
 trade_goods = fish
 life_rating = 35

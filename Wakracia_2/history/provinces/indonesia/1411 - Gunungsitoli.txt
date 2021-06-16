@@ -1,5 +1,8 @@
 owner=DEC
 controller=ATJ
+add_core=MLC
+add_core=MLY
+add_core=ATJ
 trade_goods = fish
 life_rating = 30
 terrain = plains

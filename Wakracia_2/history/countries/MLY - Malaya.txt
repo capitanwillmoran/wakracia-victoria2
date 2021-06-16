@@ -1,7 +1,7 @@
 capital = 1386
 primary_culture = malay
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = zzz_religion_sunni
+religion = sunni
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

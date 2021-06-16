@@ -1,6 +1,7 @@
 owner=MNX
 controller=MNX
-add_core=DEC
+add_core=JAV
+add_core=MJP
 trade_goods = fish
 life_rating = 15
 terrain = plains

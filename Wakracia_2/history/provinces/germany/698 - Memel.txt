@@ -2,6 +2,7 @@ owner=SLV
 controller=SLV
 add_core=LIT
 add_core=TEU
+add_core=MML
 add_core=PRT
 trade_goods = fish
 life_rating = 40

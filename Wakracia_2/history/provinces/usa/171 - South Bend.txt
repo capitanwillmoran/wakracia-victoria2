@@ -1,7 +1,6 @@
 owner=UIL
 controller=UIL
 add_core=CYN
-add_core=UIL
 add_core=FLR
 add_core=FSA
 trade_goods = timber

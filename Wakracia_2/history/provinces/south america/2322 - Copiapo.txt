@@ -1,6 +1,7 @@
 owner=PEU
 controller=PEU
 add_core=PEU
+add_core=MPC
 add_core=CHL
 trade_goods = iron
 life_rating = 35

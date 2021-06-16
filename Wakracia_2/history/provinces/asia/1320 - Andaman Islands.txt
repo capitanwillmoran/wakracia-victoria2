@@ -1,5 +1,7 @@
 owner=DEC
 controller=DEC
+add_core=MLC
+add_core=MLY
 trade_goods = grain
 life_rating = 30
 terrain = plains

@@ -1,7 +1,10 @@
 capital = 749
 primary_culture = latin
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = greek
+culture = magnagreek
+culture = berber
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

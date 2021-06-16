@@ -2,6 +2,7 @@ owner=SWA
 controller=SWA
 add_core=SOF
 add_core=SWA
+add_core=MKU
 trade_goods = grain
 life_rating = 35
 terrain = farmlands

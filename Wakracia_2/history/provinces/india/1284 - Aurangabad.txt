@@ -4,6 +4,7 @@ add_core=HND
 add_core=AMD
 add_core=MAW
 add_core=MRT
+add_core=MAH
 trade_goods = cotton
 life_rating = 32
 terrain = woods

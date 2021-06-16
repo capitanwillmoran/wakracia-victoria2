@@ -1,6 +1,5 @@
 capital = 1448
-primary_culture = moluccan
-culture = melanesian
+primary_culture = melanesian
 culture = zzz_religion_jain
 religion = jain
 government = absolute_monarchy

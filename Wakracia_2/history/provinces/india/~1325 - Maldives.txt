@@ -1,0 +1,9 @@
+owner=SRI
+controller=SRI
+add_core=DEC
+add_core=HND
+add_core=SRI
+add_core=XMA
+trade_goods = fish
+life_rating = 32
+terrain = plains

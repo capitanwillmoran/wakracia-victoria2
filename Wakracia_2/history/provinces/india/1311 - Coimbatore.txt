@@ -1,6 +1,5 @@
 owner=XMA
 controller=XMA
-add_core=DEC
 add_core=VIJ
 add_core=HND
 add_core=XMA

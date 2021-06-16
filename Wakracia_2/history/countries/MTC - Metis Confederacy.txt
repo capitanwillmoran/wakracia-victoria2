@@ -1,7 +1,6 @@
-capital = 37
 primary_culture = metis
-culture = zzz_religion_catholic
-religion = catholic
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = democracy
 plurality = 0
 nationalvalue = nv_liberty

@@ -1,7 +1,6 @@
-capital = 1271
-primary_culture = rajput
+capital = 1278
+primary_culture = marathi
 culture = kanauji
-culture = marathi
 culture = zzz_religion_jain
 religion = jain
 government = absolute_monarchy
@@ -10,6 +9,7 @@ nationalvalue = nv_order
 literacy = 0.317694
 
 civilized = yes
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

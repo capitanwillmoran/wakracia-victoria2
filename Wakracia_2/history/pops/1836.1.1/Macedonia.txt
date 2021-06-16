@@ -150,35 +150,35 @@
 807 = {
 	soldiers=
 	{
-		culture = greek
+		culture = macedonian
 		religion = hellenic_pagan
 		size= 3936
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = macedonian
 		religion = hellenic_pagan
 		size= 1837
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = macedonian
 		religion = hellenic_pagan
 		size= 502
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = grmacedonianeek
 		religion = hellenic_pagan
 		size= 70
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = macedonian
 		religion = hellenic_pagan
 		size= 112
 	}
@@ -192,7 +192,7 @@
 
 	farmers=
 	{
-		culture = greek
+		culture = macedonian
 		religion = hellenic_pagan
 		size= 60467
 	}

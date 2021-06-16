@@ -1,5 +1,6 @@
 owner=DEC
 controller=DEC
+add_core=PPG
 trade_goods = fish
 life_rating = 30
 terrain = plains

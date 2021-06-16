@@ -1,4 +1,3 @@
-capital = 232
 primary_culture = yankee
 culture = zzz_religion_protestant
 religion = protestant

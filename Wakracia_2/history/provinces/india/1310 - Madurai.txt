@@ -1,7 +1,6 @@
 owner=SRI
 controller=SRI
 add_core=HND
-add_core=SRI
 add_core=XMA
 add_core=VIJ
 trade_goods = dye

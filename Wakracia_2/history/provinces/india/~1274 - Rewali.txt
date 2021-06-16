@@ -1,0 +1,7 @@
+owner=DEC
+controller=DEC
+add_core=DEC
+add_core=HND
+trade_goods = tea
+life_rating = 32
+terrain = hills

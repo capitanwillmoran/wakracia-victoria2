@@ -1,0 +1,9 @@
+owner=BRU
+controller=BRU
+add_core=BRU
+add_core=JAV
+add_core=MJP
+trade_goods = fruit
+life_rating = 30
+terrain = jungle
+naval_base = 2

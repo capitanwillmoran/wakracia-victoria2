@@ -1,5 +1,6 @@
 owner=CRI
 controller=SLV
+add_core=MOL
 add_core=UKR
 trade_goods = fruit
 life_rating = 35

@@ -1,6 +1,5 @@
 owner=UIL
 controller=UIL
-add_core=UIL
 add_core=CCW
 add_core=CRK
 trade_goods = grain

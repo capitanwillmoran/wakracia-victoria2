@@ -1,6 +1,6 @@
-capital = 2432
+capital = 2410
 primary_culture = raudhskogarling
-culture = afro_norse
+culture = afronorse
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy

@@ -150,14 +150,14 @@
 809 = {
 	soldiers=
 	{
-		culture = bulgarian
+		culture = macedonian
 		religion = hellenic_pagan
 		size= 2982
 	}
 
 	artisans=
 	{
-		culture = bulgarian
+		culture = macedonian
 		religion = hellenic_pagan
 		size= 3341
 	}
@@ -192,10 +192,18 @@
 
 	farmers=
 	{
-		culture = bulgarian
+		culture = macedonian
 		religion = hellenic_pagan
 		size= 46040
 	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = hellenic_pagan
+		size= 11040
+	}
+
 
 	soldiers=
 	{

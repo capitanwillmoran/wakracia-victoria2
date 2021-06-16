@@ -1,6 +1,6 @@
 owner=DEC
 controller=DEC
-add_core=DEC
+add_core=MLD
 trade_goods = fish
 life_rating = 32
 terrain = plains

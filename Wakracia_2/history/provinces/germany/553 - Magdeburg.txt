@@ -1,6 +1,7 @@
 owner=BOH
 controller=BOH
 add_core=BOH
+add_core=MAG
 add_core=GER
 add_core=SAX
 trade_goods = cattle
