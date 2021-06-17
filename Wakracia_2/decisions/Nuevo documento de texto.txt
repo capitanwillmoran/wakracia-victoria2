@@ -3977,3 +3977,250 @@ political_decisions = {
 		primary_culture = north_german
 	}
  }
+ terra_nullius306 = {
+	potential = {
+		TAG = LPL
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = matense
+	}
+ }
+ terra_nullius307 = {
+	potential = {
+		TAG = LXA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = thai
+	}
+ }
+ terra_nullius308 = {
+	potential = {
+		TAG = LAN
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = bornean
+	}
+ }
+ terra_nullius309 = {
+	potential = {
+		TAG = LAU
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = danish
+	}
+ }
+ terra_nullius310 = {
+	potential = {
+		TAG = LEI
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = irish
+	}
+ }
+ terra_nullius311 = {
+	potential = {
+		TAG = LBY
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = berber
+	}
+ }
+ terra_nullius312 = {
+	potential = {
+		TAG = LGU
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = magnagreek
+	}
+ }
+ terra_nullius313 = {
+	potential = {
+		TAG = LBG
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = north_german
+	}
+ }
+ terra_nullius314 = {
+	potential = {
+		TAG = LIG
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = flemish
+	}
+ }
+ terra_nullius315 = {
+	potential = {
+		TAG = LOA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = bakongo
+	}
+ }
+ terra_nullius316 = {
+	potential = {
+		TAG = LOM
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = magnagreek
+	}
+ }
+ terra_nullius317 = {
+	potential = {
+		TAG = LVN
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = magnagreek
+	}
+ }
+ terra_nullius318 = {
+	potential = {
+		TAG = LGB
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = lombard
+	}
+ }
+ terra_nullius319 = {
+	potential = {
+		TAG = LOR
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = south_german
+	}
+ }
+ terra_nullius320 = {
+	potential = {
+		TAG = LOU
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = americangreek
+	}
+ }
+ terra_nullius321 = {
+	potential = {
+		TAG = KZB
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = mongo
+	}
+ }
+ terra_nullius322 = {
+	potential = {
+		TAG = LBA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = luba
+	}
+ }
+ terra_nullius322 = {
+	potential = {
+		TAG = LUN
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = bakongo
+	}
+ }
+ terra_nullius322 = {
+	potential = {
+		TAG = LDU
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = fang
+	}
+ }

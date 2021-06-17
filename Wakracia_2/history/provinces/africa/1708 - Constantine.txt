@@ -2,6 +2,7 @@ owner=X05
 controller=X05
 add_core=X05
 add_core=ALD
+add_core=LBY
 trade_goods = iron
 life_rating = 35
 terrain = mountain

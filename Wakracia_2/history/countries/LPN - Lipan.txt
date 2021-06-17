@@ -7,6 +7,7 @@ plurality = 0
 nationalvalue = nv_liberty
 literacy = 0.0457089
 
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

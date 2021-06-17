@@ -1,7 +1,7 @@
 capital = 2348
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+primary_culture = matense
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = democracy
 plurality = 0
 nationalvalue = nv_order

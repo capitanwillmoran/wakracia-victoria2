@@ -1,6 +1,7 @@
 owner=SIA
 controller=SIA
 add_core=IDO
+add_core=LXA
 add_core=LUA
 trade_goods = grain
 life_rating = 30

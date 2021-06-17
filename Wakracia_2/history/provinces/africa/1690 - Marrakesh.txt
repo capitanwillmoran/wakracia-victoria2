@@ -1,5 +1,7 @@
 owner=MLI
 controller=MLI
+add_core=X06
+add_core=LBY
 trade_goods = fruit
 life_rating = 35
 terrain = mountain

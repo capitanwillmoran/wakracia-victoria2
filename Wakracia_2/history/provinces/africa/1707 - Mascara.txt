@@ -1,6 +1,7 @@
 owner=X06
 controller=X06
 add_core=ALD
+add_core=LBY
 add_core=X06
 trade_goods = fruit
 life_rating = 35

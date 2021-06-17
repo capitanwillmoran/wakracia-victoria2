@@ -2,7 +2,6 @@ owner=SLV
 controller=SLV
 add_core=LAT
 add_core=UBD
-add_core=X08
 add_core=TEU
 trade_goods = grain
 life_rating = 35

@@ -1,6 +1,7 @@
 owner=MLI
 controller=MLI
-add_core=MLI
+add_core=X06
+add_core=LBY
 trade_goods = fish
 life_rating = 30
 terrain = plains

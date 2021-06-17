@@ -1,6 +1,7 @@
 owner=X09
 controller=X09
 add_core=RHI
+add_core=LBG
 add_core=NET
 trade_goods = coal
 life_rating = 35

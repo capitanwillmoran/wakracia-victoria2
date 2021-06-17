@@ -2,6 +2,7 @@ owner=HSE
 controller=HSE
 add_core=BUR
 add_core=HSE
+add_core=LNA
 add_core=IDO
 add_core=SHA
 trade_goods = opium

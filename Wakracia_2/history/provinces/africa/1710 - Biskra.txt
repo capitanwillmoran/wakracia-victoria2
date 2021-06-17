@@ -1,6 +1,7 @@
 owner=X05
 controller=X05
 add_core=ALD
+add_core=LBY
 add_core=X05
 trade_goods = iron
 life_rating = 35

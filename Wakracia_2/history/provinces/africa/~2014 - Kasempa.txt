@@ -1,0 +1,7 @@
+owner=KZB
+controller=KZB
+add_core=CKW
+trade_goods = grain
+life_rating = 15
+terrain = jungle
+colonial=2

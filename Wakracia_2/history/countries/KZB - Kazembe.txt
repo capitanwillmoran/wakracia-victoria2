@@ -1,7 +1,5 @@
-capital = 1987
-primary_culture = luba
-culture = bakongo
-culture = fang
+capital = 1988
+primary_culture = mongo
 culture = zzz_religion_west_african_pagan_reformed
 religion = west_african_pagan_reformed
 government = absolute_monarchy

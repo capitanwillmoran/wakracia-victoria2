@@ -1,6 +1,8 @@
 owner=X06
 controller=X06
 add_core=ALD
+add_core=X06
+add_core=LBY
 trade_goods = grain
 life_rating = 35
 terrain = plains

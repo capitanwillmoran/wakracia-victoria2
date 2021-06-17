@@ -1,7 +1,7 @@
 owner=KZB
 controller=KZB
 add_core=KON
-add_core=KZB
+add_core=LUN
 add_core=SYO
 trade_goods = iron
 life_rating = 15

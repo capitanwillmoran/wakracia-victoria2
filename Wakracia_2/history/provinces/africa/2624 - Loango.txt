@@ -1,7 +1,8 @@
 owner=KZB
 controller=KZB
 add_core=KON
-add_core=KZB
+add_core=LUN
+add_core=LOA
 trade_goods = timber
 life_rating = 15
 terrain = jungle

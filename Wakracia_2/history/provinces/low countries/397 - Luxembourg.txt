@@ -1,5 +1,6 @@
 owner=X09
 controller=X09
+add_core=LUX
 add_core=BEL
 add_core=WLL
 trade_goods = iron

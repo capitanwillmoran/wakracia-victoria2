@@ -1,6 +1,7 @@
 owner=X09
 controller=X09
 add_core=BEL
+add_core=LIG
 add_core=WLL
 trade_goods = iron
 life_rating = 35
