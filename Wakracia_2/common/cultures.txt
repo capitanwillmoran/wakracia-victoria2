@@ -2537,9 +2537,9 @@ levantine = {
 		color = { 200 50 100 }
 		radicalism = 10
 		
-		first_names = { Adamantios Aléxandros Anastásios Andréas Antónios Aristídis Athanásios Avgóstinos Venizélos Charálampos Charílaos Dimítrios Diomídis Elefthérios Emmanouíl Epameínontas Evripídis Gennaíos Geórgios Ilías Ionnis Kítsos Konstantínos Kyriákos Kyriakoúlis Leonídas Makários Márkos Míchael Militiadis Nikólaos Odysséas Óthon Panagiótis Pavlos Pétros Sofoklís Sotíris Spyridíon Spýros Stáïkos Stéfanos Stylianós Themistoklís Theódoros Tharývoulos Tzannís Vásos Víktor Zinóvios }
+		first_names = { Borja Hermosus Gregoria YuiririLeonídas Sean T'challa Wakandikos Milfus Black Puchero JohnSinNombre Trocolososo Cipotidus Eskorbuto Calladito Pyrromano Petrum Mobutu'sese Ngbendu'wa Cancer Depresivo Chuusen Very'Black Mao Juanito Pobre Abuelus Pintorus Ungor'daco Prediccionus Bastardus Alshshay'mithl Wakarios Coronaboy Maximo Mandarinos Confinado Pikachu Papadopoulos Mogambo Mandarinos Intervencionista White Alcoholicus Efe Monindel Cervezus Scrotum Zipotidos Miguelcena77'debe'estudiar'selectividad Anonimo Echenique Retarded Putonum Retardadicus Vikinecio Ciclado Pacuygodgui Java Telcontar Orgius Egbertus Lactoso Zhokerius XAEAXII Raimonomundo Semihereticus Masturbado Pesto Caido Pyrromano }
 		
-		last_names = { Charalámpis Christákis-Zográfos Daglis Dousmanis Foúmis Gonatás Chatzianéstis Kallérgis Kanáris Katsimiros Kolokotrónis Kondýlis Kountouriótis Kriezís Makriiánnis Mános Mavrokordátos Mavrovouniótis Metaxás Moúskos Níder Othonaíos Paláskas Pan'galos Papadiamantópoulos Papadópoulos Papágos Papoúlas Parakevópoulos Plapoútas Plastíras Sapountzákis Saráfis Smolénskis Sofoúlis Soútsos Spyromílios Staïkópoulos Stanotas tis Elládas Trikoúpis Tsakalótos Tsolákoglou Typáldos-Alfonsátos Tzavélas Vássos Venizélos Voúlgaris Zaïmis Zymvrakákis }
+		last_names = { Cola Basquet Crash Juanicus Mamadú Connery Pecados Pesadus Alemanicus Opticus Teclado Pooky Kamelos Cipotidus Labuela Punchomán Fealdad Antipatico Meridio Mamadú Monindelikon VonLolicon Prime Mango VonScript Rajoyus Google Pandemicus Despoticus Simiocratus Penis'cortus Epico Flipendus Impronunciable }
 		
 	}
 	magnagreek = {
