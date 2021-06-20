@@ -590,7 +590,7 @@ guiTypes = {
 			guiButtonType = {
 					name = "colonize_button"
 					quadTextureSprite = "GFX_button_standard_177"
-					buttonFont = "vic_18_black"
+					buttonFont = "vic_18"
 					buttonText = "CREATE_PROTECTORATE"
 					Orientation = "UPPER_LEFT"
 					clicksound = click
@@ -600,7 +600,7 @@ guiTypes = {
 			guiButtonType = {
 					name = "withdraw_button"
 					quadTextureSprite = "GFX_button_standard_177"
-					buttonFont = "vic_18_black"
+					buttonFont = "vic_18"
 					buttonText = "UNCOLONIZED_WITHDRAW"
 					Orientation = "UPPER_LEFT"
 					clicksound = click
@@ -879,13 +879,13 @@ guiTypes = {
 			
 			iconType = {
 				name ="our_relation_icon"
-				spriteType = "GFX_mapmode_relation"
-				position = { x = 210 y = 206 }
+				spriteType = "GFX_diplo_relation_icon"
+				position = { x = 25 y = 205 }
 				Orientation = "UPPER_LEFT"
 			}
 			instantTextBoxType = { 
 				name = "our_relation"
-				position = { x = 230 y = 207 }
+				position = { x = 45 y = 205 }
 				font = "vic_22_black"
 				text = "-200"	
 				maxWidth = 100
@@ -902,7 +902,7 @@ guiTypes = {
 		
 			instantTextBoxType = { 
 				name = "country_name"
-				position = { x = 115 y = 140 }
+				position = { x = 85 y = 140 }
 				font = "vic_22"
 				text = "France"	
 				maxWidth = 190
@@ -912,7 +912,7 @@ guiTypes = {
 			
 			instantTextBoxType = { 
 				name = "country_status"
-				position = { x = 112 y = 170 }
+				position = { x = 90 y = 170 }
 				font = "Arial12_black"
 				text = "Great Power"	
 				maxWidth = 250
@@ -923,7 +923,7 @@ guiTypes = {
 							
 			instantTextBoxType = { 
 				name = "country_gov"
-				position = { x = 112 y = 190 }
+				position = { x = 90 y = 190 }
 				font = "Arial12_black"
 				text = "country_gov"	
 				maxWidth = 250
@@ -933,7 +933,7 @@ guiTypes = {
 			
 			instantTextBoxType = { 
 				name = "country_party"
-				position = { x = 112 y = 210 }
+				position = { x = 90 y = 210 }
 				font = "Arial12_black"
 				text = "country_party"	
 				maxWidth = 250
@@ -1145,7 +1145,7 @@ guiTypes = {
 			guiButtonType = {
 					name = "send_diplomat"
 					quadTextureSprite = "GFX_button_standard_177"
-					buttonFont = "vic_18_black"
+					buttonFont = "vic_18"
 					buttonText = "GO_TO_DIPLOMACY"
 					Orientation = "UPPER_LEFT"
 					clicksound = click
@@ -1283,7 +1283,7 @@ guiTypes = {
 				position = { x = 82 y = 132 }
 				quadTextureSprite = "GFX_button_standard_144"		
 				buttonText="PROVINCEVIEW_BUILD_ARMY2"	
-				buttonFont = "vic_18_black"
+				buttonFont = "vic_18"
 				Orientation = "UPPER_LEFT"
 				clicksound = click
 				shortcut = "a"
@@ -1294,7 +1294,7 @@ guiTypes = {
 				position = { x = 238 y = 132 }
 				quadTextureSprite = "GFX_button_standard_144"		
 				buttonText="PROVINCEVIEW_BUILD_NAVY2"	
-				buttonFont = "vic_18_black"
+				buttonFont = "vic_18"
 				Orientation = "UPPER_LEFT"
 				clicksound = click
 				shortcut = "n"
@@ -1445,7 +1445,7 @@ guiTypes = {
 				position = { x=92 y =414}
 				quadTextureSprite ="GFX_button_standard_200"
 				buttonText = "CLOSE"
-				buttonFont = "vic_18_black"
+				buttonFont = "vic_18"
 			}
 			
 			guiButtonType = {
@@ -1453,7 +1453,7 @@ guiTypes = {
 				position = { x=218 y =11}
 				quadTextureSprite ="GFX_button_thin_160"
 				buttonText = "REMOVE_FOCUS"
-				buttonFont = "vic_18_black"
+				buttonFont = "vic_18"
 			}
 		}
 	}
@@ -1507,7 +1507,7 @@ guiTypes = {
 			position = { x= 204 y = 1 }
 			quadTextureSprite = "GFX_button_thin_120"		
 			buttonText="PROVINCEVIEW_EXPAND"	
-			buttonFont = "vic_18_black"
+			buttonFont = "vic_18"
 			Orientation = "UPPER_LEFT"
 			clicksound = click
 		}
@@ -1726,7 +1726,7 @@ guiTypes = {
 				position = { x = 82 y = 132 }
 				quadTextureSprite = "GFX_button_standard_144"		
 				buttonText="PROVINCEVIEW_BUILD_ARMY2"	
-				buttonFont = "vic_18_black"
+				buttonFont = "vic_18"
 				Orientation = "UPPER_LEFT"
 				clicksound = click
 				shortcut = "a"
@@ -1737,7 +1737,7 @@ guiTypes = {
 				position = { x = 238 y = 132 }
 				quadTextureSprite = "GFX_button_standard_144"		
 				buttonText="PROVINCEVIEW_BUILD_NAVY2"	
-				buttonFont = "vic_18_black"
+				buttonFont = "vic_18"
 				Orientation = "UPPER_LEFT"
 				clicksound = click
 				shortcut = "n"
