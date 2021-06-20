@@ -1,5 +1,5 @@
 capital = 81
-primary_culture = qinlifornian
+primary_culture = nayeduniya
 culture = zzz_religion_mahayana
 religion = mahayana
 government = democracy

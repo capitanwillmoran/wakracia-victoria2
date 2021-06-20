@@ -1,6 +1,8 @@
 owner=X14
 controller=X14
 add_core=TKS
+add_core=KOK
+add_core=X18
 trade_goods = grain
 life_rating = 35
 terrain = plains

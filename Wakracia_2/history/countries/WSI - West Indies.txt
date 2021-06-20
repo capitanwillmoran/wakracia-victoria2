@@ -1,7 +1,7 @@
 capital = 2237
 primary_culture = afrogreek
-culture = atlantean
 culture = afronorse
+culture = afroslavic
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = democracy

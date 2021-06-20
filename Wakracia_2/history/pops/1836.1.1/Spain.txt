@@ -3475,49 +3475,49 @@
 496 = {
 	soldiers=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 690
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 123
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 20
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 52
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 23739
 	}
@@ -4663,49 +4663,49 @@
 502 = {
 	soldiers=
 	{
-		culture = french
+		culture = portuguese
 		religion = norse_pagan_reformed
 		size= 1119
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = portuguese
 		religion = norse_pagan_reformed
 		size= 2236
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = portuguese
 		religion = norse_pagan_reformed
 		size= 419
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = portuguese
 		religion = norse_pagan_reformed
 		size= 55
 	}
 
 	officers=
 	{
-		culture = french
+		culture = portuguese
 		religion = norse_pagan_reformed
 		size= 45
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = portuguese
 		religion = norse_pagan_reformed
 		size= 470
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = portuguese
 		religion = norse_pagan_reformed
 		size= 51564
 	}
@@ -4863,49 +4863,49 @@
 504 = {
 	soldiers=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 657
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 117
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 19
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 49
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 22616
 	}
@@ -5161,98 +5161,98 @@
 506 = {
 	soldiers=
 	{
-		culture = french
+		culture = portuguese
 		religion = norse_pagan_reformed
 		size= 644
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = portuguese
 		religion = norse_pagan_reformed
 		size= 115
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = portuguese
 		religion = norse_pagan_reformed
 		size= 19
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = portuguese
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = french
+		culture = portuguese
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = portuguese
 		religion = norse_pagan_reformed
 		size= 48
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = portuguese
 		religion = norse_pagan_reformed
 		size= 22155
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 34
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 127
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 21
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 3
 	}
 
 	officers=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 53
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 982
 	}

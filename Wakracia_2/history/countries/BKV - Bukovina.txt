@@ -1,5 +1,5 @@
 capital = 662
-primary_culture = ukranian
+primary_culture = ukrainian
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy

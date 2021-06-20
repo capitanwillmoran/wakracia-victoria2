@@ -1,6 +1,7 @@
 owner=CRI
 controller=SLV
 add_core=POL
+add_core=KRA
 trade_goods = coal
 life_rating = 40
 terrain = plains

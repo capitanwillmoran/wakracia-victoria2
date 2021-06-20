@@ -1,7 +1,7 @@
 capital = 2061
 primary_culture = swahili
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = zzz_religion_sunni
+religion = sunni
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

@@ -2,6 +2,7 @@ owner=SIA
 controller=SIA
 add_core=BUR
 add_core=IDO
+add_core=KAR
 add_core=PEG
 trade_goods = fish
 life_rating = 30

@@ -1,6 +1,7 @@
 owner=MLI
 controller=MLI
 add_core=YAO
+add_core=KBO
 trade_goods = grain
 life_rating = 10
 terrain = plains

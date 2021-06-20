@@ -1,5 +1,5 @@
 capital = 2137
-primary_culture = qinlifornian
+primary_culture = sonoran
 culture = zzz_religion_mahayana
 religion = mahayana
 government = democracy

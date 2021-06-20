@@ -1,5 +1,5 @@
 capital = 706
-primary_culture = polishmy
+primary_culture = polish
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy

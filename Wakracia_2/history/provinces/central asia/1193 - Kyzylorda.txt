@@ -1,6 +1,7 @@
 owner=KHI
 controller=KHI
 add_core=KHI
+add_core=KAZ
 add_core=TRX
 add_core=TKS
 trade_goods = coal

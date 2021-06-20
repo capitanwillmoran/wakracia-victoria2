@@ -1,5 +1,5 @@
 capital = 2012
-primary_culture = southern_african
+primary_culture = shona
 culture = zzz_religion_sunni
 religion = sunni
 government = democracy

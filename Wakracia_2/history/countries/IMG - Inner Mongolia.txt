@@ -1,7 +1,7 @@
 capital = 1532
 primary_culture = mongol
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = zzz_religion_gelugpa
+religion = gelugpa
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_order

@@ -1,6 +1,7 @@
 owner=BRZ
 controller=BRZ
 add_core=BRZ
+add_core=TPQ
 trade_goods = cotton
 life_rating = 35
 terrain = hills

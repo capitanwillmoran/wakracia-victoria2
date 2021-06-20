@@ -639,63 +639,63 @@
 
 	soldiers=
 	{
-		culture = french
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 23
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 1130
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = maghrebi
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = maghrebi
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = maghrebi
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = maghrebi
 		religion = hellenic_pagan
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = maghrebi
 		religion = hellenic_pagan
 		size= 70
 	}
@@ -1635,133 +1635,133 @@
 1692 = {
 	soldiers=
 	{
-		culture = french
+		culture = maghrebi
 		religion = hellenic_pagan
 		size= 34
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = maghrebi
 		religion = hellenic_pagan
 		size= 17
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = maghrebi
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = maghrebi
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = maghrebi
 		religion = hellenic_pagan
 		size= 1656
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 9
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 27
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	officers=
 	{
-		culture = french
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = maghrebi
 		religion = norse_pagan_reformed
 		size= 425
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 118
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 280
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 46
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 7
 	}
 
 	officers=
 	{
-		culture = french
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 59
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = maghrebi
 		religion = west_african_pagan_reformed
 		size= 5398
 	}

@@ -1,7 +1,7 @@
 capital = 1472
 primary_culture = beifaren
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = zzz_religion_mahayana
+religion = mahayana
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

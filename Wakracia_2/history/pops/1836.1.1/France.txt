@@ -7692,49 +7692,49 @@
 448 = {
 	soldiers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 10618
 	}
 
 	artisans=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 26546
 	}
 
 	clergymen=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 1422
 	}
 
 	bureaucrats=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 265
 	}
 
 	officers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 303
 	}
 
 	aristocrats=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 1593
 	}
 
 	farmers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 148866
 	}
@@ -7743,14 +7743,14 @@
 449 = {
 	soldiers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 5858
 	}
 
 	artisans=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 14645
 	}
@@ -7758,34 +7758,34 @@
 	clergymen=
 	{
 		culture = magnagreek
-		religion = hellenic_pagan
+		religion = occitan
 		size= 785
 	}
 
 	bureaucrats=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 146
 	}
 
 	officers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 167
 	}
 
 	aristocrats=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 879
 	}
 
 	farmers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 82130
 	}
@@ -8043,147 +8043,147 @@
 452 = {
 	soldiers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 4768
 	}
 
 	artisans=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 3072
 	}
 
 	clergymen=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 576
 	}
 
 	bureaucrats=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 77
 	}
 
 	officers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 123
 	}
 
 	aristocrats=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 1290
 	}
 
 	farmers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = hellenic_pagan
 		size= 75223
 	}
 
 	soldiers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = lollard
 		size= 430
 	}
 
 	artisans=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = lollard
 		size= 273
 	}
 
 	clergymen=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = lollard
 		size= 51
 	}
 
 	bureaucrats=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = lollard
 		size= 7
 	}
 
 	officers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = lollard
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = lollard
 		size= 115
 	}
 
 	farmers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = lollard
 		size= 6790
 	}
 
 	soldiers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = norse_pagan_reformed
 		size= 287
 	}
 
 	artisans=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = norse_pagan_reformed
 		size= 572
 	}
 
 	clergymen=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = norse_pagan_reformed
 		size= 107
 	}
 
 	bureaucrats=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = norse_pagan_reformed
 		size= 14
 	}
 
 	officers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = norse_pagan_reformed
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = norse_pagan_reformed
 		size= 240
 	}
 
 	farmers=
 	{
-		culture = magnagreek
+		culture = occitan
 		religion = norse_pagan_reformed
 		size= 3884
 	}

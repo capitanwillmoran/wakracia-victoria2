@@ -1,6 +1,5 @@
 owner=CRI
 controller=CRI
-add_core=CRI
 add_core=ALN
 add_core=X11
 trade_goods = coal

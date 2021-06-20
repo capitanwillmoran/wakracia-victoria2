@@ -1,6 +1,5 @@
 owner=CRI
 controller=SLV
-add_core=CRI
 add_core=SLV
 add_core=LBV
 trade_goods = coal

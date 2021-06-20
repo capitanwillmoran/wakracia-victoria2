@@ -2,6 +2,7 @@ owner=SIA
 controller=SIA
 add_core=BUR
 add_core=IDO
+add_core=KAR
 trade_goods = grain
 life_rating = 30
 terrain = hills

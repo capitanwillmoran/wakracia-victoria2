@@ -1,6 +1,7 @@
 owner=CRI
 controller=CRI
 add_core=KIE
+add_core=CRI
 add_core=UKR
 trade_goods = coal
 life_rating = 35

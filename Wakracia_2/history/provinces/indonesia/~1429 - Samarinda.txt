@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=BRU
+add_core=MLY
+trade_goods = sulphur
+life_rating = 15
+terrain = jungle
+colonial=2

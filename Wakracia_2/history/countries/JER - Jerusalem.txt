@@ -1,5 +1,6 @@
 capital = 917
 primary_culture = mashriqi
+culture = greek
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = theocracy

@@ -1,6 +1,5 @@
 owner=CRI
 controller=CRI
-add_core=CRI
 add_core=DKU
 add_core=ALN
 trade_goods = cattle

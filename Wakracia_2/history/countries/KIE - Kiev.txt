@@ -1,7 +1,7 @@
-capital = 1016
+capital = 958
 primary_culture = ukrainian
-culture = zzz_religion_orthodox
-religion = orthodox
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

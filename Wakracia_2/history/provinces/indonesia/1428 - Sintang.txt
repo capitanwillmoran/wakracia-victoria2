@@ -3,6 +3,7 @@ controller=BYZ
 add_core=BRU
 add_core=LAN
 add_core=MLY
+add_core=KLM
 trade_goods = coffee
 life_rating = 15
 terrain = hills

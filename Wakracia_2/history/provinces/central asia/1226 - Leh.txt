@@ -1,6 +1,7 @@
 owner=RAJ
 controller=RAJ
 add_core=TKS
+add_core=KAS
 add_core=RAJ
 trade_goods = wool
 life_rating = 35

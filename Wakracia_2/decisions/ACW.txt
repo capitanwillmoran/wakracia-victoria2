@@ -2,6 +2,7 @@ political_decisions = {
 # North-American Minors
 	apply_for_USA_statehood = {
 		potential = {	
+			date = 2000
 			exists = USA
 			USA = { government = democracy }
 			is_culture_group = USA
