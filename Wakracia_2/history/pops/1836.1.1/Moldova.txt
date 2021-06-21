@@ -1,49 +1,49 @@
 676 = {
 	soldiers=
 	{
-		culture = serb
+		culture = ukrainian
 		religion = hellenic_pagan
 		size= 642
 	}
 
 	artisans=
 	{
-		culture = serb
+		culture = ukrainian
 		religion = hellenic_pagan
 		size= 666
 	}
 
 	clergymen=
 	{
-		culture = serb
+		culture = ukrainian
 		religion = hellenic_pagan
 		size= 197
 	}
 
 	bureaucrats=
 	{
-		culture = serb
+		culture = ukrainian
 		religion = hellenic_pagan
 		size= 18
 	}
 
 	officers=
 	{
-		culture = serb
+		culture = ukrainian
 		religion = hellenic_pagan
 		size= 29
 	}
 
 	aristocrats=
 	{
-		culture = serb
+		culture = ukrainian
 		religion = hellenic_pagan
 		size= 299
 	}
 
 	farmers=
 	{
-		culture = serb
+		culture = ukrainian
 		religion = hellenic_pagan
 		size= 62116
 	}
@@ -101,49 +101,49 @@
 677 = {
 	soldiers=
 	{
-		culture = serb
+		culture = ukrainian
 		religion = hellenic_pagan
 		size= 625
 	}
 
 	artisans=
 	{
-		culture = serb
+		culture = ukrainian
 		religion = hellenic_pagan
 		size= 537
 	}
 
 	clergymen=
 	{
-		culture = serb
+		culture = ukrainian
 		religion = hellenic_pagan
 		size= 191
 	}
 
 	bureaucrats=
 	{
-		culture = serb
+		culture = ukrainian
 		religion = hellenic_pagan
 		size= 17
 	}
 
 	officers=
 	{
-		culture = serb
+		culture = ukrainian
 		religion = hellenic_pagan
 		size= 28
 	}
 
 	aristocrats=
 	{
-		culture = serb
+		culture = ukrainian
 		religion = hellenic_pagan
 		size= 292
 	}
 
 	farmers=
 	{
-		culture = serb
+		culture = ukrainian
 		religion = hellenic_pagan
 		size= 59695
 	}

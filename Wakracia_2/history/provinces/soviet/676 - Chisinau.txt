@@ -1,6 +1,5 @@
 owner=CRI
 controller=SLV
-add_core=SER
 add_core=MOL
 add_core=YUG
 trade_goods = fruit
