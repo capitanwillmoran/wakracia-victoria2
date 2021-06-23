@@ -1,4 +1,4 @@
-capital = 1862
+capital = 1861
 primary_culture = oromo
 culture = zzz_religion_shamanism
 religion = shamanism
@@ -7,6 +7,7 @@ plurality = 0
 nationalvalue = nv_order
 literacy = 0.0399953
 
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

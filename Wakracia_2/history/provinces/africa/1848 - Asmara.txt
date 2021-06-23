@@ -4,6 +4,7 @@ add_core=MED
 add_core=ETH
 add_core=TIG
 add_core=ERI
+add_core=JJI
 trade_goods = fruit
 life_rating = 35
 terrain = hills

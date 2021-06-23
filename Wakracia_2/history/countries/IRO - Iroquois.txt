@@ -1,6 +1,5 @@
 capital = 238
 primary_culture = iroquoian
-culture = central_algonquian
 culture = zzz_religion_totemism
 religion = totemism
 government = democracy
@@ -8,7 +7,7 @@ plurality = 0
 nationalvalue = nv_liberty
 literacy = 0.453849
 
-
+is_releasable_vassal = yes
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit

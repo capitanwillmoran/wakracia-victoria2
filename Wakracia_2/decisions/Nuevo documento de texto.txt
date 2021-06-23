@@ -4692,3 +4692,185 @@ political_decisions = {
 		primary_culture = bornean
 	}
  }
+ terra_nullius361 = {
+	potential = {
+		TAG = JAI
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = rajput
+	}
+ }
+ terra_nullius362 = {
+	potential = {
+		TAG = RAJ
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = indogreek
+	}
+ }
+ terra_nullius363 = {
+	potential = {
+		TAG = JAS
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = rajput
+	}
+ }
+ terra_nullius364 = {
+	potential = {
+		TAG = DJA
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = malay
+	}
+ }
+ terra_nullius365 = {
+	potential = {
+		TAG = JJI
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = tigray
+	}
+ }
+ terra_nullius366 = {
+	potential = {
+		TAG = JNN
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = bambara
+	}
+ }
+ terra_nullius367 = {
+	potential = {
+		TAG = JIM
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = oromo
+	}
+ }
+ terra_nullius368 = {
+	potential = {
+		TAG = JOD
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = rajput
+	}
+ }
+ terra_nullius369 = {
+	potential = {
+		TAG = JOH
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = malay
+	}
+ }
+ terra_nullius370 = {
+	potential = {
+		TAG = WOL
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = wolof
+	}
+ }
+ terra_nullius371 = {
+	potential = {
+		TAG = JML
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = nepali
+	}
+ }
+ terra_nullius372 = {
+	potential = {
+		TAG = JGD
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = rajput
+	}
+ }
+ terra_nullius373 = {
+	potential = {
+		TAG = HND
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = marathi
+	}
+ }
+ terra_nullius374 = {
+	potential = {
+		TAG = IZH
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = estonian
+	}
+ }

@@ -1,6 +1,7 @@
 owner=MLI
 controller=MLI
 add_core=SGU
+add_core=JNN
 trade_goods = cotton
 life_rating = 15
 terrain = plains

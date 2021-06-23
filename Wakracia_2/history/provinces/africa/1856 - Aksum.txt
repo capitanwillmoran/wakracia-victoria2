@@ -3,6 +3,7 @@ controller=BYZ
 add_core=MED
 add_core=ETH
 add_core=TIG
+add_core=JJI
 trade_goods = cattle
 life_rating = 30
 terrain = hills

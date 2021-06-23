@@ -1,7 +1,6 @@
 capital = 474
 primary_culture = portuguese
 culture = galician
-culture = visigothic
 culture = catalan
 culture = andalucian
 culture = zzz_religion_hellenic_pagan

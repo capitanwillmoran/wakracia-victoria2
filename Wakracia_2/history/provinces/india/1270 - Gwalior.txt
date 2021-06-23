@@ -2,6 +2,7 @@ owner=MAW
 controller=MAW
 add_core=BUN
 add_core=HND
+add_core=IND
 add_core=MAW
 add_core=MEW
 trade_goods = dye

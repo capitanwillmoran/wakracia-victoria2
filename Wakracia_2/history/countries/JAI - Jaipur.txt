@@ -1,12 +1,13 @@
 capital = 1268
 primary_culture = rajput
-culture = zzz_religion_hindu
-religion = hindu
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0
 
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

@@ -1,12 +1,14 @@
 capital = 1251
 primary_culture = marathi
-culture = zzz_religion_hindu
-religion = hindu
+culture = zzz_religion_jain
+religion = jain
 government = democracy
 plurality = 0
 nationalvalue = nv_equality
 literacy = 0
 
+civilized= yes
+is_releasable_vassal = no
 
 # Social Reforms
 wage_reform = no_minimum_wage

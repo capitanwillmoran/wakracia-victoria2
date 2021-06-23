@@ -1,0 +1,8 @@
+owner=GLC
+controller=GLC
+add_core=GLC
+add_core=VGO
+trade_goods = iron
+life_rating = 35
+terrain = mountain
+naval_base = 1

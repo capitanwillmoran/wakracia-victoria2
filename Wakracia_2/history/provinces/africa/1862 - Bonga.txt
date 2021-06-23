@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=ENA
+add_core=JIM
 add_core=KAF
 add_core=ETH
 trade_goods = grain

@@ -1,7 +1,7 @@
 capital = 1804
 primary_culture = bambara
-culture = zzz_religion_sunni
-religion = sunni
+culture = zzz_religion_west_african_pagan_reformed
+religion = west_african_pagan_reformed
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
