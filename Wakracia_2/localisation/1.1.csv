@@ -6,16 +6,16 @@ HAVE_MORE_POPS_WANTING_POLITICAL_REFORM_THAN;At least $VAL$ want political refor
 HAVE_LESS_POPS_WANTING_SOCIAL_REFORM_THAN;Less than $VAL$ want social reform.;Moins de $VAL$ souhaitent une réforme sociale.;Weniger als $VAL$ wollen soziale Reformen.;;Menos de $VAL$ quieren reformas sociales.;;;;;;;;x;
 HAVE_MORE_POPS_WANTING_SOCIAL_REFORM_THAN;At least $VAL$ want social reform.;Au moins $VAL$ souhaitent une réforme sociale.;Mindestens $VAL$ wollen soziale Reformen.;;Al menos $VAL$ quieren reformas sociales.;;;;;;;;x;
 CSA_proletarian_dictatorship;Dirigist Confederacy;États confédérés d'Amérique;CSA;;Confederación Dirigista;;;;;;;;;x
-USA_presidential_dictatorship;United States of North Atlantis;États-Unis;USA;;Estados Unidos de Atlantis del Norte;;;;;;;;;x
-CSA_presidential_dictatorship;Confederated State;États confédérés d'Amérique;CSA;;Estado confederado;;;;;;;;;x
+USA_presidential_dictatorship;United States of North Atlantis;États-Unis;USA;;Estados Unidos Atlantes del Norte;;;;;;;;;x
+CSA_presidential_dictatorship;Confederated State;États confédérés d'Amérique;CSA;;Estado Atlante Confederado;;;;;;;;;x
 USA_bourgeois_dictatorship;United Liberal States;États-Unis;USA;;Estados Libres Unidos;;;;;;;;;x
-CSA_bourgeois_dictatorship;Free Confederated States;États confédérés d'Amérique;CSA;;Estados Confederados Libres;;;;;;;;;x
+CSA_bourgeois_dictatorship;Free Confederated States;États confédérés d'Amérique;CSA;;Estados Confederados Libres Atlantes  ;;;;;;;;;x
 USA_fascist_dictatorship;United Legionary States;États-Unis;USA;;Estados Legionarios Unidos;;;;;;;;;x
 CSA_fascist_dictatorship;Legionary Confederacy;États confédérés d'Amérique;CSA;;Confederación Legionaria;;;;;;;;;x
-REMOVE_USA_prussian_constitutionalism;Kingdom of North Atlantis;États-Unis;USA;;Reino de Atlantis del Norte;;;;;;;;;x
-CSA_prussian_constitutionalism;Confederated Kingdom of North America;États confédérés d'Amérique;CSA;;Reino Confederado de América del Norte;;;;;;;;;x
-USA_democracy;Republic of North Atlantis;États-Unis;USA;;República de Atlantis del Norte;;;;;;;;;x
-CSA_democracy;Confederated States of North America;États confédérés d'Amérique;CSA;;Estados Confederados de América del Norte;;;;;;;;;x
+REMOVE_USA_prussian_constitutionalism;Kingdom of North Atlantis;États-Unis;USA;;Reino Atlantes del Norte;;;;;;;;;x
+CSA_prussian_constitutionalism;Confederated Kingdom of North Atlantis;États confédérés d'Amérique;CSA;;Reino Confederado Atlante del Norte;;;;;;;;;x
+USA_democracy;Republic of North Atlantis;États-Unis;USA;;República Atlante del Norte;;;;;;;;;x
+CSA_democracy;Confederated States of North Atlantis;États confédérés d'Amérique;CSA;;Estados Confederados Atlantes del Norte;;;;;;;;;x
 CAL_absolute_monarchy;Celestial Empire of Qinlifornia;Royaume de Californie;Kingdom of California;;Imperio Celestial de Qinlifornia;;;;;;;;x;
 CAL_hms_government;United Qinlifornian Kingdom;Royaume de Californie;Kingdom of California;;Reino Unido de Qinlifornia;;;;;;;;x;
 DOM_absolute_monarchy;Santo Domingo;Santo Domingo;Santo Domingo;;Santo Domingo;;;;;;;;x;
@@ -46,7 +46,7 @@ WARGOAL_OTHER_ACCEPT_SETUP;When a nation adds a wargoal in a war.;Si une nation 
 WARGOAL_THEY_ACCEPT_SETUP;When we add a wargoal against another nation.;Si nous ajoutons un objectif de guerre contre une autre nation.;Wenn wir ein Kriegsziel gegen eine andere Nation hinzufügen.;;Cuando añadimos un objetivo bélico contra otro país;;;;;;;;x;
 WARGOAL_WE_ACCEPT_SETUP;When a nation adds a wargoal against us..;Si une nation ajoute un objectif de guerre contre nous.;Wenn eine Nation ein Kriegsziel gegen uns hinzufügt.;;Cuando otro país añade un objetivo bélico contra nosotros;;;;;;;;x;
 status_quo_setup;All we ask is to be left alone;Nous demandons juste à ce qu'on nous laisse tranquilles.;Wir wollen nur in Ruhe gelassen werden.;;Lo único que pedimos es que nos dejen en paz;;;;;;;;x;
-PROV3041;Argentine Rise;Soulèvement de l'Argentine;Argentinisches Seegebirge;;Falla de Argentina;;;;;;;;;x
+PROV3041;Mate Rise;Soulèvement de l'Argentine;Argentinisches Seegebirge;;Falla del Mate;;;;;;;;;x
 TUR_819;West Macedonia;Macédoine de l'Ouest;Westmazedonien;;Macedonia Occidental;;;;;;;;;x
 TUR_806;North Macedonia;Macédoine du Nord;Nordmazedonien;;Macedonia Septentrional;;;;;;;;;x
 GUNBOAT_OTHER_ACCEPT_LOG;$ACTOR$ is using gunboats to force $RECIPIENT$ to pay their debt!;$ACTOR$ utilise des canonnières pour obliger $RECIPIENT$ à rembourser sa dette !;$ACTOR$ setzt Kanonenbootpolitik ein, um $RECIPIENT$ zur Rückzahlung der Schulden zu zwingen!;;¡$ACTOR$ está usando sus cañoneras para obligar a $RECIPIENT$ a pagar sus deudas!;;;;;;;;;x
