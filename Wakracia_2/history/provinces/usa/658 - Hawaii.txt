@@ -1,5 +1,6 @@
 owner=DEC
 controller=DEC
+add_core=HAW
 trade_goods = fish
 life_rating = 35
 terrain = plains

@@ -1,0 +1,9 @@
+owner=MAW
+controller=DEC
+add_core=DEC
+add_core=HND
+add_core=MYS
+trade_goods = cotton
+life_rating = 32
+terrain = plains
+colonial=2

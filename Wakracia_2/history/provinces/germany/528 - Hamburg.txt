@@ -2,6 +2,7 @@ owner=SLV
 controller=SLV
 add_core=DEN
 add_core=SCA
+add_core=HAM
 trade_goods = fruit
 life_rating = 40
 terrain = farmlands

@@ -2,6 +2,7 @@ owner=SWA
 controller=SWA
 add_core=SWA
 add_core=ZBW
+add_core=HAR
 trade_goods = coffee
 life_rating = 15
 terrain = farmlands

@@ -1,7 +1,7 @@
 capital = 1157
 primary_culture = bedouin
-culture = zzz_religion_sunni
-religion = sunni
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

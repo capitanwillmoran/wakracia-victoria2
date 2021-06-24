@@ -1,12 +1,13 @@
 capital = 583
 primary_culture = north_german
-culture = zzz_religion_catholic
-religion = catholic
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = democracy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.058614
 
+civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

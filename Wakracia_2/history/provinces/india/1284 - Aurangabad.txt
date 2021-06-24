@@ -2,6 +2,7 @@ owner=MAW
 controller=MAW
 add_core=HND
 add_core=AMD
+add_core=HYD
 add_core=MAW
 add_core=MRT
 add_core=MAH

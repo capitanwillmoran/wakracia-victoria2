@@ -1,7 +1,7 @@
 capital = 1121
 primary_culture = persian
-culture = zzz_religion_gelugpa
-religion = gelugpa
+culture = zzz_religion_coptic
+religion = coptic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
