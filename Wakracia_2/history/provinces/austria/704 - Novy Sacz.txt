@@ -2,6 +2,7 @@ owner=CRI
 controller=SLV
 add_core=POL
 add_core=KRA
+add_core=GLM
 trade_goods = grain
 life_rating = 35
 terrain = hills

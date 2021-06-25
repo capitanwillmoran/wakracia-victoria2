@@ -2,6 +2,7 @@ owner=X06
 controller=X06
 add_core=ADU
 add_core=GRA
+add_core=FEZ
 add_core=X06
 add_core=LBY
 trade_goods = grain

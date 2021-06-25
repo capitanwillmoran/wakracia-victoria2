@@ -1,12 +1,14 @@
 capital = 707
 primary_culture = pruthenian
-culture = zzz_religion_animist
-religion = animist
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = proletarian_dictatorship
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.302865
 
+civilized = yes
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

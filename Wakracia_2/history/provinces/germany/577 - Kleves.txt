@@ -3,6 +3,7 @@ controller=X09
 add_core=GER
 add_core=RHI
 add_core=KLE
+add_core=GLR
 trade_goods = coal
 life_rating = 40
 terrain = farmlands

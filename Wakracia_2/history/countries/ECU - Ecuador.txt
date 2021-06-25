@@ -1,7 +1,8 @@
 capital = 2279
-primary_culture = north_andean
-culture = zzz_religion_catholic
-religion = catholic
+primary_culture = chibchan
+cultlure = quechua
+culture = zzz_religion_inti
+religion = inti
 government = democracy
 plurality = 0
 nationalvalue = nv_liberty

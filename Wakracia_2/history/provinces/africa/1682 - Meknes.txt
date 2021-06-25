@@ -1,6 +1,7 @@
 owner=MLI
 controller=MLI
 add_core=X06
+add_core=FEZ
 add_core=LBY
 trade_goods = grain
 life_rating = 35

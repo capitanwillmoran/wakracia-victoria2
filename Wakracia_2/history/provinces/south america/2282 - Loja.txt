@@ -1,6 +1,7 @@
 owner=CLM
 controller=CLM
 add_core=CHM
+add_core=ECU
 trade_goods = cattle
 life_rating = 30
 terrain = mountain

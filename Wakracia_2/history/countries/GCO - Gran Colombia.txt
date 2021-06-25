@@ -1,7 +1,7 @@
 capital = 2247
-primary_culture = north_andean
-culture = zzz_religion_catholic
-religion = catholic
+primary_culture = kepnian
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = democracy
 plurality = 0
 nationalvalue = nv_liberty

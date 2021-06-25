@@ -1,4 +1,4 @@
-capital = 1236
+capital = 1292
 primary_culture = janub
 culture = zzz_religion_tengri_pagan_reformed
 religion = tengri_pagan_reformed
