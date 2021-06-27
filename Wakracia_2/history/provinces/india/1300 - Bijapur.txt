@@ -2,6 +2,7 @@ owner=DEC
 controller=DEC
 add_core=DEC
 add_core=HND
+add_core=BIJ
 add_core=MYS
 trade_goods = fruit
 life_rating = 32

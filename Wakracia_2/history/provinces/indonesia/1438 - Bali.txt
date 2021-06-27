@@ -2,6 +2,7 @@ owner=MJP
 controller=MJP
 add_core=JAV
 add_core=MJP
+add_core=BAL
 trade_goods = fish
 life_rating = 30
 terrain = plains

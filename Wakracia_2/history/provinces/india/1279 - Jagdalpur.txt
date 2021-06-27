@@ -1,6 +1,7 @@
 owner=MAW
 controller=MAW
 add_core=HND
+add_core=BAS
 trade_goods = grain
 life_rating = 32
 terrain = hills

@@ -1,7 +1,7 @@
 capital = 1247
 primary_culture = bihari
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = zzz_religion_jain
+religion = jain
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

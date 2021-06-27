@@ -1,5 +1,6 @@
 owner=X16
 controller=X16
+add_core=BHU
 add_core=XIN
 trade_goods = wool
 life_rating = 25

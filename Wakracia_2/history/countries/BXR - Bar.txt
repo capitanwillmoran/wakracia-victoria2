@@ -1,7 +1,7 @@
 capital = 408
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+primary_culture = french
+culture = zzz_religion_norse_pagan_reformed
+religion = norse_pagan_reformed
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

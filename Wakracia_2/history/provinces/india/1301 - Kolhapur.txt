@@ -3,6 +3,7 @@ controller=DEC
 add_core=HND
 add_core=AMD
 add_core=DEC
+add_core=BIJ
 add_core=MRT
 add_core=MAH
 trade_goods = tea

@@ -1,7 +1,7 @@
 capital = 1272
 primary_culture = marathi
-culture = zzz_religion_hindu
-religion = hindu
+culture = zzz_religion_jain
+religion = jain
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

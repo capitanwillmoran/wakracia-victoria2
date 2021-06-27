@@ -1,7 +1,7 @@
 capital = 1254
 primary_culture = bengali
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = zzz_religion_jain
+religion = jain
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

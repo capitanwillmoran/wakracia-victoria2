@@ -1,4 +1,4 @@
-capital = 1558
+capital = 1329
 primary_culture = tibetan
 culture = zzz_religion_gelugpa
 religion = gelugpa

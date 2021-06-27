@@ -1,6 +1,7 @@
 owner=X16
 controller=BYZ
 add_core=HND
+add_core=BAS
 trade_goods = tobacco
 life_rating = 32
 terrain = plains

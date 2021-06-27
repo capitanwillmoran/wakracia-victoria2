@@ -1,7 +1,7 @@
 capital = 1198
 primary_culture = uzbek
-culture = zzz_religion_sunni
-religion = sunni
+culture = zzz_religion_gelugpa
+religion = gelugpa
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

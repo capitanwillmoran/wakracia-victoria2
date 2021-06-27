@@ -1,6 +1,6 @@
 capital = 1794
-primary_culture = songhai
-culture = hausa
+primary_culture = wolof
+culture = mande
 culture = zzz_religion_west_african_pagan_reformed
 religion = west_african_pagan_reformed
 government = democracy

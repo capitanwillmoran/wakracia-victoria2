@@ -1,4 +1,3 @@
-capital = 1277
 primary_culture = dummy
 culture = zzz_religion_shamanist
 religion = shamanist
@@ -7,6 +6,7 @@ plurality = 0
 nationalvalue = nv_order
 literacy = 0
 
+is_releasable_vassal = no
 
 # Social Reforms
 wage_reform = no_minimum_wage

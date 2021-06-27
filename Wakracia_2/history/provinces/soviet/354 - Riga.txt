@@ -1,6 +1,5 @@
 owner=SLV
 controller=SLV
-add_core=BYE
 add_core=UBD
 add_core=LAT
 add_core=RIG
