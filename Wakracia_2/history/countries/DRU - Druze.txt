@@ -1,5 +1,5 @@
 capital = 906
-primary_culture = dummy
+primary_culture = mashriqi
 culture = zzz_religion_druze
 religion = druze
 government = absolute_monarchy

@@ -2,6 +2,7 @@ owner=SIA
 controller=SIA
 add_core=IDO
 add_core=LXA
+add_core=CHK
 add_core=WIA
 add_core=LUA
 trade_goods = grain

@@ -1,5 +1,6 @@
 owner=BYZ
 controller=BYZ
+add_core=CLA
 trade_goods = timber
 life_rating = 15
 terrain = hills

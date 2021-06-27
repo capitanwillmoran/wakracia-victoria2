@@ -2,6 +2,7 @@ owner=ENG
 controller=ENG
 add_core=AES
 add_core=ENG
+add_core=KER
 add_core=DNL
 trade_goods = grain
 life_rating = 35

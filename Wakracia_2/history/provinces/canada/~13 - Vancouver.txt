@@ -1,0 +1,8 @@
+owner=CAL
+controller=CAL
+add_core=LSK
+trade_goods = fish
+life_rating = 35
+terrain = forest
+colonial=2
+naval_base = 2

@@ -1,6 +1,7 @@
 owner=MKA
 controller=MKA
 add_core=MKA
+add_core=DAR
 trade_goods = grain
 life_rating = 10
 terrain = desert

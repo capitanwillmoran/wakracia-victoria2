@@ -1,4 +1,3 @@
-capital = 97
 primary_culture = yankee
 culture = zzz_religion_protestant
 religion = protestant
@@ -8,6 +7,7 @@ nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
+is_releasable_vassal = no
 
 # Social Reforms
 wage_reform = no_minimum_wage

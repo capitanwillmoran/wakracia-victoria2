@@ -1,6 +1,7 @@
 owner=CAL
 controller=CAL
 add_core=LSK
+add_core=CAS
 trade_goods = fish
 life_rating = 35
 terrain = forest

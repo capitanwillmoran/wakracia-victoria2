@@ -1,7 +1,9 @@
 owner=X03
 controller=X03
 add_core=AUS
+add_core=CTI
 add_core=SLO
+add_core=CLI
 add_core=YUG
 trade_goods = coal
 life_rating = 35

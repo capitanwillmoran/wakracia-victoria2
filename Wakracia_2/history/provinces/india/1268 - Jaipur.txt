@@ -1,6 +1,7 @@
 owner=X16
 controller=X16
 add_core=AWA
+add_core=DLH
 add_core=HND
 add_core=JAI
 trade_goods = timber

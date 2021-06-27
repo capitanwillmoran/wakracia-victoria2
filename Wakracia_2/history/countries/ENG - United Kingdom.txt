@@ -1,6 +1,5 @@
 capital = 300
 primary_culture = elsinorian
-culture = british
 culture = anglo_saxon
 culture = zzz_religion_norse_pagan_reformed
 religion = norse_pagan_reformed

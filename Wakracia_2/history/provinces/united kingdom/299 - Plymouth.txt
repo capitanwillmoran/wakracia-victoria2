@@ -2,6 +2,7 @@ owner=ENG
 controller=ENG
 add_core=DNL
 add_core=ENG
+add_core=KER
 add_core=CEL
 trade_goods = fish
 life_rating = 35

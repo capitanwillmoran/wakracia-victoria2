@@ -1,6 +1,7 @@
 owner=MKA
 controller=MKA
 add_core=MKA
+add_core=DAR
 trade_goods = wool
 life_rating = 30
 terrain = plains

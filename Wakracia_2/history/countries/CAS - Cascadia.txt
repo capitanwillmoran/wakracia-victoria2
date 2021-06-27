@@ -1,7 +1,7 @@
 capital = 78
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+primary_culture = nayeduniya
+culture = zzz_religion_jain
+religion = jain
 government = democracy
 plurality = 0
 nationalvalue = nv_order

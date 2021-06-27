@@ -1,6 +1,7 @@
 owner=UIL
 controller=UIL
 add_core=OSA
+add_core=DAK
 add_core=SHS
 trade_goods = grain
 life_rating = 35

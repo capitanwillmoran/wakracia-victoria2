@@ -2,6 +2,7 @@ owner=BYZ
 controller=BYZ
 add_core=SYR
 add_core=BAB
+add_core=DRU
 trade_goods = grain
 life_rating = 35
 terrain = desert

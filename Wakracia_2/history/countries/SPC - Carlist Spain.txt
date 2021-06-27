@@ -1,4 +1,3 @@
-capital = 487
 primary_culture = spanish
 culture = zzz_religion_shamanist
 religion = shamanist

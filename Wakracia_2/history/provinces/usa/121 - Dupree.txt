@@ -1,5 +1,6 @@
 owner=UIL
 controller=UIL
+add_core=DAK
 add_core=WIC
 trade_goods = coal
 life_rating = 35

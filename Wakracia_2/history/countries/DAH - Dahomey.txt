@@ -1,8 +1,8 @@
 capital = 1914
 primary_culture = ewe
 culture = fon
-culture = zzz_religion_shamanism
-religion = shamanism
+culture = zzz_religion_west_african_pagan_reformed
+religion = west_african_pagan_reformed
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

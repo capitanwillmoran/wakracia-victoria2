@@ -2,6 +2,7 @@ owner=GLC
 controller=GLC
 add_core=BSQ
 add_core=SPA
+add_core=CAT
 add_core=GLC
 trade_goods = fruit
 life_rating = 35

@@ -1,13 +1,14 @@
 capital = 258
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+primary_culture = irish
+culture = zzz_religion_norse_pagan_reformed
+religion = norse_pagan_reformed
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage
