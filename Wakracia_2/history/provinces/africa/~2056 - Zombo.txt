@@ -1,6 +1,5 @@
 owner=SWA
 controller=SWA
-add_core=TBK
 trade_goods = coffee
 life_rating = 15
 terrain = hills

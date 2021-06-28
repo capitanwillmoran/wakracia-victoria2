@@ -1,7 +1,7 @@
 capital = 300
-primary_culture = english
-culture = zzz_religion_shamanist
-religion = shamanist
+primary_culture = elsinorian
+culture = zzz_religion_norse_pagan_reformed
+religion = norse_pagan_reformed
 government = hms_government
 plurality = 0
 nationalvalue = nv_order

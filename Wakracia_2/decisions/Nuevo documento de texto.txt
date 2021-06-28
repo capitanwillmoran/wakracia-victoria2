@@ -6161,3 +6161,16 @@ political_decisions = {
 		primary_culture = tatar
 	}
  }
+ terra_nullius473 = {
+	potential = {
+		TAG = GBR
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = elsinorian
+	}
+ }

@@ -1,7 +1,7 @@
 capital = 496
 primary_culture = catalan
-culture = zzz_religion_hellenic_pagan
-religion = hellenic_pagan
+culture = zzz_religion_west_african_pagan_reformed
+religion = west_african_pagan_reformed
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

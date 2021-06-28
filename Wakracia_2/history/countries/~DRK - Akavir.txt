@@ -1,4 +1,5 @@
-primary_culture = dummy
+capital = 1612
+primary_culture = dragon_culture
 culture = zzz_religion_shamanist
 religion = shamanist
 government = absolute_monarchy
@@ -6,7 +7,7 @@ plurality = 0
 nationalvalue = nv_order
 literacy = 0
 
-is_releasable_vassal = no
+civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -26,7 +27,7 @@ press_rights=censored_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = ZUL_conservative
+ruling_party = DRK_conservative
 upper_house = 
 {
 	fascist = 0
@@ -44,5 +45,5 @@ nonstate_consciousness= 0
 
 # Technologies
 prestige=0
-oob = "ANT_OOB.txt"
+oob = "DRK_OOB.txt"
 set_country_flag = religi

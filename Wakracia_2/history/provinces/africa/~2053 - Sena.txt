@@ -1,6 +1,5 @@
 owner=SWA
 controller=SWA
-add_core=TNZ
 trade_goods = grain
 life_rating = 35
 terrain = plains

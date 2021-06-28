@@ -5,3 +5,9 @@ add_core=TUA
 trade_goods = tropical_wood
 life_rating = 35
 terrain = jungle
+state_building=
+{
+	level=1
+	building = lumber_mill
+	upgrade = yes
+}

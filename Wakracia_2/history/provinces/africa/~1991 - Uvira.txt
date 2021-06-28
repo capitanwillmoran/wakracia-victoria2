@@ -4,3 +4,9 @@ trade_goods = fruit
 life_rating = 15
 terrain = jungle
 colonial=2
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

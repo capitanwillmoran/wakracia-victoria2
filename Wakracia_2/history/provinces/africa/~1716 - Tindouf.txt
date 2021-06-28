@@ -5,3 +5,9 @@ trade_goods = fruit
 life_rating = 10
 terrain = desert
 colonial=2
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}
