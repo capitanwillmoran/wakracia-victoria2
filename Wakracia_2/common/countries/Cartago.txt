@@ -1,4 +1,4 @@
-graphical_culture = UsGC
+graphical_culture = MoroccoGC
 color = { 50 173 192 }
 
 party = {

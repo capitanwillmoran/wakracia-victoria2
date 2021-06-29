@@ -1,4 +1,4 @@
-graphical_culture = UsGC
+graphical_culture = MiddleEasternGC
 color = { 125 32 29 }
 
 party = {

@@ -1,4 +1,4 @@
-graphical_culture = Generic
+graphical_culture = IndianGC
 color = { 144 60 75 }
 
 party = {
