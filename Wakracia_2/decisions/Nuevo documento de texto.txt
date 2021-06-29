@@ -6174,3 +6174,16 @@ political_decisions = {
 		primary_culture = elsinorian
 	}
  }
+ terra_nullius474 = {
+	potential = {
+		TAG = CAN
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = kanada
+	}
+ }

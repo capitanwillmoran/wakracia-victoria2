@@ -1,7 +1,5 @@
 capital = 37
-primary_culture = central_algonquian
-culture = plains_algonquian
-culture = kanada
+primary_culture = kanada
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = democracy
