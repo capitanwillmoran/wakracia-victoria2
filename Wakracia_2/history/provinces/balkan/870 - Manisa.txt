@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=RUM
+add_core=AN2
 add_core=BYZ
 trade_goods = grain
 life_rating = 35

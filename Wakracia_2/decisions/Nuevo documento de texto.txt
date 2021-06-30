@@ -248,7 +248,7 @@ political_decisions = {
  }
  terra_nullius18 = {
 	potential = {
-		TAG = ACA
+		TAG = VNL
 		primary_culture = dummy
 		ai_will_do = 1
 	}
@@ -6185,5 +6185,135 @@ political_decisions = {
 	}
 	effect = {
 		primary_culture = kanada
+	}
+ }
+ terra_nullius475 = {
+	potential = {
+		TAG = AN1
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = anatolian
+	}
+ }
+ terra_nullius476 = {
+	potential = {
+		TAG = AN2
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = anatolian
+	}
+ }
+ terra_nullius477 = {
+	potential = {
+		TAG = AN3
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = anatolian
+	}
+ }
+ terra_nullius478 = {
+	potential = {
+		TAG = AN4
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = anatolian
+	}
+ }
+ terra_nullius479 = {
+	potential = {
+		TAG = AN5
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = anatolian
+	}
+ }
+ terra_nullius480 = {
+	potential = {
+		TAG = AN6
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = anatolian
+	}
+ }
+ terra_nullius481 = {
+	potential = {
+		TAG = AN7
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = anatolian
+	}
+ }
+ terra_nullius482 = {
+	potential = {
+		TAG = AN8
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = anatolian
+	}
+ }
+ terra_nullius483 = {
+	potential = {
+		TAG = AN9
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = anatolian
+	}
+ }
+ terra_nullius484 = {
+	potential = {
+		TAG = AN0
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = anatolian
 	}
  }

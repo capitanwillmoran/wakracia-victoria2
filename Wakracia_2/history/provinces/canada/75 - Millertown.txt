@@ -1,6 +1,6 @@
 owner=HUR
 controller=HUR
-add_core=ACA
+add_core=VNL
 add_core=NEW
 add_core=HUR
 trade_goods = iron

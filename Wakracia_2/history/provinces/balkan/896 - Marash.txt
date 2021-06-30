@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=RUM
+add_core=AN0
 trade_goods = wool
 life_rating = 35
 terrain = hills

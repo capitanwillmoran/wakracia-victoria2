@@ -1,7 +1,7 @@
 owner=HUR
 controller=HUR
 add_core=HUR
-add_core=ACA
+add_core=VNL
 trade_goods = fish
 life_rating = 35
 terrain = forest

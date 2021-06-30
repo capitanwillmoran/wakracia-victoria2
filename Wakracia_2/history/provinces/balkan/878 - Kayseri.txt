@@ -2,6 +2,7 @@ owner=BYZ
 controller=BYZ
 add_core=ARM
 add_core=RUM
+add_core=AN0
 add_core=BYZ
 trade_goods = wool
 life_rating = 35

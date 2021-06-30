@@ -3,6 +3,7 @@ controller=BYZ
 add_core=RDL
 add_core=SRN
 add_core=RUM
+add_core=AN0
 trade_goods = fruit
 life_rating = 35
 terrain = plains
