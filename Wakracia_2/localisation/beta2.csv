@@ -235,7 +235,7 @@ HND_liberal;Independence Party;Partie de l'indépendance;Unabhängigkeitspartei;;P
 HND_reactionary;National Front;Front national;Nationale Front;;Frente Nacional;;;;;;;;;x;;
 HND_anarcho_liberal;Freedom Party;Parti de la liberté;Freiheitspartei;;Partido por la Libertad;;;;;;;;;x;;
 HND_socialist;Indian National Congress;Congrès national indien;Indischer Nationalkongress;;Congreso Nacional Indio;;;;;;;;;x;;
-HND_communist;Communist Party;Parti communiste ;Kommunistische Partei;;Partido Comunista;;;;;;;;;x;;
+HND_communist;Dirigist Party;Parti communiste ;Kommunistische Partei;;Partido Dirigista;;;;;;;;;x;;
 HND_fascist;Unity Party;Parti unitaire;Einheitspartei;;Partido de la Unidad;;;;;;;;;x;;
 HND;India;Inde;Indien;;India;;;;;;;;;x;;
 WEDID_ISDISCREDITED_DESC;Discredited until §Y$UNTIL$§W. We are behind this.;Discrédit jusqu'au §Y$UNTIL$§W. Nous sommes derrière tout cela.;In Verruf gebracht bis zum §Y$UNTIL$§W. Wir stecken dahinter.;;Desacreditado hasta §Y$UNTIL$§W. Estamos detrás de esto.;;;;;;;;;x;;

@@ -1,7 +1,6 @@
 owner=CAL
 controller=CAL
 add_core=LSK
-add_core=CAS
 trade_goods = timber
 life_rating = 35
 terrain = mountain

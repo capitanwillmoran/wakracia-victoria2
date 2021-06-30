@@ -155,7 +155,7 @@ JAN_liberal;Venstre;Venstre;Venstre;;Venstre;;;;;;;;;x
 JAN_conservative;Høyre;Høyre;Høyre;;Høyre;;;;;;;;;x
 JAN_socialist;Arbeiderparti;Arbeiderparti;Arbeiderparti;;Arbeiderparti;;;;;;;;;x
 JAN_anarcho_liberal;Radicals;Radicaux;Radikale;;Radicales;;;;;;;;;x
-JAN_communist;Communists;Communistes;Kommunisten;;Comunistas;;;;;;;;;x
+JAN_communist;Dirigists;Communistes;Kommunisten;;Dirigistas;;;;;;;;;x
 JAN_fascist;Nasjonal Samling;Nasjonal Samling;Nasjonal Samling;;Nasjonal Samling;;;;;;;;;x
 COUNTRYALERT_NO_Colonial;Nothing in our colonies needs attention.;;Nichts in unseren Kolonien bedarf unserer Aufmerksamkeit.;;Nada en nuestras colonial requiere de nuestra atención.;;;;;;;;;x
 COUNTRYALERT_NO_Crisis;No current crisis.;;Kein aktueller Konflikt.;;No hay crisis actualmente.;;;;;;;;;x
@@ -254,9 +254,9 @@ D39_ADJ;Serene;;ruhig;;Republicana;;;;;;;;;x
 D40;The Secret Kingdom of $REGION$;;Das Geheime Königreich von $REGION$;;El Reino Oculto de $REGION$;;;;;;;;;x
 D40_ADJ;Secret;;geheim;;Real;;;;;;;;;x
 D41;The Commune of $REGION$;;Die Kommune von $REGION$;;La Comunidad de $REGION$;;;;;;;;;x
-D41_ADJ;Communist;;kommunistisch;;Comunista;;;;;;;;;x
+D41_ADJ;Dirigist;;kommunistisch;;Dirigista;;;;;;;;;x
 D42;The $REGION$ Commune;;Die $REGION$-Kommune;;La Comunidad de $REGION$;;;;;;;;;x
-D42_ADJ;Communist;;kommunistisch;;Comunista;;;;;;;;;x
+D42_ADJ;Dirigist;;kommunistisch;;Dirigista;;;;;;;;;x
 D43;The Worker's Union of $REGION$;;Die Arbeiter-Union von $REGION$;;La Unión Laboral de $REGION$;;;;;;;;;x
 D43_ADJ;Worker;;Arbeiter-;;Laboral;;;;;;;;;x
 D44;The Landgrave of $REGION$;;Die Landgrafschaft von $REGION$;;El Landgraviato de $REGION$;;;;;;;;;x
@@ -277,8 +277,8 @@ dominion_conservative;The Conservative Party;;Die Konservative Partei;;El Partid
 dominion_reactionary;The Old Guard;;Die Alte Garde;;La Vieja Guardia;;;;;;;;;x
 dominion_liberal;The Liberal Party;;Die Liberale Partei;;El Partido Liberal;;;;;;;;;x
 dominion_anarcho_liberal;The Freedom Party;;Die Freiheitspartei;;El Partido Libertario;;;;;;;;;x
-dominion_socialist;The Socialist Party;;Die Sozialistische Partei;;El Partido Socialista;;;;;;;;;x
-dominion_communist;The Communist Party;;Die Kommunistische Partei;;El Partido Comunista;;;;;;;;;x
+dominion_socialist;The Laborist Party;;Die Sozialistische Partei;;El Partido Lagorista;;;;;;;;;x
+dominion_communist;The Dirigist Party;;Die Kommunistische Partei;;El Partido Dirigista;;;;;;;;;x
 dominion_fascist;The Imperial Party;;Die Imperiale Partei;;El Partido Imperial;;;;;;;;;x
 PW_UPGRADE_TO_COLONY;Click to convert to upgrade to colony. You need §Y$VALUE$§! colonial power points free to do this.;;Klickt, um eine Kolonie zu konvertieren und aufzuwerten. Ihr benötigt §Y$VALUE$§! verfügbare Kolonialmacht, um dies tun zu können.;;Haz click para promover a colonia. Necesitas §Y$VALUE$§! de puntos de poder colonial libres para hacerlo.;;;;;;;;;x
 PW_CANT_UPGRADE_TO_COLONY;Upgrading to colony cost §R$VALUE$§! colonial power points.;;Die Aufwertung zur Kolonie kostet §R$VALUE$§! Punkte Kolonialmacht.;;Promover a colonia cuesta §R$VALUE$§! puntos de poder colonial.;;;;;;;;;x
