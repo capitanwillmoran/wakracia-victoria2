@@ -1,105 +1,105 @@
 1745 = {
 	slaves=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 9432
 	}
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 5264
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 30731
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 3384
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 409
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 181
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2860
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 209874
 	}
 
 	slaves=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = coptic
 		size= 110
 	}
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = coptic
 		size= 61
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = coptic
 		size= 5323
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = coptic
 		size= 587
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = coptic
 		size= 71
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = coptic
 		size= 31
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = coptic
 		size= 495
 	}
@@ -108,49 +108,49 @@
 1746 = {
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 4890
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 11868
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 1271
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 152
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 170
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 949
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 46779
 	}
@@ -257,49 +257,49 @@
 1747 = {
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 1659
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 7463
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 1244
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 116
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 66
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 697
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 71681
 	}
@@ -406,49 +406,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 756
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 5392
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 591
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 71
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 63
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 332
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 6152
 	}
@@ -457,91 +457,91 @@
 1749 = {
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 1428
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 8622
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 924
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 110
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 49
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 776
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 59511
 	}
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = coptic
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = coptic
 		size= 1493
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = coptic
 		size= 160
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = coptic
 		size= 19
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = coptic
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = coptic
 		size= 134
 	}
@@ -550,49 +550,49 @@
 1750 = {
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 1670
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 7513
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 1252
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 117
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 67
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 701
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 72159
 	}
@@ -601,56 +601,56 @@
 1751 = {
 	slaves=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 6361
 	}
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 9560
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 22911
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2551
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 444
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 273
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 1912
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 125707
 	}
@@ -1022,49 +1022,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 1140
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 1502
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 251
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 24
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 33
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 141
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 12312
 	}
@@ -1164,49 +1164,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 16
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 340
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 18
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 380
 	}
@@ -1215,49 +1215,49 @@
 1757 = {
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 62
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 436
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 47
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 6
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 26
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2535
 	}
@@ -1387,49 +1387,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 46
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 162
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 14
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 31
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 363
 	}
@@ -1592,49 +1592,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 20
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 254
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 21
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 47
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 656
 	}
@@ -1741,49 +1741,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 30
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 339
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 18
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 363
 	}
@@ -1792,49 +1792,49 @@
 1762 = {
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 4517
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 1964
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 737
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 49
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 118
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 412
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 41303
 	}
@@ -1843,49 +1843,49 @@
 1763 = {
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 376
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2634
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 282
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 19
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 158
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 15331
 	}
@@ -1943,49 +1943,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 307
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2208
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 237
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 16
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 25
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 265
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2433
 	}
@@ -2092,49 +2092,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 570
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 4094
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 439
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 29
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 47
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 491
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 4510
 	}
@@ -2241,49 +2241,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 89
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 1018
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 55
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 10
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 61
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 1088
 	}
@@ -2292,49 +2292,49 @@
 1767 = {
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 956
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2390
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 256
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 17
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 27
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 143
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 13281
 	}
@@ -2392,49 +2392,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 219
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 1005
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 84
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 11
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 94
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2483
 	}
@@ -2492,49 +2492,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 305
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 57
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 11
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 64
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2091
 	}
@@ -2592,49 +2592,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 35
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 159
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 391
 	}
@@ -2692,49 +2692,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 58
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 265
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 22
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 652
 	}
@@ -2792,49 +2792,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 35
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 159
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 391
 	}
@@ -2892,49 +2892,49 @@
 
 	soldiers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 283
 	}
 
 	artisans=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2034
 	}
 
 	clergymen=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 218
 	}
 
 	bureaucrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	officers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 244
 	}
 
 	farmers=
 	{
-		culture = afrogreek
+		culture = greekegyptian
 		religion = hellenic_pagan
 		size= 2242
 	}
