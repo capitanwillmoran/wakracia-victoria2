@@ -5,6 +5,7 @@ political_decisions = {
 	form_arabia = {
 
 		potential = {
+			year = 2000
 			ARA = { exists = no }
 			NOT = { tag = ALL }
 			is_culture_group = arab

@@ -602,140 +602,140 @@
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 542
 	}
 
 	craftsmen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 2355
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 387
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 63
 	}
 
 	clerks=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 71
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 14
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 15
 	}
 
 	capitalists=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 325
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 15551
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 210
 	}
 
 	craftsmen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 913
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 687
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 112
 	}
 
 	clerks=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 126
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 24
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 27
 	}
 
 	capitalists=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 35
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 577
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 4793
 	}
@@ -1189,98 +1189,98 @@
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 185
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 30
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 5
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 78
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 4814
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 475
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 77
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 199
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 5435
 	}
@@ -1487,147 +1487,147 @@
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 118
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 118
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 19
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 3
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 99
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 11458
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 89
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 297
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 48
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 7
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 249
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 8241
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 60
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 655
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 106
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 16
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 550
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 4597
 	}
@@ -1636,147 +1636,147 @@
 483 = {
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 214
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 165
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 27
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 4
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 139
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 20815
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 171
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 605
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 98
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 15
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 508
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 15773
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 119
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 1249
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 203
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 31
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 25
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 1049
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 9265
 	}
@@ -1885,98 +1885,98 @@
 485 = {
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 336
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 672
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 109
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 17
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 282
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 32193
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 96
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 1056
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 172
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 26
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 443
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 7764
 	}
@@ -1985,98 +1985,98 @@
 486 = {
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 301
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 602
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 98
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 15
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 253
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 28839
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 86
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 946
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 154
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 24
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 397
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 6954
 	}
@@ -2085,147 +2085,147 @@
 487 = {
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 1110
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 694
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 50
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 7
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 130
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 37716
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 786
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 2351
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 170
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 26
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 41
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 439
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 24240
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 757
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 5478
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 396
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 61
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 97
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 1023
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 19215
 	}
@@ -2234,147 +2234,147 @@
 488 = {
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = lollard
 		size= 102
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = lollard
 		size= 102
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = lollard
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = lollard
 		size= 3
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = lollard
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = lollard
 		size= 43
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = lollard
 		size= 9954
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 38
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 179
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 29
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 4
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 75
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 3489
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 112
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 727
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 118
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 18
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 305
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 9864
 	}
@@ -2530,147 +2530,147 @@
 489 = {
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 871
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 553
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 40
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 6
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 103
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = waldensian
 		size= 29792
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 777
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 2095
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 151
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 23
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 391
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 24276
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 497
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 4246
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 307
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 47
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 75
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 793
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 11786
 	}
@@ -2679,98 +2679,98 @@
 490 = {
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 590
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 590
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 96
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 15
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 248
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 57429
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 146
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 881
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 143
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 22
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 370
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 12976
 	}
@@ -3871,147 +3871,147 @@
 498 = {
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = catholic
 		size= 1399
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = catholic
 		size= 250
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = catholic
 		size= 41
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = catholic
 		size= 6
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = catholic
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = catholic
 		size= 105
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = catholic
 		size= 48160
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 336
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 370
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 60
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 9
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 155
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 11059
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 420
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 919
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 149
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 23
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 37
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 386
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 13052
 	}
@@ -4714,98 +4714,98 @@
 503 = {
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 2164
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 1739
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 126
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 19
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 31
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 325
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 72894
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 513
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 2563
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 185
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 28
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 45
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 479
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 14507
 	}
@@ -4912,98 +4912,98 @@
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 391
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 257
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 42
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 6
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 108
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 13163
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 214
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 527
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 86
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 221
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 6556
 	}
@@ -5061,98 +5061,98 @@
 505 = {
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 2072
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 1480
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 241
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 37
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 59
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 622
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 69506
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 574
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 2300
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 374
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 58
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 92
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 966
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 16131
 	}
@@ -5259,98 +5259,98 @@
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 516
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 611
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 99
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 15
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 24
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 257
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 16910
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 316
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 1305
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 212
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 33
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 52
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 548
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 8830
 	}
@@ -5359,98 +5359,98 @@
 507 = {
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 165
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 329
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 53
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 8
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 138
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 15755
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 530
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 86
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 13
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 223
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 4117
 	}
@@ -5459,98 +5459,98 @@
 508 = {
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 357
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 714
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 116
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 18
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 300
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 34169
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 109
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 1150
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 187
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 29
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 483
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 8929
 	}
@@ -6299,147 +6299,147 @@
 515 = {
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = norse_pagan_reformed
 		size= 849
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = norse_pagan_reformed
 		size= 1061
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = norse_pagan_reformed
 		size= 49
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = norse_pagan_reformed
 		size= 8
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = norse_pagan_reformed
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = norse_pagan_reformed
 		size= 127
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = norse_pagan_reformed
 		size= 28215
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 707
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 2829
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 131
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 20
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 32
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 340
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 21200
 	}
 
 	soldiers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 188
 	}
 
 	artisans=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 4832
 	}
 
 	clergymen=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 224
 	}
 
 	bureaucrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 35
 	}
 
 	officers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 55
 	}
 
 	aristocrats=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 580
 	}
 
 	farmers=
 	{
-		culture = visigothic
+		culture = galician
 		religion = hellenic_pagan
 		size= 808
 	}

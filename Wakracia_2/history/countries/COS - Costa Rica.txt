@@ -1,13 +1,14 @@
-primary_culture = central_american
-culture = zzz_religion_catholic
-religion = catholic
+capital = 2183
+primary_culture = rogirian
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = democracy
 plurality = 0
 nationalvalue = nv_liberty
 literacy = 0
 
 civilized = yes
-is_releasable_vassal = no
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

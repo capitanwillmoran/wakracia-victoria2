@@ -1,0 +1,1770 @@
+country_event = {
+
+	id = 94100 
+	news = yes
+	news_desc_long = "EVTDESC94100_NEWS_LONG"
+	news_desc_medium = "EVTDESC94100_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94100_NEWS_SHORT"
+
+	trigger = {
+		owns = 2215
+		year = 1851
+		NOT = {
+			year = 1855
+			has_country_flag = Alexis98PC
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1852
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1853
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1854
+		}
+	}
+
+	title = "EVTNAME94100"
+	desc = "EVTDESC94100"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94100" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Alexis98PC
+	}
+}
+country_event = {
+
+	id = 94101 
+	news = yes
+	news_desc_long = "EVTDESC94101_NEWS_LONG"
+	news_desc_medium = "EVTDESC94101_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94101_NEWS_SHORT"
+
+	trigger = {
+		owns = 155
+		year = 1846
+		NOT = {
+			year = 1850
+			has_country_flag = Chimboc
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1847
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1848
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1849
+		}
+	}
+
+	title = "EVTNAME94101"
+	desc = "EVTDESC94101"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94101" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Chimboc
+	}
+}
+
+country_event = {
+
+	id = 94102 
+	news = yes
+	news_desc_long = "EVTDESC94102_NEWS_LONG"
+	news_desc_medium = "EVTDESC94102_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94102_NEWS_SHORT"
+
+	trigger = {
+		owns = 1038
+		year = 1866
+		NOT = {
+			year = 1870
+			has_country_flag = Chiscolo
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1867
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1868
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1869
+		}
+	}
+
+	title = "EVTNAME94102"
+	desc = "EVTDESC94102"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94102" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Chiscolo
+	}
+}
+country_event = {
+
+	id = 94103 
+	news = yes
+	news_desc_long = "EVTDESC94103_NEWS_LONG"
+	news_desc_medium = "EVTDESC94103_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94103_NEWS_SHORT"
+
+	trigger = {
+		owns = 2029
+		year = 1900
+		NOT = {
+			year = 1904
+			has_country_flag = Clarinetero
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1901
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1902
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1903
+		}
+	}
+
+	title = "EVTNAME94103"
+	desc = "EVTDESC94103"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94103" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Clarinetero
+	}
+}
+country_event = {
+
+	id = 94104 
+	news = yes
+	news_desc_long = "EVTDESC94104_NEWS_LONG"
+	news_desc_medium = "EVTDESC94104_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94104_NEWS_SHORT"
+
+	trigger = {
+		owns = 455
+		year = 1840
+		NOT = {
+			year = 1844
+			has_country_flag = Fran337
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1841
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1842
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1843
+		}
+	}
+
+	title = "EVTNAME94104"
+	desc = "EVTDESC94104"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94104" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Fran337
+	}
+}
+
+country_event = {
+
+	id = 94105 
+	news = yes
+	news_desc_long = "EVTDESC94105_NEWS_LONG"
+	news_desc_medium = "EVTDESC94105_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94105_NEWS_SHORT"
+
+	trigger = {
+		owns = 1140
+		year = 1880
+		NOT = {
+			year = 1884
+			has_country_flag = Artyong
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1881
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1882
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1883
+		}
+	}
+
+	title = "EVTNAME94105"
+	desc = "EVTDESC94105"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94105" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Artyong
+	}
+}
+country_event = {
+
+	id = 94106 
+	news = yes
+	news_desc_long = "EVTDESC94106_NEWS_LONG"
+	news_desc_medium = "EVTDESC94106_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94106_NEWS_SHORT"
+
+	trigger = {
+		owns = 332
+		year = 1890
+		NOT = {
+			year = 1894
+			has_country_flag = VictorXoda
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1891
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1892
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1893
+		}
+	}
+
+	title = "EVTNAME94106"
+	desc = "EVTDESC94106"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94106" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = VictorXoda
+	}
+}
+country_event = {
+
+	id = 94107 
+	news = yes
+	news_desc_long = "EVTDESC94107_NEWS_LONG"
+	news_desc_medium = "EVTDESC94107_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94107_NEWS_SHORT"
+
+	trigger = {
+		owns = 1165
+		year = 1895
+		NOT = {
+			year = 1899
+			has_country_flag = Guarampis
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1896
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1897
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1898
+		}
+	}
+
+	title = "EVTNAME94107"
+	desc = "EVTDESC94107"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94107" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Guarampis
+	}
+}
+country_event = {
+
+	id = 94108 
+	news = yes
+	news_desc_long = "EVTDESC94108_NEWS_LONG"
+	news_desc_medium = "EVTDESC94108_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94108_NEWS_SHORT"
+
+	trigger = {
+		owns = 125
+		year = 1845
+		NOT = {
+			year = 1849
+			has_country_flag = JhonDrake
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1846
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1847
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1848
+		}
+	}
+
+	title = "EVTNAME94108"
+	desc = "EVTDESC94108"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94108" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = JhonDrake
+	}
+}
+country_event = {
+
+	id = 94109 
+	news = yes
+	news_desc_long = "EVTDESC94109_NEWS_LONG"
+	news_desc_medium = "EVTDESC94109_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94109_NEWS_SHORT"
+
+	trigger = {
+		owns = 429
+		year = 1847
+		NOT = {
+			year = 1851
+			has_country_flag = Lolth
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1848
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1849
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1850
+		}
+	}
+
+	title = "EVTNAME94109"
+	desc = "EVTDESC94109"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94109" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Lolth
+	}
+}
+country_event = {
+
+	id = 94110 
+	news = yes
+	news_desc_long = "EVTDESC94110_NEWS_LONG"
+	news_desc_medium = "EVTDESC94110_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94110_NEWS_SHORT"
+
+	trigger = {
+		owns = 427
+		year = 1857
+		NOT = {
+			year = 1861
+			has_country_flag = LordBaelish
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1858
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1859
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1860
+		}
+	}
+
+	title = "EVTNAME94110"
+	desc = "EVTDESC94110"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94110" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = LordBaelish
+	}
+}
+country_event = {
+
+	id = 94111 
+	news = yes
+	news_desc_long = "EVTDESC94111_NEWS_LONG"
+	news_desc_medium = "EVTDESC94111_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94111_NEWS_SHORT"
+
+	trigger = {
+		owns = 2464
+		year = 1867
+		NOT = {
+			year = 1871
+			has_country_flag = Miguel30998
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1868
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1869
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1870
+		}
+	}
+
+	title = "EVTNAME94111"
+	desc = "EVTDESC94111"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94111" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Miguel30998
+	}
+}
+country_event = {
+
+	id = 94112 
+	news = yes
+	news_desc_long = "EVTDESC94112_NEWS_LONG"
+	news_desc_medium = "EVTDESC94112_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94112_NEWS_SHORT"
+
+	trigger = {
+		owns = 2367
+		year = 1877
+		NOT = {
+			year = 1881
+			has_country_flag = Nisgrak
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1878
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1879
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1880
+		}
+	}
+
+	title = "EVTNAME94112"
+	desc = "EVTDESC94112"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94112" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Nisgrak
+	}
+}
+country_event = {
+
+	id = 94113 
+	news = yes
+	news_desc_long = "EVTDESC94113_NEWS_LONG"
+	news_desc_medium = "EVTDESC94113_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94113_NEWS_SHORT"
+
+	trigger = {
+		owns = 1307
+		year = 1887
+		NOT = {
+			year = 1891
+			has_country_flag = Rayko
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1888
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1889
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1890
+		}
+	}
+
+	title = "EVTNAME94113"
+	desc = "EVTDESC94113"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94113" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Rayko
+	}
+}
+country_event = {
+
+	id = 94114 
+	news = yes
+	news_desc_long = "EVTDESC94114_NEWS_LONG"
+	news_desc_medium = "EVTDESC94114_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94114_NEWS_SHORT"
+
+	trigger = {
+		owns = 781
+		year = 1897
+		NOT = {
+			year = 1901
+			has_country_flag = Samael205
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1898
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1899
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1900
+		}
+	}
+
+	title = "EVTNAME94114"
+	desc = "EVTDESC94114"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94114" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Samael205
+	}
+}
+country_event = {
+
+	id = 94115 
+	news = yes
+	news_desc_long = "EVTDESC94115_NEWS_LONG"
+	news_desc_medium = "EVTDESC94115_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94115_NEWS_SHORT"
+
+	trigger = {
+		owns = 2219
+		year = 1907
+		NOT = {
+			year = 1911
+			has_country_flag = SteelPipe
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1908
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1909
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1910
+		}
+	}
+
+	title = "EVTNAME94115"
+	desc = "EVTDESC94115"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94115" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = SteelPipe
+	}
+}
+country_event = {
+
+	id = 94116 
+	news = yes
+	news_desc_long = "EVTDESC94116_NEWS_LONG"
+	news_desc_medium = "EVTDESC94116_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94116_NEWS_SHORT"
+
+	trigger = {
+		owns = 627
+		year = 1907
+		NOT = {
+			year = 1921
+			has_country_flag = Uwurno
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1918
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1919
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1920
+		}
+	}
+
+	title = "EVTNAME94116"
+	desc = "EVTDESC94116"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94116" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Uwurno
+	}
+}
+country_event = {
+
+	id = 94117 
+	news = yes
+	news_desc_long = "EVTDESC94117_NEWS_LONG"
+	news_desc_medium = "EVTDESC94117_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94117_NEWS_SHORT"
+
+	trigger = {
+		owns = 666
+		year = 1927
+		NOT = {
+			year = 1931
+			has_country_flag = DiosPecado
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1928
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1929
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1930
+		}
+	}
+
+	title = "EVTNAME94117"
+	desc = "EVTDESC94117"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94117" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = DiosPecado
+	}
+}
+country_event = {
+
+	id = 94118 
+	news = yes
+	news_desc_long = "EVTDESC94118_NEWS_LONG"
+	news_desc_medium = "EVTDESC94118_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94118_NEWS_SHORT"
+
+	trigger = {
+		owns = 1649
+		year = 1930
+		NOT = {
+			year = 1934
+			has_country_flag = Palacios
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1931
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1932
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1933
+		}
+	}
+
+	title = "EVTNAME94118"
+	desc = "EVTDESC94118"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94118" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Palacios
+	}
+}
+country_event = {
+
+	id = 94119 
+	news = yes
+	news_desc_long = "EVTDESC94119_NEWS_LONG"
+	news_desc_medium = "EVTDESC94119_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94119_NEWS_SHORT"
+
+	trigger = {
+		owns = 1443
+		year = 1843
+		NOT = {
+			year = 1847
+			has_country_flag = Gatsgadspach
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1844
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1845
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1846
+		}
+	}
+
+	title = "EVTNAME94119"
+	desc = "EVTDESC94119"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94119" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Gatsgadspach
+	}
+}
+country_event = {
+
+	id = 94120 
+	news = yes
+	news_desc_long = "EVTDESC94120_NEWS_LONG"
+	news_desc_medium = "EVTDESC94120_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94120_NEWS_SHORT"
+
+	trigger = {
+		owns = 1453
+		year = 1853
+		NOT = {
+			year = 1857
+			has_country_flag = Servus
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1854
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1855
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1846
+		}
+	}
+
+	title = "EVTNAME94120"
+	desc = "EVTDESC94120"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94120" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Servus
+	}
+}
+country_event = {
+
+	id = 94121 
+	news = yes
+	news_desc_long = "EVTDESC94121_NEWS_LONG"
+	news_desc_medium = "EVTDESC94121_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94121_NEWS_SHORT"
+
+	trigger = {
+		owns = 1243
+		year = 1863
+		NOT = {
+			year = 1867
+			has_country_flag = Tirapaca
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1864
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1865
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1866
+		}
+	}
+
+	title = "EVTNAME94121"
+	desc = "EVTDESC94121"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94121" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Tirapaca
+	}
+}
+country_event = {
+
+	id = 94122 
+	news = yes
+	news_desc_long = "EVTDESC94122_NEWS_LONG"
+	news_desc_medium = "EVTDESC94122_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94122_NEWS_SHORT"
+
+	trigger = {
+		owns = 12
+		year = 1873
+		NOT = {
+			year = 1877
+			has_country_flag = Dorado
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1874
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1875
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1876
+		}
+	}
+
+	title = "EVTNAME94122"
+	desc = "EVTDESC94122"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94122" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Dorado
+	}
+}
+country_event = {
+
+	id = 94123 
+	news = yes
+	news_desc_long = "EVTDESC94123_NEWS_LONG"
+	news_desc_medium = "EVTDESC94123_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94123_NEWS_SHORT"
+
+	trigger = {
+		owns = 999
+		year = 1883
+		NOT = {
+			year = 1887
+			has_country_flag = Sombras
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1884
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1885
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1886
+		}
+	}
+
+	title = "EVTNAME94123"
+	desc = "EVTDESC94123"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94123" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Sombras
+	}
+}
+country_event = {
+
+	id = 94124 
+	news = yes
+	news_desc_long = "EVTDESC94124_NEWS_LONG"
+	news_desc_medium = "EVTDESC94124_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94124_NEWS_SHORT"
+
+	trigger = {
+		owns = 375
+		year = 1893
+		NOT = {
+			year = 1897
+			has_country_flag = Bolger
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1894
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1895
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1896
+		}
+	}
+
+	title = "EVTNAME94124"
+	desc = "EVTDESC94124"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94124" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Bolger
+	}
+}
+country_event = {
+
+	id = 94125 
+	news = yes
+	news_desc_long = "EVTDESC94125_NEWS_LONG"
+	news_desc_medium = "EVTDESC94125_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94125_NEWS_SHORT"
+
+	trigger = {
+		owns = 754
+		year = 1903
+		NOT = {
+			year = 1907
+			has_country_flag = Weberusdeus
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1904
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1905
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1906
+		}
+	}
+
+	title = "EVTNAME94125"
+	desc = "EVTDESC94125"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94125" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Weberusdeus
+	}
+}
+country_event = {
+
+	id = 94126 
+	news = yes
+	news_desc_long = "EVTDESC94126_NEWS_LONG"
+	news_desc_medium = "EVTDESC94126_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94126_NEWS_SHORT"
+
+	trigger = {
+		owns = 860
+		year = 1913
+		NOT = {
+			year = 1917
+			has_country_flag = NicojFoit
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1914
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1915
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1916
+		}
+	}
+
+	title = "EVTNAME94126"
+	desc = "EVTDESC94126"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94126" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = NicojFoit
+	}
+}
+country_event = {
+
+	id = 94127 
+	news = yes
+	news_desc_long = "EVTDESC94127_NEWS_LONG"
+	news_desc_medium = "EVTDESC94127_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94127_NEWS_SHORT"
+
+	trigger = {
+		owns = 1786
+		year = 1923
+		NOT = {
+			year = 1927
+			has_country_flag = Damocles
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1924
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1925
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1926
+		}
+	}
+
+	title = "EVTNAME94127"
+	desc = "EVTDESC94127"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94127" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Damocles
+	}
+}
+country_event = {
+
+	id = 94128 
+	news = yes
+	news_desc_long = "EVTDESC94128_NEWS_LONG"
+	news_desc_medium = "EVTDESC94128_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94128_NEWS_SHORT"
+
+	trigger = {
+		owns = 1527
+		year = 1923
+		NOT = {
+			year = 1927
+			has_country_flag = Jotace
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1924
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1925
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1926
+		}
+	}
+
+	title = "EVTNAME94128"
+	desc = "EVTDESC94128"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94128" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Jotace
+	}
+}
+country_event = {
+
+	id = 94129 
+	news = yes
+	news_desc_long = "EVTDESC94129_NEWS_LONG"
+	news_desc_medium = "EVTDESC94129_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94129_NEWS_SHORT"
+
+	trigger = {
+		owns = 2483
+		year = 1837
+		NOT = {
+			year = 1841
+			has_country_flag = Kenobi
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1838
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1839
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1840
+		}
+	}
+
+	title = "EVTNAME94129"
+	desc = "EVTDESC94129"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94129" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Kenobi
+	}
+}
+country_event = {
+
+	id = 94130 
+	news = yes
+	news_desc_long = "EVTDESC94130_NEWS_LONG"
+	news_desc_medium = "EVTDESC94130_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94130_NEWS_SHORT"
+
+	trigger = {
+		owns = 1583
+		year = 1847
+		NOT = {
+			year = 1851
+			has_country_flag = Patata
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1848
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1849
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1850
+		}
+	}
+
+	title = "EVTNAME94130"
+	desc = "EVTDESC94130"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94130" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Patata
+	}
+}
+country_event = {
+
+	id = 94131 
+	news = yes
+	news_desc_long = "EVTDESC94131_NEWS_LONG"
+	news_desc_medium = "EVTDESC94131_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94131_NEWS_SHORT"
+
+	trigger = {
+		owns = 149
+		year = 1857
+		NOT = {
+			year = 1861
+			has_country_flag = Kep
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1858
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1859
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1860
+		}
+	}
+
+	title = "EVTNAME94131"
+	desc = "EVTDESC94131"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94131" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Kep
+	}
+}
+country_event = {
+
+	id = 94132 
+	news = yes
+	news_desc_long = "EVTDESC94132_NEWS_LONG"
+	news_desc_medium = "EVTDESC94132_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94132_NEWS_SHORT"
+
+	trigger = {
+		owns = 1246
+		year = 1867
+		NOT = {
+			year = 1871
+			has_country_flag = Norly
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1868
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1869
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1870
+		}
+	}
+
+	title = "EVTNAME94132"
+	desc = "EVTDESC94132"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94132" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Norly
+	}
+}
+country_event = {
+
+	id = 94133 
+	news = yes
+	news_desc_long = "EVTDESC94133_NEWS_LONG"
+	news_desc_medium = "EVTDESC94133_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC94133_NEWS_SHORT"
+
+	trigger = {
+		owns = 1922
+		year = 1922
+		NOT = {
+			year = 1926
+			has_country_flag = Uuuri
+		}
+		war = no
+		}
+ 
+	fire_only_once = yes
+
+	mean_time_to_happen =  {
+		months = 8
+
+		modifier = {
+			factor = 0.5 #increase likelihood to happen
+			year = 1923
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1924
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1925
+		}
+	}
+
+	title = "EVTNAME94133"
+	desc = "EVTDESC94133"
+	picture = "Alberdi"
+	
+	option = {
+		name = "EVTOPTB94133" 
+		prestige = 5
+		{any_pop = { literacy = 0.40 }
+		}
+		set_country_flag = Uuuri
+	}
+}

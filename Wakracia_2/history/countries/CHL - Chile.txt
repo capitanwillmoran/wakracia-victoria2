@@ -1,6 +1,5 @@
 capital = 2301
-primary_culture = aimara
-culture = quechua
+primary_culture = araucanian
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = democracy

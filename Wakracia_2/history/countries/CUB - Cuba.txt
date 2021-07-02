@@ -1,4 +1,4 @@
-capital = 2231
+capital = 2238
 primary_culture = atlantean
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan

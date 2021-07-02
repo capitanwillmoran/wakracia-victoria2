@@ -2,6 +2,7 @@ owner=X09
 controller=X09
 add_core=ANS
 add_core=X10
+add_core=BAV
 trade_goods = fruit
 life_rating = 40
 terrain = farmlands

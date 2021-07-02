@@ -1,6 +1,5 @@
 capital = 636
 primary_culture = tatar
-culture = slovenian
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy

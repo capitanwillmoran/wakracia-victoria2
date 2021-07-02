@@ -1,6 +1,7 @@
 owner=MEX
 controller=REB
 add_core=MEX
+add_core=COS
 trade_goods = fruit
 life_rating = 30
 terrain = plains

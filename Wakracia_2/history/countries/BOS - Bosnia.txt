@@ -1,6 +1,5 @@
 capital = 783
 primary_culture = bosniak
-culture = serbian
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy

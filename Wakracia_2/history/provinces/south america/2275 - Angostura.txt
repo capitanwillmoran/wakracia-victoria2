@@ -1,7 +1,6 @@
 owner=CLM
 controller=CLM
 add_core=ARW
-add_core=VNZ
 add_core=CLM
 trade_goods = wool
 life_rating = 30
