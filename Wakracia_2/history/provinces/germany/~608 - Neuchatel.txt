@@ -1,7 +1,6 @@
 owner=X09
 controller=X09
-add_core=SWI
-add_core=X09
-trade_goods = grain
+add_core=FRA
+trade_goods = coal
 life_rating = 40
 terrain = mountain

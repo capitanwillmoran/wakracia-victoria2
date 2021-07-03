@@ -101,49 +101,49 @@
 604 = {
 	soldiers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 19633
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 3178
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 265
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 50
 	}
 
 	officers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 57
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 593
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 9208
 	}
@@ -199,49 +199,49 @@
 
 	soldiers=
 	{
-		culture = french
+		culture = swiss
 		religion = norse_pagan_reformed
 		size= 10333
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = swiss
 		religion = norse_pagan_reformed
 		size= 1026
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = swiss
 		religion = norse_pagan_reformed
 		size= 85
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = swiss
 		religion = norse_pagan_reformed
 		size= 16
 	}
 
 	officers=
 	{
-		culture = french
+		culture = swiss
 		religion = norse_pagan_reformed
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = swiss
 		religion = norse_pagan_reformed
 		size= 191
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = swiss
 		religion = norse_pagan_reformed
 		size= 11128
 	}
@@ -250,147 +250,147 @@
 605 = {
 	soldiers=
 	{
-		culture = french
+		culture = swiss
 		religion = fraticelli
 		size= 1339
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = swiss
 		religion = fraticelli
 		size= 478
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = swiss
 		religion = fraticelli
 		size= 90
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = swiss
 		religion = fraticelli
 		size= 17
 	}
 
 	officers=
 	{
-		culture = french
+		culture = swiss
 		religion = fraticelli
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = swiss
 		religion = fraticelli
 		size= 151
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = swiss
 		religion = fraticelli
 		size= 45738
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = swiss
 		religion = norse_pagan_reformed
 		size= 123
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = swiss
 		religion = norse_pagan_reformed
 		size= 566
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = swiss
 		religion = norse_pagan_reformed
 		size= 106
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = swiss
 		religion = norse_pagan_reformed
 		size= 20
 	}
 
 	officers=
 	{
-		culture = french
+		culture = swiss
 		religion = norse_pagan_reformed
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = swiss
 		religion = norse_pagan_reformed
 		size= 178
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = swiss
 		religion = norse_pagan_reformed
 		size= 3385
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 1094
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 2608
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 489
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 91
 	}
 
 	officers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 104
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 821
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 33869
 	}
@@ -450,49 +450,49 @@
 607 = {
 	soldiers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 2368
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 1903
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 159
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 21
 	}
 
 	officers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 34
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 178
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 37616
 	}
@@ -550,49 +550,49 @@
 608 = {
 	soldiers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 418
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 336
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 28
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 4
 	}
 
 	officers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 31
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 6649
 	}
@@ -650,49 +650,49 @@
 609 = {
 	soldiers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 174
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 695
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 130
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 17
 	}
 
 	officers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 146
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = swiss
 		religion = hellenic_pagan
 		size= 16206
 	}

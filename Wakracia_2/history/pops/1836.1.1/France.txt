@@ -2297,147 +2297,147 @@
 413 = {
 	soldiers=
 	{
-		culture = basque
+		culture = french
 		religion = fraticelli
 		size= 718
 	}
 
 	artisans=
 	{
-		culture = basque
+		culture = french
 		religion = fraticelli
 		size= 180
 	}
 
 	clergymen=
 	{
-		culture = basque
+		culture = french
 		religion = fraticelli
 		size= 34
 	}
 
 	bureaucrats=
 	{
-		culture = basque
+		culture = french
 		religion = fraticelli
 		size= 4
 	}
 
 	officers=
 	{
-		culture = basque
+		culture = french
 		religion = fraticelli
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = basque
+		culture = french
 		religion = fraticelli
 		size= 38
 	}
 
 	farmers=
 	{
-		culture = basque
+		culture = french
 		religion = fraticelli
 		size= 34931
 	}
 
 	soldiers=
 	{
-		culture = basque
+		culture = french
 		religion = norse_pagan_reformed
 		size= 114
 	}
 
 	artisans=
 	{
-		culture = basque
+		culture = french
 		religion = norse_pagan_reformed
 		size= 237
 	}
 
 	clergymen=
 	{
-		culture = basque
+		culture = french
 		religion = norse_pagan_reformed
 		size= 44
 	}
 
 	bureaucrats=
 	{
-		culture = basque
+		culture = french
 		religion = norse_pagan_reformed
 		size= 6
 	}
 
 	officers=
 	{
-		culture = basque
+		culture = french
 		religion = norse_pagan_reformed
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = basque
+		culture = french
 		religion = norse_pagan_reformed
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = basque
+		culture = french
 		religion = norse_pagan_reformed
 		size= 5253
 	}
 
 	soldiers=
 	{
-		culture = basque
+		culture = french
 		religion = hellenic_pagan
 		size= 186
 	}
 
 	artisans=
 	{
-		culture = basque
+		culture = french
 		religion = hellenic_pagan
 		size= 602
 	}
 
 	clergymen=
 	{
-		culture = basque
+		culture = french
 		religion = hellenic_pagan
 		size= 113
 	}
 
 	bureaucrats=
 	{
-		culture = basque
+		culture = french
 		religion = hellenic_pagan
 		size= 15
 	}
 
 	officers=
 	{
-		culture = basque
+		culture = french
 		religion = hellenic_pagan
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = basque
+		culture = french
 		religion = hellenic_pagan
 		size= 126
 	}
 
 	farmers=
 	{
-		culture = basque
+		culture = french
 		religion = hellenic_pagan
 		size= 8251
 	}

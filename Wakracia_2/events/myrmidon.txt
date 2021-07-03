@@ -1,0 +1,200 @@
+#A House Divided
+country_event = {
+	id = 96004
+	title = "EVTNAME96004"
+	desc = "EVTDESC96004"
+	major = yes
+	
+	trigger = {
+		tag = X09
+		infamy = 10
+		militancy = 3
+	}
+
+	mean_time_to_happen = {
+		months = 5
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTB96004"
+		any_pop = {
+			consciousness = 7
+			militancy = 3
+		}
+		any_owned = {
+			limit = {
+				is_core = FRK
+			}
+			secede_province = FRK
+		}
+		any_owned = {
+			limit = {
+				is_core = FRA
+			}
+			secede_province = FRA
+		}
+		any_owned = {
+			limit = {
+				is_core = OCC
+			}
+			secede_province = OCC
+		}
+		any_owned = {
+			limit = {
+				is_core = BRT
+			}
+			secede_province = BRT
+		}
+		FRA = {
+			capital = 425
+			leadership = 120
+		create_alliance = FRK
+		create_alliance = OCC
+		create_alliance = BRT
+		relation = {
+			who = OCC
+			value = 200
+		}
+		relation = {
+			who = FRK
+			value = 200
+		}
+		relation = {
+			who = BRT
+			value = 200
+		}
+		define_general = {
+   			name = "Thomas Bugeaud"
+   			picture = european_general_6
+   			date = 1784.9.15
+   			type = land
+			personality = implacable
+			background = school_of_the_bayonet
+   			prestige = 10
+			}
+		}
+		FRK = {
+			capital = 902
+			leadership = 30
+		define_general = {
+   			name = "Bertrand Clauzel"
+   			picture = european_general_7
+   			date = 1772.12.12
+   			type = land
+			personality = keen
+			background = school_of_firepower
+   			prestige = 10
+			}
+		}
+		OCC = {
+			capital = 455
+			leadership = 30
+		define_general = {
+   			name = "Honore Reille"
+   			picture = european_general_8
+   			date = 1775.7.1
+   			type = land
+			personality = gallant
+			background = school_of_defense
+   			prestige = 10
+			}
+		}
+		BRT = {
+			capital = 420
+			leadership = 30
+		}
+		war = {
+			target = FRA
+			attacker_goal = {
+				casus_belli = annex_core_country
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		set_country_flag = french_civil_war_happened
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA96004"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = FRK
+			}
+			secede_province = FRK
+		}
+		any_owned = {
+			limit = {
+				is_core = FRA
+			}
+			secede_province = FRA
+		}
+		any_owned = {
+			limit = {
+				is_core = OCC
+			}
+			secede_province = OCC
+		}
+		any_owned = {
+			limit = {
+				is_core = BRT
+			}
+			secede_province = BRT
+		}
+		FRA = {
+			capital = 425
+			leadership = 120
+		create_alliance = FRK
+		create_alliance = OCC
+		create_alliance = BRT
+		define_general = {
+   			name = "Thomas Bugeaud"
+   			picture = european_general_6
+   			date = 1784.9.15
+   			type = land
+			personality = implacable
+			background = school_of_the_bayonet
+   			prestige = 10
+			}
+		}
+		FRK = {
+			capital = 902
+			leadership = 30
+		define_general = {
+   			name = "Bertrand Clauzel"
+   			picture = european_general_7
+   			date = 1772.12.12
+   			type = land
+			personality = keen
+			background = school_of_firepower
+   			prestige = 1
+			}
+		}
+		OCC = {
+			capital = 455
+			leadership = 30
+		define_general = {
+   			name = "Honore Reille"
+   			picture = european_general_8
+   			date = 1775.7.1
+   			type = land
+			personality = gallant
+			background = school_of_defense
+   			prestige = 1
+			}
+		}
+		BRT = {
+			capital = 420
+			leadership = 30
+		}
+		set_country_flag = french_civil_war_happened
+		}
+	}
+}
