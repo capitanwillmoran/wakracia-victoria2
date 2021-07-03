@@ -1,6 +1,7 @@
 owner=X09
 controller=X09
 add_core=OCC
+add_core=FRR
 add_core=FRK
 add_core=AUV
 add_core=NRM

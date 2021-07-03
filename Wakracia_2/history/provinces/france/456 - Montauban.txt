@@ -3,6 +3,7 @@ controller=X09
 add_core=OCC
 add_core=NRM
 add_core=FRK
+add_core=FRR
 trade_goods = tobacco
 life_rating = 30
 terrain = plains

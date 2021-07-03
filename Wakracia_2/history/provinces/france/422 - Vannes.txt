@@ -1,6 +1,7 @@
 owner=X09
 controller=X09
 add_core=CEL
+add_core=FRR
 add_core=BRT
 trade_goods = fish
 life_rating = 32

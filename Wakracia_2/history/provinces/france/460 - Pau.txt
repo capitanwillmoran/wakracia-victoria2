@@ -3,6 +3,7 @@ controller=X09
 add_core=GLC
 add_core=BSQ
 add_core=OCC
+add_core=FRR
 add_core=GYN
 add_core=AMG
 trade_goods = grain

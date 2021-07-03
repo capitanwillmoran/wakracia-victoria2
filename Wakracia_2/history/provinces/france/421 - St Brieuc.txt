@@ -1,5 +1,6 @@
 owner=X09
 controller=X09
+add_core=FRR
 add_core=BRT
 add_core=CEL
 trade_goods = grain

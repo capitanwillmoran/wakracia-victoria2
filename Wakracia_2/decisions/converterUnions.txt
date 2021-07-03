@@ -2318,6 +2318,7 @@ political_decisions = {
 	}
 	form_frankia = {
 		potential = {
+			date = 2000
 			primary_culture = frankish
 			NOT = {
 				exists = FRK
@@ -2409,7 +2410,8 @@ political_decisions = {
 	}
 	form_gallia = {
 		potential = {
-			primary_culture = gaul
+			date = 2000
+			primary_culture = french
 			NOT = {
 				exists = FRR
 			}
@@ -2436,7 +2438,7 @@ political_decisions = {
 				limit = {
 					in_sphere = THIS
 					NOT = { tag = THIS }
-					primary_culture = gaul
+					primary_culture = french
 				}
 				capital_scope = { continent = europe }
 				annex_to = THIS
@@ -2684,6 +2686,7 @@ political_decisions = {
 	}
 	provincia_britannia = {
 		potential = {
+			date = 2000
 			OR = { tag = ENR tag = SPQ }
 			NOT = { has_global_flag = provincia_britannia }
 		}
@@ -2707,6 +2710,7 @@ political_decisions = {
 	}
 	provincia_gallia = {
 		potential = {
+			date = 2000
 			OR = { tag = FRR tag = SPQ }
 			NOT = { has_global_flag = provincia_gallia }
 		}
@@ -2730,6 +2734,7 @@ political_decisions = {
 	}
 	provincia_noricum = {
 		potential = {
+			date = 2000
 			OR = { tag = AUR tag = SPQ }
 			NOT = { has_global_flag = provincia_noricum }
 		}
@@ -3269,6 +3274,15 @@ political_decisions = {
 			OR = {
 				tag = TRI
 				tag = CYR
+				tag = MOR
+				tag = MOR
+				tag = X06
+				tag = X05
+				tag = TUN
+				tag = ALD
+				tag = X05
+				tag = FEZ
+				tag = GRA
 			}
 			NOT = { exists = LBY }
 			civilized = yes

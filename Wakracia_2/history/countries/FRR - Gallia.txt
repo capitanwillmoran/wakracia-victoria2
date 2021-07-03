@@ -1,6 +1,9 @@
-primary_culture = gaul
-culture = zzz_religion_shamanist
-religion = shamanist
+capital = 425
+primary_culture = french
+culture = occitanian
+culture = rollonian
+culture = zzz_religion_hellenic_pagan
+religion = hellenic_pagan
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_order

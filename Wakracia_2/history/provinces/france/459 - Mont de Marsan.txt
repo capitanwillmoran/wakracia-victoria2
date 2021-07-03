@@ -3,6 +3,7 @@ controller=X09
 add_core=BSQ
 add_core=GYN
 add_core=OCC
+add_core=FRR
 trade_goods = grain
 life_rating = 31
 terrain = plains

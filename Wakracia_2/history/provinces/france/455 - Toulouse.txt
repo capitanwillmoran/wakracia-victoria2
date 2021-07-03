@@ -3,6 +3,7 @@ controller=X09
 add_core=NRM
 add_core=OCC
 add_core=TUL
+add_core=FRR
 add_core=FRK
 trade_goods = grain
 life_rating = 31

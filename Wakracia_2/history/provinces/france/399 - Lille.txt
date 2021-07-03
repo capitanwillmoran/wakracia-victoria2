@@ -1,6 +1,7 @@
 owner=X09
 controller=X09
 add_core=FRA
+add_core=FRR
 trade_goods = iron
 life_rating = 30
 terrain = farmlands
