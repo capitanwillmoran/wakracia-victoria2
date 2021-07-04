@@ -1,7 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=RUM
-add_core=AN0
+add_core=A11
 trade_goods = grain
 life_rating = 35
 terrain = hills

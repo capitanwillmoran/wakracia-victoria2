@@ -3,6 +3,7 @@ controller=GLC
 add_core=CAT
 add_core=SPA
 add_core=ARN
+add_core=SP3
 add_core=GLC
 trade_goods = grain
 life_rating = 35

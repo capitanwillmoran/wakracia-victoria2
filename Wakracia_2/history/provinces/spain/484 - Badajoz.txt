@@ -1,6 +1,7 @@
 owner=GLC
 controller=GLC
 add_core=GLC
+add_core=SP4
 add_core=POR
 add_core=SPA
 trade_goods = wool

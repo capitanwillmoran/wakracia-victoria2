@@ -6356,3 +6356,120 @@ political_decisions = {
 		primary_culture = boer
 	}
  }
+ terra_nullius488 = {
+	potential = {
+		TAG = A11
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = anatolian
+	}
+ }
+ terra_nullius489 = {
+	potential = {
+		TAG = SP1
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = galician
+	}
+ }
+ terra_nullius490 = {
+	potential = {
+		TAG = SP2
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = catalan
+	}
+ }
+ terra_nullius491 = {
+	potential = {
+		TAG = SP3
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = galician
+	}
+ }
+ terra_nullius492 = {
+	potential = {
+		TAG = SP4
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = portuguese
+	}
+ }
+ terra_nullius493 = {
+	potential = {
+		TAG = SP5
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = galician
+	}
+ }
+ terra_nullius494 = {
+	potential = {
+		TAG = SP6
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = andalucian
+	}
+ }
+ terra_nullius495 = {
+	potential = {
+		TAG = SP7
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = portuguese
+	}
+ }
+ terra_nullius496 = {
+	potential = {
+		TAG = SP8
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = berber
+	}
+ }

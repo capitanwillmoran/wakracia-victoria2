@@ -3,6 +3,7 @@ controller=GLC
 add_core=ADU
 add_core=GLC
 add_core=SPA
+add_core=SP5
 trade_goods = iron
 life_rating = 35
 terrain = mountain

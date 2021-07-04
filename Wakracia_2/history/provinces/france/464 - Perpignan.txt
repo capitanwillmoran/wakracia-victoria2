@@ -2,6 +2,7 @@ owner=GLC
 controller=GLC
 add_core=GLC
 add_core=SPA
+add_core=SP2
 add_core=CAT
 trade_goods = grain
 life_rating = 31

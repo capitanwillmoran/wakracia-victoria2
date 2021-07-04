@@ -1,6 +1,7 @@
 owner=GLC
 controller=GLC
 add_core=CAT
+add_core=SP2
 add_core=SPA
 add_core=GLC
 trade_goods = grain

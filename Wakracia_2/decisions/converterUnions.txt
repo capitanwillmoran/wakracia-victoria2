@@ -1495,6 +1495,7 @@ political_decisions = {
 	}
 	form_madagascar = {
 		potential = {
+			date = 2000
 			primary_culture = malagasy
 			NOT = {
 				exists = MAD

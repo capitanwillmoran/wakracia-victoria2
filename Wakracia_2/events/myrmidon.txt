@@ -7,8 +7,10 @@ country_event = {
 	
 	trigger = {
 		tag = X09
-		infamy = 10
-		militancy = 3
+		or = {
+			badboy = 1
+			militancy = 3
+		}
 	}
 
 	mean_time_to_happen = {

@@ -1,5 +1,6 @@
 owner=BYZ
 controller=BYZ
+add_core=SP8
 trade_goods = fruit
 life_rating = 35
 terrain = plains

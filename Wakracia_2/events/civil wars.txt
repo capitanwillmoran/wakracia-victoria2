@@ -7,7 +7,7 @@ country_event = {
 	
 	trigger = {
 		tag = BYZ
-		infamy = 9
+		badboy = 0.4
 		militancy = 1
 		NOT = {exists = SYC}
 		NOT = {exists = NAP}
@@ -96,20 +96,32 @@ country_event = {
 	
 	trigger = {
 		tag = BYZ
-		infamy = 10
-		militancy = 3
-		NOT = {
-			owns = 749
+		or = {
+			badboy = 1
+			militancy = 3
+			year = 1885
+			NOT = {
+				year = 1888
+				}
 		}
-		OR = {
-			year = 1865
-		}
+		
 	}
 
 	fire_only_once = yes
 
-	mean_time_to_happen = {
+	mean_time_to_happen =  {
 		months = 5
+
+		modifier = {
+			factor = 0.75 #increase likelihood to happen
+			year = 1886
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1887
+		}
 	}
 	
 	option = {
@@ -190,14 +202,28 @@ country_event = {
 		OR = {
 			tag = BYZ
 			tag = GRE
+			year = 1895
+			NOT = {
+				year = 1898
+				}
 		}
-		year = 1871
-		}
+	}
 
 	fire_only_once = yes
 	
 	mean_time_to_happen = {
-		months = 1
+		months = 5
+
+		modifier = {
+			factor = 0.75 #increase likelihood to happen
+			year = 1896
+		}
+
+
+		modifier = {
+			factor = 0.99 #increase likelihood to happen
+			year = 1897
+		}
 	}
 	
 	option = {

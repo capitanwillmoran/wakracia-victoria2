@@ -1,0 +1,74 @@
+#A House Divided
+country_event = {
+	id = 96006
+	title = "EVTNAME96006"
+	desc = "EVTDESC96006"
+	major = yes
+	
+	trigger = {
+		tag = SPA
+		OR = {
+			badboy = 1
+			militancy = 4
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 5
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA96006"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = SP2
+			}
+			secede_province = SP2
+		}
+		any_owned = {
+			limit = {
+				is_core = SP3
+			}
+			secede_province = SP3
+		}
+		any_owned = {
+			limit = {
+				is_core = SP4
+			}
+			secede_province = SP4
+		}
+		any_owned = {
+			limit = {
+				is_core = SP5
+			}
+			secede_province = SP5
+		}
+		any_owned = {
+			limit = {
+				is_core = SP6
+			}
+			secede_province = SP6
+		}
+		any_owned = {
+			limit = {
+				is_core = SP7
+			}
+			secede_province = SP7
+		}
+		any_owned = {
+			limit = {
+				is_core = SP8
+			}
+			secede_province = SP8
+		}
+		change_tag = SP1
+		set_country_flag = hispania_fragmented_happened
+		}
+	}
+}

@@ -1728,10 +1728,10 @@ unite_moldavia_wallachia = {
 	}	
 	form_gaul = {
 		potential = {
-			is_greater_power = yes
 			tag = FRA
 		}	
 		allow = {
+			is_greater_power = yes
 			war = no
 			nationalism_n_imperialism = 1
 			FRR = {
@@ -1792,6 +1792,84 @@ unite_moldavia_wallachia = {
 		ai_will_do = {
 			factor = 1
 		}
-	}	
+	}		
+	form_anatolian = {
+		potential = {
+			OR = {
+				tag = AN0
+				tag = AN1
+				tag = AN2
+				tag = AN3
+				tag = AN4
+				tag = AN5
+				tag = AN6
+				tag = AN7
+				tag = AN8
+				tag = AN9
+				tag = A11
+				tag = PNT
+				tag = CLC
+			}
+		}	
+		allow = {
+			is_greater_power = yes
+			war = no
+			nationalism_n_imperialism = 1
+			RUM = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 15
+			all_core = { add_core = RUM }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					any_core = {
+						exists = no
+						primary_culture = anatolian
+						has_country_flag = wants_to_unify
+						NOT = { has_country_flag = post_colonial_country }
+					}
+				}
+				add_core = RUM
+			}
+			change_tag = RUM
+			any_country = {
+				limit = {
+					ai = yes
+					OR = {
+						primary_culture = anatolian
+					}
+					in_sphere = THIS 
+					NOT = { tag = THIS }
+					NOT = { has_country_flag = post_colonial_country }
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+				annex_to = RUM
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }
 	

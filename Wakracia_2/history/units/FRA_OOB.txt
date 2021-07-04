@@ -4,3 +4,142 @@
 #Leaders
 
 #Armies
+army = {
+	name = "1ère Armée"
+	location = 438
+	regiment = {
+		name= "1.1ère Division d'Infanterie"
+		type = infantry
+		home = 438
+	}
+
+	regiment = {
+		name= "1.1ère Division d'Infanterie"
+		type = infantry
+		home = 438
+	}
+
+	regiment = {
+		name= "2.1ère Division d'Infanterie"
+		type = infantry
+		home = 400
+	}
+
+	regiment = {
+		name= "3.1ère Division d'Infanterie"
+		type = infantry
+		home = 401
+	}
+
+	regiment = {
+		name= "1.2ème Division d'Infanterie"
+		type = infantry
+		home = 441
+	}
+
+	regiment = {
+		name= "2.2ème Division d'Infanterie"
+		type = infantry
+		home = 2570
+	}
+
+	regiment = {
+		name= "3.2ème Division d'Infanterie"
+		type = infantry
+		home = 404
+	}
+
+	regiment = {
+		name= "1.3ème Division d'Infanterie"
+		type = infantry
+		home = 402
+	}
+
+	regiment = {
+		name= "2.3ème Division d'Infanterie"
+		type = infantry
+		home = 403
+	}
+
+	regiment = {
+		name= "3.3ème Division d'Infanterie"
+		type = artillery
+		home = 399
+	}
+}
+	
+army = {
+	name = "Cavalerie de la Garde"
+	location = 468
+
+
+	regiment = {
+		name= "1.Cavalerie de la Garde"
+		type = hussar
+		home = 458
+	}
+
+	regiment = {
+		name= "2.Cavalerie de la Garde"
+		type = hussar
+		home = 420
+	}
+
+	regiment = {
+		name= "3.Cavalerie de la Garde"
+		type = cuirassier
+		home = 418
+	}
+
+	regiment = {
+		name= "4.Cavalerie de la Garde"
+		type = cuirassier
+		home = 406
+	}
+
+}
+
+army = {
+	name = "7ème Division d'Infanterie"
+	location = 1701
+	regiment = {
+		name= "1.7ème Division d'Infanterie"
+		type = infantry
+		home = 415
+	}
+
+	regiment = {
+		name= "2.7ème Division d'Infanterie"
+		type = infantry
+		home = 416
+	}
+
+	regiment = {
+		name= "3.7ème Division d'Infanterie"
+		type = infantry
+		home = 417
+	}
+}
+
+army = {
+	name = "1ère Division de cavalerie"
+	location = 1704
+	regiment = {
+		name= "1.1ère Division de cavalerie"
+		type = dragoon
+		home = 422
+	}
+
+	regiment = {
+		name= "2.1ère Division de cavalerie"
+		type = dragoon
+		home = 436
+	}
+
+	regiment = {
+		name= "3.1ère Division de cavalerie"
+		type = dragoon
+		home = 421
+	}
+
+}

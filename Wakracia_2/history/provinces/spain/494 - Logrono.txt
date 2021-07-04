@@ -2,6 +2,7 @@ owner=GLC
 controller=GLC
 add_core=BSQ
 add_core=GLC
+add_core=SP2
 add_core=SPA
 trade_goods = iron
 life_rating = 35

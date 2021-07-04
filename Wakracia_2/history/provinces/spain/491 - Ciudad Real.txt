@@ -1,8 +1,8 @@
 owner=GLC
 controller=GLC
-add_core=ADU
 add_core=GLC
 add_core=SPA
+add_core=SP3
 trade_goods = grain
 life_rating = 35
 terrain = plains

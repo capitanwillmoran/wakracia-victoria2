@@ -126,8 +126,8 @@ ARA_anarcho_liberals;Anarcho-Liberals;Anarcho-libéraux;Anarcho-Liberale;;Anarco-
 ARA_socialist;Socialists;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x
 ARA_communist;Communists;Communistes;Kommunisten;;Comunistas;;;;;;;;;x
 ARA_fascist;National Socialist Party;Parti national-socialiste;Faschisten;;Partido Nacional Socialista;;;;;;;;;x
-GCO;Gran Colombia;Grande Colombie;Großkolumbien;;Gran Colombia;;;;;;;;;x
-GCO_ADJ;Gran Colombian;grand-colombien;Großkolumbisch;;Gran Colombia;;;;;;;;;x
+GCO;Gran Kepnia;Grande Colombie;Großkolumbien;;Gran Kepnia;;;;;;;;;x
+GCO_ADJ;Gran Kepnia;grand-colombien;Großkolumbisch;;Gran Kepnia;;;;;;;;;x
 form_gran_colombia_title;Form Gran Kepnia;Formez la Grande Colombie;Gründe Großkolumbien;;Formar la Gran Kepnia;;;;;;;;;x
 form_gran_colombia_desc;The idea of the Great Kepnia as a political federation established in South Atlantis was born shortly after the establishment of the East Kepnia Governorate in the Atlantean territory. We are in a position to turn this idea into reality.;La Grande Colombie était une fédération politique établie en Amérique du Sud dans le sillage de la libération des territoires de la Colombie, du Venezuela et de l'Equateur de la domination espagnole, réussie par Simon Bolivar. La fédération s'est disloqué en 1831. Nous sommes en mesure de réunir à nouveau les peuples du nord des Andes, si nous proclamons une nouvelle Grande Colombie.;Großkolumbien war eine politische Föderation in Südamerika, die im Zuge der Spanischen Befreiung Südamerikars durch Simon Bolivar die Gebiete von Kolumbien, Venezuela, Ecuador und Gebiete von Peru und Guyana umfasste. Die Föderation zerbrach im Jahre 1831. Wir sind nun in der Lage, die Nord-Andischen Völker unter dem Banner Großkolumbiens wiederzuvereinen.;;La idea de la Gran kepnia como una federación política establecida en Atlántida del Sur, nació poco después del establecimiento de la gobernación de Kepnia del Este en el territorio Atlante. Estamos en condiciones de volver realidad esta idea.;;;;;;;;;x
 GCO_conservative;Partido Centralista;Parti centraliste;Partido Zentralist;;Partido Centralista;;;;;;;;;x
@@ -149,3 +149,6 @@ EVTNAME111011928;Form Arabia;Formez l'Arabie;Gründe Arabien;;Forma Arabia;;;;;;;
 EVTDESC111011928;Through warfare and diplomacy an Arabian union has been created. Shall we join it?;Grâce aux armes et à la diplomatie, une union arabe a été constituée. Devons-nous la rejoindre ?;Durch Krieg und Diplomatie wurde eine arabische Union gegründet. Sollen wir ihr beitreten?;;A través de la guerra y la diplomacia de una unión árabe ha sido creada. ¿Vamos a unirnos a ella?;;;;;;;;;x
 EVTOPTA111011928;Of course!;Bien sûr !;Natürlich!;;¡Por supuesto!;;;;;;;;;x
 EVTOPTB111011928;Never!;Jamais !;Niemals!;;¡Nunca!;;;;;;;;;x
+EVTNAME96006;The Hispanic eagle has fallen.;;;;El águila Hispánica ha caido;;;;;;;;;
+EVTDESC96006;The divisions of our empire have lost faith in our government, do not consider us the legitimate heirs of Mamadu and have proclaimed their independence. Our control has been reduced to a fraction of Hispania.;;;;Las divisiones de nuestro imperio han perdido la fe en nuestro gobierno, no nos consideran herederos legítimos de Mamadú y han proclamado su independencia. Nuestro control se ha visto reducido a una fracción de Hispania;;;;;;;;;
+EVTOPTA96006;Mamadou's dream will return;;;;El sueño de Mamadú volverá;;;;;;;;;
