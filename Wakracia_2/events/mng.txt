@@ -28,6 +28,12 @@ country_event = {
 		}
 		any_owned = {
 			limit = {
+				is_core = AOM
+			}
+			secede_province = AOM
+		}
+		any_owned = {
+			limit = {
 				is_core = SZC
 			}
 			secede_province = SZC

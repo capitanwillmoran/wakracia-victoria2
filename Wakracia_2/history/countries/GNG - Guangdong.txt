@@ -1,5 +1,5 @@
 capital = 1493
-primary_culture = hakka
+primary_culture = yue
 culture = zzz_religion_mahayana
 religion = mahayana
 government = absolute_monarchy

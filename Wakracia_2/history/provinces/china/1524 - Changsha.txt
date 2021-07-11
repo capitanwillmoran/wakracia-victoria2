@@ -2,6 +2,7 @@ owner=MNX
 controller=MNX
 add_core=CHI
 add_core=MNX
+add_core=CMI
 trade_goods = tea
 life_rating = 32
 terrain = plains

@@ -6473,3 +6473,16 @@ political_decisions = {
 		primary_culture = berber
 	}
  }
+ terra_nullius496 = {
+	potential = {
+		TAG = GNG
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = yue
+	}
+ }
