@@ -1,4 +1,4 @@
-capital = 1447
+capital = 1493
 primary_culture = min
 culture = nanfaren
 culture = zzz_religion_mahayana

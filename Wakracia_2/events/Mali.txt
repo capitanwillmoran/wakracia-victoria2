@@ -1,0 +1,146 @@
+#A House Divided
+country_event = {
+	id = 96007
+	title = "EVTNAME96007"
+	desc = "EVTDESC96007"
+	major = no
+	picture = "zulu"
+	
+	trigger = {
+		tag = MLI
+		OR = {
+			badboy = 0.5
+			militancy = 4
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 5
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA96007"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = ARO
+			}
+			secede_province = ARO
+		}
+		any_owned = {
+			limit = {
+				is_core = OYO
+			}
+			secede_province = OYO
+		}
+		any_owned = {
+			limit = {
+				is_core = FUL
+			}
+			secede_province = FUL
+		}
+		any_owned = {
+			limit = {
+				is_core = WOL
+			}
+			secede_province = WOL
+		}
+		any_owned = {
+			limit = {
+				is_core = JNN
+			}
+			secede_province = JNN
+		}
+		any_owned = {
+			limit = {
+				is_core = ASH
+			}
+			secede_province = ASH
+		}
+		any_owned = {
+			limit = {
+				is_core = KNG
+			}
+			secede_province = KNG
+		}
+		any_owned = {
+			limit = {
+				is_core = SGU
+			}
+			secede_province = SGU
+		}
+		any_owned = {
+			limit = {
+				is_core = BMK
+			}
+			secede_province = BMK
+		}
+		any_owned = {
+			limit = {
+				is_core = DGB
+			}
+			secede_province = DGB
+		}
+		any_owned = {
+			limit = {
+				is_core = DAH
+			}
+			secede_province = DAH
+		}
+		any_owned = {
+			limit = {
+				is_core = NUP
+			}
+			secede_province = NUP
+		}
+		any_owned = {
+			limit = {
+				is_core = SOK
+			}
+			secede_province = SOK
+		}
+		any_owned = {
+			limit = {
+				is_core = SGH
+			}
+			secede_province = SGH
+		}
+		any_owned = {
+			limit = {
+				is_core = YAO
+			}
+			secede_province = YAO
+		}
+		any_owned = {
+			limit = {
+				is_core = HAU
+			}
+			secede_province = HAU
+		}
+		any_owned = {
+			limit = {
+				is_core = KBO
+			}
+			secede_province = KBO
+		}
+		any_owned = {
+			limit = {
+				is_core = AYR
+			}
+			secede_province = AYR
+		}
+		any_owned = {
+			limit = {
+				is_core = FEZ
+			}
+			secede_province = FEZ
+		}
+		set_country_flag = mali_fragmented_happened
+		}
+	}
+}

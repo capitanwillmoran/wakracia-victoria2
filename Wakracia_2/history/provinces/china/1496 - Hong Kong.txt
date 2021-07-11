@@ -1,6 +1,7 @@
 owner=MNX
 controller=MNX
 add_core=WUU
+add_core=HKG
 trade_goods = tea
 life_rating = 32
 terrain = plains

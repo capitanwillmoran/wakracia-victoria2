@@ -360,7 +360,6 @@ country_event = {
 	title = EVTNAME96003
 	desc = EVTDESC96003
 
-
 	trigger = {
 		OR = {
 			tag = BYZ
@@ -375,10 +374,14 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = { months = 1 }
+	mean_time_to_happen = {
+		months = 2
+	}
+
+	fire_only_once = yes
 
 	option = { 
-		name = EVTOPTA96003
+		name = "EVTOPTA96003"
 		BYZ = {
 			all_core = {
 				limit = { is_primary_culture = yes } #workaround to get Greek provinces

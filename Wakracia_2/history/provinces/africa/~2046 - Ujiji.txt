@@ -1,6 +1,6 @@
 owner=SWA
 controller=SWA
-add_core=AJU
+add_core=SWA
 trade_goods = coffee
 life_rating = 15
-terrain = plains
+terrain = hills

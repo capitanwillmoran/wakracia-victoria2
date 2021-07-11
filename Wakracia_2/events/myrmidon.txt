@@ -3,12 +3,13 @@ country_event = {
 	id = 96004
 	title = "EVTNAME96004"
 	desc = "EVTDESC96004"
-	major = yes
+	major = no
+	picture = "Dreyfus"
 	
 	trigger = {
 		tag = X09
 		or = {
-			badboy = 1
+			badboy = 0.7
 			militancy = 3
 		}
 	}

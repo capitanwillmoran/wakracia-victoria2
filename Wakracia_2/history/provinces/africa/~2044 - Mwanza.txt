@@ -1,6 +1,5 @@
 owner=SWA
 controller=SWA
-add_core=BNY
 trade_goods = cotton
 life_rating = 15
 terrain = mountain

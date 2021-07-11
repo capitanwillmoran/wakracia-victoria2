@@ -1,7 +1,6 @@
 owner=MNX
 controller=MNX
 add_core=CHI
-add_core=SHG
 add_core=MNX
 trade_goods = silk
 life_rating = 32

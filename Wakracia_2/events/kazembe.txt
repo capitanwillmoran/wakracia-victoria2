@@ -1,0 +1,74 @@
+#A House Divided
+country_event = {
+	id = 96008
+	title = "EVTNAME96008"
+	desc = "EVTDESC96008"
+	major = no
+	picture = "woundedlion"
+	
+	trigger = {
+		tag = KZB
+		OR = {
+			badboy = 0.5
+			militancy = 4
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 3
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA96008"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = LDU
+			}
+			secede_province = LDU
+		}
+		any_owned = {
+			limit = {
+				is_core = NDO
+			}
+			secede_province = NDO
+		}
+		any_owned = {
+			limit = {
+				is_core = KON
+			}
+			secede_province = KON
+		}
+		any_owned = {
+			limit = {
+				is_core = CKW
+			}
+			secede_province = CKW
+		}
+		any_owned = {
+			limit = {
+				is_core = KSJ
+			}
+			secede_province = KSJ
+		}
+		any_owned = {
+			limit = {
+				is_core = SAO
+			}
+			secede_province = SAO
+		}
+		any_owned = {
+			limit = {
+				is_core = LBA
+			}
+			secede_province = LBA
+		}
+		set_country_flag = kazembe_fragmented_happened
+		}
+	}
+}

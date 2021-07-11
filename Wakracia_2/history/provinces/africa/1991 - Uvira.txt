@@ -1,5 +1,7 @@
 owner=SWA
 controller=SWA
+add_core=RWA
+add_core=KRW
 trade_goods = fruit
 life_rating = 15
 terrain = jungle

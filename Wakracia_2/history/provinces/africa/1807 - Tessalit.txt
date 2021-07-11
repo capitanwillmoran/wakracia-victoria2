@@ -1,6 +1,5 @@
 owner=MLI
 controller=MLI
-add_core=HAU
 add_core=MLI
 trade_goods = grain
 life_rating = 10

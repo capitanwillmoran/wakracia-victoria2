@@ -1,8 +1,7 @@
 owner=MNX
 controller=MNX
 add_core=CHI
-add_core=SHG
 add_core=MNX
-trade_goods = silk
+trade_goods = tea
 life_rating = 32
-terrain = plains
+terrain = farmlands
