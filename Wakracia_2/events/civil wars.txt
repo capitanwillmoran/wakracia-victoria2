@@ -107,6 +107,7 @@ country_event = {
 		militancy = 3
 		NOT = {
 			year = 1888
+			exists = RUM
 			}
 		
 	}
@@ -209,6 +210,9 @@ country_event = {
 			year = 1895
 			NOT = {
 				year = 1898
+				exists = BAB
+				exists = IRQ
+				exists = SYR
 				}
 		}
 	}

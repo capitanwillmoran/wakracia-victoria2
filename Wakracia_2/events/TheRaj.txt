@@ -180,6 +180,7 @@ province_event = {
 	picture = Egyptian
 	
 	trigger = {
+		year = 2000
 		province_id = 1760
 		NOT = { has_global_flag = egy_desert }
 		1758 = { empty = yes }
@@ -206,6 +207,7 @@ province_event = {
 	picture = Nile
 	
 	trigger = {
+		year = 2000
 		province_id = 1742
 		NOT = { has_global_flag = fezzan }
 		1741 = { empty = yes }
