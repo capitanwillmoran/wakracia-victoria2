@@ -11,6 +11,7 @@ political_decisions = {
 				government = hms_government
 				government = democracy
 				government = theocracy
+				government = nationalsyndicalist_dictatorship
 			}
 		}	
 		allow = {

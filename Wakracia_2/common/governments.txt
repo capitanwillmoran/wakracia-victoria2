@@ -114,16 +114,16 @@ theocracy = {
 	
 	election = no
 	appoint_ruling_party = yes
-	flagType = monarchy
+	flagType = theocratic
 }
 
-nationalsyndicalist = {
+nationalsyndicalist_dictatorship = {
 	#which ideology of parties.
 	nationalsyndicalist = yes
 	
 	election = no
 	appoint_ruling_party = yes
-	flagType = fascist
+	flagType = nationalsyndicalist
 }
 
 agrarist = {

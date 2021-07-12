@@ -42,6 +42,7 @@ fascist_group = {
 				NOT = { ruling_party_ideology = fascist }
 			}
 		}
+	}
 
 	nationalsyndicalist = {
 		uncivilized = no

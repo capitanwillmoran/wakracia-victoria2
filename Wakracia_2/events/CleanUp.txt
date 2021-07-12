@@ -13,6 +13,8 @@ country_event = {
 			government = bourgeois_dictatorship
 			government = fascist_dictatorship
 			government = absolute_monarchy
+			government = theocracy
+			government = nationalsyndicalist_dictatorship
 		}
 		civilized = yes
 		political_parties = underground_parties
@@ -44,6 +46,8 @@ country_event = {
 			government = bourgeois_dictatorship
 			government = fascist_dictatorship
 			government = absolute_monarchy
+			government = theocracy
+			government = nationalsyndicalist_dictatorship
 		}
 		civilized = yes
 		political_parties = underground_parties
@@ -75,6 +79,8 @@ country_event = {
 			government = bourgeois_dictatorship
 			government = fascist_dictatorship
 			government = absolute_monarchy
+			government = theocracy
+			government = nationalsyndicalist_dictatorship
 		}
 		civilized = yes
 		political_parties = underground_parties
@@ -106,6 +112,8 @@ country_event = {
 			government = bourgeois_dictatorship
 			government = fascist_dictatorship
 			government = absolute_monarchy
+			government = theocracy
+			government = nationalsyndicalist_dictatorship
 		}
 		civilized = yes
 		political_parties = underground_parties
@@ -136,6 +144,8 @@ country_event = {
 			government = presidential_dictatorship
 			government = bourgeois_dictatorship
 			government = fascist_dictatorship
+			government = theocracy
+			government = nationalsyndicalist_dictatorship
 		}
 		civilized = yes
 		NOT = {
@@ -455,5 +465,36 @@ country_event = {
 	option = {
 		name = "EVTOPTA60150"
 		remove_country_modifier = female_suffrage
+	}
+}
+
+country_event = {
+	id = 90030
+	title = "EVTNAME90030"
+	desc = "EVTDESC90030"
+	picture = "Unite"
+	
+	trigger = {
+		NOT = {
+			government = proletarian_dictatorship
+			government = presidential_dictatorship
+			government = bourgeois_dictatorship
+			government = fascist_dictatorship
+			government = absolute_monarchy
+		}
+		civilized = yes
+		political_parties = underground_parties
+		vote_franschise = none_voting
+		upper_house_composition = party_appointed
+		ruling_party_ideology = nationalsyndicalist
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA90030"
+		government = nationalsyndicalist_dictatorship
 	}
 }

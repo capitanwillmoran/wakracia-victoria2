@@ -6,9 +6,14 @@ country_event = {
 	major = yes
 	
 	trigger = {
+		or = {
+			badboy = 0.4
+			militancy = 3
+			NOT = {
+				has_country_flag = italian_civil_war_happened
+				}
+		}
 		tag = BYZ
-		badboy = 0.4
-		militancy = 1
 		NOT = {exists = SYC}
 		NOT = {exists = NAP}
 		NOT = {exists = SIC}
@@ -96,14 +101,13 @@ country_event = {
 	
 	trigger = {
 		tag = BYZ
-		or = {
-			badboy = 1
-			militancy = 3
-			year = 1885
-			NOT = {
-				year = 1888
-				}
-		}
+		has = italian_civil_war_happened
+		year = 1885
+		badboy = 0.5
+		militancy = 3
+		NOT = {
+			year = 1888
+			}
 		
 	}
 
