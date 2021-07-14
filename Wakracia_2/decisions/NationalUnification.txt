@@ -1870,6 +1870,241 @@ unite_moldavia_wallachia = {
 		ai_will_do = {
 			factor = 1
 		}
+	}		
+	form_south_america = {
+		potential = {
+			OR = {
+				tag = PEU
+				tag = ARG
+				tag = BRZ
+				tag = CLM
+				tag = URU
+				tag = CHL
+				tag = PTG
+				tag = PRG
+				tag = RGS
+				tag = MPC
+				tag = CRA
+				tag = ENT
+				tag = SBA
+				tag = INC
+				tag = CSU
+				tag = CYA
+				tag = CHM
+				tag = QTO
+				tag = ECU
+				tag = VNZ
+				tag = PNM
+				tag = CEQ
+				tag = TUA
+				tag = TPQ
+			}
+		}	
+		allow = {
+			is_greater_power = yes
+			war = no
+			nationalism_n_imperialism = 1
+			ARG = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+					}
+				}
+			}
+			PEU = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+					}
+				}
+			}
+			CLM = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+					}
+				}
+			}
+			BRZ = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+					}
+				}
+			}
+			PNM = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+					}
+				}
+			}
+			VNZ = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+					}
+				}
+			}
+			CUB = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 15
+			all_core = { add_core = USN }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					any_core = {
+						tag = PEU
+						tag = ARG
+						tag = BRZ
+						tag = CLM
+						tag = URU
+						tag = CHL
+						tag = PTG
+						tag = PRG
+						tag = RGS
+						tag = MPC
+						tag = CRA
+						tag = ENT
+						tag = SBA
+						tag = INC
+						tag = CSU
+						tag = CYA
+						tag = CHM
+						tag = QTO
+						tag = ECU
+						tag = VNZ
+						tag = PNM
+						tag = CEQ
+						tag = TUA
+						tag = TPQ
+						tag = CUB
+					}
+				}
+				add_core = USN
+			}
+			change_tag = USN
+			any_country = {
+				limit = {
+					ai = yes
+					OR = {
+						tag = PEU
+						tag = ARG
+						tag = BRZ
+						tag = CLM
+						tag = URU
+						tag = CHL
+						tag = PTG
+						tag = PRG
+						tag = RGS
+						tag = MPC
+						tag = CRA
+						tag = ENT
+						tag = SBA
+						tag = INC
+						tag = CSU
+						tag = CYA
+						tag = CHM
+						tag = QTO
+						tag = ECU
+						tag = VNZ
+						tag = PNM
+						tag = CEQ
+						tag = TUA
+						tag = TPQ
+						tag = CUB
+					}
+					in_sphere = THIS 
+					NOT = { tag = THIS }
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+				annex_to = USN
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
 	}
 }
 	

@@ -1013,3 +1013,5 @@ SP5 = "countries/Baetica.txt"
 SP6 = "countries/Gibraltar.txt"
 SP7 = "countries/Balearica.txt"
 SP8 = "countries/Azores.txt"
+
+USN = "countries/Union of South Atlantean Nations.txt"
