@@ -1,5 +1,5 @@
 capital = 778
-primary_culture = serbian
+primary_culture = serb
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = democracy

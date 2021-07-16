@@ -5212,19 +5212,6 @@ political_decisions = {
 		primary_culture = maghrebi
 	}
  }
- terra_nullius401 = {
-	potential = {
-		TAG = FIU
-		primary_culture = dummy
-		ai_will_do = 1
-	}
-	allow = {
-		primary_culture = dummy
-	}
-	effect = {
-		primary_culture = serb
-	}
- }
  terra_nullius402 = {
 	potential = {
 		TAG = FOI
@@ -6462,6 +6449,19 @@ political_decisions = {
  }
  terra_nullius496 = {
 	potential = {
+		TAG = GNG
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = yue
+	}
+ }
+ terra_nullius497 = {
+	potential = {
 		TAG = SP8
 		primary_culture = dummy
 		ai_will_do = 1
@@ -6473,9 +6473,9 @@ political_decisions = {
 		primary_culture = berber
 	}
  }
- terra_nullius496 = {
+ terra_nullius498 = {
 	potential = {
-		TAG = GNG
+		TAG = FIU
 		primary_culture = dummy
 		ai_will_do = 1
 	}
@@ -6483,6 +6483,6 @@ political_decisions = {
 		primary_culture = dummy
 	}
 	effect = {
-		primary_culture = yue
+		primary_culture = serb
 	}
  }

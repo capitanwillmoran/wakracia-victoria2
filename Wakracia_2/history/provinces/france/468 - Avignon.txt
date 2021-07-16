@@ -2,6 +2,7 @@ owner=X09
 controller=X09
 add_core=X09
 add_core=AVI
+add_core=PRO
 trade_goods = sulphur
 life_rating = 32
 terrain = farmlands

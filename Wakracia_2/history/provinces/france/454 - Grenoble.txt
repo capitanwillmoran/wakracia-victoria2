@@ -1,6 +1,7 @@
 owner=X09
 controller=X09
 add_core=X09
+add_core=PRO
 trade_goods = tobacco
 life_rating = 32
 terrain = woods

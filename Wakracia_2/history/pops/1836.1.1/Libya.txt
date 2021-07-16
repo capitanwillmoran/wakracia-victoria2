@@ -31,7 +31,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 84
+		size= 284
 	}
 
 	officers=
@@ -87,7 +87,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 3
+		size= 113
 	}
 
 	officers=
@@ -143,7 +143,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 99
+		size= 199
 	}
 
 	officers=
@@ -250,7 +250,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 1
+		size= 100
 	}
 
 	soldiers=
@@ -264,7 +264,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 7
+		size= 107
 	}
 
 	officers=
@@ -306,7 +306,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 10
+		size= 110
 	}
 
 	officers=
@@ -364,7 +364,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 2
+		size= 112
 	}
 
 	officers=
@@ -420,7 +420,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 19
+		size= 109
 	}
 
 	officers=
@@ -476,7 +476,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 23
+		size= 123
 	}
 
 	officers=
@@ -534,7 +534,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 21
+		size= 121
 	}
 
 	officers=
@@ -590,7 +590,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 24
+		size= 124
 	}
 
 	officers=
@@ -648,7 +648,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 33
+		size= 133
 	}
 
 	officers=
@@ -720,7 +720,7 @@
 	{
 		culture = berber
 		religion = monophysite
-		size= 3
+		size= 103
 	}
 
 	officers=
@@ -776,7 +776,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 12
+		size= 112
 	}
 
 	officers=
@@ -834,7 +834,7 @@
 	{
 		culture = coptic
 		religion = coptic
-		size= 5
+		size= 105
 	}
 
 	officers=
@@ -890,7 +890,7 @@
 	{
 		culture = coptic
 		religion = hellenic_pagan
-		size= 10
+		size= 101
 	}
 
 	officers=
@@ -1171,7 +1171,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 1
+		size= 15
 	}
 
 	aristocrats=
@@ -1220,7 +1220,7 @@
 	{
 		culture = greek
 		religion = west_african_pagan_reformed
-		size= 3
+		size= 43
 	}
 
 	officers=
@@ -1278,7 +1278,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 6
+		size= 16
 	}
 
 	officers=
@@ -1336,7 +1336,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 3
+		size= 23
 	}
 
 	officers=
@@ -1385,14 +1385,14 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 13
+		size= 33
 	}
 
 	bureaucrats=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 4
+		size= 33
 	}
 
 	officers=
@@ -1450,7 +1450,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 1
+		size= 31
 	}
 
 	officers=
@@ -1506,7 +1506,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 10
+		size= 30
 	}
 
 	officers=

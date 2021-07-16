@@ -1607,6 +1607,14 @@ germanic = {
 		last_names = { von Klinckow von Puttkamer von Barnekow von Strantz Gryf Wizlawid von Krassow von der Lancken von Schlieffen von Schwerin von Schöning von Suhm von Maltzahn von Below von Blixen von Borcke von Buggenhagen von Manteuffel von Corswant von Stralenheim von Dewitz von Preen von Podewils von Flemming von Platen von Neuenkirchen von Gottberg von Hackewitz von Hennigs Trampe von Hertzberg von Heyden von Kameke von Kleist Natzmer von Zepelin von Gostowski von Wakenitz von Usedom Thun von Thadden Gryfita z Pomorza Grzymala Jastrzebiec Lubicz Nalecz Slaweka ze Slupska Gniewosz }
 		
 	}
+	tatargerman = {
+		color = { 45 87 99 }
+		
+		first_names = { Asaf Baqi Galiaskar Ismail Makhmut Musa Rustam Yusuf }
+		
+		last_names = { Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev }
+		
+	}
 	hilterian = {
 		color = { 251 71 59 }
 		
@@ -2452,6 +2460,14 @@ levantine = {
 		color = { 50 100 200 }
 		radicalism = 10
 		
+		first_names = { Adamantios Aléxandros Anastásios Andréas Antónios Aristídis Athanásios Avgóstinos Venizélos Charálampos Charílaos Dimítrios Diomídis Elefthérios Emmanouíl Epameínontas Evripídis Gennaíos Geórgios Ilías Ionnis Kítsos Konstantínos Kyriákos Kyriakoúlis Leonídas Makários Márkos Míchael Militiadis Nikólaos Odysséas Óthon Panagiótis Pavlos Pétros Sofoklís Sotíris Spyridíon Spýros Stáïkos Stéfanos Stylianós Themistoklís Theódoros Tharývoulos Tzannís Vásos Víktor Zinóvios }
+		
+		last_names = { Charalámpis Christákis-Zográfos Daglis Dousmanis Foúmis Gonatás Chatzianéstis Kallérgis Kanáris Katsimiros Kolokotrónis Kondýlis Kountouriótis Kriezís Makriiánnis Mános Mavrokordátos Mavrovouniótis Metaxás Moúskos Níder Othonaíos Paláskas Pan'galos Papadiamantópoulos Papadópoulos Papágos Papoúlas Parakevópoulos Plapoútas Plastíras Sapountzákis Saráfis Smolénskis Sofoúlis Soútsos Spyromílios Staïkópoulos Stanotas tis Elládas Trikoúpis Tsakalótos Tsolákoglou Typáldos-Alfonsátos Tzavélas Vássos Venizélos Voúlgaris Zaïmis Zymvrakákis }
+		
+	}
+	greekegyptian = {
+		color = { 115 15 120 }
+
 		first_names = { Adamantios Aléxandros Anastásios Andréas Antónios Aristídis Athanásios Avgóstinos Venizélos Charálampos Charílaos Dimítrios Diomídis Elefthérios Emmanouíl Epameínontas Evripídis Gennaíos Geórgios Ilías Ionnis Kítsos Konstantínos Kyriákos Kyriakoúlis Leonídas Makários Márkos Míchael Militiadis Nikólaos Odysséas Óthon Panagiótis Pavlos Pétros Sofoklís Sotíris Spyridíon Spýros Stáïkos Stéfanos Stylianós Themistoklís Theódoros Tharývoulos Tzannís Vásos Víktor Zinóvios }
 		
 		last_names = { Charalámpis Christákis-Zográfos Daglis Dousmanis Foúmis Gonatás Chatzianéstis Kallérgis Kanáris Katsimiros Kolokotrónis Kondýlis Kountouriótis Kriezís Makriiánnis Mános Mavrokordátos Mavrovouniótis Metaxás Moúskos Níder Othonaíos Paláskas Pan'galos Papadiamantópoulos Papadópoulos Papágos Papoúlas Parakevópoulos Plapoútas Plastíras Sapountzákis Saráfis Smolénskis Sofoúlis Soútsos Spyromílios Staïkópoulos Stanotas tis Elládas Trikoúpis Tsakalótos Tsolákoglou Typáldos-Alfonsátos Tzavélas Vássos Venizélos Voúlgaris Zaïmis Zymvrakákis }
@@ -5761,22 +5777,6 @@ zzz_culturess = {
 	}
 	kanada = {
 		color = { 55 60 10 }
-
-		first_names = { Adamantios Aléxandros Anastásios Andréas Antónios Aristídis Athanásios Avgóstinos Venizélos Charálampos Charílaos Dimítrios Diomídis Elefthérios Emmanouíl Epameínontas Evripídis Gennaíos Geórgios Ilías Ionnis Kítsos Konstantínos Kyriákos Kyriakoúlis Leonídas Makários Márkos Míchael Militiadis Nikólaos Odysséas Óthon Panagiótis Pavlos Pétros Sofoklís Sotíris Spyridíon Spýros Stáïkos Stéfanos Stylianós Themistoklís Theódoros Tharývoulos Tzannís Vásos Víktor Zinóvios }
-		
-		last_names = { Charalámpis Christákis-Zográfos Daglis Dousmanis Foúmis Gonatás Chatzianéstis Kallérgis Kanáris Katsimiros Kolokotrónis Kondýlis Kountouriótis Kriezís Makriiánnis Mános Mavrokordátos Mavrovouniótis Metaxás Moúskos Níder Othonaíos Paláskas Pan'galos Papadiamantópoulos Papadópoulos Papágos Papoúlas Parakevópoulos Plapoútas Plastíras Sapountzákis Saráfis Smolénskis Sofoúlis Soútsos Spyromílios Staïkópoulos Stanotas tis Elládas Trikoúpis Tsakalótos Tsolákoglou Typáldos-Alfonsátos Tzavélas Vássos Venizélos Voúlgaris Zaïmis Zymvrakákis }
-		
-	}
-	tatargerman = {
-		color = { 45 87 99 }
-		
-		first_names = { Asaf Baqi Galiaskar Ismail Makhmut Musa Rustam Yusuf }
-		
-		last_names = { Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev }
-		
-	}
-	greekegyptian = {
-		color = { 115 15 120 }
 
 		first_names = { Adamantios Aléxandros Anastásios Andréas Antónios Aristídis Athanásios Avgóstinos Venizélos Charálampos Charílaos Dimítrios Diomídis Elefthérios Emmanouíl Epameínontas Evripídis Gennaíos Geórgios Ilías Ionnis Kítsos Konstantínos Kyriákos Kyriakoúlis Leonídas Makários Márkos Míchael Militiadis Nikólaos Odysséas Óthon Panagiótis Pavlos Pétros Sofoklís Sotíris Spyridíon Spýros Stáïkos Stéfanos Stylianós Themistoklís Theódoros Tharývoulos Tzannís Vásos Víktor Zinóvios }
 		

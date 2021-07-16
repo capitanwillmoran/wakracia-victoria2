@@ -31,7 +31,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 122
+		size= 522
 	}
 
 	officers=
@@ -87,7 +87,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 128
+		size= 528
 	}
 
 	officers=
@@ -138,7 +138,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 55
+		size= 255
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 66
+		size= 266
 	}
 
 	officers=
@@ -252,7 +252,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 24
+		size= 224
 	}
 
 	officers=
@@ -308,7 +308,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 28
+		size= 228
 	}
 
 	officers=
@@ -366,7 +366,7 @@
 	{
 		culture = berber
 		religion = yazidi
-		size= 7
+		size= 70
 	}
 
 	officers=
@@ -422,7 +422,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 43
+		size= 243
 	}
 
 	officers=
@@ -478,7 +478,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 59
+		size= 590
 	}
 
 	officers=
@@ -536,7 +536,7 @@
 	{
 		culture = berber
 		religion = yazidi
-		size= 2
+		size= 50
 	}
 
 	officers=
@@ -592,7 +592,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 18
+		size= 180
 	}
 
 	officers=
@@ -648,7 +648,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 23
+		size= 230
 	}
 
 	officers=
@@ -706,7 +706,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 3
+		size= 30
 	}
 
 	officers=
@@ -762,7 +762,7 @@
 	{
 		culture = berber
 		religion = hellenic_pagan
-		size= 19
+		size= 190
 	}
 
 	officers=
@@ -818,7 +818,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 27
+		size= 170
 	}
 
 	officers=

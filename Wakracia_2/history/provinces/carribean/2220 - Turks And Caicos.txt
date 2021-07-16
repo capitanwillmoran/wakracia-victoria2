@@ -1,6 +1,5 @@
 owner=CUB
 controller=CUB
-add_core=BAH
 add_core=BHM
 add_core=CRB
 trade_goods = cotton
