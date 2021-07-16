@@ -1,4 +1,4 @@
-capital = 2183
+capital = 2205
 primary_culture = rogirian
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
