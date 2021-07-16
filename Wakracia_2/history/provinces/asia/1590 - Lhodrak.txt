@@ -4,4 +4,3 @@ add_core=TIB
 trade_goods = cattle
 life_rating = 25
 terrain = mountain
-colonial=2

@@ -5,3 +5,4 @@ add_core=XHO
 trade_goods = grain
 life_rating = 35
 terrain = mountain
+colonial=2

@@ -7,4 +7,3 @@ add_core=OIR
 trade_goods = grain
 life_rating = 32
 terrain = plains
-colonial=2

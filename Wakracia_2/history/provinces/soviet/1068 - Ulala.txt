@@ -5,4 +5,3 @@ add_core=ZUN
 trade_goods = coal
 life_rating = 35
 terrain = plains
-colonial=2

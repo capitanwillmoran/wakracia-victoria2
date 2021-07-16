@@ -6,4 +6,3 @@ add_core=LBY
 trade_goods = iron
 life_rating = 35
 terrain = mountain
-colonial=2

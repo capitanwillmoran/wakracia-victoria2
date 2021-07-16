@@ -4,4 +4,3 @@ add_core=YAK
 trade_goods = cattle
 life_rating = 15
 terrain = forest
-colonial=2

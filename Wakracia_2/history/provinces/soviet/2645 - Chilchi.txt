@@ -4,4 +4,3 @@ add_core=YAK
 trade_goods = coal
 life_rating = 35
 terrain = mountain
-colonial=2

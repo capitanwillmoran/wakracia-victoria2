@@ -5,3 +5,4 @@ add_core=XHO
 trade_goods = wool
 life_rating = 35
 terrain = hills
+colonial=2
