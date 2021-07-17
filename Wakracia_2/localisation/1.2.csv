@@ -7212,3 +7212,6 @@ JAM_prussian_constitutionalism;Insula Fjolnsvidr;Insula Fjolnsvidr;Insula Fjolns
 JAM_hms_government;Insula Fjolnsvidr;Insula Fjolnsvidr;Insula Fjolnsvidr;Insula Fjolnsvidr;Insula Fjolnsvidr;;;;;;;;;;
 JAM_theocracy;Insula Fjolnsvidr;Insula Fjolnsvidr;Insula Fjolnsvidr;Insula Fjolnsvidr;Insula Fjolnsvidr;;;;;;;;;;
 JAM_nationalsyndicalist_dictatorship;Insula Fjolnsvidr;Insula Fjolnsvidr;Insula Fjolnsvidr;Insula Fjolnsvidr;Insula Fjolnsvidr;;;;;;;;;;
+GEN_agrarist;Agrarist Party;;;;Partido Agrarista;;;;;;;;;;
+GEN_theocratic;Theocratic Party;;;;Partido Teocrático;;;;;;;;;;
+GEN_nationalsyndicalist;Nationalsyndicalist Party;;;;Partido Nacionalsindicalista;;;;;;;;;;

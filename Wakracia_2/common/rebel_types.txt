@@ -30,6 +30,7 @@ reactionary_rebels = {
 		democracy = presidential_dictatorship
 		theocracy = presidential_dictatorship
 		nationalsyndicalist_dictatorship = presidential_dictatorship
+		agrarist = presidential_dictatorship
 	}
 	
 	
@@ -231,6 +232,7 @@ fascist_rebels = {
 		democracy = fascist_dictatorship
 		theocracy = fascist_dictatorship
 		nationalsyndicalist_dictatorship = fascist_dictatorship
+		agrarist = fascist_dictatorship
 	}
 	
 	
@@ -434,6 +436,7 @@ communist_rebels = {
 		democracy = proletarian_dictatorship
 		theocracy = proletarian_dictatorship
 		nationalsyndicalist_dictatorship = proletarian_dictatorship
+		agrarist = proletarian_dictatorship
 	}
 	
 	
@@ -648,6 +651,7 @@ anarcho_liberal_rebels = {
 		democracy = bourgeois_dictatorship
 		theocracy = bourgeois_dictatorship
 		nationalsyndicalist_dictatorship = bourgeois_dictatorship
+		agrarist = bourgeois_dictatorship
 	}
 	
 	
@@ -845,6 +849,7 @@ nationalist_rebels = {
 		democracy = democracy
 		theocracy = democracy
 		nationalsyndicalist_dictatorship = nationalsyndicalist_dictatorship
+		agrarist = presidential_dictatorship
 	}
 	
 	
@@ -1063,6 +1068,7 @@ pan_nationalist_rebels = {
 		democracy = democracy
 		theocracy = democracy
 		nationalsyndicalist_dictatorship = nationalsyndicalist_dictatorship
+		agrarist = presidential_dictatorship
 	}
 
 	defection = pan_nationalist		# If the country seeks independence, defection specifies what type of provinces it wants.
@@ -1338,6 +1344,7 @@ carlist_rebels = {
 		democracy = absolute_monarchy
 		theocracy = absolute_monarchy
 		nationalsyndicalist_dictatorship = absolute_monarchy
+		agrarist = absolute_monarchy
 	}
 	
 	
@@ -1512,6 +1519,7 @@ boxer_rebels = {
 		democracy = absolute_monarchy
 		theocracy = absolute_dictatorship
 		nationalsyndicalist_dictatorship = absolute_monarchy
+		agrarist = absolute_monarchy
 	}
 	
 	
@@ -1738,6 +1746,7 @@ red_shirts = {
 		democracy = democracy
 		theocracy = democracy
 		nationalsyndicalist_dictatorship = nationalsyndicalist_dictatorship
+		agrarist = presidential_dictatorship
 	}
 
 	defection = pan_nationalist		# If the country seeks independence, defection specifies what type of provinces it wants.
@@ -2016,6 +2025,7 @@ indian_sepoys = {
 		democracy = democracy
 		theocracy = democracy
 		nationalsyndicalist_dictatorship = nationalsyndicalist_dictatorship
+		agrarist = presidential_dictatorship
 	}
 
 	defection = pan_nationalist		# If the country seeks independence, defection specifies what type of provinces it wants.
@@ -2252,6 +2262,7 @@ liberal_rebels = {
 		democracy = democracy
 		theocracy = democracy
 		nationalsyndicalist_dictatorship = democracy
+		agrarist = democracy
 	}
 	
 	
@@ -2459,6 +2470,7 @@ unciv_reactionary_rebels = {
 		democracy = absolute_monarchy
 		theocracy = absolute_monarchy
 		nationalsyndicalist_dictatorship = absolute_monarchy
+		agrarist = absolute_monarchy
 	}
 	
 	
@@ -2647,6 +2659,7 @@ sioux_nation = {
 		democracy = democracy
 		theocracy = democracy
 		nationalsyndicalist_dictatorship = nationalsyndicalist_dictatorship
+		agrarist = democracy
 	}
 
 	defection = none					# Will defect to the "best" alternative.
@@ -2770,6 +2783,7 @@ apache = {
 		democracy = democracy
 		theocracy = democracy
 		nationalsyndicalist_dictatorship = nationalsyndicalist_dictatorship
+		agrarist = democracy
 	}
 
 	defection = none					# Will defect to the "best" alternative.
@@ -2901,6 +2915,7 @@ christino_rebels = {
 		democracy = hms_government
 		theocracy = theocracy
 		nationalsyndicalist_dictatorship = hms_government
+		agrarist = hms_government
 	}
 	
 	
@@ -3142,6 +3157,7 @@ nationalsyndicalist_rebels = {
 		hms_government = nationalsyndicalist_dictatorship
 		democracy = nationalsyndicalist_dictatorship
 		theocracy = nationalsyndicalist_dictatorship
+		agrarist = nationalsyndicalist_dictatorship
 	}
 	
 	
@@ -3345,6 +3361,7 @@ theocratic_rebels = {
 		democracy = theocracy
 		theocracy = theocracy
 		nationalsyndicalist_dictatorship = theocracy
+		agrarist = theocracy
 	}
 	
 	
@@ -3520,5 +3537,216 @@ theocratic_rebels = {
 		political_reform = state_press
 		political_reform = no_trade_unions
 		political_reform = underground_parties
+	}
+}
+
+###################################
+# Agrarist Rebels
+###################################
+agrarist_rebels = {
+	icon = 3
+	
+	area = nation 					# Stays within the nation
+	break_alliance_on_win = yes
+	
+	# <this is the governement in the country> = <this is what the rebels want>
+	government = {
+		proletarian_dictatorship = agrarist
+		presidential_dictatorship = agrarist
+		bourgeois_dictatorship = agrarist
+		fascist_dictatorship = agrarist
+		absolute_monarchy = agrarist
+		prussian_constitutionalism = agrarist
+		hms_government = agrarist
+		democracy = agrarist
+		theocracy = agrarist
+		nationalsyndicalist_dictatorship = agrarist
+		agrarist = agrarist
+	}
+	
+	
+	defection = ideology				
+	independence = none				
+	defect_delay = 18
+	
+	ideology = agrarism
+	
+	allow_all_cultures = yes
+	allow_all_religions = yes
+	allow_all_ideologies = yes
+	
+	resilient = yes					# Disbands on retreat
+	reinforcing = yes				# Does not receive reinforcements
+	general = no					# Does use generals
+	smart = no						# Does not assault forts, tactically withdraw from battle, etc.
+	unit_transfer = no				# Units do not remain after enforcing demands.
+	
+	occupation_mult = 1.0			# The amount of strength this rebel gains from taking provinces	
+
+	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	will_rise = 
+	{
+		factor = 0.5
+		
+		modifier = {
+			war = yes
+			factor = 0.8
+		}
+		
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ideology_enabled = agrarism
+			}
+		}
+		
+		modifier = {
+			factor = 0
+				 political_movement = yes
+		}
+		
+		modifier = {
+			war_exhaustion = 4
+			factor = 0.95
+		}
+		
+		modifier = {
+			war_exhaustion = 6
+			factor = 0.95
+		}
+		
+		modifier = {
+			war_exhaustion = 8
+			factor = 0.95
+		}
+		
+		modifier = {
+			factor = 0.95
+			any_neighbor_country = {
+				government = agrarist
+			}
+		}
+	}
+	
+	# The rebel type with the highest modifier for this pop gets picked
+	spawn_chance = {
+		factor = 1.02
+		
+		modifier = {
+			factor = 0
+			country = { civilized = no }
+		}
+		modifier = {
+			factor = 0
+			NOT = {
+				is_ideology_enabled = agrarism
+			}
+		}
+		modifier = {
+			factor = 0
+			government = agrarist
+		}
+		modifier = {
+			factor = 1.015
+			NOT = { political_reform_want = 0.05 }
+		}
+		modifier = {
+			factor = 1.15
+			social_reform_want = 0.15 
+			NOT = { political_reform_want = 0.15 
+			}
+		}
+		modifier = {
+			factor = 0.01
+			NOT = {
+				OR = {
+					pop_majority_ideology = agrarism
+					pop_majority_ideology = socialist
+				}
+			}
+		}
+		modifier = {
+			factor = 1.3
+			pop_majority_ideology = agrarist
+		}
+		modifier = {
+			factor = 1.015
+			country = { plurality = 10 }
+		}
+		modifier = {
+			factor = 1.03
+			country = {
+				any_neighbor_country = {
+					government = agrarist
+				}
+			}
+		}
+		modifier = {
+			factor = 1.05
+			country = {
+				average_militancy = 6
+			}
+		}
+		modifier = {
+			factor = 1.05
+			country = {
+				average_consciousness = 6
+			}
+		}
+	}
+ 
+ 	#This is checked for EACH province in the Area of Operations
+	movement_evaluation = {
+		factor = 1
+		modifier = {
+			factor = 0.1
+			units_in_province = 1
+		}
+		modifier = {
+			factor = 0.001
+			controlled_by = REB
+		}
+		modifier = {
+			factor = 1.5
+			average_militancy = 4
+		}
+		modifier = {
+			factor = 1.5
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 1.5
+			average_militancy = 8
+		}
+		modifier = {
+			factor = 2.0
+			is_capital = yes
+		}
+	}
+	
+ 	# Province Scope
+ 	#siege_won_trigger = {
+ 	#}
+	
+	#siege_won_effect = {
+	#}
+	
+
+	# Country scope
+	demands_enforced_trigger = {
+		capital_scope = {
+			controlled_by = REB
+			province_control_days = 30
+		}
+	}
+	demands_enforced_effect = {
+		political_reform = none_voting
+		political_reform = party_appointed
+		political_reform = no_meeting
+		political_reform = state_press
+		political_reform = state_controlled
+		political_reform = underground_parties
+		
+		nationalize = yes
 	}
 }

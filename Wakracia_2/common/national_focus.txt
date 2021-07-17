@@ -285,7 +285,7 @@ party_loyalty_focus =
 
 	agrarist_focus =
 	{
-		ideology = agrarist
+		ideology = agrarism
 		loyalty_value = 0.001 # By that much pops will be more loyal
 		icon = 32
 	}

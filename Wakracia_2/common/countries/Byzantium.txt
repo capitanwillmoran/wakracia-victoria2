@@ -226,7 +226,7 @@ party = {
 }
 
 party = {
-	name = "BYZ_agrarist"
+	name = "BYZ_agrarism"
 	start_date = 1800.1.1
 	end_date = 2000.1.1
 
@@ -237,6 +237,19 @@ party = {
 	religious_policy = pro_atheism
 	trade_policy = free_trade
 	war_policy = pacifism
+}
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
 }
 unit_names= {
 	dreadnought = {

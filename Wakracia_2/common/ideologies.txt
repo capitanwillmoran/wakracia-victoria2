@@ -497,7 +497,7 @@ liberal_group = {
 		}
 	}
 
-	agrarist = {
+	agrarism = {
 		color = { 58 95 11 }
 		date = 1800.1.1
 		

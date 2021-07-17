@@ -1,0 +1,26 @@
+country_event = {
+
+	id = 97501
+	news = yes
+	news_desc_long = "EVTDESC97501_NEWS_LONG"
+	news_desc_medium = "EVTDESC97501_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC97501_NEWS_SHORT"
+
+	trigger = {
+		owns = 619
+		year = 1914
+		month = 4
+	}
+	
+	fire_only_once = yes
+
+	title = "EVTNAME97501"
+	desc = "EVTDESC97501"
+	picture = "Hidler"
+
+	option = { 
+		name = EVTOPTA97501
+		prestige = 50
+		}
+	}
+}
