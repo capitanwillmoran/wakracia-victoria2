@@ -1,0 +1,96 @@
+political_decisions = {
+
+	ethnic_cleansing = {
+		picture = "ethnic_cleansing"
+		alert = no
+		potential = {
+			OR = {
+				government = theocracy
+				government = proletarian_dictatorship
+				government = nationalsyndicalist_dictatorship
+				government = fascist_dictatorship
+			}
+			NOT = {
+				has_country_flag = ethnic_cleansed
+			}
+			NOT = {
+				has_country_modifier = ethnic_cleansing
+			}
+		}
+
+		allow = {
+			election = no
+
+			OR = {
+				ruling_party_ideology = fascist
+				ruling_party_ideology = nationalsyndicalist
+				ruling_party_ideology = communist
+				ruling_party_ideology = theocratic
+			}
+		
+			OR = {
+				ai = no
+
+				AND = { 
+					average_militancy = 7 
+					citizenship_policy = residency
+				}
+			}
+		}
+
+		effect = {
+			set_country_flag = ethnic_cleansed
+
+			country_event = 1512037
+
+			#set_country_flag = genocide_101
+
+			clr_country_flag = discovered_genocide 
+			clr_country_flag = discovered_genocide1
+			add_country_modifier = {
+				name = ethnic_cleansing duration = -1
+			}
+		}
+	}
+	
+	end_ethnic_cleansing = {
+		picture = "ethnic_cleansing"
+		
+		potential = {
+			OR = { 
+			has_country_flag = ethnic_cleansed
+			has_country_modifier = ethnic_cleansing 
+			has_country_flag = genocide_101
+			}
+		}
+
+		allow = {
+			OR = {
+				is_vassal = no
+				NOT = {
+					average_militancy = 5
+				}
+				ai = no
+			}
+			OR = { 
+				ai = no
+				NOT = { 
+					OR = { 
+						ruling_party_ideology = fascist
+						ruling_party_ideology = nationalsyndicalist
+						ruling_party_ideology = theocratic
+						ruling_party_ideology = communist
+					}
+				}
+			}
+		}
+
+		effect = {
+			clr_country_flag = ethnic_cleansed
+			clr_country_flag = genocide_101
+			remove_country_modifier = ethnic_cleansing
+			clr_country_flag = discovered_genocide 
+			clr_country_flag = discovered_genocide1
+		}
+	}
+}

@@ -21,7 +21,7 @@ political_decisions = {
 		}
 	
 		effect = {
-			treasury = 90000
+			treasury = 9000000
 			any_pop = {
 				consciousness = 2
 				militancy = -2

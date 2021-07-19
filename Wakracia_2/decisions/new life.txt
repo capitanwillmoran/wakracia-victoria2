@@ -1,0 +1,70 @@
+political_decisions = {
+    new_life_in_the_new_world = {
+        picture = new_life
+        potential = {
+            OR = {
+                continent = north_america
+                continent = south_america
+            }
+            is_greater_power = no
+            NOT = { has_country_flag = come_to_the_new_world }
+            number_of_states = 2
+            num_of_ports = 1
+        }
+
+        allow = {
+            war = no
+            is_vassal = no
+            is_greater_power = no
+            state_n_government = 1
+            slavery = no_slavery
+            NOT = { citizenship_policy = residency }
+            NOT = { religious_policy = moralism }
+            OR = {
+                government = democracy
+                government = hms_government
+            }
+            money = 60000
+        }
+
+        effect = {
+            set_country_flag = come_to_the_new_world
+            treasury = -50000
+            add_country_modifier = { name = small_immigration_boom duration = 730 }
+        }
+
+        ai_will_do = {
+            factor = 0
+            modifier = {
+                factor = 100
+                OR  = { tag = BRZ tag = CHL }
+            }
+        }
+    }
+
+    build_titanic = {
+        picture = titanic
+        potential = {
+            is_greater_power = yes
+            exists = yes
+            NOT = { has_global_flag = titanic_built }
+            steel_steamers = 1
+            num_of_ports = 1
+        }
+
+        allow = {
+            invention = dreadnoughts
+            high_sea_battle_fleet = 1
+            money = 110000
+        }
+
+        effect = {
+            set_global_flag = titanic_built
+            prestige = 50
+            money = -90000
+            random_list = {
+                75 = { set_country_flag = titanic_sinks }
+                25 = { set_country_flag = titanic_arrives }
+            }
+        }
+    }

@@ -22,5 +22,5 @@ TPG_liberal;Yi King;Yi Monarch;Yi Monarch;;Rey Yi;;;;;;;;x;
 TPG_reactionary;East King;Östlicher Monarch;Östlicher Monarch;;Rey del Este;;;;;;;;x;
 TPG_socialist;North King;Nördlicher Monarch;Nördlicher Monarch;;Rey del Norte;;;;;;;;x;
 TPG_anarcho_liberal;The Radical Faction;Radikale Fraktion;Radikale Fraktion;;Facción Radical;;;;;;;;x;
-TPG_communist;The Communist Faction;Kommunistische Fraktion;Kommunistische Fraktion;;Facción Dirigista;;;;;;;;x;
-TPG_fascist;The Fascist Faction;Faschistische Fraktion;Faschistische Fraktion;;Facción Ultranacionalista;;;;;;;;x;
+TPG_communist;The Dirigist Faction;Kommunistische Fraktion;Kommunistische Fraktion;;Facción Dirigista;;;;;;;;x;
+TPG_fascist;The Ultranationalist Faction;Faschistische Fraktion;Faschistische Fraktion;;Facción Ultranacionalista;;;;;;;;x;

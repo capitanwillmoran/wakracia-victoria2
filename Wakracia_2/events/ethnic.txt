@@ -1,7 +1,7 @@
 #Genocide options
 country_event = {
 	id = 1512037
-title = "Ethnic Cleansing in $COUNTRY$"
+	name = EVTNAME1512037
 	desc = EVTDESC1512037
 	picture = "genocide_options"
 
@@ -17,7 +17,7 @@ modifier = { factor = 0 NOT = { has_country_flag = genocide_101 } }
 }
 
 option = {
-name = "Spare no one (Target States and Colonial Provinces)"
+name = "EVTOPTA1512037"
 
 set_country_flag = genocide_101
 
@@ -44,7 +44,7 @@ ai_chance = { factor = 0.6 }
 		}
 
 option = {
-name = "Spare some people (Target Colonial Provinces only)"
+name = "EVTOPTB1512037"
 
 set_country_flag = genocide_101
 
