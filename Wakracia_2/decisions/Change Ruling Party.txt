@@ -1,0 +1,33 @@
+political_decisions = {
+
+	appoint_ruling_party = {
+		picture = "appoint_ruling_party"
+		potential = {
+
+			ai = no
+
+			NOT = { has_country_flag = appoint_ruling_party }
+
+		} 
+	
+		alert = no
+	
+		allow = {
+			war = no
+			election = no
+			is_vassal = no
+			NOT = { has_country_modifier = change_ruling_party }
+		}
+      
+		effect = {
+			prestige_factor = -0.025
+			country_event = 1512326
+			set_country_flag = appoint_ruling_party
+			add_country_modifier = { name = change_ruling_party duration = 183 }
+		}
+     
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

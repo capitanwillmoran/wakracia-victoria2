@@ -1,0 +1,124 @@
+political_decisions = {
+    renovate_capital = {
+        picture = budapest_city
+        potential = {
+            OR = {
+                860 = { #Wakandinopla
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                744 = { #Florencia
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                474 = { #Corunha
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                1725 = { #carthage
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                754 = { #Neapolis
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                425 = { #Paris
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                300 = { #London
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                369 = { #Kiel
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                372 = { #Copenhagen
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                549 = { #Berlin
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                964 = { #Crimea
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                521 = { #Lisbon
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                263 = { #Dublin
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                269 = { #Edinburgh
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                554 = { #Erfurt
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+            }
+        }
+
+        allow = {
+            war = no
+            money = 10000
+            state_n_government = 1
+            central_bank_money_bill_printing = 1
+            capital_scope = { has_building = railroad }
+        }
+
+        effect = {
+            treasury = -10000
+            random_owned = {
+                limit = {
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                    owned_by = THIS
+                    OR = {
+                        province_id = 860
+                        province_id = 744
+                        province_id = 474
+                        province_id = 1725
+                        province_id = 754
+                        province_id = 425
+                        province_id = 300
+                        province_id = 369
+                        province_id = 372
+                        province_id = 549
+                        province_id = 964
+                        province_id = 521
+                        province_id = 263
+                        province_id = 269
+                        province_id = 5544
+                    }
+                }
+                life_rating = 5
+                add_province_modifier = { name = recently_built_city duration = 1825 }
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+}

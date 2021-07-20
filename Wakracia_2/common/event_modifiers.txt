@@ -853,3 +853,153 @@ small_immigration_boom = {
     global_immigrant_attract = 1
     icon = 17
 }
+
+recently_built_city = {
+    immigrant_attract = 0.5
+    population_growth = 0.001
+    icon = 11
+}
+
+language_cultural_unity = {
+    assimilation_rate = 2
+    icon = 19
+}
+
+totalitarian_system = {
+    suppression_points_modifier = 2
+    ruling_party_support = 2
+    literacy_con_impact = -0.3
+    issue_change_speed = -2
+    education_efficiency_modifier = 0.02
+    global_pop_consciousness_modifier = -0.05
+    global_pop_militancy_modifier = -0.05
+    research_points_modifier = -0.05
+    badboy = 0.01
+    icon = 7
+}
+
+political_education = {
+    research_points_modifier = -0.05
+    literacy_con_impact = -0.3
+    education_efficiency_modifier = 0.02
+    icon = 5
+}
+
+cult_of_personality = {
+    ruling_party_support = 2
+    global_pop_consciousness_modifier = -0.05
+    icon = 13
+}
+
+the_terror = {
+    badboy = 0.01
+    suppression_points_modifier = 2
+    issue_change_speed = -2
+    rgo_output = -0.1
+    factory_output = -0.1
+    icon = 18
+}
+
+### Palaces ###
+
+royal_palace = {
+local_RGO_throughput = 0.10
+local_factory_throughput = 0.10
+icon = 7
+}
+
+presidential_palace = {
+local_RGO_throughput = 0.10
+local_factory_throughput = 0.10
+icon = 7
+}
+
+parliament_palace = {
+local_RGO_throughput = 0.10
+local_factory_throughput = 0.10
+icon = 7
+}
+
+peoples_palace = {
+local_RGO_throughput = 0.10
+local_factory_throughput = 0.10
+icon = 7
+}
+
+five_year_plan = {
+	suppression_points_modifier = 0.25
+	factory_throughput = 0.10
+	rich_income_modifier = 0.25
+	tax_efficiency = 0.06
+	icon = 11
+}
+
+### Embargo ###
+
+embargoed_by_GP = {
+	import_cost = 0.16
+	icon = 8
+}
+
+embargoed_by_SP = {
+	import_cost = 0.08
+	icon = 8
+}
+
+embargoed_by_minor_nation = {
+	import_cost = 0.04
+	icon = 8
+}
+
+embargo_nation = {
+	import_cost = 0.1
+	factory_throughput = -0.35 
+	factory_owner_cost = 0.1
+	tax_efficiency = -0.05
+	icon = 8
+}
+
+total_embargo_nation = {
+	import_cost = 0.2
+	factory_throughput = -0.75 
+	factory_owner_cost = 0.2
+	tax_efficiency = -0.10
+	icon = 8
+}
+
+embargoing_nation = {
+	import_cost = 0.05
+	tax_efficiency = -0.01
+	icon = 6
+}
+
+transition_to_democracy = {
+icon = 21
+political_reform_desire = 0.20
+issue_change_speed = 0.5
+}
+
+amended_constitution = {
+global_pop_militancy_modifier = 0.2
+global_pop_consciousness_modifier = 0.2
+icon = 6
+}
+
+political_strife = {
+tax_efficiency = -0.01
+suppression_points_modifier = -0.1
+core_pop_militancy_modifier = 0.02
+core_pop_consciousness_modifier = 0.02
+icon = 6
+}
+
+new_constitution_modifier = {
+suppression_points_modifier = -0.25
+political_reform_desire = 0.25
+global_pop_consciousness_modifier = 0.25
+icon = 5
+}
+
+change_ruling_party = {
+	icon = 6
+}

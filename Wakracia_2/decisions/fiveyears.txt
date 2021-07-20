@@ -1,0 +1,23 @@
+political_decisions = {
+
+	five_year_plan = {
+		picture = "five_year_plan"
+		potential = {
+			OR = {
+				economic_policy = planned_economy
+			}
+			NOT = { has_country_modifier = five_year_plan }
+		}
+
+		allow = {
+			#Must have some industry to begin with
+			industrial_score = 100
+		}
+
+		effect = {
+
+			add_country_modifier = { name = five_year_plan duration = 1825 }
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

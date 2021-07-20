@@ -498,3 +498,30 @@ country_event = {
 		government = nationalsyndicalist_dictatorship
 	}
 }
+
+country_event = {
+	id = 90031
+	title = "EVTNAME90031"
+	desc = "EVTDESC90031"
+	picture = "Unite"
+	
+	trigger = {
+		NOT = {
+			government = theocracy
+			government = absolute_monarchy
+		}
+		political_parties = underground_parties
+		vote_franschise = none_voting
+		upper_house_composition = party_appointed
+		ruling_party_ideology = theocratic
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA90031"
+		government = theocracy
+	}
+}

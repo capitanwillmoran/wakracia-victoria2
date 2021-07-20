@@ -1,0 +1,89 @@
+country_event = {
+  id = 1512326
+  title = EVTNAME1512326
+  desc = EVTDESC1512326
+  picture = "select_new_ruling_party_decision"
+
+is_triggered_only = yes
+
+  option = {
+	name = EVTOPTA1512326
+	ruling_party_ideology = conservative
+clr_country_flag = appoint_ruling_party
+random_owned = { limit = { owner = { NOT = { pop_majority_ideology = conservative } } } }
+
+  }
+
+  option = {
+	name = EVTOPTB1512326
+	ruling_party_ideology = reactionary
+clr_country_flag = appoint_ruling_party
+random_owned = { limit = { owner = { NOT = { pop_majority_ideology = reactionary } } } }
+
+  }
+
+  option = {
+	name = EVTOPTC1512326
+	ruling_party_ideology = liberal
+clr_country_flag = appoint_ruling_party
+random_owned = { limit = { owner = { NOT = { pop_majority_ideology = liberal } } } }
+
+  }
+
+  option = {
+	name = EVTOPTD1512326
+	ruling_party_ideology = anarcho_liberal
+clr_country_flag = appoint_ruling_party
+random_owned = { limit = { owner = { NOT = { pop_majority_ideology = anarcho_liberal } } } }
+
+  }
+
+  option = {
+	name = EVTOPTE1512326
+	ruling_party_ideology = socialist
+clr_country_flag = appoint_ruling_party
+random_owned = { limit = { owner = { NOT = { pop_majority_ideology = socialist } } } }
+
+  }
+
+  option = {
+	name = EVTOPTF1512326
+	ruling_party_ideology = communist
+clr_country_flag = appoint_ruling_party
+random_owned = { limit = { owner = { NOT = { pop_majority_ideology = communist } } } }
+
+  }
+
+  option = {
+	name = EVTOPTG1512326
+	ruling_party_ideology = agrarism
+clr_country_flag = appoint_ruling_party
+random_owned = { limit = { owner = { NOT = { pop_majority_ideology = agrarism } } } }
+
+  }
+
+  option = {
+	name = EVTOPTH1512326
+	ruling_party_ideology = theocratic
+clr_country_flag = appoint_ruling_party
+random_owned = { limit = { owner = { NOT = { pop_majority_ideology = theocratic } } } }
+
+  }
+
+  option = {
+	name = EVTOPTI1512326
+	ruling_party_ideology = fascist
+clr_country_flag = appoint_ruling_party
+random_owned = { limit = { owner = { NOT = { pop_majority_ideology = fascist } } } }
+
+  }
+
+  option = {
+	name = EVTOPTJ1512326
+	ruling_party_ideology = nationalsyndicalist
+clr_country_flag = appoint_ruling_party
+random_owned = { limit = { owner = { NOT = { pop_majority_ideology = nationalsyndicalist } } } }
+
+  }
+
+}

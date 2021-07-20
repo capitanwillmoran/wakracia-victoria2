@@ -1,5 +1,9 @@
 graphical_culture = PrussianGC
 color = { 224 125 8 }
+proletarian_dictatorship = { 255 0 0 }
+nationalsyndicalist_dictatorship = { 120 8 8 }
+agrarist = { 23 120 8 }
+fascist_dictatorship = { 40 40 40 }
 
 party = {
 	name = "X09_anarcho_liberal"

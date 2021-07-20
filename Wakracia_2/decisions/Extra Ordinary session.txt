@@ -1,0 +1,112 @@
+political_decisions = {
+	
+	president_for_life_dictatorship = {
+		picture = "president_for_life"
+		potential = {
+		
+			has_country_flag = semi_democratic_dictatorship
+			NOT = { has_country_flag = president_for_life }
+
+			OR = { government = proletarian_dictatorship government = fascist_dictatorship government = presidential_dictatorship government = nationalsyndicalist_dictatorship government = bourgeois_dictatorship government = theocracy }
+
+		}
+
+		allow = {
+			OR = { prestige = 1000 is_greater_power = yes is_secondary_power = yes }
+			war = no
+			NOT = { is_disarmed = yes }
+			has_recently_lost_war = no
+			NOT = { has_country_modifier = amended_constitution }
+			NOT = { has_country_modifier = transition_to_democracy }
+
+			OR = {
+				ai = no
+			}
+			
+			#AI selects only if country is stable
+			OR = { ai = no NOT = { average_militancy = 4 } }
+			
+		}
+
+		effect = {
+			prestige_factor = 0.01
+			
+			political_reform = ruling_party_opinion
+			
+			add_country_modifier = { name = amended_constitution duration = 3650 }
+
+			set_country_flag = president_for_life
+			clr_country_flag = semi_democratic_dictatorship
+			
+			any_pop = { 
+				limit = { strata = middle }
+				militancy = 2
+				ideology = { factor = 0.15 value = liberal }
+			}
+			
+			any_pop = { 
+				limit = { 
+					NOT = { OR = { strata = rich type = bureaucrats type = officers } } 
+				}
+				militancy = 3
+			}
+			
+		}
+		
+		ai_will_do = { 
+			factor = 1
+		}
+
+	}
+
+	#Initiate the transition from a communist dictatorship to a democracy
+	reform_politburo = {
+		picture = "reform_politburo"
+		potential = {
+			OR = { government = proletarian_dictatorship }
+			OR = { upper_house_composition = party_appointed upper_house_composition = appointed }
+		}
+
+		alert = no
+
+		allow = {
+			prestige = 600
+			war = no
+			NOT = { is_disarmed = yes }
+			is_vassal = no
+			
+			OR = { 
+			
+				ai = no
+				
+				#Dictator has no choice
+				average_militancy = 8 
+
+			}
+			
+			NOT = { has_country_modifier = law_changed_by_force }
+		}
+
+		effect = {
+			political_reform = population_equal_weight
+			any_pop = { limit = { OR = { type = bureaucrats type = officers } } militancy = 10 }
+
+			any_pop = { limit = { NOT = { OR = { type = bureaucrats type = officers } } } militancy = -6 }
+
+			upper_house = { ideology = conservative value = 0.30 }
+			upper_house = { ideology = reactionary value = 0.10 }
+			upper_house = { ideology = liberal value = 0.50 }
+
+			add_country_modifier = { name = law_changed_by_force duration = 730 }
+			
+		}
+
+		ai_will_do = { 
+			factor = 1
+			
+			modifier = { factor = 0 NOT = { social_thought = 1 } }
+		}
+		
+	}
+
+}

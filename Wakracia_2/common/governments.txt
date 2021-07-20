@@ -108,8 +108,6 @@ democracy = {
 
 theocracy = {
 	#which ideology of parties.
-	reactionary = yes
-	conservative = yes
 	theocratic = yes
 	
 	election = no

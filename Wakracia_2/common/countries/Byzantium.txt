@@ -1,5 +1,10 @@
 graphical_culture = EuropeanGC
 color = { 255 110 197 }
+proletarian_dictatorship = { 200 10 10 }
+nationalsyndicalist_dictatorship = { 144 12 12 }
+theocracy = { 241 241 241 }
+agrarist = { 58 162 28 }
+fascist_dictatorship = { 80 80 80 }
 
 party = {
 	name = "BYZ_conservative"
@@ -230,7 +235,7 @@ party = {
 	start_date = 1800.1.1
 	end_date = 2000.1.1
 
-	ideology = agrarist
+	ideology = agrarism
 
 	citizenship_policy = residency
 	economic_policy = agrarism
@@ -238,19 +243,7 @@ party = {
 	trade_policy = free_trade
 	war_policy = pacifism
 }
-party = {
-	name = "GEN_nationalsyndicalist"
-	start_date = 1905.1.1
-	end_date = 2000.1.1
 
-	ideology = nationalsyndicalist
-
-	citizenship_policy = residency
-	economic_policy = planned_economy
-	religious_policy = moralism
-	trade_policy = protectionism
-	war_policy = pro_militar
-}
 unit_names= {
 	dreadnought = {
 		Kilkis Aspis "Vasilefs Konstantinos" Salamis Athina Constantinopolis Sparta Leonidas "Mégas Aléxandros" Pericles Olympias 
