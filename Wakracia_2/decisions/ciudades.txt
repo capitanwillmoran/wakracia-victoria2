@@ -1,0 +1,87 @@
+political_decisions = {
+
+	build_belo_horizonte = {
+		picture = build_belo_horizonte
+		potential = {
+			owns = 2442
+			year = 1870
+			NOT = { has_country_flag = bh_built }
+		}
+		allow = {
+			money = 5000
+		}
+		effect = {
+			set_country_flag = bh_built
+			treasury = -5000
+			2442 = { change_province_name = "Belo Horizonte" }
+			2442 = {
+				life_rating = 4
+				trade_goods = iron
+				add_province_modifier = { name = recently_built_city duration = 365 }
+			}
+		}
+	}
+
+	build_pilar = {
+		picture = build_pilar
+		potential = {
+			owns = 2361
+			year = 1860
+			NOT = { has_country_flag = pilar_built }
+		}
+		allow = {
+			money = 5000
+		}
+		effect = {
+			set_country_flag = pilar_built
+			treasury = -5000
+			2361 = { change_province_name = "Pilar" }
+			2361 = {
+				life_rating = 4
+				add_province_modifier = { name = recently_built_city duration = 365 }
+			}
+		}
+	}
+
+	build_kaelos = {
+		picture = build_bsas
+		potential = {
+			owns = 2348
+			year = 1840
+			NOT = { has_country_flag = bsas_built }
+		}
+		allow = {
+			money = 5000
+		}
+		effect = {
+			set_country_flag = bsas_built
+			treasury = -5000
+			2348 = { change_province_name = "Kalos Aeras" }
+			2348 = {
+				life_rating = 4
+				add_province_modifier = { name = recently_built_city duration = 365 }
+			}
+		}
+	}
+
+	build_morania = {
+		picture = build_morania
+		potential = {
+			owns = 2209
+			year = 1850
+			NOT = { has_country_flag = morania_built }
+		}
+		allow = {
+			money = 5000
+		}
+		effect = {
+			set_country_flag = morania_built
+			treasury = -5000
+			2209 = { change_province_name = "Morania" }
+			2209 = {
+				life_rating = 4
+				add_province_modifier = { name = recently_built_city duration = 365 }
+			}
+		}
+	}
+}

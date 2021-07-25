@@ -1,0 +1,38 @@
+political_decisions = {
+	staff_reforms = {
+		picture = "army_staff"
+		potential = {
+			civilized = yes
+			NOT = {
+				has_country_flag = military_reformed_staff
+			}
+		}
+		allow = {
+			OR = { 
+				AND = {
+					breech_loaded_rifles = 1
+					army_professionalism = 1
+				}
+				AND = {
+					ai = yes
+					year = 1858
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = reformed_staff
+				duration = 5475
+			}
+			prestige = 5
+			set_country_flag = military_reformed_staff
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { year = 1850 }
+			}
+		}
+	}
+}

@@ -1,0 +1,46 @@
+political_decisions = {
+	iwakura_mission = {
+	picture = iwakura_mission
+		potential = {
+			OR = {
+				tag = JAP
+				tag = TKG
+			}
+			NOT = { has_country_flag = sent_iwakura_mission }
+		}
+		
+		allow = {
+			war = no
+			civilized = yes
+			idealism = 1
+			OR = {
+			AND = { 
+				tag = JAP
+				TKG = { exists = no }
+				}
+			AND = { 
+				tag = TKG
+				JAP = { exists = no }
+				}
+			}
+		}
+		
+		effect = {
+			set_country_flag = sent_iwakura_mission
+			years_of_research = 1
+			random_owned = {
+				limit = {
+					owner = { 
+						OR = {
+							school_reforms = low_schools
+							school_reforms = no_schools
+						}
+					}
+				}
+				owner = { social_reform = acceptable_schools }
+			}
+		}
+		
+		ai_will_do = { factor = 1 }
+	}
+}

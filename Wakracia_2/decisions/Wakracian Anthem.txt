@@ -1,0 +1,30 @@
+political_decisions = {
+	wakracian_national_anthem = {
+		picture = wakracia_logo
+		potential = {
+			tag = BYZ
+			OR = {
+				government = absolute_monarchy
+				government = prussian_constitutionalism
+				government = hms_government
+			}
+			NOT = { has_country_flag = wakracian_national_anthem }
+		}
+		
+		allow = {
+			war = no
+			state_n_government = 1
+		}
+		
+		effect = {
+			set_country_flag = wakracian_national_anthem	
+			plurality = 1
+			any_pop = {
+				limit = { is_primary_culture = yes }
+				consciousness = -1
+			}
+		}
+		
+		ai_will_do = { factor = 1 }
+	}
+}

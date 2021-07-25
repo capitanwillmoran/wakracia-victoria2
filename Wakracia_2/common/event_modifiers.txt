@@ -974,32 +974,57 @@ embargoing_nation = {
 }
 
 transition_to_democracy = {
-icon = 21
-political_reform_desire = 0.20
-issue_change_speed = 0.5
+	icon = 21
+	political_reform_desire = 0.20
+	issue_change_speed = 0.5
 }
 
 amended_constitution = {
-global_pop_militancy_modifier = 0.2
-global_pop_consciousness_modifier = 0.2
-icon = 6
+	global_pop_militancy_modifier = 0.2
+	global_pop_consciousness_modifier = 0.2
+	icon = 6
 }
 
 political_strife = {
-tax_efficiency = -0.01
-suppression_points_modifier = -0.1
-core_pop_militancy_modifier = 0.02
-core_pop_consciousness_modifier = 0.02
-icon = 6
+	tax_efficiency = -0.01
+	suppression_points_modifier = -0.1
+	core_pop_militancy_modifier = 0.02
+	core_pop_consciousness_modifier = 0.02
+	icon = 6
 }
 
 new_constitution_modifier = {
-suppression_points_modifier = -0.25
-political_reform_desire = 0.25
-global_pop_consciousness_modifier = 0.25
-icon = 5
+	suppression_points_modifier = -0.25
+	political_reform_desire = 0.25
+	global_pop_consciousness_modifier = 0.25
+	icon = 5
 }
 
 change_ruling_party = {
 	icon = 6
+}
+
+reformed_staff = {
+	org_regain = 0.25
+	land_organisation = 0.15
+	mobilisation_economy_impact = -0.25
+	land_unit_start_experience = 10
+	supply_consumption = -0.05
+	mobilisation_size = 0.05
+	icon = 15
+}
+
+population_resettlement = {
+	immigrant_attract = 5
+	assimilation_rate = 2.5
+	population_growth = 0.02
+	icon = 19
+}
+
+the_very_special_wakracian_legion = {
+	prestige = 0.01
+	org_regain = 0.25
+	land_organisation = 0.15
+	global_immigrant_attract = 0.01	#1%..
+	icon = 17
 }

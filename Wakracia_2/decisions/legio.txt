@@ -1,0 +1,27 @@
+political_decisions = {
+
+	support_wakracian_special_legion = {
+		picture = legio_wakracia
+		potential = {
+			OR = {
+				tag = BYZ
+				tag = GRE
+			}
+			is_greater_power = yes
+			owns = 860
+			NOT = { has_country_modifier = the_very_special_wakracian_legion }
+		}
+		allow = {
+			army_professionalism = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = the_very_special_wakracian_legion
+				duration = -1
+			}
+			860 = { fort = 3 }
+		}
+		
+		ai_will_do = { factor = 1 }
+	}
+}
