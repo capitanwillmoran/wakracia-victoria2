@@ -1,0 +1,29 @@
+political_decisions = {
+
+	wakracian_referendum = {
+		picture = "wakracia_logo"
+		potential = {
+
+			ai = no
+
+			NOT = { has_country_flag = wakracian_referendum }
+
+		}
+	
+		allow = {
+			war = no
+			election = no
+			is_vassal = no
+		}
+      
+		effect = {
+			prestige_factor = -0.025
+			country_event = 1512327
+			set_country_flag = wakracian_referendum
+		}
+     
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

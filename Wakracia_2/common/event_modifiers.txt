@@ -1028,3 +1028,8 @@ the_very_special_wakracian_legion = {
 	global_immigrant_attract = 0.01	#1%..
 	icon = 17
 }
+
+jewish_farms = {
+    farm_rgo_size = 2
+    icon = 13
+}

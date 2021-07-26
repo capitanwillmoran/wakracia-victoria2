@@ -1,8 +1,6 @@
 owner=GLC
 controller=GLC
-add_core=ECU
-add_core=PEU
-add_core=CLM
 trade_goods = fish
 life_rating = 30
 terrain = plains
+colonial=2

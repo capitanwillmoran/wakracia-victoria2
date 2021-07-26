@@ -1,0 +1,23 @@
+political_decisions = {
+	new_wakracian_senate = {
+		potential = {
+			NOT = { has_country_flag = new_wakracian_senate_built }
+			tag = BYZ
+			is_greater_power = yes
+			capital = 860
+		}
+		
+		allow = {
+			expressionism = 1
+			money = 150001
+		}
+		
+		effect = {
+			prestige = 100
+			treasury = -150000
+			BYZ = { set_country_flag = new_wakracian_senate_built }
+		}
+		
+		ai_will_do = { factor = 1 }
+	}
+}

@@ -1,0 +1,1228 @@
+political_decisions = {
+
+	greater_norway = {
+		picture = map_iceland
+		potential = {
+			tag = NOR
+			NOT = { has_country_flag = greater_norway }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+		}
+		
+		effect = {
+			set_country_flag = greater_norway
+			GRN = { all_core = { add_core = NOR } }
+			ICL = { all_core = { add_core = NOR } }
+			307 = { add_core = NOR }
+			252 = { add_core = NOR }
+			253 = { add_core = NOR }
+			267 = { add_core = NOR }
+			3246 = { add_core = NOR }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_finland = {
+		picture = greater_finland
+		potential = {
+			tag = FIN
+			prestige = 15
+			NOT = { 994 = { is_core = FIN } }
+			NOT = { has_country_flag = greater_finland }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+			war_policy = jingoism
+			OR = {
+				is_greater_power = yes
+				AND = {
+					is_secondary_power = yes
+					prestige = 150
+				}
+			}
+		}
+		
+		effect = {
+			RUS_994 = { add_core = FIN }
+			RUS_339 = { add_core = FIN }
+			RUS_349 = { add_core = FIN }
+			RUS_336 = { add_core = FIN }
+			RUS_1003 = { add_core = FIN }
+			add_accepted_culture = ugrian
+			prestige = 10
+			badboy = 10
+			set_country_flag = greater_finland
+			any_country = {
+				limit = {
+					is_greater_power = no
+					is_vassal = no
+					relation = {
+						who = FIN
+						value = 5
+					}
+					NOT = { 
+						tag = FIN
+						truce_with = FIN
+						war_with = FIN
+					}
+					OR = {
+						primary_culture = finnish
+						primary_culture = ugrian
+						primary_culture = sami
+						primary_culture = estonian
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { war_policy = jingoism }
+			}
+			modifier = {
+				factor = 0
+				994 = {
+					NOT = { owned_by = THIS }
+					owner = { is_greater_power = yes }
+				}
+			}
+			modifier = {
+				factor = 0
+				994 = {
+					NOT = { owned_by = THIS }
+					owner = {
+						is_greater_power = no
+						war = no
+					}
+				}
+			}
+			modifier = {
+				factor = 0
+				badboy = 0.8
+			}
+		}
+	}
+
+	claim_galapagos = {
+	picture = claim_galapagos
+		potential = {
+			tag = GCO
+			NOT = { has_country_flag = claim_galapagos }
+		}
+
+		allow = {
+			war = no
+			is_vassal = no
+			prestige = 45
+		}
+
+		effect = {
+			set_country_flag = claim_galapagos
+			badboy = 5
+			2285 = { #Desterro
+				add_core = GCO
+			}
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}		
+
+	claim_greater_albania = {
+	picture = claim_greater_albania
+		potential = {
+			tag = ALB
+			NOT = { has_country_flag = claim_greater_albania }
+		}
+
+		allow = {
+			war = no
+			is_vassal = no
+			prestige = 45
+			government = fascist_dictatorship
+		}
+
+		effect = {
+			set_country_flag = claim_greater_albania
+			800 = { #Ulcinj
+				add_core = ALB
+			}
+			802 = { #Pristina
+				add_core = ALB
+			}
+			803 = { #Prizren
+				add_core = ALB
+			}
+			807 = { #Bitola
+				add_core = ALB
+			}
+			824 = { #Janina
+				add_core = ALB
+			}
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	greater_afghanistan = {
+		picture = form_durrani_empire
+		potential = {
+			tag = AFG
+			owns = 1209
+			prestige = 5
+			is_vassal = no
+			NOT = { has_country_flag = greater_afghanistan }			
+		}
+		allow = {
+			war = no
+			state_n_government = 1
+			OR = {
+				prestige = 45
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			military_score = 40
+		}
+		effect = {
+			1218 = {
+				add_core = AFG
+			}
+			1219 = {
+				add_core = AFG
+			}
+			1223 = {
+				add_core = AFG
+			}
+			set_country_flag = greater_afghanistan
+			badboy = 2
+			any_country = {
+				limit = {
+					OR = {
+						owns = 1218
+						owns = 1219
+						owns = 1223
+					}
+				}
+				relation = {
+					who = AFG
+					value = -100
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				1218 = {
+					owner = {
+						is_greater_power = yes
+						military_score = 60
+					}
+				}
+			}
+			modifier = {
+				factor = 0
+				1219 = {
+					owner = {
+						is_greater_power = yes
+						military_score = 60
+					}
+				}
+			}
+			modifier = {
+				factor = 0
+				1223 = {
+					owner = {
+						is_greater_power = yes
+						military_score = 60
+					}
+				}
+			}
+			modifier = {
+				factor = 0
+				badboy = 0.8
+			}
+		}
+	}
+	
+	greater_nepal = {
+		picture = greater_nepal
+		potential = {
+			tag = NEP
+			NOT = { has_country_flag = claimed_greater_nepal }
+		}
+		
+		allow = {
+			war = no
+			OR = {
+				NOT = { neighbour = ENG }
+				AND = {
+					war_policy = jingoism
+					civilized = yes
+				}
+			}
+			military_score = 30
+			government = fascist_dictatorship
+		}
+		
+		effect = {
+			set_country_flag = claimed_greater_nepal
+			1235 = { add_core = NEP }
+			1328 = { add_core = NEP }
+			1252 = { add_core = NEP }
+			1255 = { add_core = NEP }
+			any_country = {
+				limit = {
+					OR = {
+						owns = 1235
+						owns = 1328
+						owns = 1252
+						owns = 1255
+					}
+				}
+				relation = { who = THIS value = -100 }
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	greater_serbia = {
+	picture = greater_serbia
+		potential = {
+			tag = SER
+			NOT = { has_country_flag = claimed_greater_serbia }
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			is_disarmed = no
+			war_policy = jingoism
+			SER = {
+				all_core = { owned_by = SER }
+			}
+		}
+		
+		effect = {
+			set_country_flag = claimed_greater_serbia
+			prestige = 10
+			AUS_777 = { add_core = SER }
+			TUR_788 = { add_core = SER }
+			MON_2582 = { add_core = SER }
+			AUS_780 = { add_core = SER }
+			776 = { add_core = SER }
+			772 = { add_core = SER }
+			774 = { add_core = SER }
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	greater_macedonia = {
+	picture = greater_macedonia
+		potential = {
+			tag = MCD
+			NOT = { has_country_flag = claimed_greater_macedonia }
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			is_disarmed = no
+			war_policy = jingoism
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+			OR = {
+				is_secondary_power = yes
+				is_greater_power = yes
+			}
+		}
+		
+		effect = {
+			set_country_flag = claimed_greater_macedonia
+			prestige = 5
+			808 = { add_core = MCD }
+			823 = { add_core = MCD }
+			805 = { add_core = MCD }
+			822 = { add_core = MCD }
+			821 = { add_core = MCD }
+			819 = { add_core = MCD }
+			820 = { add_core = MCD }
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	greater_ukraine = {
+		potential = {
+			tag = UKR
+			NOT = { has_country_flag = claimed_greater_ukraine }
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			is_disarmed = no
+			war_policy = jingoism
+			is_greater_power = yes
+			government = fascist_dictatorship
+		}
+		
+		effect = {
+			set_country_flag = claimed_greater_ukraine
+			prestige = 10
+			DON = { all_core = { add_core = UKR } }
+			RUT = { all_core = { add_core = UKR } }
+			676 = { add_core = UKR }
+			677 = { add_core = UKR }
+			663 = { add_core = UKR }
+			715 = { add_core = UKR }
+			705 = { add_core = UKR }
+			977 = { add_core = UKR }
+			1018 = { add_core = UKR }
+			1019 = { add_core = UKR }
+			any_country = {
+				limit = {
+					NOT = { tag = THIS }
+					any_owned_province = { is_core = UKR }
+				}
+				relation = { who = THIS value = -100 }
+				leave_alliance = THIS
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	provincia_cisplatina = {
+		picture = banda_oriental
+		potential = {
+			tag = BRZ
+			NOT = { has_country_flag = cisplatina_is_ours }
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+		}
+		
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			romanticism = 1
+			is_greater_power = yes
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+		}
+		
+		effect = {
+			set_country_flag = cisplatina_is_ours #Uruguay provinces
+			badboy = 10
+			URU_2344 = {
+				add_core = BRZ
+			}
+			BRZ_2467 = {
+				add_core = BRZ
+			}
+
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	rio_da_mate = {
+		picture = rhodesia_charter
+		potential = {
+			tag = BRZ
+			NOT = { has_country_flag = mate_is_ours }
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+		}
+		
+		allow = {
+			has_country_flag = cisplatina_is_ours
+			nationalism_n_imperialism = 1
+			is_greater_power = yes
+		}
+		
+		effect = {
+			set_country_flag = mate_is_ours 
+			badboy = 10
+			PRG_2343 = { 
+				add_core = BRZ
+			}
+			PRG_2338 = { 
+				add_core = BRZ
+			}
+			BOL_2317 = { 
+				add_core = BRZ
+			}
+			PRG_2357 = { 
+				add_core = BRZ
+			}
+
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	greater_syria = {
+		alert = yes
+		picture = greater_syria
+		potential = {
+			NOT = { has_country_flag = claimed_greater_syria }
+			tag = SYR
+			government = fascist_dictatorship
+		}
+		
+		allow = {
+			nationalism_n_imperialism = 1
+			war = no
+			is_vassal = no
+		}
+		
+		effect = {
+			badboy = 10
+			set_country_flag = claimed_greater_syria
+			1756 = { add_core = SYR }
+			1757 = { add_core = SYR }
+			1131 = { add_core = SYR }
+			1132 = { add_core = SYR }
+			1136 = { add_core = SYR }
+			EGY_921 = { add_core = SYR }
+			EGY_910 = { add_core = SYR }
+			EGY_915 = { add_core = SYR }
+			TUR_855 = { add_core = SYR }
+			TUR_894 = { add_core = SYR }
+			#TUR_923 = { add_core = SYR }
+			TUR_931 = { add_core = SYR }
+			TUR_935 = { add_core = SYR }
+			TUR_893 = { add_core = SYR }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_croatia = {
+		alert = yes
+		picture = greater_croatia_map
+		potential = {
+			NOT = { has_country_flag = claimed_greater_croatia }
+			tag = CRO
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			romanticism = 1
+			invention = manifest_destiny
+			war_policy = jingoism
+			OR = {
+				is_greater_power = yes
+				government = fascist_dictatorship
+			}
+		}
+		
+		effect = {
+			badboy = 10
+			set_country_flag = claimed_greater_croatia
+			791 = { add_core = CRO }
+			TUR_788 = { add_core = CRO }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_tibet = {
+		alert = yes
+		picture = tibet_capital
+		potential = {
+			NOT = { has_country_flag = claimed_greater_tibet }
+			tag = TIB
+		}
+		
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			romanticism = 1
+			invention = manifest_destiny
+			war_policy = jingoism
+			is_vassal = no
+		}
+		
+		effect = {
+			badboy = 10
+			set_country_flag = claimed_greater_tibet
+			1593 = { add_core = TIB }
+			1586 = { add_core = TIB }
+			1582 = { add_core = TIB }
+			1556 = { add_core = TIB }
+			1558 = { add_core = TIB }
+			1557 = { add_core = TIB }
+			1591 = { add_core = TIB }
+			1226 = { add_core = TIB }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	claim_aragon = {
+		picture = fueros
+		potential = {
+			tag = CAT
+			NOT = { has_country_flag = claimed_aragon }
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+		}
+		
+		effect = {
+			set_country_flag = claimed_aragon
+			random_list = {
+				34 = { badboy = 1 }
+				33 = { badboy = 2 }
+				33 = { badboy = 3 }
+			}
+			497 = { add_core = CAT }
+			495 = { add_core = CAT }
+			496 = { add_core = CAT }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_bulgaria = {
+		picture = greater_bulgaria
+		potential = {
+			tag = BUL
+			NOT = { has_country_flag = greater_bulgaria_claimed }
+		}
+		
+		allow = {
+			war = no
+			is_greater_power = yes
+			invention = manifest_destiny
+			invention = nostalgic_romanticism
+			government = fascist_dictatorship
+		}
+		
+		effect = {
+			set_country_flag = greater_bulgaria_claimed
+			badboy = 15
+			TUR_805 = { add_core = BUL } #Southern Macedonia
+			TUR_803 = { add_core = BUL } #Southern Serbia
+			random_owned = {
+				limit = { owner = { NOT = { has_country_flag = bulgaria_exchange has_country_flag = eastern_rumelia_exchange } } }
+				TUR_860 = { add_core = BUL } #Thrace
+			}
+			860 = { remove_core = BUL }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_minisrael = {
+		picture = map_arabia
+		potential = {
+			tag = ISR
+			has_global_flag = israel_palestine
+			NOT = { has_country_flag = claimed_greater_minisrael }
+			NOT = { has_country_flag = greater_israel }
+			NOT = { government = fascist_dictatorship }
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			is_disarmed = no
+			nationalism_n_imperialism = 1
+			is_greater_power = yes
+			war_policy = jingoism
+			ISR = {
+				all_core = { owned_by = ISR }
+			}
+		}
+		
+		effect = {
+			set_country_flag = claimed_greater_minisrael
+			prestige = 10
+			badboy = 10
+			EGY_910 = { add_core = ISR }
+			EGY_921 = { add_core = ISR }
+			EGY_915 = { add_core = ISR }
+			EGY_903 = { add_core = ISR }
+			EGY_897 = { add_core = ISR }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.6
+			}
+		}
+	}
+
+	absolute_madman_israel = {
+		picture = map_arabia
+		potential = {
+			tag = ISR
+			has_country_flag = greater_israel
+			is_greater_power = yes
+			all_core = { owned_by = THIS }
+			government = fascist_dictatorship
+			NOT = { has_country_flag = absolute_madman_israel }
+		}
+		
+		allow = {
+			prestige = 500
+			military_score = 250
+			war = no
+			is_vassal = no
+			is_disarmed = no
+			nationalism_n_imperialism = 1
+			war_policy = jingoism
+		}
+		
+		effect = {
+			set_country_flag = absolute_madman_israel
+			prestige = 20
+			badboy = 25
+			EGY_910 = { add_core = ISR }
+			EGY_921 = { add_core = ISR }
+			EGY_915 = { add_core = ISR }
+			EGY_903 = { add_core = ISR }
+			EGY_897 = { add_core = ISR }
+			EGY_1746 = { add_core = ISR }
+			EGY_1750 = { add_core = ISR }
+			EGY_1762 = { add_core = ISR }
+			EGY_1753 = { add_core = ISR }
+			NEJ_1156 = { add_core = ISR }
+			NEJ_1157 = { add_core = ISR }
+			HDJ_1151 = { add_core = ISR }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.1
+			}
+		}
+	}
+
+	greater_andinia = {
+		picture = conquest_of_the_desert
+		potential = {
+			tag = ISR
+			has_global_flag = israel_andinia
+			NOT = { has_country_flag = claimed_greater_andinia }
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			is_disarmed = no
+			nationalism_n_imperialism = 1
+			OR = {
+				is_greater_power = yes
+				government = fascist_dictatorship
+			}
+			war_policy = jingoism
+			ISR = {
+				all_core = { owned_by = ISR }
+			}
+		}
+		
+		effect = {
+			set_country_flag = claimed_greater_andinia
+			prestige = 10
+			badboy = 10
+			ARG_2398 = { add_core = ISR }
+			CHL_2332 = { add_core = ISR }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.6
+			}
+		}
+	}
+
+	greater_guiana = {
+		picture = colombia_map
+		potential = {
+			tag = ISR
+			has_global_flag = israel_guiana
+			NOT = { has_country_flag = claimed_greater_guiana }
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			is_disarmed = no
+			nationalism_n_imperialism = 1
+			OR = {
+				is_greater_power = yes
+				government = fascist_dictatorship
+			}
+			war_policy = jingoism
+			ISR = {
+				all_core = { owned_by = ISR }
+			}
+		}
+		
+		effect = {
+			set_country_flag = claimed_greater_guiana
+			prestige = 10
+			badboy = 5
+			ENG_1979 = { add_core = ISR }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.8
+			}
+		}
+	}
+
+	greater_hokkaido = {
+		picture = map_yellow_sea
+		potential = {
+			tag = ISR
+			has_global_flag = israel_japan
+			NOT = { has_country_flag = claimed_greater_hokkaido }
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			is_disarmed = no
+			nationalism_n_imperialism = 1
+			OR = {
+				is_greater_power = yes
+				government = fascist_dictatorship
+			}
+			war_policy = jingoism
+			ISR = {
+				all_core = { owned_by = ISR }
+			}
+		}
+		
+		effect = {
+			set_country_flag = claimed_greater_hokkaido
+			prestige = 10
+			badboy = 5
+			JAP_1086 = { add_core = ISR }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.8
+			}
+		}
+	}
+
+	greater_uganda = {
+		picture = map_africa
+		potential = {
+			tag = ISR
+			has_global_flag = israel_uganda
+			NOT = { has_country_flag = claimed_greater_uganda }
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			is_disarmed = no
+			nationalism_n_imperialism = 1
+			OR = {
+				is_greater_power = yes
+				government = fascist_dictatorship
+			}
+			war_policy = jingoism
+			ISR = {
+				all_core = { owned_by = ISR }
+			}
+		}
+		
+		effect = {
+			set_country_flag = claimed_greater_uganda
+			prestige = 10
+			badboy = 10
+			ENG_2024 = { add_core = ISR }
+			ENG_2026 = { add_core = ISR }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.6
+			}
+		}
+	}
+
+	greater_angola = {
+		picture = map_africa
+		potential = {
+			tag = ISR
+			has_global_flag = israel_angola
+			NOT = { has_country_flag = claimed_greater_angola }
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			is_disarmed = no
+			nationalism_n_imperialism = 1
+			OR = {
+				is_greater_power = yes
+				government = fascist_dictatorship
+			}
+			war_policy = jingoism
+			ISR = {
+				all_core = { owned_by = ISR }
+			}
+		}
+		
+		effect = {
+			set_country_flag = claimed_greater_angola
+			prestige = 10
+			badboy = 5
+			POR_2006 = { add_core = ISR }
+			POR_1999 = { add_core = ISR }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.8
+			}
+		}
+	}
+
+	greater_egypt = {
+		picture = EGY_copt
+		potential = {
+			OR = {
+				tag = EGY
+				tag = CEG
+			}
+			NOT = { has_country_flag = greater_egypt }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+		}
+		
+		effect = {
+			set_country_flag = greater_egypt
+			EGY_921 = { add_core = EGY }
+			EGY_910 = { add_core = EGY }
+			EGY_915 = { add_core = EGY }
+			EGY_897 = { add_core = EGY }
+			EGY_903 = { add_core = EGY }
+			TUR_855 = { add_core = EGY }
+			HDJ_1151 = { add_core = EGY }
+			TUR_923 = { add_core = EGY }
+			TUR_931 = { add_core = EGY }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_usna = {
+		potential = {
+			tag = USA
+			NOT = { has_country_flag = greater_usna }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+		}
+		
+		effect = {
+			set_country_flag = greater_usna
+			USA_201 = { add_core = USA }
+			USA_200 = { add_core = USA }
+			USA_188 = { add_core = USA }
+			USA_194 = { add_core = USA }
+			USA_144 = { add_core = USA }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_kanada = {
+		potential = {
+			tag = CAN
+			NOT = { has_country_flag = greater_kanada }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+		}
+		
+		effect = {
+			set_country_flag = greater_kanada
+			ENG_36 = { add_core = CAN }
+			ENG_46 = { add_core = CAN }
+			ENG_58 = { add_core = CAN }
+			USA_176 = { add_core = CAN }
+			USA_162 = { add_core = CAN }
+			USA_158 = { add_core = CAN }
+			USA_118 = { add_core = CAN }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_milanesa = {
+		potential = {
+			tag = QUE
+			NOT = { has_country_flag = greater_milanesa }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+		}
+		
+		effect = {
+			set_country_flag = greater_milanesa
+			ENG_36 = { add_core = QUE }
+			ENG_22 = { add_core = QUE }
+			32 = { add_core = QUE }
+			34 = { add_core = QUE }
+			33 = { add_core = QUE }
+			30 = { add_core = QUE }
+			35 = { add_core = QUE }
+			18 = { add_core = QUE }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_qinlifornia = {
+		potential = {
+			tag = CAL
+			NOT = { has_country_flag = greater_qinlifornia }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+		}
+		
+		effect = {
+			set_country_flag = greater_qinlifornia
+			USA_91 = { add_core = CAL }
+			USA_1 = { add_core = CAL }
+			ENG_22 = { add_core = CAL }
+			18 = { add_core = CAL }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_florida = {
+		potential = {
+			tag = FLR
+			NOT = { has_country_flag = greater_florida }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+		}
+		
+		effect = {
+			set_country_flag = greater_florida
+			USA_232 = { add_core = FLR }
+			246 = { add_core = FLR }
+			USA_170 = { add_core = FLR }
+			USA_176 = { add_core = FLR }
+			216 = { add_core = FLR }
+			USA_188 = { add_core = FLR }
+			USA_201 = { add_core = FLR }
+			USA_200 = { add_core = FLR }
+			USA_196 = { add_core = FLR }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_wakracia = {
+		picture = wakracia_logo
+		potential = {
+			tag = BYZ
+			NOT = { has_country_flag = greater_wakracia }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			government = fascist_dictatorship
+		}
+		
+		effect = {
+			set_country_flag = greater_wakracia
+			RUS_1098 = { add_core = BYZ }
+			885 = { add_core = BYZ }
+			885 = { add_core = BYZ }
+			RUS_1102 = { add_core = BYZ }
+			PER_1112 = { add_core = BYZ }
+			RUS_1090 = { add_core = BYZ }
+			RUS_1052 = { add_core = BYZ }
+			RUS_1048 = { add_core = BYZ }
+			RUS_1041 = { add_core = BYZ }
+			RUS_979 = { add_core = BYZ }
+			RUS_980 = { add_core = BYZ }
+			RUS_965 = { add_core = BYZ }
+			PER_1116 = { add_core = BYZ }
+			PER_1121 = { add_core = BYZ }
+			PER_1127 = { add_core = BYZ }
+			PER_1135 = { add_core = BYZ }
+			PER_1141 = { add_core = BYZ }
+			PER_1138 = { add_core = BYZ }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_carthage = {
+		potential = {
+			tag = X05
+			NOT = { has_country_flag = greater_carthage }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			government = fascist_dictatorship
+		}
+		
+		effect = {
+			set_country_flag = greater_carthage
+			FRA_1700 = { add_core = X05 }
+			MOR_1688 = { add_core = X05 }
+			MOR_1686 = { add_core = X05 }
+			MOR_1683 = { add_core = X05 }
+			ALD_1704 = { add_core = X05 }
+			SPA_517 = { add_core = X05 }
+			SPA_512 = { add_core = X05 }
+			SPA_513 = { add_core = X05 }
+			SPA_503 = { add_core = X05 }
+			502 = { add_core = X05 }
+			473 = { add_core = X05 }
+			SIC_763 = { add_core = X05 }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_bactria = {
+		potential = {
+			tag = X04
+			NOT = { has_country_flag = greater_bactria }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			government = fascist_dictatorship
+		}
+		
+		effect = {
+			set_country_flag = greater_bactria
+			RUS_1196 = { add_core = X04 }
+			PER_1148 = { add_core = X04 }
+			AFG_1214 = { add_core = X04 }
+			AFG_1217 = { add_core = X04 }
+			KAL_1221 = { add_core = X04 }
+			KHI_1191 = { add_core = X04 }
+			1194 = { add_core = X04 }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_maraj = {
+		potential = {
+			tag = RAJ
+			NOT = { has_country_flag = greater_maraj }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			government = fascist_dictatorship
+		}
+		
+		effect = {
+			set_country_flag = greater_maraj
+			ENG_1264 = { add_core = RAJ }
+			SIN_1288 = { add_core = RAJ }
+			SIN_1291 = { add_core = RAJ }
+			PAN_1227 = { add_core = RAJ }
+			ENG_1297 = { add_core = RAJ }
+			ENG_1275 = { add_core = RAJ }
+			ENG_1236 = { add_core = RAJ }
+			KAL_1221 = { add_core = RAJ }
+			1194 = { add_core = RAJ }
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

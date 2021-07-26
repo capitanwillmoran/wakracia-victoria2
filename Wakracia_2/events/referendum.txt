@@ -1,0 +1,37 @@
+country_event = {
+  id = 1512327
+  title = EVTNAME1512327
+  desc = EVTDESC1512327
+  picture = "wakr"
+
+is_triggered_only = yes
+
+  option = {
+	name = EVTOPTA1512327 
+	government = absolute_monarchy
+	political_reform = none_voting
+	political_reform = party_appointed
+	country_event = 60040
+	set_country_flag = wakracian_referendum
+
+  }
+
+  option = {
+	name = EVTOPTB1512327
+	government = prussian_constitutionalism
+	country_event = 60060
+	set_country_flag = wakracian_referendum
+
+  }
+
+  option = {
+	name = EVTOPTC1512327
+	government = democracy
+	political_reform = ruling_party_opinion
+	political_reform = universal_voting
+	country_event = 60050
+	set_country_flag = wakracian_referendum
+
+  }
+
+}

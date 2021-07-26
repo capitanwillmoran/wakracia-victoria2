@@ -1,0 +1,27 @@
+country_event = {
+    id = 666555
+    title = "EVTNAME666555"
+    desc = "EVTDESC666555"
+    news = no
+    picture = "taikyo"
+
+    trigger = {
+	tag = BYZ
+        year = 1847
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { days = 1 }
+
+    option = {
+        name = "EVT666555OPTA"
+        prestige = 25
+        any_pop = { consciousness = 1 }
+	860 = {
+		owner = {
+			relation = { who = JAP value = 100 }
+		}
+	}
+    }
+}
