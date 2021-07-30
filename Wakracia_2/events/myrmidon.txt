@@ -9,7 +9,7 @@ country_event = {
 	trigger = {
 		tag = X09
 		or = {
-			badboy = 0.7
+			badboy = 0.3
 			militancy = 3
 		}
 	}

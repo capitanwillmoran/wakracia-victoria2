@@ -1014,4 +1014,10 @@ SP6 = "countries/Gibraltar.txt"
 SP7 = "countries/Balearica.txt"
 SP8 = "countries/Azores.txt"
 
+RMN = "countries/Romono.txt"
+OLY = "countries/Olimpo.txt"
+LSB = "countries/Lesbos.txt"
+ROD = "countries/Rodas.txt"
+TRK = "countries/Tracia.txt"
+
 USN = "countries/Union of South Atlantean Nations.txt"

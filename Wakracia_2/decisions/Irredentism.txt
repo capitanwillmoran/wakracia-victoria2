@@ -145,6 +145,7 @@ political_decisions = {
 	picture = claim_greater_albania
 		potential = {
 			tag = ALB
+			government = fascist_dictatorship
 			NOT = { has_country_flag = claim_greater_albania }
 		}
 
@@ -152,7 +153,6 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			prestige = 45
-			government = fascist_dictatorship
 		}
 
 		effect = {
@@ -264,6 +264,7 @@ political_decisions = {
 		picture = greater_nepal
 		potential = {
 			tag = NEP
+			government = fascist_dictatorship
 			NOT = { has_country_flag = claimed_greater_nepal }
 		}
 		
@@ -277,7 +278,6 @@ political_decisions = {
 				}
 			}
 			military_score = 30
-			government = fascist_dictatorship
 		}
 		
 		effect = {
@@ -378,6 +378,7 @@ political_decisions = {
 	greater_ukraine = {
 		potential = {
 			tag = UKR
+			government = fascist_dictatorship
 			NOT = { has_country_flag = claimed_greater_ukraine }
 		}
 		
@@ -387,7 +388,6 @@ political_decisions = {
 			is_disarmed = no
 			war_policy = jingoism
 			is_greater_power = yes
-			government = fascist_dictatorship
 		}
 		
 		effect = {
@@ -624,6 +624,7 @@ political_decisions = {
 		picture = greater_bulgaria
 		potential = {
 			tag = BUL
+			government = fascist_dictatorship
 			NOT = { has_country_flag = greater_bulgaria_claimed }
 		}
 		
@@ -632,7 +633,6 @@ political_decisions = {
 			is_greater_power = yes
 			invention = manifest_destiny
 			invention = nostalgic_romanticism
-			government = fascist_dictatorship
 		}
 		
 		effect = {
@@ -1107,6 +1107,7 @@ political_decisions = {
 		picture = wakracia_logo
 		potential = {
 			tag = BYZ
+			government = fascist_dictatorship
 			NOT = { has_country_flag = greater_wakracia }			
 		}
 				
@@ -1114,7 +1115,6 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
-			government = fascist_dictatorship
 		}
 		
 		effect = {
@@ -1144,6 +1144,7 @@ political_decisions = {
 	greater_carthage = {
 		potential = {
 			tag = X05
+			government = fascist_dictatorship
 			NOT = { has_country_flag = greater_carthage }			
 		}
 				
@@ -1151,7 +1152,6 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
-			government = fascist_dictatorship
 		}
 		
 		effect = {
@@ -1175,6 +1175,7 @@ political_decisions = {
 	greater_bactria = {
 		potential = {
 			tag = X04
+			government = fascist_dictatorship
 			NOT = { has_country_flag = greater_bactria }			
 		}
 				
@@ -1182,7 +1183,6 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
-			government = fascist_dictatorship
 		}
 		
 		effect = {
@@ -1201,6 +1201,7 @@ political_decisions = {
 	greater_maraj = {
 		potential = {
 			tag = RAJ
+			government = fascist_dictatorship
 			NOT = { has_country_flag = greater_maraj }			
 		}
 				
@@ -1208,7 +1209,6 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
-			government = fascist_dictatorship
 		}
 		
 		effect = {

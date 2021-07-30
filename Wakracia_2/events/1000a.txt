@@ -1,0 +1,43 @@
+country_event = {
+	id = 1512330
+	news = no
+
+	trigger = {
+		has_country_flag = 1000_monument
+		NOT = {
+			has_country_flag = 1512330
+			}
+	}
+	
+is_triggered_only = yes
+
+	title = "EVTNAME1512330"
+	desc = "EVTDESC1512330"
+	picture = "wakr"
+
+	option = {
+		name = "EVTOPTA1512330a"
+		money = -10000
+		set_country_flag = 1512330
+		set_country_flag = 1512330a
+	}
+	option = {
+		name = "EVTOPTA1512330b"
+		money = -100000
+		set_country_flag = 1512330
+		set_country_flag = 1512330b
+	}
+	option = {
+		name = "EVTOPTA1512330c"
+		money = -1000000
+		set_country_flag = 1512330
+		set_country_flag = 1512330c
+	}
+	option = {
+		name = "EVTOPTA1512330d"
+		prestige = -10
+		money = -1000
+		set_country_flag = 1512330
+		set_country_flag = 1512330d
+	}
+}

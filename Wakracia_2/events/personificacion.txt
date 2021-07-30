@@ -1,0 +1,20 @@
+country_event = {
+	id = 1512328
+	title = "EVTNAME1512328"
+	desc = "EVTDESC1512328"
+	picture = "wakracian_personificacion"
+	news = no
+
+is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA1512328a"
+		prestige = 50
+		set_country_flag = 1512328
+	}
+	option = {
+		name = "EVTOPTA1512328b"
+		prestige = 50
+		set_country_flag = 1512328
+	}
+}

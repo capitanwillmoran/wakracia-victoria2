@@ -1,12 +1,41 @@
 graphical_culture = FrenchGC
 color = { 106  178  46 }
 
-party = {
-	name = "FRA_reactionary"
-	start_date = 1680.1.1
-	end_date = 1883.1.1
 
-	ideology = reactionary
+party = {
+	name = "BYZ_conservative"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = limited_citizenship
+	economic_policy = interventionism
+	religious_policy = secularized
+	trade_policy = free_trade
+	war_policy = anti_military
+}
+
+party = {
+	name = "BYZ_conservative1"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = full_citizenship
+	economic_policy = interventionism
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "BYZ_conservative2"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
 
 	citizenship_policy = residency
 	economic_policy = state_capitalism
@@ -16,203 +45,161 @@ party = {
 }
 
 party = {
-	name = "FRA_liberal"
-	start_date = 1680.1.1
-	end_date = 1870.1.1
-
-	ideology = liberal
-
-	citizenship_policy = limited_citizenship
-	economic_policy = laissez_faire
-	religious_policy = pluralism
-	trade_policy = protectionism
-	war_policy = anti_military
-}
-
-party = {
-	name = "FRA_conservative"
-	start_date = 1000.1.1
-	end_date = 1870.1.1
-
-	ideology = conservative
-
-	citizenship_policy = full_citizenship
-	economic_policy = interventionism
-	religious_policy = secularized
-	trade_policy = protectionism
-	war_policy = anti_military
-}
-
-party = {
-	name = "FRA_socialist"
+	name = "BYZ_reactionary"
 	start_date = 1790.1.1
-	end_date = 1870.1.1
+	end_date = 2000.1.1
 
-	ideology = socialist
+	ideology = reactionary
 
-	citizenship_policy = limited_citizenship
-	economic_policy = state_capitalism
-	religious_policy = secularized
-	trade_policy = protectionism
-	war_policy = pacifism
-}
-
-party = {
-	name = "FRA_liberal_2"
-	start_date = 1848.1.1
-	end_date = 1870.1.1
-
-	ideology = liberal
-
-	citizenship_policy = full_citizenship
-	economic_policy = laissez_faire
-	religious_policy = pluralism
-	trade_policy = protectionism
-	war_policy = anti_military
-}
-
-party = {
-	name = "FRA_conservative_2"
-	start_date = 1830.1.1
-	end_date = 1870.1.1
-
-	ideology = conservative
-
-	citizenship_policy = full_citizenship
-	economic_policy = interventionism
-	religious_policy = secularized
-	trade_policy = protectionism
-	war_policy = anti_military
-}
-
-party = {
-	name = "FRA_conservative_3"
-	start_date = 1848.1.1
-	end_date = 1894.1.1
-
-	ideology = conservative
-
-	citizenship_policy = full_citizenship
+	citizenship_policy = residency
 	economic_policy = interventionism
 	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "BYZ_reactionary1"
+	start_date = 1790.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+}
+
+party = {
+	name = "BYZ_liberal"
+	start_date = 1680.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = limited_citizenship
+	economic_policy = interventionism
+	religious_policy = pluralism
 	trade_policy = free_trade
 	war_policy = jingoism
 }
 
 party = {
-	name = "FRA_conservative_4"
-	start_date = 1870.1.1
-	end_date = 1894.1.1
-
-	ideology = conservative
-
-	citizenship_policy = limited_citizenship
-	economic_policy = laissez_faire
-	religious_policy = moralism
-	trade_policy = protectionism
-	war_policy = pro_military
-}
-
-party = {
-	name = "FRA_liberal_3"
-	start_date = 1870.1.1
+	name = "BYZ_liberal1"
+	start_date = 1680.1.1
 	end_date = 2000.1.1
 
 	ideology = liberal
 
 	citizenship_policy = full_citizenship
 	economic_policy = laissez_faire
-	religious_policy = pluralism
-	trade_policy = protectionism
-	war_policy = anti_military
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_military
 }
 
 party = {
-	name = "FRA_anarcho_liberal"
-	start_date = 1710.1.1
+	name = "BYZ_anarcho_liberal"
+	start_date = 1830.1.1
 	end_date = 2000.1.1
 
 	ideology = anarcho_liberal
 
 	citizenship_policy = full_citizenship
-	economic_policy = interventionism
+	economic_policy = laissez_faire
 	religious_policy = secularized
-	trade_policy = protectionism
-	war_policy = anti_military
+	trade_policy = free_trade
+	war_policy = pro_military
 }
 
 party = {
-	name = "FRA_socialist_2"
+	name = "BYZ_socialist"
 	start_date = 1848.1.1
-	end_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = state_capitalism
+	religious_policy = secularized
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "BYZ_socialist1"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
 
 	ideology = socialist
 
 	citizenship_policy = limited_citizenship
-	economic_policy = state_capitalism
-	religious_policy = secularized
-	trade_policy = protectionism
-	war_policy = pacifism
-}
-
-party = {
-	name = "FRA_communist"
-	start_date = 1848.1.1
-	end_date = 2000.1.1
-
-	ideology = communist
-
-	citizenship_policy = limited_citizenship
 	economic_policy = planned_economy
-	religious_policy = pro_atheism
-	trade_policy = protectionism
-	war_policy = pacifism
-}
-
-party = {
-	name = "FRA_conservative_5"
-	start_date = 1894.1.1
-	end_date = 2000.1.1
-
-	ideology = conservative
-
-	citizenship_policy = limited_citizenship
-	economic_policy = interventionism
-	religious_policy = moralism
+	religious_policy = secularized
 	trade_policy = protectionism
 	war_policy = pro_military
 }
 
 party = {
-	name = "FRA_reactionary_2"
-	start_date = 1883.1.1
+	name = "BYZ_socialist2"
+	start_date = 1848.1.1
 	end_date = 2000.1.1
 
-	ideology = reactionary
+	ideology = socialist
 
-	citizenship_policy = residency
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = anti_military
+}
+
+party = {
+	name = "BYZ_socialist3"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
 	economic_policy = state_capitalism
-	religious_policy = moralism
+	religious_policy = pro_atheism
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "BYZ_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
 	trade_policy = protectionism
 	war_policy = jingoism
 }
 
 party = {
-	name = "FRA_socialist_3"
-	start_date = 1905.1.1
+	name = "BYZ_theocratic"
+	start_date = 1000.1.1
 	end_date = 2000.1.1
 
-	ideology = socialist
+	ideology = theocratic
 
-	citizenship_policy = limited_citizenship
+	citizenship_policy = residency
 	economic_policy = state_capitalism
-	religious_policy = secularized
-	trade_policy = protectionism
-	war_policy = anti_military
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pacifism
 }
 
 party = {
-	name = "FRA_fascist"
+	name = "BYZ_fascist"
 	start_date = 1905.1.1
 	end_date = 2000.1.1
 
@@ -223,6 +210,34 @@ party = {
 	religious_policy = moralism
 	trade_policy = protectionism
 	war_policy = jingoism
+}
+
+party = {
+	name = "BYZ_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "BYZ_agrarism"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
 }
 unit_names= {
 	dreadnought = {

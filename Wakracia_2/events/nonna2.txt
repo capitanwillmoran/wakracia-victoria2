@@ -3,8 +3,8 @@ country_event = {
 	news = no
 
 	trigger = {
+		tag = BYZ
 		OR = {
-			tag = BYZ
 			government = absolute_monarchy
 			government = hms_government
 			government = prussian_constitutionalism

@@ -1,0 +1,39 @@
+political_decisions = {
+
+	leader_talkies = {
+		picture = "talkies"
+		potential = {
+
+			ai = no
+			invention = the_talkies
+			NOT = { has_country_flag = leader_talkies }
+
+		}
+	
+		allow = {
+			war = no
+			election = no
+			is_vassal = no
+			money = 10001
+		}
+      
+		effect = {
+			prestige_factor = 50
+			money = -10000
+			set_country_flag = leader_talkies
+			labourers = {
+				consciousness = -2
+			}
+			craftsmen = {
+				consciousness = -2
+			}
+			artisans = {
+				consciousness = -2
+			}
+		}
+     
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

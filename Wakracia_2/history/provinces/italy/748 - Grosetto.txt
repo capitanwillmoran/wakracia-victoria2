@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=SIC
+add_core=RMN
 trade_goods = cattle
 life_rating = 35
 terrain = farmlands

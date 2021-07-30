@@ -1,0 +1,30 @@
+political_decisions = {
+
+	wakracian_personificacion = {
+		picture = "wakracian_personificacion"
+		potential = {
+
+			ai = no
+			tag = BYZ
+			nationalism_n_imperialism = 1
+			NOT = { has_country_flag = wakracian_personificacion }
+
+		}
+	
+		allow = {
+			war = no
+			election = no
+			is_vassal = no
+		}
+      
+		effect = {
+			prestige_factor = 10
+			country_event = 1512328
+			set_country_flag = wakracian_personificacion
+		}
+     
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

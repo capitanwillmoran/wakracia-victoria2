@@ -1,0 +1,281 @@
+#A House Divided
+country_event = {
+	id = 96019
+	title = "EVTNAME96019"
+	desc = "EVTDESC96019"
+	major = no
+	picture = "russianmonke"
+	
+	trigger = {
+		tag = BYZ
+		war = yes
+		OR = {
+			964 = {
+				controlled_by = BYZ
+			}
+			1017 = {
+				controlled_by = BYZ
+			}
+			1008 = {
+				controlled_by = BYZ
+			}
+			1039 = {
+				controlled_by = BYZ
+			}
+		}
+		NOT = {
+			has_country_modifier = rus_occupied_capital 
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA96019"
+		prestige = 5
+		war_exhaustion = -10
+		add_country_modifier = {
+			name = rus_occupied_capital
+			duration = 365
+		}
+	}
+}
+
+country_event = {
+	id = 96020
+	title = "EVTNAME96020"
+	desc = "EVTDESC96020"
+	major = no
+	picture = "frenchmonke"
+	
+	trigger = {
+		tag = BYZ
+		war = yes
+		OR = {
+			425 = {
+				controlled_by = BYZ
+			}
+			424 = {
+				controlled_by = BYZ
+			}
+			455 = {
+				controlled_by = BYZ
+			}
+		}
+		NOT = {
+			has_country_modifier = fre_occupied_capital 
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA96020"
+		prestige = 5
+		war_exhaustion = -10
+		add_country_modifier = {
+			name = fre_occupied_capital
+			duration = 365
+		}
+	}
+}
+
+country_event = {
+	id = 96021
+	title = "EVTNAME96021"
+	desc = "EVTDESC96021"
+	major = no
+	picture = "englishmonke"
+	
+	trigger = {
+		tag = BYZ
+		war = yes
+		OR = {
+			300 = {
+				controlled_by = BYZ
+			}
+		}
+		NOT = {
+			has_country_modifier = eng_occupied_capital 
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA96021"
+		prestige = 5
+		war_exhaustion = -10
+		add_country_modifier = {
+			name = eng_occupied_capital
+			duration = 365
+		}
+	}
+}
+
+country_event = {
+	id = 96022
+	title = "EVTNAME96022"
+	desc = "EVTDESC96022"
+	major = no
+	picture = "germanmonke"
+	
+	trigger = {
+		tag = BYZ
+		war = yes
+		OR = {
+			549 = {
+				controlled_by = BYZ
+			}
+		}
+		NOT = {
+			has_country_modifier = ger_occupied_capital 
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA96022"
+		prestige = 5
+		war_exhaustion = -10
+		add_country_modifier = {
+			name = ger_occupied_capital
+			duration = 365
+		}
+	}
+}
+
+country_event = {
+	id = 96023
+	title = "EVTNAME96023"
+	desc = "EVTDESC96023"
+	major = no
+	picture = "vikingmonke"
+	
+	trigger = {
+		tag = BYZ
+		war = yes
+		OR = {
+			369 = {
+				controlled_by = BYZ
+			}
+			313 = {
+				controlled_by = BYZ
+			}
+			344 = {
+				controlled_by = BYZ
+			}
+			372 = {
+				controlled_by = BYZ
+			}
+		}
+		NOT = {
+			has_country_modifier = viking_occupied_capital 
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA96023"
+		prestige = 5
+		war_exhaustion = -10
+		add_country_modifier = {
+			name = viking_occupied_capital
+			duration = 365
+		}
+	}
+}
+
+country_event = {
+	id = 96024
+	title = "EVTNAME96024"
+	desc = "EVTDESC96024"
+	major = no
+	picture = "matemonke"
+	
+	trigger = {
+		tag = BYZ
+		war = yes
+		OR = {
+			2348 = {
+				controlled_by = BYZ
+			}
+			2373 = {
+				controlled_by = BYZ
+			}
+		}
+		NOT = {
+			has_country_modifier = mate_occupied_capital 
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA96024"
+		prestige = 5
+		war_exhaustion = -10
+		add_country_modifier = {
+			name = mate_occupied_capital
+			duration = 365
+		}
+	}
+}
+
+country_event = {
+	id = 96025
+	title = "EVTNAME96025"
+	desc = "EVTDESC96025"
+	major = no
+	picture = "rogiriamonke"
+	
+	trigger = {
+		tag = BYZ
+		war = yes
+		OR = {
+			2183 = {
+				controlled_by = BYZ
+			}
+			2172 = {
+				controlled_by = BYZ
+			}
+			138 = {
+				controlled_by = BYZ
+			}
+		}
+		NOT = {
+			has_country_modifier = rog_occupied_capital 
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA96025"
+		prestige = 5
+		war_exhaustion = -10
+		add_country_modifier = {
+			name = rog_occupied_capital
+			duration = 365
+		}
+	}
+}
+
+country_event = {
+	id = 96026
+	title = "EVTNAME96026"
+	desc = "EVTDESC96026"
+	major = no
+	picture = "mingmonke"
+	
+	trigger = {
+		tag = BYZ
+		war = yes
+		OR = {
+			1447 = {
+				controlled_by = BYZ
+			}
+		}
+		NOT = {
+			has_country_modifier = mng_occupied_capital 
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA96026"
+		prestige = 5
+		war_exhaustion = -10
+		add_country_modifier = {
+			name = mng_occupied_capital
+			duration = 365
+		}
+	}
+}

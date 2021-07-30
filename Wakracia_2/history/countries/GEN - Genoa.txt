@@ -27,7 +27,7 @@ press_rights=censored_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = ITA_reactionary
+ruling_party = BYZ_reactionary
 upper_house = 
 {
 	fascist = 0

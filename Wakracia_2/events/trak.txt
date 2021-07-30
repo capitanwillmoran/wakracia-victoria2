@@ -1,0 +1,97 @@
+#A House Divided
+country_event = {
+	id = 96018
+	title = "EVTNAME96018"
+	desc = "EVTDESC96018"
+	major = no
+	picture = "demolished_mosque"
+	
+	trigger = {
+		tag = GRE
+		OR = {
+			badboy = 0.5
+			militancy = 4
+		}
+		has_country_flag = cyprus_civil_war_happened
+		has_country_flag = bulgarian_civil_war_happened
+		has_country_flag = crete_civil_war_happened
+		has_country_flag = epirote_civil_war_happened
+		has_country_flag = macedonian_civil_war_happened
+		has_country_flag = epirote_civil_war_happened
+		has_country_flag = bitterdecision
+		NOT = {
+			has_country_flag = the_end_of_greece
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 3
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA96018"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = ATH
+			}
+			secede_province = ATH
+		}
+		any_owned = {
+			limit = {
+				is_core = MLT
+			}
+			secede_province = MLT
+		}
+		any_owned = {
+			limit = {
+				is_core = PIN
+			}
+			secede_province = PIN
+		}
+		any_owned = {
+			limit = {
+				is_core = NAX
+			}
+			secede_province = NAX
+		}
+		any_owned = {
+			limit = {
+				is_core = SAM
+			}
+			secede_province = SAM
+		}
+		any_owned = {
+			limit = {
+				is_core = ION
+			}
+			secede_province = ION
+		}
+		any_owned = {
+			limit = {
+				is_core = LSB
+			}
+			secede_province = LSB
+		}
+		any_owned = {
+			limit = {
+				is_core = ROD
+			}
+			secede_province = ROD
+		}
+		any_owned = {
+			limit = {
+				is_core = GEO
+			}
+			secede_province = GEO
+		}
+		change_tag = TRK
+		set_country_flag = the_end_of_greece
+		}
+	}
+}

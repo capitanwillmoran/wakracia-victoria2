@@ -1,0 +1,90 @@
+country_event = {
+	id = 96015
+	title = "EVTNAME96015"
+	desc = "EVTDESC96015"
+	major = yes
+	
+	trigger = {
+		has_country_flag = egyptian_civil_war_happened
+		has_country_flag = bitterdecision
+		OR = {
+			tag = GRE
+			NOT = {
+				has_country_flag = crete_civil_war_happened
+			}
+		}
+	}
+
+	fire_only_once = yes
+	
+	mean_time_to_happen = {
+		months = 5
+
+	}
+	
+	option = {
+		name = "EVTOPTB96015"
+		any_pop = {
+			consciousness = -3
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = CRE
+			}
+			secede_province = CRE
+		}
+		CRE = {
+			capital = 848
+			leadership = 30
+		define_general = {
+   			name = "Pappous Varys"
+   			picture = european_general_8
+   			date = 1886.3.4
+   			type = land
+			personality = gallant
+			background = school_of_defense
+   			prestige = 15
+			}
+		}
+		set_country_flag = crete_civil_war_happened
+	}
+
+	option = {
+		name = "EVTOPTA96015"
+		any_pop = {
+			consciousness = 3
+			militancy = 3
+		}
+		any_owned = {
+			limit = {
+				is_core = CRE
+			}
+			secede_province = CRE
+		}
+		CRE = {
+			capital = 848
+			leadership = 30
+		define_general = {
+   			name = "Pappous Varys"
+   			picture = european_general_8
+   			date = 1886.3.4
+   			type = land
+			personality = gallant
+			background = school_of_defense
+   			prestige = 15
+			}
+		}
+		war = {
+			target = CRE
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		set_country_flag = crete_civil_war_happened
+		}
+	}
+}

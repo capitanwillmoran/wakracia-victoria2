@@ -1,0 +1,70 @@
+country_event = {
+	id = 96014
+	title = "EVTNAME96014"
+	desc = "EVTDESC96014"
+	major = yes
+	
+	trigger = {
+		has_country_flag = egyptian_civil_war_happened
+		has_country_flag = bitterdecision
+		OR = {
+			tag = GRE
+			NOT = {
+				has_country_flag = epirote_civil_war_happened
+			}
+		}
+	}
+
+	fire_only_once = yes
+	
+	mean_time_to_happen = {
+		months = 5
+
+	}
+	
+	option = {
+		name = "EVTOPTB96014"
+		any_pop = {
+			consciousness = -3
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = MOE
+			}
+			secede_province = MOE
+		}
+		MOE = {
+			capital = 841
+		}
+		set_country_flag = morea_civil_war_happened
+	}
+
+	option = {
+		name = "EVTOPTA96014"
+		any_pop = {
+			consciousness = 3
+			militancy = 3
+		}
+		any_owned = {
+			limit = {
+				is_core = MOE
+			}
+			secede_province = MOE
+		}
+		MOE = {
+			capital = 841
+		}
+		war = {
+			target = MOE
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		set_country_flag = morea_civil_war_happened
+		}
+	}
+}

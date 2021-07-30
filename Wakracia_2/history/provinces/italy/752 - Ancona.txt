@@ -1,6 +1,7 @@
 owner=BYZ
 controller=BYZ
 add_core=SIC
+add_core=RMN
 add_core=X09
 trade_goods = fruit
 life_rating = 35

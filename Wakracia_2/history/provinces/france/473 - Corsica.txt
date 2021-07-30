@@ -4,3 +4,9 @@ add_core=X09
 trade_goods = fish
 life_rating = 35
 terrain = plains
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

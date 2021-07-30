@@ -1,0 +1,50 @@
+country_event = { 
+	id = 96003
+	title = "EVTNAME96003"
+	desc = "EVTDESC96003"
+	major = yes
+	picture = greece
+
+	trigger = {
+		tag = BYZ
+		RUM = { exists = yes }
+		SIC = { exists = yes }
+		or = {
+			SIC = { exists = no }
+			SYC = { exists = yes }
+			NAP = { exists = yes }
+		BAB = { exists = yes }
+		GRE = { exists = no }
+		is_greater_power = no
+		NOT = {
+			has_country_flag = bitterdecision
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA96003"
+		all_core = {
+			limit = {
+				is_primary_culture = yes
+			}
+		add_core = GRE
+		}
+		change_tag = GRE
+		any_owned = {
+			remove_core = BYZ
+		}
+		set_country_flag = bitterdecision
+	}
+	option = {
+		name = EVTOPTB96003
+		any_pop = {
+			consciousness = 10
+			militancy = 10
+		}
+	}
+}

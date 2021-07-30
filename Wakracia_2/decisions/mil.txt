@@ -1,0 +1,29 @@
+political_decisions = {
+
+	1000_monument = {
+		picture = "wakracian_personificacion"
+		potential = {
+
+			ai = no
+			tag = BYZ
+			year = 1909
+			NOT = { has_country_flag = 1000_monument }
+
+		}
+	
+		allow = {
+			war = no
+			election = no
+			is_vassal = no
+		}
+      
+		effect = {
+			country_event = 1512330
+			set_country_flag = 1000_monument
+		}
+     
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

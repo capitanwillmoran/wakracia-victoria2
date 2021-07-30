@@ -1,0 +1,91 @@
+#A House Divided
+country_event = {
+	id = 96026
+	title = "EVTNAME96026"
+	desc = "EVTDESC96026"
+	major = yes
+	
+	trigger = {
+		NOT = {
+			has_country_flag = rogirian_civil_war_happened
+		}
+		or = {
+			badboy = 0.4
+			militancy = 3
+		}
+		tag = MEX
+		NOT = {exists = RGR}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA96026"
+		any_pop = {
+			consciousness = 7
+			militancy = 3
+		}
+		any_owned = {
+			limit = {
+				is_core = RGR
+			}
+			secede_province = RGR
+		}
+		SIC = {
+			capital = 138
+			leadership = 120
+		define_general = {
+   			name = "Reddulinkum"
+   			picture = russian_general_12
+   			date = 1836.1.1
+   			type = land
+    			personality = soldierly
+    			background = aristocrat
+   			prestige = 0.9
+			}
+		}
+		war = {
+			target = RGR
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		set_country_flag = rogirian_civil_war_happened
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB96026"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = RGR
+			}
+			secede_province = RGR
+		}
+		RGR = {
+			capital = 138
+			leadership = 120
+		define_general = {
+   			name = "Reddulinkum"
+   			picture = russian_general_12
+   			date = 1836.1.1
+   			type = land
+    			personality = soldierly
+    			background = aristocrat
+   			prestige = 0.9
+			}
+		set_country_flag = rogirian_civil_war_happened
+		}
+	}
+}

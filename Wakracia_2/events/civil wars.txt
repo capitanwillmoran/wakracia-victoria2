@@ -6,12 +6,12 @@ country_event = {
 	major = yes
 	
 	trigger = {
+		NOT = {
+			has_country_flag = italian_civil_war_happened
+		}
 		or = {
 			badboy = 0.4
 			militancy = 3
-			NOT = {
-				has_country_flag = italian_civil_war_happened
-				}
 		}
 		tag = BYZ
 		NOT = {exists = SYC}
@@ -38,7 +38,7 @@ country_event = {
 			secede_province = SIC
 		}
 		SIC = {
-			capital = 749
+			capital = 754
 			leadership = 120
 		define_general = {
    			name = "Ignaerium"
@@ -76,7 +76,7 @@ country_event = {
 			secede_province = SIC
 		}
 		SIC = {
-			capital = 749
+			capital = 754
 			leadership = 120
 		define_general = {
    			name = "Ignaerium"
@@ -101,14 +101,15 @@ country_event = {
 	
 	trigger = {
 		tag = BYZ
-		has = italian_civil_war_happened
+		has_country_flag = italian_civil_war_happened
 		year = 1885
 		badboy = 0.5
 		militancy = 3
 		NOT = {
 			year = 1888
 			exists = RUM
-			}
+			has_country_flag = anatolian_civil_war_happened
+		}
 		
 	}
 
@@ -204,16 +205,17 @@ country_event = {
 	major = yes
 	
 	trigger = {
+		has_country_flag = anatolian_civil_war_happened
 		OR = {
 			tag = BYZ
-			tag = GRE
 			year = 1895
 			NOT = {
 				year = 1898
 				exists = BAB
 				exists = IRQ
 				exists = SYR
-				}
+				has_country_flag = syrian_civil_war_happened
+			}
 		}
 	}
 
@@ -278,6 +280,7 @@ country_event = {
 				casus_belli = status_quo
 			}
 		}
+		set_country_flag = syrian_civil_war_happened
 	}
 	
 	option = {
@@ -314,6 +317,7 @@ country_event = {
    			prestige = 1
 			}
 		}
+		set_country_flag = syrian_civil_war_happened
 	}
 
 	option = {
@@ -360,53 +364,6 @@ country_event = {
    			prestige = 1
 			}
 		}
-	}
-}
-
-country_event = { 
-	id = 96003
-	title = EVTNAME96003
-	desc = EVTDESC96003
-
-	trigger = {
-		OR = {
-			tag = BYZ
-			tag = GRE
-		}
-		RUM = { exists = yes }
-		SIC = { exists = yes }
-		OR = {
-			SYC = { exists = yes }
-			NAP = { exists = yes }
-			}
-		}
-	}
-
-	mean_time_to_happen = {
-		months = 2
-	}
-
-	fire_only_once = yes
-
-	option = { 
-		name = "EVTOPTA96003"
-		BYZ = {
-			all_core = {
-				limit = { is_primary_culture = yes } #workaround to get Greek provinces
-				add_core = GRE
-			}
-		}
-		BYZ = {
-			all_core = { remove_core = BYZ }
-		change_tag = GRE
-		}
-	}
-
-	option = { 
-		name = EVTOPTB96003
-		any_pop = {
-			consciousness = 10
-			militancy = 10
-		}
+		set_country_flag = syrian_civil_war_happened
 	}
 }

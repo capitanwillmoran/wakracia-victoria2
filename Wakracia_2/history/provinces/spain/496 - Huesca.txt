@@ -3,6 +3,7 @@ controller=GLC
 add_core=GLC
 add_core=OCC
 add_core=SPA
+add_core=BSQ
 add_core=ARN
 add_core=SP2
 trade_goods = wool

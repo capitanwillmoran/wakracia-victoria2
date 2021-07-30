@@ -314,4 +314,29 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
+	academy_wakr = {
+		picture = "wakr"
+		potential = {
+			NOT = { has_global_flag = wakratianexpanded }
+			owns = 575
+		}
+		
+		allow = {
+			money = 5001
+			positivism = 1
+			owns = 834
+		}
+		
+		effect = {
+			set_global_flag = wakratianexpanded
+			money = -5000
+			prestige = 15
+			add_country_modifier = educational_reform
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

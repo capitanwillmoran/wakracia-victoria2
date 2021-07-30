@@ -1,0 +1,77 @@
+country_event = {
+	id = 1512329
+	news = no
+
+	trigger = {
+		has_country_flag = wakracian_referendum
+		NOT = {
+			has_country_flag = 1512329
+			}
+	}
+	
+is_triggered_only = yes
+
+	title = "EVTNAME1512329"
+	desc = "EVTDESC1512329"
+	picture = "wakr"
+
+	option = {
+		name = "EVTOPTA1512329a"
+		prestige = -5
+		government = theocratic
+		political_reform = none_voting
+		political_reform = party_appointed
+		country_event = 90031
+		labourers = {
+			consciousness = 3
+		}
+		craftsmen = {
+			consciousness = 3
+		}
+		artisans = {
+			consciousness = 3
+		}
+		soldiers = {
+			consciousness = 3
+		}
+		clergymen = {
+			consciousness = -5
+		}
+		set_country_flag = 1512329
+	}
+	option = {
+		name = "EVTOPTA1512329b"
+		prestige = -5
+		labourers = {
+			consciousness = 1
+		}
+		craftsmen = {
+			consciousness = 1
+		}
+		artisans = {
+			consciousness = 1
+		}
+		soldiers = {
+			consciousness = 1
+		}
+		clergymen = {
+			consciousness = -1
+		}
+		831 = { change_province_name = "Olympos" }
+		secede_province = {
+			limit = {
+				is_core = OLY
+			}
+			secede_province = OLY
+		}
+		set_country_flag = 1512329
+	}
+	option = {
+		name = "EVTOPTA1512329c"
+		prestige = 5
+		clergymen = {
+			consciousness = 5
+		}
+		set_country_flag = 1512329
+	}
+}

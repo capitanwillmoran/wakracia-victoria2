@@ -1608,7 +1608,7 @@ political_decisions = {
 		primary_culture = dummy
 	}
 	effect = {
-		primary_culture = rogirian
+		primary_culture = americangreek
 	}
  }
  terra_nullius124 = {
@@ -6484,5 +6484,70 @@ political_decisions = {
 	}
 	effect = {
 		primary_culture = serb
+	}
+ }
+ terra_nullius499 = {
+	potential = {
+		TAG = RMN
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = magnagreek
+	}
+ }
+ terra_nullius500 = {
+	potential = {
+		TAG = OLY
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = greek
+	}
+ }
+ terra_nullius501 = {
+	potential = {
+		TAG = LSB
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = greek
+	}
+ }
+ terra_nullius502 = {
+	potential = {
+		TAG = TRK
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = greek
+	}
+ }
+ terra_nullius503 = {
+	potential = {
+		TAG = ROD
+		primary_culture = dummy
+		ai_will_do = 1
+	}
+	allow = {
+		primary_culture = dummy
+	}
+	effect = {
+		primary_culture = greek
 	}
  }

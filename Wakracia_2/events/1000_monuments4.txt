@@ -1,0 +1,37 @@
+country_event = {
+	id = 1512334
+	news = no
+
+	trigger = {
+		year = 1910
+		has_country_flag = 1512330d
+		NOT = {
+			has_country_flag = 1512330dd
+			year = 1911
+			}
+	}
+	
+is_triggered_only = yes
+
+	title = "EVTNAME1512334"
+	desc = "EVTDESC1512334"
+	picture = "estatua4"
+
+	option = {
+		name = "EVTOPTA1512334"
+		prestige = -20
+		labourers = {
+			consciousness = 10
+		}
+		craftsmen = {
+			consciousness = 10
+		}
+		artisans = {
+			consciousness = 10
+		}
+		soldiers = {
+			consciousness = 10
+		}
+		set_country_flag = 1512330dd
+	}
+}

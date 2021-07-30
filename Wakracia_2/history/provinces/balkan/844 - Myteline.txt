@@ -2,6 +2,7 @@ owner=BYZ
 controller=BYZ
 add_core=BYZ
 add_core=GRE
+add_core=LSB
 trade_goods = grain
 life_rating = 35
 terrain = plains

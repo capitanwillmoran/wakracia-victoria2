@@ -29,7 +29,7 @@ press_rights=censored_press
 trade_unions=state_controlled
 political_parties=gerrymandering
 
-ruling_party = SAR_reactionary
+ruling_party = BYZ_reactionary
 upper_house = 
 {
 	fascist = 0

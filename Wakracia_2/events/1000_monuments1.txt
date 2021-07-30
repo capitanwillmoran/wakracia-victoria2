@@ -1,0 +1,26 @@
+country_event = {
+	id = 1512331
+	news = no
+
+	trigger = {
+		year = 1910
+		has_country_flag = 1512330a
+		NOT = {
+			has_country_flag = 1512330aa
+			year = 1911
+			}
+	}
+	
+is_triggered_only = yes
+
+	title = "EVTNAME1512331"
+	desc = "EVTDESC1512331"
+	picture = "estatua1"
+
+	option = {
+		name = "EVTOPTA1512331"
+		prestige = 5
+		prestige = -5
+		set_country_flag = 1512330aa
+	}
+}

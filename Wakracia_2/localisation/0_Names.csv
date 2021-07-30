@@ -904,8 +904,8 @@ MNX_fascist_dictatorship;Nanking Republic;La République de Nankin;Die Nanking-Re
 MNX_fascist_dictatorship_ADJ;Nanking;Nankin;Nanking;nankiñsk;Nankín;Nanchinese;Nanking;Nanking;Nanking;Nanking;de Namquim;íàíêèíñê;Nanking;x;;;;;;;;;;;;;;
 MNX_proletarian_dictatorship;People's Republic of China;La République Populaire de Chine;Die Volksrepublik China;Chiñska Republika Ludowa;República Popular de China;La Repubblica Popolare Cinese;Népköztársaság Kínai;Cínská lidová republika;Népköztársaság Kínai;de Volksrepubliek China;A Republica Popular da China;Êèòàéñêàÿ Íàğîäíàÿ Ğåñïóáëèêà;People Kiina;x;;;;;;;;;;;;;;
 MNX_proletarian_dictatorship_ADJ;Chinese;Chinois;Chinesisch;chiñsk;China;Cinese;kínai;cínština;kínai;Chinese;Chinês;êèòàéñê;Kiinan kieli;x;;;;;;;;;;;;;;
-MOE;Morea;Morée;Morea;Morea;Morea;Morea;Morea;Morea;Morea;Morea;Moreia;Ìîğåÿ;Morea;x;;;;;;;;;;;;;;
-MOE_ADJ;Morean;Moréen;Morea-;Morei;Moreana;Moreana;Morean;Morean;Morean;Morean;da Moreia;Ìîğåéñê;Morean;x;;;;;;;;;;;;;;
+MOE;Peloponnese;Morée;Morea;Morea;Peloponeso;Morea;Morea;Morea;Morea;Morea;Moreia;Ìîğåÿ;Morea;x;;;;;;;;;;;;;;
+MOE_ADJ;Peloponnese;Moréen;Morea-;Morei;Peloponesa;Moreana;Morean;Morean;Morean;Morean;da Moreia;Ìîğåéñê;Morean;x;;;;;;;;;;;;;;
 MOS;Upper Volta;Haute-Volta;Obervolta;Górna Wolta;Alto Volta;Alto Volta;Felsõ Volta;Horní Volta;Felsõ Volta;Upper Volta;Alto Volta;Âåğõíÿÿ Âîëüòà;Upper Volta;x;;;;;;;;;;;;;;
 MOS_absolute_monarchy;Mossi Kingdom;Royaume Mossi;Mossi-Königreich;górnowoltañsk;Imperio Mossi;Regno Mossi;Mossi Királyság;Mossi království;Mossi Királyság;Mossi Kingdom;O Reino Mossi;Ìîññè Êîğîëåâñòâî;Mossi Kingdom;x;;;;;;;;;;;;;;
 MOS_absolute_monarchy_ADJ;Mossi;Mossi;Mossi-;Mossi;Mossi;dei Mossi;Mossi;Mossi;Mossi;Mossi;Mossi;Ìîñèéñê;Mossi;x;;;;;;;;;;;;;;
@@ -944,8 +944,8 @@ NAP;Samnium;Naples;Neapel;Neapol;Samnium;Napoli;Nápoly;Neapol;Nápoly;Napels;Nápo
 NAP_ADJ;Samnites;Napolitain;Neapolitanisch;neapolitañsk;Samnitas;Napoletana;nápolyi;neapolská;nápolyi;Napolitaans;Napolitano;íåàïîëèòàíñê;napolilainen;x;;;;;;;;;;;;;;
 NAV;Navarra;Navarre;Navarra;Nawarra;Navarra;Navarra;Navarra;Navarra;Navarra;Navarra;Navarra;Íàâàğğà;Navarra;x;;;;;;;;;;;;;;
 NAV_ADJ;Navarrese;Navarrais;Navarra-;Nawarrsk.;Navarra;Navarrese;navarraiak;Navarrese;navarraiak;Navarrese;Navarro;Íàâàğğñê;Navarrese;x;;;;;;;;;;;;;;
-NAX;Naxos;Naxos;Naxos;Naksos;Naxos;Nasso;Naxos;Naxos;Naxos;Naxos;Naxos;Íàêñîñ;Naxos;x;;;;;;;;;;;;;;
-NAX_ADJ;Naxosian;de Naxos;Naxos-;Naksos;de Naxos;di Nasso;Naxosian;Naxosian;Naxosian;Naxosian;de Naxos;Íàêñîññê;Naxosian;x;;;;;;;;;;;;;;
+NAX;Cyclades;Naxos;Naxos;Naksos;Cicladas;Nasso;Naxos;Naxos;Naxos;Naxos;Naxos;Íàêñîñ;Naxos;x;;;;;;;;;;;;;;
+NAX_ADJ;Cyclades;de Naxos;Naxos-;Naksos;Ciclada;di Nasso;Naxosian;Naxosian;Naxosian;Naxosian;de Naxos;Íàêñîññê;Naxosian;x;;;;;;;;;;;;;;
 NEH;Novicastrum;Novicastrum;Novicastrum;Novicastrum;Novicastrum;Novicastrum;Novicastrum;Novicastrum;Novicastrum;Novicastrum;Novicastrum;Íåâøàòåëü;Novicastrum;x;;;;;;;;;;;;;;
 NEH_ADJ;Novicastrensi;Novicastrensi;Novicastrensi;Novicastrensi;Novicastrensi;Novicastrensi;Novicastrensi;Novicastrensi;Novicastrensi;Novicastrensi;Novicastrensi;íåâøàòåëüñê;Novicastrensi;x;;;;;;;;;;;;;;
 NEV;Noviodunum;Nevers;Nevers;Nevers;Noviodunum;Niverno;Nevers;Nevers;Nevers;Nevers;Nevers;Íåâåğ;Nevers;x;;;;;;;;;;;;;;
@@ -1037,8 +1037,8 @@ PHO;Phoenicia;Phénicie;Phönizien;Fenicja;Fenicia;Fenicia;Fönícia;Fénicie;Fönícia
 PHO_ADJ;Phoenician;Phénicienne;Phönizisch;fenick;Fenicia;Fenicia;föníciai;fénickı;föníciai;Fenicisch;Fenício;ôèíèêèéñê;Foinikialainen;x;;;;;;;;;;;;;;
 PIM;Pima;Pimas;Pima;Pima;Pima;Pima;Pima;Pima;Pima;Pima;Os Pima;Ïèìà;Pima;x;;;;;;;;;;;;;;
 PIM_ADJ;Pima;Pima;Pima-;Pimów;Pima;di Pima;Pima;Pima;Pima;Pima;Pima;Ïèìñê;Pima;x;;;;;;;;;;;;;;
-PIN;Pindus;Pinde;Pindos;Pindos;Pindo;Pindo;Pindusz;Pindus;Pindusz;Pindus;Pindo;Ïèíä;Pindus;x;;;;;;;;;;;;;;
-PIN_ADJ;Pindus;du Pinde;Pindos-;Pindosu;Pindo;del Pindo;Pindusz;Pindus;Pindusz;Pindus;do Pindo;ïèíäñê;Pindus;x;;;;;;;;;;;;;;
+PIN;Thessalia;Pinde;Pindos;Pindos;Tesalia;Pindo;Pindusz;Pindus;Pindusz;Pindus;Pindo;Ïèíä;Pindus;x;;;;;;;;;;;;;;
+PIN_ADJ;Thessalian;du Pinde;Pindos-;Pindosu;Tesalio;del Pindo;Pindusz;Pindus;Pindusz;Pindus;do Pindo;ïèíäñê;Pindus;x;;;;;;;;;;;;;;
 PIS;Pisa;Pise;Pisa;Piza;Pisa;Pisa;Pisa;Pisa;Pisa;Pisa;Pisa;Ïèçà;pisa;x;;;;;;;;;;;;;;
 PIS_ADJ;Pisan;Pisan;Pisa-;Pizy;Pisana;Pisana;Pisan;Pisan;Pisan;pisan;Pisano;Ïèçàíñê;Pisan;x;;;;;;;;;;;;;;
 PLS;Palestine;Palestine;Palästina;Palestyna;Palestina;Palestina;Palesztina;Palestina;Palesztina;Palestina;Palestina;Ïàëåñòèíà;Palestiina;x;;;;;;;;;;;;;;

@@ -4,3 +4,9 @@ add_core=CAL
 trade_goods = fruit
 life_rating = 40
 terrain = plains
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

@@ -1,6 +1,8 @@
 owner=BYZ
 controller=BYZ
 add_core=ARA
+add_core=ALH
+add_core=ABU
 trade_goods = grain
 life_rating = 35
 terrain = plains

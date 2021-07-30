@@ -1033,3 +1033,35 @@ jewish_farms = {
     farm_rgo_size = 2
     icon = 13
 }
+
+rus_occupied_capital = {
+	icon = 15
+}
+
+fre_occupied_capital = {
+	icon = 15
+}
+
+eng_occupied_capital = {
+	icon = 15
+}
+
+ger_occupied_capital = {
+	icon = 15
+}
+
+viking_occupied_capital = {
+	icon = 15
+}
+
+mate_occupied_capital = {
+	icon = 15
+}
+
+rog_occupied_capital = {
+	icon = 15
+}
+
+mng_occupied_capital = {
+	icon = 15
+}
