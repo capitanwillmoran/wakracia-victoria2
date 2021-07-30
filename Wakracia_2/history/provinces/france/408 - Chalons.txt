@@ -5,3 +5,8 @@ add_core=FRR
 trade_goods = fruit
 life_rating = 34
 terrain = plains
+state_building= {
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

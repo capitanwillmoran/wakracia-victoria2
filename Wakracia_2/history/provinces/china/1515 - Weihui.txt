@@ -5,3 +5,9 @@ add_core=XIA
 trade_goods = iron
 life_rating = 32
 terrain = plains
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

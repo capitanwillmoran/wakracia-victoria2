@@ -6,3 +6,8 @@ add_core=MNX
 trade_goods = iron
 life_rating = 32
 terrain = plains
+state_building = {
+	level = 1
+	building = machine_parts_factory
+	upgrade = yes
+}

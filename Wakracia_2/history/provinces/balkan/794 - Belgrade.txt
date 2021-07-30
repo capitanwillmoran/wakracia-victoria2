@@ -5,3 +5,9 @@ add_core=YUG
 trade_goods = grain
 life_rating = 35
 terrain = hills
+state_building=
+{
+	level=1
+	building = luxury_furniture_factory
+	upgrade = yes
+}

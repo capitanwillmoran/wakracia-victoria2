@@ -6,3 +6,9 @@ add_core=KAR
 trade_goods = iron
 life_rating = 30
 terrain = hills
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

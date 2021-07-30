@@ -6,3 +6,9 @@ add_core=SP3
 trade_goods = cattle
 life_rating = 40
 terrain = farmlands
+state_building=
+{
+	level=1
+	building = luxury_furniture_factory
+	upgrade = yes
+}

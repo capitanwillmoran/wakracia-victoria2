@@ -6,3 +6,9 @@ add_core=SHG
 trade_goods = tea
 life_rating = 32
 terrain = plains
+state_building=
+{
+	level=1
+	building = steamer_shipyard
+	upgrade = yes
+}

@@ -5,3 +5,8 @@ add_core=ETR
 trade_goods = iron
 life_rating = 35
 terrain = farmlands
+state_building = {
+	level = 1
+	building = machine_parts_factory
+	upgrade = yes
+}

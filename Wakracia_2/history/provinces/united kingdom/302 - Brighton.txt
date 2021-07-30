@@ -6,3 +6,10 @@ add_core=DNL
 trade_goods = fish
 life_rating = 35
 terrain = farmlands
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}
+

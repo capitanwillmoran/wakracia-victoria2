@@ -6,3 +6,9 @@ add_core=SLS
 trade_goods = iron
 life_rating = 40
 terrain = woods
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

@@ -7,3 +7,10 @@ add_core=CEL
 trade_goods = cattle
 life_rating = 35
 terrain = plains
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}
+

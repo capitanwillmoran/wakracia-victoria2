@@ -5,3 +5,9 @@ add_core=CLM
 trade_goods = timber
 life_rating = 30
 terrain = plains
+state_building=
+{
+	level=1
+	building = luxury_furniture_factory
+	upgrade = yes
+}

@@ -1,6 +1,12 @@
 owner=CRI
 controller=CRI
 add_core=CRI
-trade_goods = fish
+trade_goods = iron
 life_rating = 35
 terrain = mountain
+state_building=
+{
+	level=1
+	building = steamer_shipyard
+	upgrade = yes
+}

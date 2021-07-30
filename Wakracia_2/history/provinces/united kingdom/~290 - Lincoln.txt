@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=DNL
+add_core=ENG
+trade_goods = iron
+life_rating = 35
+terrain = farmlands
+naval_base = 1

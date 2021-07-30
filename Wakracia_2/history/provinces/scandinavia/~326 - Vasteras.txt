@@ -1,0 +1,7 @@
+owner=SLV
+controller=SLV
+add_core=SCA
+add_core=SWE
+trade_goods = iron
+life_rating = 35
+terrain = farmlands

@@ -5,3 +5,9 @@ add_core=WUU
 trade_goods = silk
 life_rating = 32
 terrain = hills
+state_building=
+{
+	level=1
+	building = steamer_shipyard
+	upgrade = yes
+}

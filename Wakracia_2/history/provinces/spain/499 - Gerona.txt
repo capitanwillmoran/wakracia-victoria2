@@ -7,3 +7,10 @@ add_core=SPA
 trade_goods = fruit
 life_rating = 35
 terrain = mountain
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}
+
