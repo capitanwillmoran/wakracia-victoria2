@@ -1117,189 +1117,189 @@
 	{
 		culture = penutian
 		religion = totemism
-		size= 7
+		size= 70
 	}
 
 	farmers=
 	{
 		culture = penutian
 		religion = totemism
-		size= 328
+		size= 3280
 	}
 
 	farmers=
 	{
 		culture = na_dene
 		religion = totemism
-		size= 7
+		size= 70
 	}
 
 	farmers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 629
+		size= 6290
 	}
 
 	artisans=
 	{
 		culture = penutian
 		religion = totemism
-		size= 5
-	}
-
-	soldiers=
-	{
-		culture = janalem
-		religion = gelugpa
-		size= 8
-	}
-
-	artisans=
-	{
-		culture = janalem
-		religion = gelugpa
-		size= 13
-	}
-
-	clergymen=
-	{
-		culture = janalem
-		religion = gelugpa
-		size= 2
-	}
-
-	bureaucrats=
-	{
-		culture = janalem
-		religion = gelugpa
-		size= 1
-	}
-
-	officers=
-	{
-		culture = janalem
-		religion = gelugpa
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = janalem
-		religion = gelugpa
-		size= 3
-	}
-
-	farmers=
-	{
-		culture = janalem
-		religion = gelugpa
-		size= 276
-	}
-
-	farmers=
-	{
-		culture = sonoran
-		religion = totemism
-		size= 54
-	}
-
-	artisans=
-	{
-		culture = sonoran
-		religion = totemism
-		size= 2
-	}
-
-	soldiers=
-	{
-		culture = qinlifornian
-		religion = mahayana
-		size= 19
-	}
-
-	artisans=
-	{
-		culture = qinlifornian
-		religion = mahayana
-		size= 30
-	}
-
-	clergymen=
-	{
-		culture = qinlifornian
-		religion = mahayana
-		size= 5
-	}
-
-	bureaucrats=
-	{
-		culture = qinlifornian
-		religion = mahayana
-		size= 2
-	}
-
-	officers=
-	{
-		culture = qinlifornian
-		religion = mahayana
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = qinlifornian
-		religion = mahayana
-		size= 6
-	}
-
-	soldiers=
-	{
-		culture = qinlifornian
-		religion = theravada
-		size= 32
-	}
-
-	artisans=
-	{
-		culture = qinlifornian
-		religion = theravada
 		size= 50
 	}
 
+	soldiers=
+	{
+		culture = janalem
+		religion = gelugpa
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = janalem
+		religion = gelugpa
+		size= 130
+	}
+
+	clergymen=
+	{
+		culture = janalem
+		religion = gelugpa
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = janalem
+		religion = gelugpa
+		size= 10
+	}
+
+	officers=
+	{
+		culture = janalem
+		religion = gelugpa
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = janalem
+		religion = gelugpa
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = janalem
+		religion = gelugpa
+		size= 2760
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 540
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = qinlifornian
+		religion = mahayana
+		size= 190
+	}
+
+	artisans=
+	{
+		culture = qinlifornian
+		religion = mahayana
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = qinlifornian
+		religion = mahayana
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = qinlifornian
+		religion = mahayana
+		size= 20
+	}
+
+	officers=
+	{
+		culture = qinlifornian
+		religion = mahayana
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = qinlifornian
+		religion = mahayana
+		size= 60
+	}
+
+	soldiers=
+	{
+		culture = qinlifornian
+		religion = theravada
+		size= 3200
+	}
+
+	artisans=
+	{
+		culture = qinlifornian
+		religion = theravada
+		size= 5000
+	}
+
 	clergymen=
 	{
 		culture = qinlifornian
 		religion = theravada
-		size= 8
+		size= 80
 	}
 
 	bureaucrats=
 	{
 		culture = qinlifornian
 		religion = theravada
-		size= 4
+		size= 40
 	}
 
 	officers=
 	{
 		culture = qinlifornian
 		religion = theravada
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = qinlifornian
 		religion = theravada
-		size= 10
+		size= 100
 	}
 
 	farmers=
 	{
 		culture = qinlifornian
 		religion = theravada
-		size= 1023
+		size= 10230
 	}
 
 }
@@ -1308,28 +1308,28 @@
 	{
 		culture = penutian
 		religion = totemism
-		size= 4
+		size= 40
 	}
 
 	farmers=
 	{
 		culture = penutian
 		religion = totemism
-		size= 145
+		size= 145450
 	}
 
 	farmers=
 	{
 		culture = na_dene
 		religion = totemism
-		size= 8
+		size= 80
 	}
 
 	soldiers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 2
+		size= 15141
 	}
 
 	artisans=
@@ -1343,98 +1343,98 @@
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 82
+		size= 820
 	}
 
 	soldiers=
 	{
 		culture = qinlifornian
 		religion = totemism
-		size= 9
+		size= 90
 	}
 
 	artisans=
 	{
 		culture = qinlifornian
 		religion = totemism
-		size= 9
+		size= 90
 	}
 
 	clergymen=
 	{
 		culture = qinlifornian
 		religion = totemism
-		size= 1
+		size= 10
 	}
 
 	bureaucrats=
 	{
 		culture = qinlifornian
 		religion = totemism
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = qinlifornian
 		religion = totemism
-		size= 2
+		size= 20
 	}
 
 	farmers=
 	{
 		culture = qinlifornian
 		religion = totemism
-		size= 305
+		size= 3050
 	}
 
 	soldiers=
 	{
 		culture = qinlifornian
 		religion = gelugpa
-		size= 14
+		size= 140
 	}
 
 	artisans=
 	{
 		culture = qinlifornian
 		religion = gelugpa
-		size= 31
+		size= 310
 	}
 
 	clergymen=
 	{
 		culture = qinlifornian
 		religion = gelugpa
-		size= 5
+		size= 50
 	}
 
 	bureaucrats=
 	{
 		culture = qinlifornian
 		religion = gelugpa
-		size= 2
+		size= 20
 	}
 
 	officers=
 	{
 		culture = qinlifornian
 		religion = gelugpa
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = qinlifornian
 		religion = gelugpa
-		size= 6
+		size= 60
 	}
 
 	farmers=
 	{
 		culture = qinlifornian
 		religion = gelugpa
-		size= 428
+		size= 4280
 	}
 
 }
@@ -1539,74 +1539,81 @@
 
 }
 87 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 440
+	}
+
 	soldiers=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 2
+		size= 20
 	}
 
 	farmers=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 288
+		size= 2880
 	}
 
 	farmers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 270
+		size= 2700
 	}
 
 	artisans=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 6
+		size= 60
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 1
+		size= 10
 	}
 
 	soldiers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 1033
+		size= 10330
 	}
 
 	artisans=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 62
+		size= 6200
 	}
 
 	clergymen=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 10
+		size= 100
 	}
 
 	bureaucrats=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 5
+		size= 50
 	}
 
 	officers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 1
+		size= 100
 	}
 
 	aristocrats=
@@ -1622,105 +1629,105 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 2
+		size= 20
 	}
 
 	farmers=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 324
+		size= 3240
 	}
 
 	farmers=
 	{
 		culture = penutian
 		religion = totemism
-		size= 225
+		size= 2250
 	}
 
 	artisans=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 11
+		size= 110
 	}
 
 	soldiers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 1033
+		size= 10330
 	}
 
 	artisans=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 62
+		size= 6200
 	}
 
 	clergymen=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 11
+		size= 110
 	}
 
 	bureaucrats=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 4
+		size= 40
 	}
 
 	aristocrats=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 12
+		size= 120
 	}
 
 	farmers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 255
+		size= 2550
 	}
 
 	farmers=
 	{
 		culture = na_dene
 		religion = totemism
-		size= 3
+		size= 30
 	}
 
 	artisans=
 	{
 		culture = penutian
 		religion = totemism
-		size= 3
+		size= 30
 	}
 
 	clergymen=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 2
+		size= 20
 	}
 
 	bureaucrats=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 2
+		size= 20
 	}
 
 }
@@ -1729,84 +1736,84 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 5
+		size= 500
 	}
 
 	farmers=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 535
+		size= 53500
 	}
 
 	artisans=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 11
+		size= 1100
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 2
+		size= 200
 	}
 
 	clergymen=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 1
+		size= 100
 	}
 
 	soldiers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 25
+		size= 2500
 	}
 
 	artisans=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 110
+		size= 11000
 	}
 
 	clergymen=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 18
+		size= 1800
 	}
 
 	bureaucrats=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 8
+		size= 80
 	}
 
 	officers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 23
+		size= 230
 	}
 
 	farmers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 2288
+		size= 22880
 	}
 
 }
@@ -1815,84 +1822,84 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 16
+		size= 160
 	}
 
 	farmers=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 529
+		size= 5290
 	}
 
 	artisans=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 11
+		size= 110
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 2
+		size= 20
 	}
 
 	clergymen=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 1
+		size= 10
 	}
 
 	soldiers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 1033
+		size= 10330
 	}
 
 	artisans=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 116
+		size= 1160
 	}
 
 	clergymen=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 19
+		size= 190
 	}
 
 	bureaucrats=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 9
+		size= 90
 	}
 
 	officers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 5
+		size= 50
 	}
 
 	aristocrats=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 24
+		size= 240
 	}
 
 	farmers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 1412
+		size= 14120
 	}
 
 }

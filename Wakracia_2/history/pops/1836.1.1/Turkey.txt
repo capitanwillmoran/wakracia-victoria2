@@ -205,14 +205,14 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 39419
+		size= 59419
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 3069
+		size= 6069
 	}
 
 	bureaucrats=
@@ -240,7 +240,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 354142
+		size= 331142
 	}
 
 	clergymen=

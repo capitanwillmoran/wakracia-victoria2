@@ -2202,119 +2202,119 @@
 	{
 		culture = aimara
 		religion = animist
-		size= 29
+		size= 290
 	}
 
 	artisans=
 	{
 		culture = aimara
 		religion = animist
-		size= 26
+		size= 260
 	}
 
 	farmers=
 	{
 		culture = aimara
 		religion = animist
-		size= 1354
+		size= 13540
 	}
 
 	artisans=
 	{
 		culture = araucanian
 		religion = animist
-		size= 3
+		size= 30
 	}
 
 	farmers=
 	{
 		culture = araucanian
 		religion = animist
-		size= 20
+		size= 200
 	}
 
 	aristocrats=
 	{
 		culture = araucanian
 		religion = animist
-		size= 1
+		size= 10
 	}
 
 	clergymen=
 	{
 		culture = aimara
 		religion = animist
-		size= 4
+		size= 40
 	}
 
 	bureaucrats=
 	{
 		culture = aimara
 		religion = animist
-		size= 2
+		size= 20
 	}
 
 	officers=
 	{
 		culture = aimara
 		religion = animist
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = aimara
 		religion = animist
-		size= 5
+		size= 50
 	}
 
 	soldiers=
 	{
 		culture = matense
 		religion = hellenic_pagan
-		size= 68
+		size= 680
 	}
 
 	artisans=
 	{
 		culture = matense
 		religion = hellenic_pagan
-		size= 165
+		size= 1650
 	}
 
 	clergymen=
 	{
 		culture = matense
 		religion = hellenic_pagan
-		size= 27
+		size= 270
 	}
 
 	bureaucrats=
 	{
 		culture = matense
 		religion = hellenic_pagan
-		size= 12
+		size= 120
 	}
 
 	officers=
 	{
 		culture = matense
 		religion = hellenic_pagan
-		size= 5
+		size= 50
 	}
 
 	aristocrats=
 	{
 		culture = matense
 		religion = hellenic_pagan
-		size= 35
+		size= 350
 	}
 
 	farmers=
 	{
 		culture = matense
 		religion = hellenic_pagan
-		size= 3092
+		size= 30920
 	}
 
 }

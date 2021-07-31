@@ -145,84 +145,84 @@
 	{
 		culture = sonoran
 		religion = animist
-		size= 2
+		size= 20
 	}
 
 	artisans=
 	{
 		culture = sonoran
 		religion = animist
-		size= 5
+		size= 50
 	}
 
 	clergymen=
 	{
 		culture = sonoran
 		religion = animist
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
 		religion = animist
-		size= 1
+		size= 10
 	}
 
 	farmers=
 	{
 		culture = sonoran
 		religion = animist
-		size= 236
+		size= 2360
 	}
 
 	soldiers=
 	{
 		culture = thegioimoi
 		religion = animist
-		size= 8
+		size= 80
 	}
 
 	artisans=
 	{
 		culture = thegioimoi
 		religion = animist
-		size= 36
+		size= 360
 	}
 
 	clergymen=
 	{
 		culture = thegioimoi
 		religion = animist
-		size= 6
+		size= 60
 	}
 
 	bureaucrats=
 	{
 		culture = thegioimoi
 		religion = animist
-		size= 3
+		size= 30
 	}
 
 	officers=
 	{
 		culture = thegioimoi
 		religion = animist
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = thegioimoi
 		religion = animist
-		size= 7
+		size= 70
 	}
 
 	farmers=
 	{
 		culture = thegioimoi
 		religion = animist
-		size= 705
+		size= 7050
 	}
 
 }
@@ -231,119 +231,119 @@
 	{
 		culture = sonoran
 		religion = animist
-		size= 9
+		size= 90
 	}
 
 	artisans=
 	{
 		culture = sonoran
 		religion = animist
-		size= 6
+		size= 60
 	}
 
 	clergymen=
 	{
 		culture = sonoran
 		religion = animist
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
 		religion = animist
-		size= 1
+		size= 10
 	}
 
 	farmers=
 	{
 		culture = sonoran
 		religion = animist
-		size= 293
+		size= 2930
 	}
 
 	soldiers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 1033
+		size= 10330
 	}
 
 	artisans=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 150
+		size= 1500
 	}
 
 	clergymen=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 25
+		size= 250
 	}
 
 	bureaucrats=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 11
+		size= 110
 	}
 
 	officers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 6
+		size= 60
 	}
 
 	aristocrats=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 31
+		size= 310
 	}
 
 	farmers=
 	{
 		culture = qinlifornian
 		religion = mahayana
-		size= 2077
+		size= 20770
 	}
 
 	soldiers=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 14
+		size= 140
 	}
 
 	artisans=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 11
+		size= 110
 	}
 
 	clergymen=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 2
+		size= 20
 	}
 
 	farmers=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 473
+		size= 4730
 	}
 
 }
@@ -3382,9 +3382,9 @@
 
 	bureaucrats=
 	{
-		culture = mayan
-		religion = mayan
-		size= 14
+		culture = rogirian
+		religion = hellenic_pagan
+		size= 500
 	}
 
 	officers=
@@ -4541,9 +4541,9 @@
 
 	bureaucrats=
 	{
-		culture = mayan
-		religion = mayan
-		size= 18
+		culture = rogirian
+		religion = hellenic_pagan
+		size= 500
 	}
 
 	officers=
@@ -4592,9 +4592,9 @@
 
 	bureaucrats=
 	{
-		culture = zapotec
-		religion = nahuatl
-		size= 11
+		culture = rogirian
+		religion = hellenic_pagan
+		size= 500
 	}
 
 	officers=
@@ -4692,9 +4692,9 @@
 
 	bureaucrats=
 	{
-		culture = mayan
-		religion = mayan
-		size= 56
+		culture = rogirian
+		religion = hellenic_pagan
+		size= 500
 	}
 
 	officers=
@@ -4792,9 +4792,9 @@
 
 	bureaucrats=
 	{
-		culture = mayan
-		religion = mayan
-		size= 36
+		culture = rogirian
+		religion = hellenic_pagan
+		size= 500
 	}
 
 	officers=
@@ -4843,9 +4843,9 @@
 
 	bureaucrats=
 	{
-		culture = mayan
-		religion = mayan
-		size= 53
+		culture = rogirian
+		religion = hellenic_pagan
+		size= 500
 	}
 
 	officers=

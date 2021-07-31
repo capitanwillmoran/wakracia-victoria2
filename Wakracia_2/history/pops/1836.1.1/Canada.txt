@@ -643,84 +643,84 @@
 	{
 		culture = na_dene
 		religion = totemism
-		size= 9
+		size= 90
 	}
 
 	artisans=
 	{
 		culture = na_dene
 		religion = totemism
-		size= 9
+		size= 90
 	}
 
 	clergymen=
 	{
 		culture = na_dene
 		religion = totemism
-		size= 1
+		size= 10
 	}
 
 	bureaucrats=
 	{
 		culture = na_dene
 		religion = totemism
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = na_dene
 		religion = totemism
-		size= 2
+		size= 20
 	}
 
 	farmers=
 	{
 		culture = na_dene
 		religion = totemism
-		size= 425
+		size= 4250
 	}
 
 	soldiers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 13
+		size= 130
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 3
+		size= 30
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 75
+		size= 750
 	}
 
 }
@@ -1050,49 +1050,49 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 16
+		size= 160
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 87
+		size= 870
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 14
+		size= 140
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 7
+		size= 70
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 3
+		size= 30
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 18
+		size= 180
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 634
+		size= 6340
 	}
 
 }
@@ -1150,35 +1150,35 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 5
+		size= 50
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 26
+		size= 260
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 40
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
@@ -1192,7 +1192,7 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 228
+		size= 2280
 	}
 
 }
@@ -1243,49 +1243,49 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 40
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 22
+		size= 220
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 40
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 5
+		size= 50
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 159
+		size= 1590
 	}
 
 }
@@ -1336,49 +1336,49 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 40
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 23
+		size= 230
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 40
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 5
+		size= 50
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 164
+		size= 1640
 	}
 
 }
@@ -1436,49 +1436,49 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 10
+		size= 100
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 46
+		size= 460
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 7
+		size= 70
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 3
+		size= 30
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 10
+		size= 100
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 406
+		size= 4060
 	}
 
 }
@@ -1536,49 +1536,49 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 11
+		size= 110
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 49
+		size= 490
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 8
+		size= 80
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 40
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 10
+		size= 100
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 478
+		size= 4780
 	}
 
 }
@@ -1587,7 +1587,7 @@
 	{
 		culture = plains_algonquian
 		religion = totemism
-		size= 1033
+		size= 10330
 	}
 
 	farmers=
@@ -1636,49 +1636,49 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 12
+		size= 1200
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 53
+		size= 5300
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 9
+		size= 900
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 240
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 11
+		size= 110
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 489
+		size= 4890
 	}
 
 }
@@ -1736,49 +1736,49 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 11
+		size= 11000
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 51
+		size= 510
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 8
+		size= 80
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 40
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 11
+		size= 110
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 478
+		size= 4780
 	}
 
 }
@@ -1836,63 +1836,63 @@
 	{
 		culture = plains_algonquian
 		religion = totemism
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = plains_algonquian
 		religion = totemism
-		size= 7
+		size= 70
 	}
 
 	soldiers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 16
+		size= 160
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 69
+		size= 690
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 11
+		size= 110
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 5
+		size= 500
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 14
+		size= 140
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 667
+		size= 6670
 	}
 
 }
@@ -1987,21 +1987,21 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 12
+		size= 120
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 49
+		size= 490
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 8
+		size= 80
 	}
 
 	bureaucrats=
@@ -2015,14 +2015,14 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 10
+		size= 100
 	}
 
 	farmers=
@@ -2080,49 +2080,49 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 12
+		size= 120
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 50
+		size= 500
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 8
+		size= 80
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 40
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 10
+		size= 100
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 516
+		size= 51600
 	}
 
 }
@@ -2180,49 +2180,49 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 13
+		size= 130
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 50
+		size= 5000
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 8
+		size= 80
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 40
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 10
+		size= 100
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 550
+		size= 55000
 	}
 
 }
@@ -2231,7 +2231,7 @@
 	{
 		culture = siouan
 		religion = totemism
-		size= 14
+		size= 140
 	}
 
 	farmers=
@@ -2280,49 +2280,49 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 6
+		size= 60
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 25
+		size= 250
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 40
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 5
+		size= 50
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 246
+		size= 2460
 	}
 
 }
@@ -2522,49 +2522,49 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 8
+		size= 80
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 28
+		size= 280
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 5
+		size= 50
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 5
+		size= 50
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 361
+		size= 3610
 	}
 
 	soldiers=
@@ -2650,49 +2650,49 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 7
+		size= 70
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 25
+		size= 250
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 40
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 5
+		size= 500
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 318
+		size= 3180
 	}
 
 }
@@ -2743,91 +2743,91 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 1
+		size= 1000
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 13
+		size= 130
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 2
+		size= 20
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 5
+		size= 500
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 51
+		size= 510
 	}
 
 	soldiers=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 6
+		size= 600
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 46
+		size= 4600
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 9
+		size= 90
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 2
+		size= 200
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 1
+		size= 100
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 19
+		size= 190
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 473
+		size= 4730
 	}
 
 }
@@ -2885,49 +2885,49 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 14
+		size= 140
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 51
+		size= 510
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 8
+		size= 80
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 40
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 11
+		size= 110
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 602
+		size= 6020
 	}
 
 }
@@ -2936,7 +2936,7 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 24
+		size= 240
 	}
 
 	artisans=
@@ -2992,56 +2992,56 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 5
+		size= 50
 	}
 
 	soldiers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 13
+		size= 1351
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 51
+		size= 2510
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 8
+		size= 80
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 140
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 11
+		size= 110
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 577
+		size= 5770
 	}
 
 }
@@ -3106,91 +3106,91 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 1
+		size= 1045
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 14
+		size= 1445
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 3
+		size= 310
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 1
+		size= 132
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 6
+		size= 64
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 120
+		size= 12014
 	}
 
 	soldiers=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 6
+		size= 645
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 49
+		size= 4935
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 9
+		size= 932
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 2
+		size= 278
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 1
+		size= 387
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 21
+		size= 215
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 494
+		size= 4944
 	}
 
 }
@@ -3396,77 +3396,77 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 1
+		size= 143
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 5
+		size= 545
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 1
+		size= 112
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 2
+		size= 24
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 66
+		size= 6684
 	}
 
 	soldiers=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 2
+		size= 247
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 17
+		size= 1745
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 3
+		size= 354
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 1
+		size= 137
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 7
+		size= 785
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 192
+		size= 6929
 	}
 
 }
@@ -3496,70 +3496,70 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 5
+		size= 532
 	}
 
 	soldiers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 1
+		size= 145
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 4
+		size= 412
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 1
+		size= 112
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 2
+		size= 245
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 66
+		size= 7611
 	}
 
 	soldiers=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 2
+		size= 245
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 15
+		size= 1565
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 3
+		size= 334
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 6
+		size= 678
 	}
 
 	farmers=
@@ -3573,56 +3573,56 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 2
+		size= 264
 	}
 
 	soldiers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 5
+		size= 546
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 29
+		size= 2900
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 5
+		size= 537
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 1
+		size= 111
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 1
+		size= 121
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 12
+		size= 122
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 418
+		size= 4184
 	}
 
 }
@@ -3687,91 +3687,91 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 3
+		size= 30
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 21
+		size= 2100
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 4
+		size= 400
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 9
+		size= 90
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 224
+		size= 2240
 	}
 
 	soldiers=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 8
+		size= 80
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 70
+		size= 700
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 13
+		size= 130
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 3
+		size= 30
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 29
+		size= 290
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 719
+		size= 7190
 	}
 
 }
@@ -3822,7 +3822,7 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 2
+		size= 200
 	}
 
 	artisans=
@@ -3836,14 +3836,14 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 5
+		size= 50
 	}
 
 	farmers=
@@ -3857,7 +3857,7 @@
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 7
+		size= 70
 	}
 
 	artisans=
@@ -3871,14 +3871,14 @@
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 9
+		size= 90
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
@@ -3899,7 +3899,7 @@
 	{
 		culture = vinlanderr
 		religion = hellenic_pagan
-		size= 1
+		size= 10
 	}
 
 }
@@ -3985,91 +3985,91 @@
 	{
 		culture = iroquoian
 		religion = hellenic_pagan
-		size= 2
+		size= 20
 	}
 
 	artisans=
 	{
 		culture = iroquoian
 		religion = hellenic_pagan
-		size= 35
+		size= 350
 	}
 
 	clergymen=
 	{
 		culture = iroquoian
 		religion = hellenic_pagan
-		size= 3
+		size= 30
 	}
 
 	bureaucrats=
 	{
 		culture = iroquoian
 		religion = hellenic_pagan
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = iroquoian
 		religion = hellenic_pagan
-		size= 6
+		size= 60
 	}
 
 	farmers=
 	{
 		culture = iroquoian
 		religion = hellenic_pagan
-		size= 189
+		size= 2890
 	}
 
 	soldiers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 4
+		size= 40
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 107
+		size= 1070
 	}
 
 	clergymen=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 9
+		size= 90
 	}
 
 	bureaucrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 3
+		size= 30
 	}
 
 	officers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 20
+		size= 200
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 232
+		size= 2320
 	}
 
 	artisans=
@@ -4629,49 +4629,49 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 184
+		size= 1840
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 1297
+		size= 12970
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 60
+		size= 600
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 22
+		size= 220
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 15
+		size= 150
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 117
+		size= 1170
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 4873
+		size= 48730
 	}
 
 	soldiers=
@@ -4692,28 +4692,28 @@
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 312
+		size= 3120
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 115
+		size= 1150
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 77
+		size= 770
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 605
+		size= 6050
 	}
 
 	farmers=
@@ -4750,63 +4750,63 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 2
+		size= 20
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 6
+		size= 60
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 1
+		size= 10
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 168
+		size= 1680
 	}
 
 	soldiers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 2
+		size= 20
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 18
+		size= 180
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 3
+		size= 30
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 4
+		size= 40
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 213
+		size= 2130
 	}
 
 }
@@ -4815,49 +4815,49 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 3
+		size= 30
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 285
+		size= 2850
 	}
 
 	artisans=
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 5
+		size= 50
 	}
 
 	clergymen=
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 2
+		size= 20
 	}
 
 	soldiers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 3
+		size= 30
 	}
 
 	artisans=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 18
+		size= 180
 	}
 
 	clergymen=
@@ -4871,21 +4871,21 @@
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 8
+		size= 80
 	}
 
 	farmers=
 	{
 		culture = kanada
 		religion = hellenic_pagan
-		size= 278
+		size= 2780
 	}
 
 }
@@ -4929,56 +4929,56 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 7
+		size= 70
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 23
+		size= 230
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 4
+		size= 40
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 5
+		size= 50
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 666
+		size= 6660
 	}
 
 	soldiers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 10
+		size= 100
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 71
+		size= 710
 	}
 
 	clergymen=
@@ -4992,21 +4992,21 @@
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 4
+		size= 40
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 15
+		size= 150
 	}
 
 	farmers=
@@ -5050,77 +5050,77 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 6
+		size= 60
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 18
+		size= 180
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 3
+		size= 30
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 3
+		size= 30
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 508
+		size= 5080
 	}
 
 	soldiers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 6
+		size= 600
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 46
+		size= 460
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 8
+		size= 80
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 3
+		size= 30
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 9
+		size= 90
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 446
+		size= 4460
 	}
 
 }
@@ -5206,91 +5206,91 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 6
+		size= 60
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 39
+		size= 390
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 2
+		size= 20
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 1
+		size= 10
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 3
+		size= 30
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 154
+		size= 1540
 	}
 
 	soldiers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 27
+		size= 270
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 201
+		size= 2010
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 9
+		size= 90
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 3
+		size= 30
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 2
+		size= 20
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 14
+		size= 140
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 722
+		size= 7220
 	}
 
 }
@@ -5411,98 +5411,98 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 74
+		size= 740
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 406
+		size= 4060
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 19
+		size= 190
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 7
+		size= 70
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 5
+		size= 50
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 24
+		size= 240
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 2122
+		size= 11220
 	}
 
 	soldiers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 240
+		size= 2400
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 1824
+		size= 18240
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 85
+		size= 850
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 31
+		size= 310
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 21
+		size= 210
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 109
+		size= 1090
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 6248
+		size= 62480
 	}
 
 }
@@ -5672,42 +5672,42 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 123
+		size= 1230
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 407
+		size= 4070
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 66
+		size= 660
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 20
+		size= 200
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 8
+		size= 80
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 128
+		size= 1280
 	}
 
 	farmers=
@@ -5721,14 +5721,14 @@
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 195
+		size= 1950
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 1350
+		size= 4350
 	}
 
 	clergymen=
@@ -5742,7 +5742,7 @@
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 67
+		size= 670
 	}
 
 	officers=
@@ -5879,28 +5879,28 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 49
+		size= 490
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 137
+		size= 1370
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 23
+		size= 230
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 7
+		size= 70
 	}
 
 	officers=
@@ -5914,7 +5914,7 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 29
+		size= 290
 	}
 
 	farmers=
@@ -5928,7 +5928,7 @@
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 48
+		size= 480
 	}
 
 	artisans=
@@ -5942,35 +5942,35 @@
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 59
+		size= 590
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 19
+		size= 190
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 8
+		size= 80
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 76
+		size= 760
 	}
 
 	farmers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 4154
+		size= 9154
 	}
 
 	artisans=
@@ -6056,35 +6056,35 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 107
+		size= 1070
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 277
+		size= 2770
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 45
+		size= 450
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 14
+		size= 140
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 5
+		size= 50
 	}
 
 	aristocrats=
@@ -6105,35 +6105,35 @@
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 32
+		size= 320
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 466
+		size= 4660
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 75
+		size= 750
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 24
+		size= 240
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 9
+		size= 90
 	}
 
 	aristocrats=
@@ -6147,7 +6147,7 @@
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 2490
+		size= 7490
 	}
 
 }
@@ -6233,35 +6233,35 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 283
+		size= 2830
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 437
+		size= 4370
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 71
+		size= 710
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 21
+		size= 210
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 18
+		size= 180
 	}
 
 	aristocrats=
@@ -6282,14 +6282,14 @@
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 23
+		size= 230
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 116
+		size= 1160
 	}
 
 	clergymen=
@@ -6303,14 +6303,14 @@
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 6
+		size= 103
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 5
+		size= 47
 	}
 
 	aristocrats=
@@ -6324,7 +6324,7 @@
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 611
+		size= 811
 	}
 
 }
@@ -6382,42 +6382,42 @@
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 151
+		size= 1510
 	}
 
 	artisans=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 131
+		size= 1310
 	}
 
 	clergymen=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 21
+		size= 210
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 7
+		size= 70
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 5
+		size= 50
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = norse_pagan_reformed
-		size= 27
+		size= 270
 	}
 
 	farmers=
@@ -6431,7 +6431,7 @@
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 5
+		size= 50
 	}
 
 	artisans=
@@ -6445,28 +6445,28 @@
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 26
+		size= 260
 	}
 
 	bureaucrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 8
+		size= 80
 	}
 
 	officers=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 6
+		size= 60
 	}
 
 	aristocrats=
 	{
 		culture = vinlanderr
 		religion = totemism
-		size= 34
+		size= 340
 	}
 
 }
@@ -6489,21 +6489,21 @@
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 17
+		size= 170
 	}
 
 	bureaucrats=
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 5
+		size= 50
 	}
 
 	officers=
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 4
+		size= 40
 	}
 
 	aristocrats=

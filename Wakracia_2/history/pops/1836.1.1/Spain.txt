@@ -1,35 +1,35 @@
 474 = {
 	soldiers=
 	{
-		culture = portuguese
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 38233
 	}
 
 	craftsmen=
 	{
-		culture = portuguese
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 5953
 	}
 
 	artisans=
 	{
-		culture = portuguese
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 2516
 	}
 
 	clergymen=
 	{
-		culture = portuguese
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 409
 	}
 
 	clerks=
 	{
-		culture = portuguese
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 179
 	}
@@ -50,16 +50,23 @@
 
 	capitalists=
 	{
-		culture = portuguese
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 50
 	}
 
 	aristocrats=
 	{
-		culture = portuguese
+		culture = galician
 		religion = west_african_pagan_reformed
 		size= 1057
+	}
+
+	farmers=
+	{
+		culture = galician
+		religion = west_african_pagan_reformed
+		size= 1744
 	}
 
 	farmers=
@@ -67,6 +74,13 @@
 		culture = portuguese
 		religion = west_african_pagan_reformed
 		size= 77244
+	}
+
+	soldiers=
+	{
+		culture = galician
+		religion = hellenic_pagan
+		size= 112
 	}
 
 	soldiers=

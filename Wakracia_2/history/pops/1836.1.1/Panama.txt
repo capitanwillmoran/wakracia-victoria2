@@ -252,7 +252,7 @@
 	{
 		culture = rogirian
 		religion = hellenic_pagan
-		size= 1033
+		size= 103
 	}
 
 	artisans=

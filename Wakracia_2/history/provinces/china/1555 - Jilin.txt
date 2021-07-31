@@ -6,7 +6,8 @@ add_core=MCK
 trade_goods = iron
 life_rating = 32
 terrain = plains
-state_building = {
+state_building=
+{
 	level = 1
 	building = machine_parts_factory
 	upgrade = yes
