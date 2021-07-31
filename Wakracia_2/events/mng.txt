@@ -7,6 +7,9 @@ country_event = {
 	picture = "qing_emperor"
 	
 	trigger = {
+		NOT = { 
+			has_country_flag = china_fragmented_happened
+		}
 		tag = MNX
 		OR = {
 			badboy = 0.2

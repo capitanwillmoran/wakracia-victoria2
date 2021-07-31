@@ -1,5 +1,5 @@
 owner=SWE
-controller=REB
+controller=SWE
 add_core=TRN
 add_core=SAF
 trade_goods = wool

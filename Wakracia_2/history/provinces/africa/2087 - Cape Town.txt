@@ -1,5 +1,5 @@
 owner=SWE
-controller=REB
+controller=SWE
 add_core=SAF
 add_core=TRN
 trade_goods = fruit

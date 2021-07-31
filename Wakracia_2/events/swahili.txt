@@ -7,15 +7,18 @@ country_event = {
 	picture = "demolished_mosque"
 	
 	trigger = {
+		NOT = { 
+			has_country_flag = swahili_fragmented_happened
+		}
 		tag = SWA
 		OR = {
-			badboy = 0.5
-			militancy = 4
+			badboy = 0.2
+			militancy = 2
 		}
 	}
 
 	mean_time_to_happen = {
-		months = 3
+		months = 1
 	}
 
 	fire_only_once = yes

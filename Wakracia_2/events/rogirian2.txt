@@ -14,7 +14,7 @@ country_event = {
 			badboy = 0.4
 			militancy = 3
 		}
-		tag = TEX
+		tag = MEX
 		NOT = {exists = TEX }
 	}
 	
@@ -36,7 +36,7 @@ country_event = {
 			}
 			secede_province = TEX
 		}
-		SIC = {
+		TEX = {
 			capital = 133
 			leadership = 120
 		}

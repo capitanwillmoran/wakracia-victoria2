@@ -7,6 +7,9 @@ country_event = {
 	picture = "Dreyfus"
 	
 	trigger = {
+		NOT = {
+			has_country_flag = french_civil_war_happened
+		}
 		tag = X09
 		or = {
 			badboy = 0.3
