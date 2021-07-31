@@ -8,9 +8,12 @@ country_event = {
 	
 	trigger = {
 		tag = KZB
+		NOT = {
+			has_country_flag = kazembe_fragmented_happened
+		}
 		OR = {
-			badboy = 0.5
-			militancy = 4
+			badboy = 0.2
+			militancy = 2
 		}
 	}
 

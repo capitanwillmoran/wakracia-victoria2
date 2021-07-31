@@ -1,8 +1,8 @@
 #A House Divided
 country_event = {
-	id = 96019
-	title = "EVTNAME96019"
-	desc = "EVTDESC96019"
+	id = 96031
+	title = "EVTNAME96031"
+	desc = "EVTDESC96031"
 	major = no
 	picture = "russianmonke"
 	
@@ -29,7 +29,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTA96019"
+		name = "EVTOPTA96031"
 		prestige = 5
 		war_exhaustion = -10
 		add_country_modifier = {
@@ -40,9 +40,9 @@ country_event = {
 }
 
 country_event = {
-	id = 96020
-	title = "EVTNAME96020"
-	desc = "EVTDESC96020"
+	id = 96032
+	title = "EVTNAME96032"
+	desc = "EVTDESC96032"
 	major = no
 	picture = "frenchmonke"
 	
@@ -66,7 +66,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTA96020"
+		name = "EVTOPTA96032"
 		prestige = 5
 		war_exhaustion = -10
 		add_country_modifier = {
@@ -77,9 +77,9 @@ country_event = {
 }
 
 country_event = {
-	id = 96021
-	title = "EVTNAME96021"
-	desc = "EVTDESC96021"
+	id = 96033
+	title = "EVTNAME96033"
+	desc = "EVTDESC96033"
 	major = no
 	picture = "englishmonke"
 	
@@ -97,7 +97,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTA96021"
+		name = "EVTOPTA96033"
 		prestige = 5
 		war_exhaustion = -10
 		add_country_modifier = {
@@ -108,9 +108,9 @@ country_event = {
 }
 
 country_event = {
-	id = 96022
-	title = "EVTNAME96022"
-	desc = "EVTDESC96022"
+	id = 96034
+	title = "EVTNAME96034"
+	desc = "EVTDESC96034"
 	major = no
 	picture = "germanmonke"
 	
@@ -128,7 +128,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTA96022"
+		name = "EVTOPTA96034"
 		prestige = 5
 		war_exhaustion = -10
 		add_country_modifier = {
@@ -139,9 +139,9 @@ country_event = {
 }
 
 country_event = {
-	id = 96023
-	title = "EVTNAME96023"
-	desc = "EVTDESC96023"
+	id = 96035
+	title = "EVTNAME96035"
+	desc = "EVTDESC96035"
 	major = no
 	picture = "vikingmonke"
 	
@@ -168,7 +168,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTA96023"
+		name = "EVTOPTA96035"
 		prestige = 5
 		war_exhaustion = -10
 		add_country_modifier = {
@@ -179,9 +179,9 @@ country_event = {
 }
 
 country_event = {
-	id = 96024
-	title = "EVTNAME96024"
-	desc = "EVTDESC96024"
+	id = 96036
+	title = "EVTNAME96036"
+	desc = "EVTDESC96036"
 	major = no
 	picture = "matemonke"
 	
@@ -202,7 +202,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTA96024"
+		name = "EVTOPTA96036"
 		prestige = 5
 		war_exhaustion = -10
 		add_country_modifier = {
@@ -213,9 +213,9 @@ country_event = {
 }
 
 country_event = {
-	id = 96025
-	title = "EVTNAME96025"
-	desc = "EVTDESC96025"
+	id = 96037
+	title = "EVTNAME96037"
+	desc = "EVTDESC96037"
 	major = no
 	picture = "rogiriamonke"
 	
@@ -239,7 +239,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTA96025"
+		name = "EVTOPTA96037"
 		prestige = 5
 		war_exhaustion = -10
 		add_country_modifier = {
@@ -250,9 +250,9 @@ country_event = {
 }
 
 country_event = {
-	id = 96026
-	title = "EVTNAME96026"
-	desc = "EVTDESC96026"
+	id = 96038
+	title = "EVTNAME96038"
+	desc = "EVTDESC96038"
 	major = no
 	picture = "mingmonke"
 	
@@ -270,7 +270,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTA96026"
+		name = "EVTOPTA96038"
 		prestige = 5
 		war_exhaustion = -10
 		add_country_modifier = {

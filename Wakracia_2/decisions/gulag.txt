@@ -15,7 +15,7 @@ political_decisions = {
 				government = fascist_dictatorship
 			}
 			war = no
-			NOT = { money = 10000 }
+			NOT = { is_disarmed = yes }
 		}
 		effect = {
 			add_country_modifier = { name = forced_labour duration = 350 }
