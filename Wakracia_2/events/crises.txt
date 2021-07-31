@@ -7,7 +7,6 @@ country_event = {
 	trigger = {
 		crisis_exist = yes
 		ai = yes
-		involved_in_crisis = no
 		is_greater_power = yes
 	}
 

@@ -7,14 +7,17 @@ country_event = {
 	
 	trigger = {
 		tag = SPA
+		NOT = {
+			has_country_flag = hispania_fragmented_happened
+		}
 		OR = {
-			badboy = 1
+			badboy = 0.3
 			militancy = 4
 		}
 	}
 
 	mean_time_to_happen = {
-		months = 5
+		months = 1
 	}
 
 	fire_only_once = yes

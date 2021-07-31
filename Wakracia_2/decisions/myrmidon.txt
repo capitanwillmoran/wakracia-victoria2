@@ -146,6 +146,18 @@ political_decisions = {
 				}
 				secede_province = SAA
 			}
+			any_owned = {
+				limit = {
+					is_core = BAD
+				}
+				secede_province = BAD
+			}
+			any_owned = {
+				limit = {
+					is_core = ALS
+				}
+				secede_province = ALS
+			}
 			set_country_flag = free_germania_happened
 			ai_will_do = {
 				factor = 1

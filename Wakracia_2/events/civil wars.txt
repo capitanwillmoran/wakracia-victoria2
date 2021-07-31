@@ -103,8 +103,10 @@ country_event = {
 		tag = BYZ
 		has_country_flag = italian_civil_war_happened
 		year = 1885
-		badboy = 0.5
-		militancy = 3
+		or = {	
+			badboy = 0.3
+			militancy = 3
+		}
 		NOT = {
 			year = 1888
 			exists = RUM
@@ -116,7 +118,7 @@ country_event = {
 	fire_only_once = yes
 
 	mean_time_to_happen =  {
-		months = 5
+		months = 1
 
 		modifier = {
 			factor = 0.75 #increase likelihood to happen
@@ -206,23 +208,25 @@ country_event = {
 	
 	trigger = {
 		has_country_flag = anatolian_civil_war_happened
-		OR = {
-			tag = BYZ
-			year = 1895
-			NOT = {
-				year = 1898
-				exists = BAB
-				exists = IRQ
-				exists = SYR
-				has_country_flag = syrian_civil_war_happened
-			}
+		tag = BYZ
+		year = 1895
+		or = {	
+			badboy = 0.3
+			militancy = 3
+		}	
+		NOT = {
+			year = 1898
+			exists = BAB
+			exists = IRQ
+			exists = SYR
 		}
+		has_country_flag = syrian_civil_war_happened
 	}
 
 	fire_only_once = yes
 	
 	mean_time_to_happen = {
-		months = 5
+		months = 1
 
 		modifier = {
 			factor = 0.75 #increase likelihood to happen
