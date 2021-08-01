@@ -3077,7 +3077,9 @@ political_decisions = {
 			724 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			725 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			#Duchy of Romagna
-			PAP_741 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			741 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			742 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			743 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			#Duchy of Venice
 			729 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			#Duchy of Lazio
@@ -3117,7 +3119,7 @@ political_decisions = {
 		}
 		
 		effect = {
-			prestige = 50
+			prestige = 100
 			all_core = { remove_core = THIS add_core = SPQ }
 			any_owned = {
 				add_core = SPQ
@@ -3137,7 +3139,6 @@ political_decisions = {
 					in_sphere = THIS
 					NOT = { has_country_flag = post_colonial_country }
 				}
-				country_event = 11101
 			}
 		}
 		ai_will_do = {

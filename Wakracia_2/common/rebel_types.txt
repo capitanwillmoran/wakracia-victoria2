@@ -3344,7 +3344,7 @@ nationalsyndicalist_rebels = {
 # Theocratic Rebels
 ###################################
 theocratic_rebels = {
-	icon = 2
+	icon = 1
 	
 	area = nation 					# Stays within the nation
 	break_alliance_on_win = yes

@@ -18,7 +18,7 @@ political_decisions = {
 		}
       
 		effect = {
-			prestige_factor = 50
+			prestige = 20
 			money = -10000
 			set_country_flag = leader_talkies
 			labourers = {

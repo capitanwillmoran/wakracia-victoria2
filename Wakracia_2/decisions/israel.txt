@@ -64,6 +64,7 @@ political_decisions = {
 		effect = {
 			EGY_921 = { add_core = ISR }
 			prestige = 10
+			EGY_921 = { secede_province = ISR }
 			set_global_flag = israel_has_her_cores
 			set_global_flag = israel_palestine
 		}
@@ -156,6 +157,8 @@ political_decisions = {
 			set_global_flag = israel_has_her_cores
 			set_global_flag = israel_madagascar
 			ISR = { capital = 2115 }
+			MAD_2117 = { secede_province = ISR }
+			MAD_2121 = { secede_province = ISR }
 		}
 		ai_will_do = {
 			factor = 0
@@ -251,6 +254,10 @@ political_decisions = {
 				capital = 2396
 				set_country_flag = new_world_nation
 			}
+			ARG_2391 = { secede_province = ISR }
+			2398 = { secede_province = ISR }
+			2399 = { secede_province = ISR }
+			2400 = { secede_province = ISR }
 		}
 		ai_will_do = {
 			factor = 0
@@ -314,6 +321,10 @@ political_decisions = {
 				capital = 2239
 				set_country_flag = new_world_nation
 			}
+			1979 = { secede_province = ISR }
+			2239 = { secede_province = ISR }
+			2242 = { secede_province = ISR }
+			2243 = { secede_province = ISR }
 		}
 		ai_will_do = {
 			factor = 0
@@ -406,6 +417,7 @@ political_decisions = {
 				capital = 2
 				set_country_flag = new_world_nation
 			}
+			USA_1 = { secede_province = ISR }
 		}
 		ai_will_do = {
 			factor = 0
@@ -483,6 +495,8 @@ political_decisions = {
 				capital = 2028
 				set_country_flag = post_colonial_country
 			}
+			2028 = { secede_province = ISR }
+			ENG_2019 = { secede_province = ISR }
 		}
 		ai_will_do = {
 			factor = 0
@@ -550,6 +564,9 @@ political_decisions = {
 			set_global_flag = israel_has_her_cores
 			set_global_flag = israel_japan
 			ISR = { capital = 1642 }
+			JAP_1088 = { secede_province = ISR }
+			1087 = { secede_province = ISR }
+			1089 = { secede_province = ISR }
 		}
 		ai_will_do = {
 			factor = 0
@@ -626,6 +643,7 @@ political_decisions = {
 			set_global_flag = israel_has_her_cores
 			set_global_flag = israel_cyrenaica
 			ISR = { capital = 1735 }
+			TRI_1735 = { secede_province = ISR }
 		}
 		ai_will_do = {
 			factor = 0
@@ -704,6 +722,9 @@ political_decisions = {
 				capital = 2003
 				set_country_flag = post_colonial_country
 			}
+			POR_2003 = { secede_province = ISR }
+			2006 = { secede_province = ISR }
+			2007 = { secede_province = ISR }
 		}
 		ai_will_do = {
 			factor = 0
@@ -1404,6 +1425,13 @@ political_decisions = {
 			ISR = {
 				capital = 911
 			}
+			911 = { secede_province = ISR }
+			920 = { secede_province = ISR }
+			921 = { secede_province = ISR }
+			922 = { secede_province = ISR }
+			1154 = { secede_province = ISR }
+			1756 = { secede_province = ISR }
+			1757 = { secede_province = ISR }
 		}
 		ai_will_do = {
 			factor = 0
@@ -1439,6 +1467,7 @@ political_decisions = {
 			ISR = {
 				capital = 1082
 			}
+			CHI_1082 = { secede_province = ISR }
 		}
 		ai_will_do = {
 			factor = 0
@@ -1474,6 +1503,7 @@ political_decisions = {
 			ISR = {
 				capital = 2527
 			}
+			AST_2527 = { secede_province = ISR }
 		}
 		ai_will_do = {
 			factor = 0
@@ -1509,6 +1539,7 @@ political_decisions = {
 			ISR = {
 				capital = 2527
 			}
+			2482 = { secede_province = ISR }
 		}
 		ai_will_do = {
 			factor = 0
