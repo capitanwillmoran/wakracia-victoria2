@@ -108,7 +108,6 @@ country_event = {
 			militancy = 3
 		}
 		NOT = {
-			year = 1888
 			exists = RUM
 			has_country_flag = anatolian_civil_war_happened
 		}
@@ -215,7 +214,6 @@ country_event = {
 			militancy = 3
 		}	
 		NOT = {
-			year = 1898
 			exists = BAB
 			exists = IRQ
 			exists = SYR

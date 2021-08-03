@@ -131,3 +131,147 @@ country_event = {
 		set_global_flag = RerumNovarum		
 	}
 }
+
+country_event = {
+
+	id = 96165
+	title = "EVTNAME96165" #Italian Unification
+	desc = "EVTDESC96165"
+	picture = "unite"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVT96165OPTA"
+		set_country_flag = objects_to_italy
+		relation = { who = ITA value = -100 }
+		
+		random_owned = {
+			limit = { owner = { is_greater_power = yes } }
+			owner = { diplomatic_influence = { who = ITA value = -200 } }
+		}
+		
+		leave_alliance = ITA
+		
+		casus_belli = {
+			target = ITA
+			type = humiliate
+			months = 12
+		}
+		random_country = {
+			limit = {
+				tag = ITA
+				any_owned_province = { NOT = { is_core = ITA } }
+			}
+			add_casus_belli = { target = THIS type = free_peoples months = 36 }
+		}
+		
+		ai_chance = {
+			factor = 50
+			modifier = {
+				factor = 0.1
+				is_sphere_leader_of = ITA
+			}
+			modifier = {
+				factor = 0.25
+				alliance_with = ITA
+			}
+			modifier = {
+				factor = 0.3
+				primary_culture = french
+				NOT = {
+					465 = { owned_by = ITA }
+					466 = { owned_by = ITA }
+					472 = { owned_by = ITA }
+				}
+			}
+			modifier = {
+				factor = 0.5
+				OR = {
+					war_policy = pacifism
+					war_policy = anti_military
+				}
+			}
+			modifier = {
+				factor = 0.25
+				OR = {
+					is_disarmed = yes
+					has_recently_lost_war = yes
+					war = yes
+				}
+			}
+			modifier = {
+				factor = 1.25
+				NOT = { relation = { who = ITA value = 0 } }
+			}
+			modifier = {
+				factor = 0.5
+				relation = { who = ITA value = 100 }
+			}
+		}
+	}
+
+	option = {
+		name = "EVT96165OPTB"
+		set_country_flag = accepts_italy
+		relation = {
+			who = ITA
+			value = 100
+		}
+		random_owned = {
+			limit = {
+				owner = { is_greater_power = yes }
+			}
+			owner = {
+				diplomatic_influence = {
+					who = ITA
+					value = 25
+				}
+			}
+		}
+		ai_chance = {
+			factor = 50
+			modifier = {
+				factor = 0.5
+				war_policy = jingoism
+			}
+			modifier = {
+				factor = 2.5
+				primary_culture = french
+				NOT = {
+					465 = { owned_by = ITA }
+					466 = { owned_by = ITA }
+					472 = { owned_by = ITA }
+				}
+			}
+			modifier = {
+				factor = 0.5
+				primary_culture = french
+				OR = {
+					465 = { owned_by = ITA }
+					466 = { owned_by = ITA }
+					472 = { owned_by = ITA }
+				}
+			}
+			modifier = {
+				factor = 0
+				any_core = { owned_by = ITA }
+			}
+			modifier = {
+				factor = 0.1
+				OR = {
+					tag = AUS
+					tag = KUK
+				}
+			}
+			modifier = {
+				factor = 0.5
+				NOT = { relation = { who = ITA value = 0 } }
+			}
+			modifier = {
+				factor = 1.5
+				relation = { who = ITA value = 100 }
+			}
+		}
+	}
+}

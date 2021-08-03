@@ -1,0 +1,69 @@
+political_decisions = {
+
+	wakracian_maraj = {
+		picture = marajj
+		potential = {
+			civilized = yes
+			tag = BYZ
+			NOT = { has_global_flag = maraj_has_her_cores }
+			state_n_government = 1
+		}
+		allow = {
+			tag = BYZ
+			war = no
+			is_greater_power = yes
+		}
+		effect = {
+			prestige = 10
+			set_global_flag = maraj_has_her_cores
+			ENG_1317 = {
+				owned_by = BYZ
+				secede_province = RAJ
+			}
+			ENG_1304 = {
+				owned_by = BYZ
+				secede_province = RAJ
+			}
+			ENG_1305 = {
+				owned_by = BYZ
+				secede_province = RAJ
+			}
+			ENG_1297 = {
+				owned_by = BYZ
+				secede_province = RAJ
+			}
+			ENG_1261 = {
+				owned_by = BYZ
+				secede_province = RAJ
+			}
+			ENG_1291 = {
+				owned_by = BYZ
+				secede_province = RAJ
+			}
+			ENG_1275 = {
+				owned_by = BYZ
+				secede_province = RAJ
+			}
+			ENG_1264 = {
+				owned_by = BYZ
+				secede_province = RAJ
+			}
+			MYS_1314 = {
+				owned_by = BYZ
+				secede_province = RAJ
+			}
+			NAG_1277 = {
+				owned_by = BYZ
+				secede_province = RAJ
+			}
+			HYD_1283 = {
+				owned_by = BYZ
+				secede_province = RAJ
+			}
+			secede_province = RAJ
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}
