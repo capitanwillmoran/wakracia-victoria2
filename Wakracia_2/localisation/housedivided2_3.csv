@@ -97,14 +97,14 @@ UBD_ADJ;Baltic;baltique;Baltisch;;Báltico;;;;;;;;;x
 UBD_conservative;Conservatives;Conservateurs;Konservative;;Conservadores;;;;;;;;;x
 UBD_liberal;Liberals;Libéraux;Liberale;;Liberales;;;;;;;;;x
 UBD_reactionary;Reactionaries;Réactionnaires;Reaktionäre;;Reaccionarios;;;;;;;;;x
-UBD_anarcho_liberals;Anarcho-Liberals;Anarcho-libéraux;Anarcho-Liberale;;Anarco-liberales;;;;;;;;;x
+UBD_anarcho_liberals;Minarchists;Anarcho-libéraux;Anarcho-Liberale;;Minarquistas;;;;;;;;;x
 UBD_socialist;Laborists;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x
 UBD_communist;Bolsheviks;Bolchéviques;Bolschewiki;;Bolcheviques;;;;;;;;;x
 UBD_fascist;National Socialist Party;Parti national-socialiste;Faschisten;;Partido Nacional Socialista;;;;;;;;;x
 BYE_conservative;Conservatives;Conservateurs;Konservative;;Conservadores;;;;;;;;;x
 BYE_liberal;Liberals;Libéraux;Liberale;;Liberales;;;;;;;;;x
 BYE_reactionary;Reactionaries;Réactionnaires;Reaktionäre;;Reaccionarios;;;;;;;;;x
-BYE_anarcho_liberals;Anarcho-Liberals;Anarcho-libéraux;Anarcho-Liberale;;Anarco-liberales;;;;;;;;;x
+BYE_anarcho_liberals;Minarchists;Anarcho-libéraux;Anarcho-Liberale;;Minarquistas;;;;;;;;;x
 BYE_socialist;Belarusian Socialist Assembly;Assemblée biélorusse socialiste;Weißrussische Sozialistische Hramada;;Asamblea Socialista Bielorrusa;;;;;;;;;x
 BYE_communist;Bolsheviks;Bolchéviques;Bolschewiki;;Bolcheviques;;;;;;;;;x
 BYE_fascist;National Socialist Party;Parti national-socialiste;Fasischten;;Partido Nacional Socialista;;;;;;;;;x
@@ -122,7 +122,7 @@ ARA_ADJ;Arab;arabe;Arabisch;;Árabe;;;;;;;;;x
 ARA_conservative;Conservatives;Conservateurs;Konservative;;Conservadores;;;;;;;;;x
 ARA_liberal;Liberals;Libéraux;Liberale;;Liberales;;;;;;;;;x
 ARA_reactionary;Reactionaries;Réactionnaires;Reaktionäre;;Reaccionarios;;;;;;;;;x
-ARA_anarcho_liberals;Anarcho-Liberals;Anarcho-libéraux;Anarcho-Liberale;;Anarco-liberales;;;;;;;;;x
+ARA_anarcho_liberals;Minarchists;Anarcho-libéraux;Anarcho-Liberale;;Minarquistas;;;;;;;;;x
 ARA_socialist;Socialists;Socialistes;Sozialisten;;Socialistas;;;;;;;;;x
 ARA_communist;Communists;Communistes;Kommunisten;;Comunistas;;;;;;;;;x
 ARA_fascist;National Socialist Party;Parti national-socialiste;Faschisten;;Partido Nacional Socialista;;;;;;;;;x
