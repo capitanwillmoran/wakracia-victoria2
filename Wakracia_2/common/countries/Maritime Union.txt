@@ -98,6 +98,48 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
 		"Beacon Hill" "Cap De La Madeleine" "Cape Breton" Charlottetown Chebogue Dunver Eastview Grou Joliette Jonquiere "Kirkland Lake" Kokanee "La Hulloise" Longueuil Magog Matane Montreal "New Glasgow" "New Waterford" Orkney Outremont "Port Colborne" "Prince Rupert" "St Catherines" "Saint John" Springhill Stettler Stormont Swansea "Thetford Mines" Valleyfield Waskesiu Wentworth
@@ -115,7 +157,7 @@ unit_names= {
 		Ontario Quebeck "Nova Scotia" "New Brunswick" Manitoba "British Columbia" "Price Edward Island" Saskatchewan Alberta
 	}
 	monitor = {
-		"Guy Carleton" "Robert Prescott" "Robert Milnes" "Thomas Dunn" "James H. Craig" "George Prévost" "Gordon Drummond" "John C. Sherbrooke" "Charles Lennox" "Goerge Ramsay" "James Kempt" "Matthew Whitworth-Aylmer" "Archibald Acheson" "John Colborne" "John Labton" "Charles P. Thomson" "Charles Bagot" "Charles Metcalfe" "Charles Cathcart" "James Bruce" "Edmund Walker Head" 
+		"Guy Carleton" "Robert Prescott" "Robert Milnes" "Thomas Dunn" "James H. Craig" "George Prï¿½vost" "Gordon Drummond" "John C. Sherbrooke" "Charles Lennox" "Goerge Ramsay" "James Kempt" "Matthew Whitworth-Aylmer" "Archibald Acheson" "John Colborne" "John Labton" "Charles P. Thomson" "Charles Bagot" "Charles Metcalfe" "Charles Cathcart" "James Bruce" "Edmund Walker Head" 
 	}
 	clipper_transport = {
 	}

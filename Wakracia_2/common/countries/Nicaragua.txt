@@ -98,34 +98,76 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
-		"Cristóbal Colón" Diriangén "Emiliano Chamorro" "Fruto Chamorro" "José Núñez" Libertad "Manuel de la Cerda" Nicaragua Nicarao "Patricio Rivas"
+		"Cristï¿½bal Colï¿½n" Diriangï¿½n "Emiliano Chamorro" "Fruto Chamorro" "Josï¿½ Nï¿½ï¿½ez" Libertad "Manuel de la Cerda" Nicaragua Nicarao "Patricio Rivas"
 	}
 	ironclad = {
-		Caribe Cocibolca Coco Escondido "Hernández de Córdoba" Intendencia Prinzapolka "Río Grande" "San Juan" Xolotlán
+		Caribe Cocibolca Coco Escondido "Hernï¿½ndez de Cï¿½rdoba" Intendencia Prinzapolka "Rï¿½o Grande" "San Juan" Xolotlï¿½n
 	}
 	manowar = {
-		Avance Colón Florida Navegante "Sagrada Familia" "San José" "Santa María" Santiago Ventoso Ventura
+		Avance Colï¿½n Florida Navegante "Sagrada Familia" "San Josï¿½" "Santa Marï¿½a" Santiago Ventoso Ventura
 	}
 	cruiser = {
-		Caribí Chorotega Descubridor Dirián Matagalpa Miskito Nagrandano Niquirano Rama Sumo
+		Caribï¿½ Chorotega Descubridor Diriï¿½n Matagalpa Miskito Nagrandano Niquirano Rama Sumo
 	}
 	frigate = {
-		Boaco Carazo Estelí Granada Jinotega León Madriz Managua Masaya "San Carlos"
+		Boaco Carazo Estelï¿½ Granada Jinotega Leï¿½n Madriz Managua Masaya "San Carlos"
 	}
 	monitor = {
-		Concepción Consiguina "Las Lajas" "Las Pilas" Maderas Mombacho Momotombo Rota "San Cristóbal" Telica
+		Concepciï¿½n Consiguina "Las Lajas" "Las Pilas" Maderas Mombacho Momotombo Rota "San Cristï¿½bal" Telica
 	}
 	clipper_transport = {
 		Beatriz Centroamericana Chocoyo Fauna Flora Guardabarranco Indesplazable Inmaculada Jaguar Laura
-		"Mono Araña" Nicaragüita Ocelote Patricia Raquel Salvaje Sirena Titánico Tortuga Tucán
+		"Mono Araï¿½a" Nicaragï¿½ita Ocelote Patricia Raquel Salvaje Sirena Titï¿½nico Tortuga Tucï¿½n
 	}
 	steam_transport = {
 		Beatriz Centroamericana Chocoyo Fauna Flora Guardabarranco Indesplazable Inmaculada Jaguar Laura
-		"Mono Araña" Nicaragüita Ocelote Patricia Raquel Salvaje Sirena Titánico Tortuga Tucán
+		"Mono Araï¿½a" Nicaragï¿½ita Ocelote Patricia Raquel Salvaje Sirena Titï¿½nico Tortuga Tucï¿½n
 	}
 	commerce_raider = {
-		Destructor Feroz Invencible Mortal Neptuno Nicaragüense República Sirena Terremoto Tritón
+		Destructor Feroz Invencible Mortal Neptuno Nicaragï¿½ense Repï¿½blica Sirena Terremoto Tritï¿½n
 	}
 }

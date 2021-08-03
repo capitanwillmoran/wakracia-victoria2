@@ -224,14 +224,56 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
-		"Dunkerque" "Strasbourg" "Richelieu" "Clemenceau" "Petain" "Napoléon" "Poincare"
-		"Louis XIV" "Alsace" "Bourgogne" "Poitou" "Calais" "Rouen" "Brest" "Dévastation"
-		"Courbet" "Amiral Duperré" "Terrible" "Indomptable" "Caiman" "Requin" "Admiral Baudin"
+		"Dunkerque" "Strasbourg" "Richelieu" "Clemenceau" "Petain" "Napolï¿½on" "Poincare"
+		"Louis XIV" "Alsace" "Bourgogne" "Poitou" "Calais" "Rouen" "Brest" "Dï¿½vastation"
+		"Courbet" "Amiral Duperrï¿½" "Terrible" "Indomptable" "Caiman" "Requin" "Admiral Baudin"
 		"Formidable" "Hoche" "Marceau" "Magenta" "Neptune" "Brennus" "Charles Martel" "Carnot"
-		"Jauréguiberry" "Masséna" "Bouvet" "Charlemagne" "Saint Louis" "Gaulois" "Henri IV"
-		"Iéna" "Suffren" "République" "Patrie" "Démocratie" "Justice" "Liberté" "Verité"
+		"Jaurï¿½guiberry" "Massï¿½na" "Bouvet" "Charlemagne" "Saint Louis" "Gaulois" "Henri IV"
+		"Iï¿½na" "Suffren" "Rï¿½publique" "Patrie" "Dï¿½mocratie" "Justice" "Libertï¿½" "Veritï¿½"
 		"Danton" "Diderot" "Mirabeau" "Vergniaud" "Voltaire" "Condorcet" "Courbet" "France"
 		"Jean Bart" "Paris" "Fleurus" "Bretagne" "Lorraine" "Provence" "Bearn" "Flandre"
 		"Gascoigne" "Languedoc" "Normandie" "Guyenne" "Champagne" "Auvergne" "Lille" "Lyon"
@@ -240,51 +282,51 @@ unit_names= {
 	ironclad = {
 		"Congreve" "Foudroyante" "Lave" "Tonnante" "Gloire" "Invincible" "Normandie" "Couronne"
 		"Magenta" "Solferino" "Flandre" "Gauloise" "Magnanime" "Provence" "Revanche" "Savoie"
-		"Surveillante" "Valeureuse" "Héroïne"
+		"Surveillante" "Valeureuse" "Hï¿½roï¿½ne"
 	}
 	manowar = {
-		"Alexandre" "Breslaw" "Prince Jérôme" "Ville de Paris" "Ville de Nantes" "Duguay-Trouin"
+		"Alexandre" "Breslaw" "Prince Jï¿½rï¿½me" "Ville de Paris" "Ville de Nantes" "Duguay-Trouin"
 		"Tage" "Donawerth" "Saint Louis" "Fontenoy" "Turenne" "Ville de Bordeaux" "Castiglione"
-		"Masséna" "Bayard" "Ville de Lyon" "Louis XIV"
+		"Massï¿½na" "Bayard" "Ville de Lyon" "Louis XIV"
 	}
 	cruiser = {
 		"Clovis" "Maurice de Saxe" "Vercingetorix" "Richemont" "Dunois" "Ney" "Leger" "Vauban"
 		"Conde" "Turenne" "Montebello" "Austerlitz" "Souverain" "Navarin" "Ulm" "Wagram"
-		"Algésiras" "Arcole" "Friedland" "Impérial" "Eylau" "Tilsitt" "Jena" "Auerstadt"
-		"Marengo" "Toulon" "Bellone" "Glorieuse" "Gracieuse" "Audacieuse" "Impétueuse" "Ardente"
-		"Victoire" "Guerrière" "Téméraire" "Triomphant" "Tigre" "Persévérante" "Vigilant"
-		"Tenace" "Élan" "Duguay Trouin" "Lamotte-Picquet" "Primaguet" "Duquesne" "Tourville"
-		"Colbert" "Foch" "Algérie" "Jeanne D'Arc" "Maroc" "Lafayette" "Davout" "Suchet" "Forbin"
-		"Surcouf" "Cosmao" "Lalande" "Galilée" "Lavoisier" "Linois" "La Galissionere"
+		"Algï¿½siras" "Arcole" "Friedland" "Impï¿½rial" "Eylau" "Tilsitt" "Jena" "Auerstadt"
+		"Marengo" "Toulon" "Bellone" "Glorieuse" "Gracieuse" "Audacieuse" "Impï¿½tueuse" "Ardente"
+		"Victoire" "Guerriï¿½re" "Tï¿½mï¿½raire" "Triomphant" "Tigre" "Persï¿½vï¿½rante" "Vigilant"
+		"Tenace" "ï¿½lan" "Duguay Trouin" "Lamotte-Picquet" "Primaguet" "Duquesne" "Tourville"
+		"Colbert" "Foch" "Algï¿½rie" "Jeanne D'Arc" "Maroc" "Lafayette" "Davout" "Suchet" "Forbin"
+		"Surcouf" "Cosmao" "Lalande" "Galilï¿½e" "Lavoisier" "Linois" "La Galissionere"
 		"Jean de Vienne" "Gloire" "Marseillaise" "Georges Leygues" "De Grasse" "La Fantasque"
 		"Iphigenie" "Naiade" "Arethuse" "Dubourdieu" "Milan" "Belliqueuse" "Sfax" "Tage"
-		"Amiral Cécille" "Davout" "Suchet" "Coëtlogon" "Forbin" "Surcouf" "Cosmao" "Lalande"
-		"Troude" "Galilée" "Lavoisier" "Linois" "Tunisié" "Isly" "Bugeaud" "Chasseloup-Laubat"
+		"Amiral Cï¿½cille" "Davout" "Suchet" "Coï¿½tlogon" "Forbin" "Surcouf" "Cosmao" "Lalande"
+		"Troude" "Galilï¿½e" "Lavoisier" "Linois" "Tunisiï¿½" "Isly" "Bugeaud" "Chasseloup-Laubat"
 		"Friant" "Descartes" "Pascal" "Cassard" "D'Assas" "Du Chayla" "Catinat" "Protet"
-		"D'Entrecasteaux" "Guichen" "Châteaurenault" "D'Estrées" "Infernet" "Jurien de la Gravière"
+		"D'Entrecasteaux" "Guichen" "Chï¿½teaurenault" "D'Estrï¿½es" "Infernet" "Jurien de la Graviï¿½re"
 		"Pluton" "Emile Bertin" "Dupuy de Lome" "Admiral Charner" "Bruix" "Chanzy" "Latouche-Treville"
 		"Pothau" "Dupetit-Thouars" "Gueydon" "Montcalm" "Desaix" "Dupleix" "Kleber"
 		"Amiral Aube" "Conde" "Sully" "Leon Gambetta" "Victor Hugo" "Jules Michelet"
 		"Ernest Renan" "Edgar Quinet" "Waldeck-Rousseau" "Thionville" "Metz" "Mulhouse" "Colmar"
-		"D'Assas" "Du Chayla" "Catinat" "Protet" "D'Entrecasteaux" "Guichen" "Châteaurenault"
+		"D'Assas" "Du Chayla" "Catinat" "Protet" "D'Entrecasteaux" "Guichen" "Chï¿½teaurenault"
 	}
 	frigate = {
 		"Condor" "Epervier" "Faucon" "Vautour" "Wattignies" "Levrier" "Casablanca" "D'Iberville"
-		"Cassini" "Lahire" "Circé" "Hermione" "Pallas" "Sémiramis" "Armorique" "Junon"
-		"Magicienne" "Thémis" "Flore"
+		"Cassini" "Lahire" "Circï¿½" "Hermione" "Pallas" "Sï¿½miramis" "Armorique" "Junon"
+		"Magicienne" "Thï¿½mis" "Flore"
 	}
 	monitor = {
-		"Océan" "Marengo" "Suffren" "Friedland" "Richelieu" "Colbert" "Trident"
+		"Ocï¿½an" "Marengo" "Suffren" "Friedland" "Richelieu" "Colbert" "Trident"
 	}
 	clipper_transport = {
 	}
 	steam_transport = {
 	}
 	commerce_raider = {
-		"Asmodée" "Gomer" "Darien" "Labrador" "Ulloa" "Cacique" "Canada" "Christophe Colomb"
-		"Eldorado" "Magellan" "Montezuma" "Orénoque" "Panama" "Albatros" "Descartes" "Vauban"
-		"Caffarelli" "Mogador" "Pomone" "Isly" "Bellone" "Foudre" "Impératrice Eugénie"
-		"Souveraine" "Audacieuse" "Impétueuse" "Ardente" "Victoire" "Guerrière" "Renommée"
-		"Danaé" "Pandore" "Zénobie" "Clorinde" "Astrée"
+		"Asmodï¿½e" "Gomer" "Darien" "Labrador" "Ulloa" "Cacique" "Canada" "Christophe Colomb"
+		"Eldorado" "Magellan" "Montezuma" "Orï¿½noque" "Panama" "Albatros" "Descartes" "Vauban"
+		"Caffarelli" "Mogador" "Pomone" "Isly" "Bellone" "Foudre" "Impï¿½ratrice Eugï¿½nie"
+		"Souveraine" "Audacieuse" "Impï¿½tueuse" "Ardente" "Victoire" "Guerriï¿½re" "Renommï¿½e"
+		"Danaï¿½" "Pandore" "Zï¿½nobie" "Clorinde" "Astrï¿½e"
 	}
 }

@@ -140,34 +140,76 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
-		"Alfons el Cast" "Almogàvers" "Els Segadors" "Generalitat" "Jaume el Conqueridor" "Josep Moragues" "Pere el Gran" "Rafael Casanova" "Roger de Flor" "Roger de Llúria"
+		"Alfons el Cast" "Almogï¿½vers" "Els Segadors" "Generalitat" "Jaume el Conqueridor" "Josep Moragues" "Pere el Gran" "Rafael Casanova" "Roger de Flor" "Roger de Llï¿½ria"
 	}
 	ironclad = {
 		"Catalunya" "Corpus Christi" "Figueres" "Manresa" "Principat" "Sabadell" "Sant Joan" "Sant Jordi" "Tortosa" "Urgell"
 	}
 	manowar = {
-		"Bisbat d'Urgell" "Esperit Sant" "Sant Jaume" "Sant Josep" "Sant Oleguer" "Sant Pere" "Santa Isabel" "Vescomtat d'Ausona" "Vescomtat de Besalú" "Vescomtat de Cerdanya"
+		"Bisbat d'Urgell" "Esperit Sant" "Sant Jaume" "Sant Josep" "Sant Oleguer" "Sant Pere" "Santa Isabel" "Vescomtat d'Ausona" "Vescomtat de Besalï¿½" "Vescomtat de Cerdanya"
 	}
 	cruiser = {
 		"Ateneu de Grandesa" "Cibeles" "Consolat del Mar" "Diana" "Juno" "Minerva" "Quadribarrada" "Sang sobre Or" "Senyera" "Tirant lo Blanch"
 	}
 	frigate = {
-		"Barcelona" "Cristòfor Despuig" "Girona" "Joanot Martorell" "Jupiter" "Lleida" "Neptú" "Pere Serafí" "Plutó" "Tarragona"
+		"Barcelona" "Cristï¿½for Despuig" "Girona" "Joanot Martorell" "Jupiter" "Lleida" "Neptï¿½" "Pere Serafï¿½" "Plutï¿½" "Tarragona"
 	}
 	monitor = {
-		"Comtat de Barcelona" "Comtat d'Empuries" "Comtat d'Urgell" "Dues Sicílies" "Hèrcules" "Mallorca" "Nèmesi" "Sardenya" "València" "Vulcano"
+		"Comtat de Barcelona" "Comtat d'Empuries" "Comtat d'Urgell" "Dues Sicï¿½lies" "Hï¿½rcules" "Mallorca" "Nï¿½mesi" "Sardenya" "Valï¿½ncia" "Vulcano"
 	}
 	clipper_transport = { 
-		"Àguila Negra" "Drac Vermell" "Estrella" "Fama" "Fidel" "Fletxa" "Glòria" "Ibera" "Lleó de Montpellier" "Mare de Déu de Montserrat"
-		"Mercuri" "Nimfa" "Sant Antoni" "Santa Anna" "Saturn" "Sirena" "Sorpresa" "Tetis" "Tritó" "Unicorn"
+		"ï¿½guila Negra" "Drac Vermell" "Estrella" "Fama" "Fidel" "Fletxa" "Glï¿½ria" "Ibera" "Lleï¿½ de Montpellier" "Mare de Dï¿½u de Montserrat"
+		"Mercuri" "Nimfa" "Sant Antoni" "Santa Anna" "Saturn" "Sirena" "Sorpresa" "Tetis" "Tritï¿½" "Unicorn"
 	}
 	steam_transport = { 
-		"Àguila Negra" "Drac Vermell" "Estrella" "Fama" "Fidel" "Fletxa" "Glòria" "Ibera" "Lleó de Montpellier" "Mare de Déu de Montserrat"
-		"Mercuri" "Nimfa" "Sant Antoni" "Santa Anna" "Saturn" "Sirena" "Sorpresa" "Tetis" "Tritó" "Unicorn"
+		"ï¿½guila Negra" "Drac Vermell" "Estrella" "Fama" "Fidel" "Fletxa" "Glï¿½ria" "Ibera" "Lleï¿½ de Montpellier" "Mare de Dï¿½u de Montserrat"
+		"Mercuri" "Nimfa" "Sant Antoni" "Santa Anna" "Saturn" "Sirena" "Sorpresa" "Tetis" "Tritï¿½" "Unicorn"
 	}
 	commerce_raider = {
-		"Audaç" "Destructor" "Forçuda" "Furor" "Llampec" "Mediterrània" "Tempesta" "Terror" "Tro" "Veloç"
+		"Audaï¿½" "Destructor" "Forï¿½uda" "Furor" "Llampec" "Mediterrï¿½nia" "Tempesta" "Terror" "Tro" "Veloï¿½"
 	}
 }

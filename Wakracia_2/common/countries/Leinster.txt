@@ -168,32 +168,74 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
-		"O’Faolain" "Caomhánach" "Mannion" "Corcaigh" "Gaillimh"
+		"Oï¿½Faolain" "Caomhï¿½nach" "Mannion" "Corcaigh" "Gaillimh"
 	}
 	ironclad = {
-		"Baile Átha Cliath" "Cúige Laighean" "Ulaidh" "An Mhumhain" "Connachta"
+		"Baile ï¿½tha Cliath" "Cï¿½ige Laighean" "Ulaidh" "An Mhumhain" "Connachta"
 	}
 	manowar = {
-		"Port Láirge" "Dún na nGall" "Loingsech" "Ó’Conghaile" "An Cóbh"
+		"Port Lï¿½irge" "Dï¿½n na nGall" "Loingsech" "Ó’Conghaile" "An Cï¿½bh"
 	}
 	cruiser = {
-		"Michelle" "Peigi" "Máire" "Róisín" "Esther"
+		"Michelle" "Peigi" "Mï¿½ire" "Rï¿½isï¿½n" "Esther"
 	}
 	frigate = {
-		"Fort Rannoch" "Cliona" "Maev" "Macha" "an Cóbh"
+		"Fort Rannoch" "Cliona" "Maev" "Macha" "an Cï¿½bh"
 	}
 	monitor = {
-		"Muirchú" "Réabhlóid" "Dónal Ó Conaill" "Emmet"
+		"Muirchï¿½" "Rï¿½abhlï¿½id" "Dï¿½nal ï¿½ Conaill" "Emmet"
 	}
 	clipper_transport = {
-		"Parnell" "Oileáin Árann" "an Chláir" "Mhaigh Eo" "Mairead"
+		"Parnell" "Oileï¿½in ï¿½rann" "an Chlï¿½ir" "Mhaigh Eo" "Mairead"
 	}
 	steam_transport = {
 		"Lady Wicklow" "Robin" "Adele" "Aontroim" "Fionn Radharc"
 	}
 	commerce_raider = {
-		"Dún Droma" "Marino" "Baile Bocht" "Béal Feirste" "Frongoch"
+		"Dï¿½n Droma" "Marino" "Baile Bocht" "Bï¿½al Feirste" "Frongoch"
 	}
 }

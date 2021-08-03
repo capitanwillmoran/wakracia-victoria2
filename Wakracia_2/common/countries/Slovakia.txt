@@ -98,24 +98,66 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
-		"Anton Bernolák" "Ludovít Štúr" "Michal Miloslav Hodža" "Ján Hollý" Povstanie 
+		"Anton Bernolï¿½k" "Ludovï¿½t ï¿½tï¿½r" "Michal Miloslav Hodï¿½a" "Jï¿½n Hollï¿½" Povstanie 
 	}
 	ironclad = {
-		Bratislava Košice Prešov Žilina Nitra 
+		Bratislava Koï¿½ice Preï¿½ov ï¿½ilina Nitra 
 	}
 	manowar = {
-		Beskydok "Gerlachovský štít" Rysy Ostrá Záruby    
+		Beskydok "Gerlachovskï¿½ ï¿½tï¿½t" Rysy Ostrï¿½ Zï¿½ruby    
 	}
 	cruiser = {
-		Beskydok "Gerlachovský štít" Rysy Ostrá Záruby   
+		Beskydok "Gerlachovskï¿½ ï¿½tï¿½t" Rysy Ostrï¿½ Zï¿½ruby   
 	}
 	frigate = {
 		Hron Bodrog Dunajec Ipel Tisa  
 	}
 	monitor = {
-		"Majster košického oltára" "Josef Czauczik" "Lajos Csordák" "Karol Ludovít Libay" "Július Jakoby"  
+		"Majster koï¿½ickï¿½ho oltï¿½ra" "Josef Czauczik" "Lajos Csordï¿½k" "Karol Ludovï¿½t Libay" "Jï¿½lius Jakoby"  
 	}
 	clipper_transport = {
 		
@@ -124,6 +166,6 @@ unit_names= {
 		
 	}
 	commerce_raider = {
-		"Bojnický zámok" "Bratislavsky hrad" "Devínsky hrad" "Nový zámok" "Starý zámok" 
+		"Bojnickï¿½ zï¿½mok" "Bratislavsky hrad" "Devï¿½nsky hrad" "Novï¿½ zï¿½mok" "Starï¿½ zï¿½mok" 
 	}
 }

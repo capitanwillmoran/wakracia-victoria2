@@ -3337,6 +3337,7 @@ nationalsyndicalist_rebels = {
 		political_reform = state_press
 		political_reform = no_trade_unions
 		political_reform = underground_parties
+		ruling_party_ideology = nationalsyndicalist
 	}
 }
 
@@ -3537,6 +3538,7 @@ theocratic_rebels = {
 		political_reform = state_press
 		political_reform = no_trade_unions
 		political_reform = underground_parties
+		ruling_party_ideology = theocratic
 	}
 }
 
@@ -3746,6 +3748,7 @@ agrarist_rebels = {
 		political_reform = state_press
 		political_reform = state_controlled
 		political_reform = underground_parties
+		ruling_party_ideology = agrarism
 		
 		nationalize = yes
 	}

@@ -98,32 +98,74 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
 		"Orelie-Antoine" Neuquen Bariloche Iquique Latorre "Rio Gallegos" "Punta Arenas" Temuco
 	}
 	ironclad = {
-		"Puerto Deseado" Austral Blanco "Blanco Encalada" "Capitán Prat" Cochrane "Rio Grande" "Norte Chico" "Norte Grande" "Ojos del Salado"
+		"Puerto Deseado" Austral Blanco "Blanco Encalada" "Capitï¿½n Prat" Cochrane "Rio Grande" "Norte Chico" "Norte Grande" "Ojos del Salado"
 	}
 	manowar = {
-		Abtao Águila Araucano Chacabuco Fortunata Galvarino Lautaro Valdiva Potrillo "Puerto Aisen" 
+		Abtao ï¿½guila Araucano Chacabuco Fortunata Galvarino Lautaro Valdiva Potrillo "Puerto Aisen" 
 	}
 	cruiser = {
 		Aguamarina Diamante Aquiles Esmeralda Llullaillaco Felipe Aconcagua Butacura Caburgua
 	}
 	frigate = {
-		Aisén Araucania Arica Biobío Coquimbo "Los Lagos" Coñaripe Dollinco Tarapacá Valdivia
+		Aisï¿½n Araucania Arica Biobï¿½o Coquimbo "Los Lagos" Coï¿½aripe Dollinco Tarapacï¿½ Valdivia
 	}
 	monitor = {
-		Liquiñe Butapichón Colo-Colo Curiñancu Guaiquimilla Huáscar Lientur "Pedro de Valdivia" Pelantaru Vilumilla
+		Liquiï¿½e Butapichï¿½n Colo-Colo Curiï¿½ancu Guaiquimilla Huï¿½scar Lientur "Pedro de Valdivia" Pelantaru Vilumilla
 	}
 	clipper_transport = { 
-		 Coihaique "Mamuil Malal" Caburgua Boldo Ancud Achao Maipo Quetrupillán Quiapo Rawson Vitacura "Puerto Montt" "Punta Arenas" Rancagua
-		"San José" "San Pedro" "San Rafael" "Santa Inés" "Santa María" Chillan Sarmiento Talca Temuco Cau-Cau
+		 Coihaique "Mamuil Malal" Caburgua Boldo Ancud Achao Maipo Quetrupillï¿½n Quiapo Rawson Vitacura "Puerto Montt" "Punta Arenas" Rancagua
+		"San Josï¿½" "San Pedro" "San Rafael" "Santa Inï¿½s" "Santa Marï¿½a" Chillan Sarmiento Talca Temuco Cau-Cau
 	}
 	steam_transport = { 
-		Coihaique "Mamuil Malal" Caburgua Boldo Ancud Achao Maipo Quetrupillán Quiapo Rawson Vitacura "Puerto Montt" "Punta Arenas" Rancagua
-		"San José" "San Pedro" "San Rafael" "Santa Inés" "Santa María" Chillan Sarmiento Talca Temuco Cau-Cau
+		Coihaique "Mamuil Malal" Caburgua Boldo Ancud Achao Maipo Quetrupillï¿½n Quiapo Rawson Vitacura "Puerto Montt" "Punta Arenas" Rancagua
+		"San Josï¿½" "San Pedro" "San Rafael" "Santa Inï¿½s" "Santa Marï¿½a" Chillan Sarmiento Talca Temuco Cau-Cau
 	}
 	commerce_raider = {
 		"Almirante Condell" "Almirante Lynch" Angamos Aquiles Casma Chacabuco Chipana Covadonga Magallanes Orompello

@@ -98,27 +98,69 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
-		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rákóczi" Vaskapu Varna Mercurius Leustachius Legforus
+		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rï¿½kï¿½czi" Vaskapu Varna Mercurius Leustachius Legforus
 		
 	}
 	ironclad = {
-		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rákóczi" Vaskapu Varna Mercurius Leustachius Legforus
+		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rï¿½kï¿½czi" Vaskapu Varna Mercurius Leustachius Legforus
 		
 	}
 	manowar = {
-		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rákóczi" Vaskapu Varna Mercurius Leustachius Legforus
+		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rï¿½kï¿½czi" Vaskapu Varna Mercurius Leustachius Legforus
 	}
 	cruiser = {
-		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rákóczi" Vaskapu Varna Mercurius Leustachius Legforus
+		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rï¿½kï¿½czi" Vaskapu Varna Mercurius Leustachius Legforus
 		
 	}
 	frigate = {
-		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rákóczi" Vaskapu Varna Mercurius Leustachius Legforus
+		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rï¿½kï¿½czi" Vaskapu Varna Mercurius Leustachius Legforus
 	}
 	monitor = {
-		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rákóczi" Vaskapu Varna Mercurius Leustachius Legforus
+		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rï¿½kï¿½czi" Vaskapu Varna Mercurius Leustachius Legforus
 		
 	}
 	clipper_transport = {
@@ -128,7 +170,7 @@ unit_names= {
 		
 	}
 	commerce_raider = {
-		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rákóczi" Vaskapu Varna Mercurius Leustachius Legforus
+		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rï¿½kï¿½czi" Vaskapu Varna Mercurius Leustachius Legforus
 		
 	}
 }

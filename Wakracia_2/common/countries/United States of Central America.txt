@@ -98,34 +98,76 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
-		Centroamérica "Costa Rica" Diriangén "El Salvador" "Francisco Dueñas" "Francisco Morazán" Guatemala Honduras Nicaragua "Pedro Molina"
+		Centroamï¿½rica "Costa Rica" Diriangï¿½n "El Salvador" "Francisco Dueï¿½as" "Francisco Morazï¿½n" Guatemala Honduras Nicaragua "Pedro Molina"
 	}
 	ironclad = {
-		Arenal Barahona Cocibolca Goascorán Hondo Paz "San Juan" Suchiate Tatumbla Tempisque
+		Arenal Barahona Cocibolca Goascorï¿½n Hondo Paz "San Juan" Suchiate Tatumbla Tempisque
 	}
 	manowar = {
-		Audaz Federación Independencia Libertad Neptuno "Sagrada Familia" "San José" "San Juan" "Santa Catalina" Santiago
+		Audaz Federaciï¿½n Independencia Libertad Neptuno "Sagrada Familia" "San Josï¿½" "San Juan" "Santa Catalina" Santiago
 	}
 	cruiser = {
-		"Bartolomé de las Casas" "Castilla del Oro" Chorti "Cristobal Colón" Lenca Miskito Niquirano Olmeca "Pedro de Alvarado" Pipil
+		"Bartolomï¿½ de las Casas" "Castilla del Oro" Chorti "Cristobal Colï¿½n" Lenca Miskito Niquirano Olmeca "Pedro de Alvarado" Pipil
 	}
 	frigate = {
-		Cartago "Ciudad de Guatemala" Comayagua Flores León Managua "San José" "San Salvador" "Santa Tecla" Tegucigalpa
+		Cartago "Ciudad de Guatemala" Comayagua Flores Leï¿½n Managua "San Josï¿½" "San Salvador" "Santa Tecla" Tegucigalpa
 	}
 	monitor = {
-		Apaneca Concepción "El Tigre" Orosí Platanar "San Cristóbal" "Santa Ana" Tacaná Tajumulco Yojoa
+		Apaneca Concepciï¿½n "El Tigre" Orosï¿½ Platanar "San Cristï¿½bal" "Santa Ana" Tacanï¿½ Tajumulco Yojoa
 	}
 	clipper_transport = {
-		Amanecer Centroamericana Corsario Diamante Emprendedora "Estrella de los Mares" Gracia Guardabarranco Hondureño Independiente
-		Indetectable "Isla del Coco" Jaguar Llama Maya Oceánica Rápido Salvaje Serena Silencioso
+		Amanecer Centroamericana Corsario Diamante Emprendedora "Estrella de los Mares" Gracia Guardabarranco Hondureï¿½o Independiente
+		Indetectable "Isla del Coco" Jaguar Llama Maya Oceï¿½nica Rï¿½pido Salvaje Serena Silencioso
 	}
 	steam_transport = {
-		Amanecer Centroamericana Corsario Diamante Emprendedora "Estrella de los Mares" Gracia Guardabarranco Hondureño Independiente
-		Indetectable "Isla del Coco" Jaguar Llama Maya Oceánica Rápido Salvaje Serena Silencioso
+		Amanecer Centroamericana Corsario Diamante Emprendedora "Estrella de los Mares" Gracia Guardabarranco Hondureï¿½o Independiente
+		Indetectable "Isla del Coco" Jaguar Llama Maya Oceï¿½nica Rï¿½pido Salvaje Serena Silencioso
 	}
 	commerce_raider = {
-		Carías Chingo Guanacaste Guatemalteco Invencible Lempira Nicaragüense Salvadoreño Tilarán Victorioso
+		Carï¿½as Chingo Guanacaste Guatemalteco Invencible Lempira Nicaragï¿½ense Salvadoreï¿½o Tilarï¿½n Victorioso
 	}
 }

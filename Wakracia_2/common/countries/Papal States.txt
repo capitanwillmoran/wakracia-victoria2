@@ -98,24 +98,66 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
 		Michele Gabriele Rafaelle Urielle Fanuele Zachiele Simiele
 	}
 	ironclad = {
-		Regno Toscana Pisa Firenze Pace Vittoria "Santa Maria" "San Giovanni" Supremazia Serenità Capitana Patrona "San Pietro" "San Andrea" "San Petronio" 
+		Regno Toscana Pisa Firenze Pace Vittoria "Santa Maria" "San Giovanni" Supremazia Serenitï¿½ Capitana Patrona "San Pietro" "San Andrea" "San Petronio" 
 	}
 	manowar = {
 		"San Lorenzo" Fenice "Porco Spino" Burlando
 	}
 	cruiser = {
-		Regno Toscana Pisa Firenze Pace Vittoria "Santa Maria" "San Giovanni" Supremazia Serenità Capitana Patrona "San Pietro" "San Andrea" "San Petronio" 
+		Regno Toscana Pisa Firenze Pace Vittoria "Santa Maria" "San Giovanni" Supremazia Serenitï¿½ Capitana Patrona "San Pietro" "San Andrea" "San Petronio" 
 	}
 	frigate = {
 		"San Paolo" "San Pietro" "San Giovanni" "San Pio"
 	}
 	monitor = {
-		Regno Toscana Pisa Firenze Pace Vittoria "Santa Maria" "San Giovanni" Supremazia Serenità Capitana Patrona "San Pietro" "San Andrea" "San Petronio" 
+		Regno Toscana Pisa Firenze Pace Vittoria "Santa Maria" "San Giovanni" Supremazia Serenitï¿½ Capitana Patrona "San Pietro" "San Andrea" "San Petronio" 
 	}
 	clipper_transport = {
 	}

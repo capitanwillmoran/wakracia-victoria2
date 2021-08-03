@@ -140,24 +140,66 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
-			"Werner Stauffacher" "Walter Fürst" "Arnold von Melchtal" "Wilhelm Tell"	
+			"Werner Stauffacher" "Walter Fï¿½rst" "Arnold von Melchtal" "Wilhelm Tell"	
 	}
 	ironclad = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Lï¿½man Linth Lugano Luzern Oberland Rï¿½tien Sï¿½ntis Schaffhausen Solothurn Thurgau Waldstï¿½tte Wallis Zï¿½rich
 	}
 	manowar = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Lï¿½man Linth Lugano Luzern Oberland Rï¿½tien Sï¿½ntis Schaffhausen Solothurn Thurgau Waldstï¿½tte Wallis Zï¿½rich
 	}
 	cruiser = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich 
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Lï¿½man Linth Lugano Luzern Oberland Rï¿½tien Sï¿½ntis Schaffhausen Solothurn Thurgau Waldstï¿½tte Wallis Zï¿½rich 
 	}
 	frigate = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich 
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Lï¿½man Linth Lugano Luzern Oberland Rï¿½tien Sï¿½ntis Schaffhausen Solothurn Thurgau Waldstï¿½tte Wallis Zï¿½rich 
 	}
 	monitor = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich 
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Lï¿½man Linth Lugano Luzern Oberland Rï¿½tien Sï¿½ntis Schaffhausen Solothurn Thurgau Waldstï¿½tte Wallis Zï¿½rich 
 	}
 	clipper_transport = { 
 			
@@ -166,6 +208,6 @@ unit_names= {
 			
 	}
 	commerce_raider = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich 
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Lï¿½man Linth Lugano Luzern Oberland Rï¿½tien Sï¿½ntis Schaffhausen Solothurn Thurgau Waldstï¿½tte Wallis Zï¿½rich 
 	}
 }

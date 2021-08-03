@@ -98,24 +98,66 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
-		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+		Lï¿½tzebuerg "Groussherzog Wï¿½llem" Siegfried "Heng de Blannen" Dikrech Grï¿½iwemaacher Dideleng ï¿½lwen Mï¿½ertert "Sankt Maximin"  
 	}
 	ironclad = {
-		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+		Lï¿½tzebuerg "Groussherzog Wï¿½llem" Siegfried "Heng de Blannen" Dikrech Grï¿½iwemaacher Dideleng ï¿½lwen Mï¿½ertert "Sankt Maximin"  
 	}
 	manowar = {
-		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+		Lï¿½tzebuerg "Groussherzog Wï¿½llem" Siegfried "Heng de Blannen" Dikrech Grï¿½iwemaacher Dideleng ï¿½lwen Mï¿½ertert "Sankt Maximin"  
 	}
 	cruiser = {
-		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+		Lï¿½tzebuerg "Groussherzog Wï¿½llem" Siegfried "Heng de Blannen" Dikrech Grï¿½iwemaacher Dideleng ï¿½lwen Mï¿½ertert "Sankt Maximin"  
 	}
 	frigate = {
-		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+		Lï¿½tzebuerg "Groussherzog Wï¿½llem" Siegfried "Heng de Blannen" Dikrech Grï¿½iwemaacher Dideleng ï¿½lwen Mï¿½ertert "Sankt Maximin"  
 	}
 	monitor = {
-		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+		Lï¿½tzebuerg "Groussherzog Wï¿½llem" Siegfried "Heng de Blannen" Dikrech Grï¿½iwemaacher Dideleng ï¿½lwen Mï¿½ertert "Sankt Maximin"  
 	}
 	clipper_transport = {
 		
@@ -124,6 +166,6 @@ unit_names= {
 		
 	}
 	commerce_raider = {
-		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+		Lï¿½tzebuerg "Groussherzog Wï¿½llem" Siegfried "Heng de Blannen" Dikrech Grï¿½iwemaacher Dideleng ï¿½lwen Mï¿½ertert "Sankt Maximin"  
 	}
 }

@@ -55,7 +55,7 @@ political_decisions = {
         allow = {
             invention = dreadnoughts
             high_sea_battle_fleet = 1
-            money = 110000
+            money = 90001
         }
 
         effect = {

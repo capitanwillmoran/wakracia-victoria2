@@ -168,12 +168,54 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
 		"De Ruyter" "Tromp" "De Zeven Provincien" "Evertsen" "Kortenaer" "Piet Hein" "Witte de With" "Jacob van Heemskerk" 
 	}
 	battleship = {
-		Buffel "De Zeven Provinciën" Evertsen Guinea "Hertog Hendrik" "Jacob van Heemskerck" "Koning der Nederlanden" "Koningin Regentes" Kortenaer "Maarten Harpetsz. Tromp" "Piet Hein" "De Ruyter" Schorpioen Stier
+		Buffel "De Zeven Provinciï¿½n" Evertsen Guinea "Hertog Hendrik" "Jacob van Heemskerck" "Koning der Nederlanden" "Koningin Regentes" Kortenaer "Maarten Harpetsz. Tromp" "Piet Hein" "De Ruyter" Schorpioen Stier
 	}
 	ironclad = {
 		"Hertog Hendrik" "Koning der Nederlanden" "Koningin Regentes" "Koning Willem" "Prins Hendrik" 

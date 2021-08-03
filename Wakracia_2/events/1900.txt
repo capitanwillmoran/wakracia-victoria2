@@ -1,8 +1,8 @@
 #Dawn of the New Milennia
 country_event = {
 	id = 9000002
-	title = "Happy New Year 1900"
-	desc = EVTDESC9000002
+	title = "EVTNAME9000002"
+	desc = "EVTDESC9000002"
 	picture = "happynewyear1900"
 
 	trigger = {

@@ -140,6 +140,48 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
 		Beograd "Kosovska Bitka" Petrovic Obrenovic Lazarevic Srbija 
@@ -151,7 +193,7 @@ unit_names= {
 		"Velika Morava" "Juzna Morava" Zlatibor Kopaonik Resava 
 	}
 	cruiser = {
-		Karadžic Nemanjici Silni "Mihailo I" Jankovic
+		Karadï¿½ic Nemanjici Silni "Mihailo I" Jankovic
 	}
 	frigate = {
 		Valjevo "Stevan Sindelic" Takovo Ljubic
@@ -164,7 +206,7 @@ unit_names= {
 
 	}
 	steam_transport = { 
-		Jaki Silni Snaži Marljivi Ustrajni
+		Jaki Silni Snaï¿½i Marljivi Ustrajni
 
 	}
 	commerce_raider = {

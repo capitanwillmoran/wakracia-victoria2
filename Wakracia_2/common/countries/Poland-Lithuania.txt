@@ -98,6 +98,48 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
 		"Mieszko I" "Boleslaw I Chrobry" "Kazimierz II Wielki" "Wladyslaw II Jagiello" "Henryk Walezy" "Stefan Batory" "Jan III Sobieski" "Stanislaw I Leszczynski" "Stanislaw II Poniatowski"
@@ -109,7 +151,7 @@ unit_names= {
 		
 	}
 	cruiser = {
-		"Józef Pilsudski" "Józef Chlopicki" "Michal Gedeon Radziwill" Miedzymorze "Adam Czartoryski" "Wladyslaw Czartoryski" "Aleksander Waszkowski" "Konstanty Kalinowski"
+		"Jï¿½zef Pilsudski" "Jï¿½zef Chlopicki" "Michal Gedeon Radziwill" Miedzymorze "Adam Czartoryski" "Wladyslaw Czartoryski" "Aleksander Waszkowski" "Konstanty Kalinowski"
 	}
 	frigate = {
 		Mindaugas Butigeidis Vytenis Gediminas Algirdas Kestutis Jogaila "Vytautas Didysis" "Zygimantas Kestutaitis"
@@ -124,6 +166,6 @@ unit_names= {
 		
 	}
 	commerce_raider = {
-		 Wisla Odra Windawa Bartów Neman Dniprer Prypec
+		 Wisla Odra Windawa Bartï¿½w Neman Dniprer Prypec
 	}
 }

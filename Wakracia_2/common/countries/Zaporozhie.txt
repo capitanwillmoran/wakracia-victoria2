@@ -98,33 +98,75 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
-		Bakhchisaray "Çürük Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale" 
+		Bakhchisaray "ï¿½ï¿½rï¿½k Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale" 
 		"Chingiz Khan"
 	}
 	ironclad = {
-		Bakhchisaray "Çürük Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale" 
+		Bakhchisaray "ï¿½ï¿½rï¿½k Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale" 
 		"Chingiz Khan"
 		
 	}
 	manowar = {
-		Bakhchisaray "Çürük Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale" 
+		Bakhchisaray "ï¿½ï¿½rï¿½k Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale" 
 		"Chingiz Khan"
 		
 	}
 	cruiser = {
-		Bakhchisaray "Çürük Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale" 
+		Bakhchisaray "ï¿½ï¿½rï¿½k Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale" 
 		"Chingiz Khan"
 		
 	}
 	frigate = {
-		Bakhchisaray "Çürük Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale" 
+		Bakhchisaray "ï¿½ï¿½rï¿½k Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale" 
 		"Chingiz Khan"
 		
 	}
 	monitor = {
-		Bakhchisaray "Çürük Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale" 
+		Bakhchisaray "ï¿½ï¿½rï¿½k Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale" 
 		"Chingiz Khan"
 		
 	}
@@ -135,7 +177,7 @@ unit_names= {
 		
 	}
 	commerce_raider = {
-		Bakhchisaray "Çürük Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale" 
+		Bakhchisaray "ï¿½ï¿½rï¿½k Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale" 
 		"Chingiz Khan"
 		
 	}

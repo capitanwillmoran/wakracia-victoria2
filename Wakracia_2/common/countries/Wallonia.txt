@@ -98,31 +98,73 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
 		Vallonia Henogovia "Comte de Hainaut" "Comte de Namur" "Prince de Liege" 
-		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" 	
+		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessï¿½ de Forest" "Louis Hennepin" 	
 		Arlon Charleroi Liege Namur  
 		Meuse Ourthe Sambre "l'Escaut" Semois  
 			
 	}
 	ironclad = {
 		Vallonia Henogovia "Comte de Hainaut" "Comte de Namur" "Prince de Liege" 
-		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" 	
+		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessï¿½ de Forest" "Louis Hennepin" 	
 		Arlon Charleroi Liege Namur  
 		Meuse Ourthe Sambre "l'Escaut" Semois  
 	
 	}
 	manowar = {
 		Vallonia Henogovia "Comte de Hainaut" "Comte de Namur" "Prince de Liege" 
-		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" 	
+		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessï¿½ de Forest" "Louis Hennepin" 	
 		Arlon Charleroi Liege Namur  
 		Meuse Ourthe Sambre "l'Escaut" Semois  
 	 	
 	}
 	cruiser = {
 		Vallonia Henogovia "Comte de Hainaut" "Comte de Namur" "Prince de Liege" 
-		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" 	
+		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessï¿½ de Forest" "Louis Hennepin" 	
 		Arlon Charleroi Liege Namur  
 		Meuse Ourthe Sambre "l'Escaut" Semois  
 		
@@ -130,14 +172,14 @@ unit_names= {
 	}
 	frigate = {
 		Vallonia Henogovia "Comte de Hainaut" "Comte de Namur" "Prince de Liege" 
-		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" 	
+		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessï¿½ de Forest" "Louis Hennepin" 	
 		Arlon Charleroi Liege Namur  
 		Meuse Ourthe Sambre "l'Escaut" Semois  
 		
 	}
 	monitor = {
 		Vallonia Henogovia "Comte de Hainaut" "Comte de Namur" "Prince de Liege" 
-		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" 	
+		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessï¿½ de Forest" "Louis Hennepin" 	
 		Arlon Charleroi Liege Namur  
 		Meuse Ourthe Sambre "l'Escaut" Semois  
 		
@@ -152,7 +194,7 @@ unit_names= {
 	}
 	commerce_raider = {	
 		Vallonia Henogovia "Comte de Hainaut" "Comte de Namur" "Prince de Liege" 
-		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" 	
+		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessï¿½ de Forest" "Louis Hennepin" 	
 		Arlon Charleroi Liege Namur  
 		Meuse Ourthe Sambre "l'Escaut" Semois  	
 		

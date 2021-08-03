@@ -182,24 +182,66 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
-		Württemberg Schwaben "König Friedrich" "Königin Charlotte" "König Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin" 
+		Wï¿½rttemberg Schwaben "Kï¿½nig Friedrich" "Kï¿½nigin Charlotte" "Kï¿½nig Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin" 
 	}
 	ironclad = {
-		Württemberg Schwaben "König Friedrich" "Königin Charlotte" "König Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin" 
+		Wï¿½rttemberg Schwaben "Kï¿½nig Friedrich" "Kï¿½nigin Charlotte" "Kï¿½nig Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin" 
 	}
 	manowar = {
-		Stuttgart Ulm Göppingen Ravensburg Friedrichshafen Ellwangen Hall Heilbronn Rottweil Tübingen 
+		Stuttgart Ulm Gï¿½ppingen Ravensburg Friedrichshafen Ellwangen Hall Heilbronn Rottweil Tï¿½bingen 
 	}
 	cruiser = {
-		Stuttgart Ulm Göppingen Ravensburg Friedrichshafen Ellwangen Hall Heilbronn Rottweil Tübingen 
+		Stuttgart Ulm Gï¿½ppingen Ravensburg Friedrichshafen Ellwangen Hall Heilbronn Rottweil Tï¿½bingen 
 	}
 	frigate = {
-		"Von Beroldingen" Taube "Von Hardegg" "Friedrich Schiller" "Jakob Friedrich Rösch" "Graf von Waldburg" "Karl von Kerner" "Prinz Hohenlohe" 
+		"Von Beroldingen" Taube "Von Hardegg" "Friedrich Schiller" "Jakob Friedrich Rï¿½sch" "Graf von Waldburg" "Karl von Kerner" "Prinz Hohenlohe" 
 	}
 	monitor = {
-		Württemberg Schwaben "König Friedrich" "Königin Charlotte" "König Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin" 
+		Wï¿½rttemberg Schwaben "Kï¿½nig Friedrich" "Kï¿½nigin Charlotte" "Kï¿½nig Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin" 
 	}
 	clipper_transport = {
 		 Adler Albatross Amazone Bremse Brummer Donau Drache Feldberg Frauenlob Greif Karlsruhe Natter Neckar Salamander Seeadler Rhein 
@@ -208,6 +250,6 @@ unit_names= {
 		Adler Albatross Amazone Bremse Brummer Donau Drache Feldberg Frauenlob Greif Karlsruhe Natter Neckar Salamander Seeadler Rhein 
 	}
 	commerce_raider = {
-		"Von Beroldingen" Taube "Von Hardegg" "Friedrich Schiller" "Jakob Friedrich Rösch" "Graf von Waldburg" "Karl von Kerner" "Prinz Hohenlohe" 
+		"Von Beroldingen" Taube "Von Hardegg" "Friedrich Schiller" "Jakob Friedrich Rï¿½sch" "Graf von Waldburg" "Karl von Kerner" "Prinz Hohenlohe" 
 	}
 }

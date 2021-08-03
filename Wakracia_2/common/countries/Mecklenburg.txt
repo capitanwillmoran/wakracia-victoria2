@@ -182,30 +182,72 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
+
+party = {
+	name = "GEN_nationalsyndicalist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = nationalsyndicalist
+
+	citizenship_policy = residency
+	economic_policy = planned_economy
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = pro_militar
+}
+
+party = {
+	name = "GEN_agrarist"
+	start_date = 1800.1.1
+	end_date = 2000.1.1
+
+	ideology = agrarism
+
+	citizenship_policy = residency
+	economic_policy = agrarism
+	religious_policy = pro_atheism
+	trade_policy = free_trade
+	war_policy = pacifism
+}
+
+party = {
+	name = "GEN_theocratic"
+	start_date = 1000.1.1
+	end_date = 2000.1.1
+
+	ideology = theocratic
+
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = pro_militar
+}
 unit_names= {
 	dreadnought = {
-		Mecklenburg "Großherzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemünde Bützow Strelitz Wismar Rostock
-		Schwerin Güstrow Hagenow Parchim 	
+		Mecklenburg "Groï¿½herzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemï¿½nde Bï¿½tzow Strelitz Wismar Rostock
+		Schwerin Gï¿½strow Hagenow Parchim 	
 	}
 	ironclad = {
-		Mecklenburg "Großherzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemünde Bützow Strelitz Wismar Rostock
-		Schwerin Güstrow Hagenow Parchim
+		Mecklenburg "Groï¿½herzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemï¿½nde Bï¿½tzow Strelitz Wismar Rostock
+		Schwerin Gï¿½strow Hagenow Parchim
 	}
 	manowar = {
-		Mecklenburg "Großherzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemünde Bützow Strelitz Wismar Rostock
-		Schwerin Güstrow Hagenow Parchim 	
+		Mecklenburg "Groï¿½herzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemï¿½nde Bï¿½tzow Strelitz Wismar Rostock
+		Schwerin Gï¿½strow Hagenow Parchim 	
 	}
 	cruiser = {
-		Mecklenburg "Großherzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemünde Bützow Strelitz Wismar Rostock
-		Schwerin Güstrow Hagenow Parchim
+		Mecklenburg "Groï¿½herzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemï¿½nde Bï¿½tzow Strelitz Wismar Rostock
+		Schwerin Gï¿½strow Hagenow Parchim
 	}
 	frigate = {
-		Mecklenburg "Großherzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemünde Bützow Strelitz Wismar Rostock
-		Schwerin Güstrow Hagenow Parchim
+		Mecklenburg "Groï¿½herzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemï¿½nde Bï¿½tzow Strelitz Wismar Rostock
+		Schwerin Gï¿½strow Hagenow Parchim
 	}
 	monitor = {
-		Mecklenburg "Großherzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemünde Bützow Strelitz Wismar Rostock
-		Schwerin Güstrow Hagenow Parchim 	
+		Mecklenburg "Groï¿½herzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemï¿½nde Bï¿½tzow Strelitz Wismar Rostock
+		Schwerin Gï¿½strow Hagenow Parchim 	
 	}
 	clipper_transport = {
 		
@@ -214,7 +256,7 @@ unit_names= {
 		
 	}
 	commerce_raider = {
-		Mecklenburg "Großherzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemünde Bützow Strelitz Wismar Rostock
-		Schwerin Güstrow Hagenow Parchim
+		Mecklenburg "Groï¿½herzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemï¿½nde Bï¿½tzow Strelitz Wismar Rostock
+		Schwerin Gï¿½strow Hagenow Parchim
 	}
 }
