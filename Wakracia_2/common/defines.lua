@@ -576,7 +576,7 @@ diplomacy = {
 	CRISIS_BASE_CHANCE = 30,
 	CRISIS_TEMPERATURE_INCREASE = 0.10,
 	CRISIS_OFFER_DIPLOMATIC_COST = 0,
-	CRISIS_OFFER_RELATION_ON_ACCEPT = 0,
+	CRISIS_OFFER_RELATION_ON_ACCEPT = 1,
 	CRISIS_OFFER_RELATION_ON_DECLINE = 0,
 	CRISIS_DID_NOT_TAKE_SIDE_PRESTIGE_FACTOR_BASE = -0.1,
 	CRISIS_DID_NOT_TAKE_SIDE_PRESTIGE_FACTOR_YEAR = -0.002,
@@ -584,15 +584,15 @@ diplomacy = {
 	CRISIS_WINNER_PRESTIGE_FACTOR_YEAR = 0.5,
 	CRISIS_WINNER_RELATIONS_IMPACT = 25, -- negative for losers and backers with unfulfilled goals
 	BACK_CRISIS_DIPLOMATIC_COST = 0,
-	BACK_CRISIS_RELATION_ON_ACCEPT = 0,
+	BACK_CRISIS_RELATION_ON_ACCEPT = 1,
 	BACK_CRISIS_RELATION_ON_DECLINE = 0,
 	CRISIS_TEMPERATURE_ON_OFFER_DECLINE = 0,
 	CRISIS_TEMPERATURE_PARTICIPANT_FACTOR = 10, -- How much faster a crisis heats up if all interested parties have taken sides (linear, multiplied)
 	CRISIS_TEMPERATURE_ON_MOBILIZE = 10, -- added temperature if a participant mobilizes
-	CRISIS_WARGOAL_INFAMY_MULT = 1, -- Applied to all infamy from adding wargoals in a crisis
-	CRISIS_WARGOAL_PRESTIGE_MULT = 1, -- Applied to all prestige effects on wargoals in a crisis
+	CRISIS_WARGOAL_INFAMY_MULT = 0.1, -- Applied to all infamy from adding wargoals in a crisis
+	CRISIS_WARGOAL_PRESTIGE_MULT = 0.1, -- Applied to all prestige effects on wargoals in a crisis
 	CRISIS_WARGOAL_MILITANCY_MULT = 0, -- Applied to all militancy from failed wargoals in a crisis
-	CRISIS_INTEREST_WAR_EXHAUSTION_LIMIT = 20, -- GPs with WE above this will not get invited to a crisis
+	CRISIS_INTEREST_WAR_EXHAUSTION_LIMIT = 0.5, -- GPs with WE above this will not get invited to a crisis
 	
 	RANK_1_TENSION_DECAY = -0.5, -- extra flashpoint tension decay for GPs
 	RANK_2_TENSION_DECAY = -0.4,
@@ -611,7 +611,7 @@ diplomacy = {
 	TWS_BATTLE_MIN_COUNT = 5, -- At least X battles before the aspect of wins will count
 	TWS_BATTLE_MAX_ASPECT = 8.0, -- Max allowed battle wins aspect for TWS
 	LARGE_POPULATION_INFLUENCE_PENALTY = -0.4,
-	LONE_BACKER_PRESTIGE_FACTOR = 0.05 -- prestige boost for being only defender backer in crisis
+	LONE_BACKER_PRESTIGE_FACTOR = 0.15 -- prestige boost for being only defender backer in crisis
 },  
 
 

@@ -1,7 +1,5 @@
 capital = 195
 primary_culture = americangreek
-culture = dixie
-culture = yankee
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy

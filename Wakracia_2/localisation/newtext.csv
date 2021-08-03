@@ -87,7 +87,7 @@ USA_hms_government_ADJ;North Atlantean;Américain;Amerikanisch;;Noratlante;;;;;;;
 USA_proletarian_dictatorship;Laborist Republic of North Atlantis;République populaire d'Amérique;American People's Republic;;República Laborista de Noratlántida;;;;;;;;;x;
 USA_proletarian_dictatorship_ADJ;North Atlantean;Américain;Amerikanisch;;Noratlante;;;;;;;;;x;
 ENG_proletarian_dictatorship;The Worker's Commonwealth;Commonwealth des ouvriers;The Worker's Commonwealth;;La Mancomunidad de los Trabajadores;;;;;;;;;x;
-ENG_proletarian_dictatorship_ADJ;British;Britannique;Britisch;;Britano;;;;;;;;;x;
+ENG_proletarian_dictatorship_ADJ;Britain;Britannique;Britisch;;Britano;;;;;;;;;x;
 BOH_democracy;Czech Republic;République tchèque;Tschechische Republik;;República Checa;;;;;;;;;x;
 BOH_democracy_ADJ;Czech;Tchèque;Tschechisch;;Checo;;;;;;;;;x;
 TUR_democracy;Turkey;Turquie;Türkei;;Turquía;;;;;;;;;x;
@@ -2758,7 +2758,7 @@ wakracian_referendum_desc;The people have spoken and we listen to them, we will 
 EVTNAME95220;Imperial Succession;;;;Sucesión Imperial;;;;;;;;;x;
 EVTDESC95220;Since it has been decided that Nona will not be the heir to the Wakracian throne, we must consider other options among the available nobles with rights to the throne;;;;Dado que se ha decidido que Nona no sea la heredera al trono Wakracio, debemos considerar otras opciones entre los nobles disponibles con derechos al trono.;;;;;;;;;x;
 EVTOPTA95220;Pappous Varys is the right choise;;;;Pappous Varys es la opción adecuada;;;;;;;;;x;
-EVTOPTB95220;SUCCESSOR 2;;;;SUCESOR 2;;;;;;;;;x;
+EVTOPTB95220;Biggus Dickus looks strong;;;;Biggus Dickus se ve fuerte;;;;;;;;;x;
 EVTNAME95221;The Most Capable;;;;El Más Capaz;;;;;;;;;x;
 EVTDESC95221;Affairs of state are only part of the queen's duties. As monarch she must also be able to attract to the service the most capable individuals. During a feast, a number of persons of ability and merit paid their respects to her majesty. Among them, a gentleman of illustrious bearing stood out among the others.;;;;Los asuntos de estado son sólo una parte de los deberes deberes de la reina. Como monarca debe también ser capaz de atraer al servicio a los individuos más capaces. Durante una fiesta, una serie de personas de capacidad y mérito presentaron sus respetos a su majestad. Entre ellos, un caballero de ilustre porte destacó entre los demás.;;;;;;;;;x;
 EVTOPTA95221;Approach, Marquis Will de Moran;;;;Acérquese, Marqués Will de Moran;;;;;;;;;x;
