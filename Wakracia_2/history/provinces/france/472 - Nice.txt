@@ -3,6 +3,7 @@ controller=X09
 add_core=PRO
 add_core=LGU
 add_core=X09
+add_core=ITA
 trade_goods = grain
 life_rating = 34
 terrain = hills

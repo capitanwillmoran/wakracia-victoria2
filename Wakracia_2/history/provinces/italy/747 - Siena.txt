@@ -3,6 +3,7 @@ controller=BYZ
 add_core=SIC
 add_core=X09
 add_core=RMN
+add_core=ITA
 trade_goods = grain
 life_rating = 35
 terrain = hills

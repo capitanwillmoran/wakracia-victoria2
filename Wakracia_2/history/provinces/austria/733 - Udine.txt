@@ -2,6 +2,7 @@ owner=X09
 controller=X09
 add_core=AQU
 add_core=VEN
+add_core=ITA
 add_core=AUS
 trade_goods = fish
 life_rating = 35

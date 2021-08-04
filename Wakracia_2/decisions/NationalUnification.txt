@@ -861,15 +861,15 @@ political_decisions = {
 		news_desc_medium = "form_italy_NEWS_MEDIUM"
 		news_desc_short = "form_italy_NEWS_SHORT"
 		potential = {
-			is_primary_culture = magnagreek
+			OR = {
+				tag = X09
+				tag = SIC
+				tag = SII
+			}
+			
 			NOT = {
-				has_country_flag = post_colonial_country
-				has_country_flag = union_is_hre
 				exists = ITA
 			}
-			NOT = { tag = SPQ }
-			NOT = { tag = PAP }
-			NOT = { tag = ITP }
 		}
 		
 		allow = {
@@ -881,27 +881,8 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						province_id = 473 #Corsica
-						AND = {
-							is_core = VEN
-							owner = {
-								NOT = { is_culture_group = italian }
-							}
-						}
-						AND = {
-							is_core = LOM
-							owner = {
-								NOT = { is_culture_group = italian }
-							}
-						}
 						owner = {
 							in_sphere = THIS
-							OR = {
-								is_vassal = no
-								vassal_of = THIS
-							}
-							war = no
-							is_greater_power = no
 						}
 					}
 				}
@@ -913,30 +894,13 @@ political_decisions = {
 			all_core = { remove_core = THIS }
 			change_tag = ITA
 			capital = 749
-			add_accepted_culture = magna_greek
+			add_accepted_culture = magnagreek
 			any_country = {
 				limit = {
-					is_primary_culture = magna_greek
+					is_primary_culture = magnagreek
 					in_sphere = THIS
-					NOT = { has_country_flag = post_colonial_country }
 				}
-				country_event = 11101
-			}
-			any_country = {
-				limit = {
-					NOT = { is_primary_culture = magna_greek }
-					OR = {
-						has_country_flag = objects_to_italy
-						tag = FRA
-						tag = AUS
-						tag = KUK
-						AND = {
-							neighbour = ITA
-							is_greater_power = yes
-						}
-					}
-				}
-				country_event = 96165
+				country_event = { id=11101 days=0 }
 			}
 		}
 		ai_will_do = {

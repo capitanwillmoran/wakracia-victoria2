@@ -2,6 +2,7 @@ owner=BYZ
 controller=BYZ
 add_core=SIC
 add_core=RMN
+add_core=ITA
 trade_goods = fruit
 life_rating = 35
 terrain = farmlands

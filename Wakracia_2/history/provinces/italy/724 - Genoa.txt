@@ -4,6 +4,7 @@ add_core=X09
 add_core=SAR
 add_core=LGU
 add_core=ETR
+add_core=ITA
 trade_goods = fruit
 life_rating = 35
 terrain = hills

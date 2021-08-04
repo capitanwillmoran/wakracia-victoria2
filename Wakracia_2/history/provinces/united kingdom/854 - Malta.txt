@@ -3,6 +3,7 @@ controller=BYZ
 add_core=SIC
 add_core=SYC
 add_core=MLT
+add_core=ITA
 trade_goods = fish
 life_rating = 35
 terrain = hills

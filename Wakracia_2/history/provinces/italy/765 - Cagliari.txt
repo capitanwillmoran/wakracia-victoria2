@@ -3,6 +3,7 @@ controller=X09
 add_core=X09
 add_core=SAR
 add_core=SRD
+add_core=ITA
 trade_goods = sulphur
 life_rating = 35
 terrain = hills
