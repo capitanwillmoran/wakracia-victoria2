@@ -1,0 +1,110 @@
+#A House Divided
+country_event = {
+	id = 96019
+	title = "EVTNAME96019"
+	desc = "EVTDESC96019"
+	major = no
+	picture = "Dreyfus"
+	
+	trigger = {
+		NOT = {
+			has_country_flag = atlankepnian_civil_war_happened
+		}
+		tag = CUB
+		or = {
+			badboy = 0.2
+			militancy = 3
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 2
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTB96019"
+		any_pop = {
+			consciousness = 7
+			militancy = 3
+		}
+		any_owned = {
+			limit = {
+				is_core = VNZ
+			}
+			secede_province = VNZ
+		}
+		VNZ = {
+			capital = 2264
+			leadership = 120
+		create_alliance = CLM
+		relation = {
+			who = CLM
+			value = 200
+		}
+		relation = {
+			who = BRZ
+			value = 200
+		}
+		define_general = {
+   			name = "Simon Rodriguez"
+   			picture = european_general_6
+   			date = 1769.9.28
+   			type = land
+			personality = implacable
+			background = school_of_the_bayonet
+   			prestige = 10
+			}
+		}
+		war = {
+			target = VNZ
+			attacker_goal = {
+				casus_belli = annex_core_country
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		set_country_flag = atlankepnian_civil_war_happened
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA96019"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = VNZ
+			}
+			secede_province = VNZ
+		}
+		VNZ = {
+			capital = 2264
+			leadership = 120
+		create_alliance = CLM
+		relation = {
+			who = CLM
+			value = 200
+		}
+		relation = {
+			who = BRZ
+			value = 200
+		}
+		define_general = {
+   			name = "Simon Rodriguez"
+   			picture = european_general_6
+   			date = 1769.9.28
+   			type = land
+			personality = implacable
+			background = school_of_the_bayonet
+   			prestige = 10
+			}
+		}
+		set_country_flag = atlankepnian_civil_war_happened
+		}
+	}
+}
