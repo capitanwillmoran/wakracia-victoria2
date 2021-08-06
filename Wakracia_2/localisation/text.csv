@@ -13625,8 +13625,8 @@ MUL_WITH_TECHNOLOGY;Multiplied by Technology;Multiplié par la technologie;Multip
 #;;;;;;;;;;;;;;x;;;;
 army_doctrine;Army Doctrine;Doctrine militaire;Armeedoktrin;;Doctrina ejército;;;;;;;;;x;;;;
 army_doctrine_desc;This is the doctrinal change of your army. New ideas of how to move and defend while increasing the defense of your units, increasing their speed, and giving you the possibility to enhance your fortifications.;Il s'agit du changement de doctrine de votre armée. De nouvelles méthodes offensives et défensives permettent d'augmenter la défense et la vitesse de vos unités et d'améliorer vos fortifications. ;Dies ist der doktrinelle Wechsel Ihrer Armee. Neue Ideen bezüglich mobiler Verteidigung bei gleichzeitiger Verbesserung der Verteidigungsfähigkeiten Ihrer Einheiten erhöhen deren Geschwindigkeit und geben Ihnen die Möglichkeit, Ihre Befestigungsanlagen zu verstärken.;;Esto es el cambio doctrinal de tu ejército. Nuevas ideas de cómo moverse y defender al tiempo que aumentas la defensa de tus unidades, su velocidad y la posibilidad de mejorar tus fortificaciones.;;;;;;;;;x;;;;
-post_napoleonic_thought;Post-Napoleonic Thought;Pensée post-napoléonienne;Postnapoleonischer Gedanke;;Pensamiento post-napoleónico;;;;;;;;;x;;;;
-post_napoleonic_thought_desc;Post-Napoleonic Thought;Pensée post-napoléonienne;Postnapoleonischer Gedanke;;Pensamiento post-napoleónico;;;;;;;;;x;;;;
+post_napoleonic_thought;Post Wakracian-Myrmidon War Thought;Pensée post-napoléonienne;Postnapoleonischer Gedanke;;Pensamiento post Guerra Mirmidona-Wakracia;;;;;;;;;x;;;;
+post_napoleonic_thought_desc;Post Wakracian-Myrmidon War Thought;Pensée post-napoléonienne;Postnapoleonischer Gedanke;;Pensamiento post Guerra Mirmidona-Wakracia;;;;;;;;;x;;;;
 strategic_mobility;Strategic Mobility;Mobilité stratégique;Strategische Mobilität;;Movilidad estratégica;;;;;;;;;x;;;;
 strategic_mobility_desc;Strategic Mobility;Mobilité stratégique;Strategische Mobilität;;Movilidad estratégica;;;;;;;;;x;;;;
 field_fortifications;Field Fortifications;Fortifications de campagne;Feldbefestigungen;;Fortificaciones campo;;;;;;;;;x;;;;

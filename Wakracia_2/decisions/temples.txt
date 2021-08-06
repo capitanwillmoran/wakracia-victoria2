@@ -319,13 +319,12 @@ political_decisions = {
 		picture = "wakr"
 		potential = {
 			NOT = { has_global_flag = wakratianexpanded }
-			owns = 575
+			owns = 834
 		}
 		
 		allow = {
 			money = 5001
 			positivism = 1
-			owns = 834
 		}
 		
 		effect = {
