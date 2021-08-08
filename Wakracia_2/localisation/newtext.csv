@@ -2954,7 +2954,7 @@ EVTDESC95503;'We have seen the outsiders. They come, with guns and riches we hav
 EVT95503OPTA;$COUNTRY$ shall endure.;;;;$COUNTRY$ perdurará.;;;;;;;;;x;
 punitive_effects;National Humiliation;;;;Humillación nacional;;;;;;;;;x;
 punitive_effects_desc;Our humiliation at the hands of the victors, and the punitive effects of reparations have taken its toll on our people.  We will be all but unable to wage war unless someone declares war on us first.;;;;Nuestra humillación a manos de los vencedores y los efectos punitivos de las reparaciones han hecho mella en nuestro pueblo.  Seremos casi incapaces de hacer la guerra a menos que alguien nos declare la guerra primero.;;;;;;;;;x;
-establish_protectorate_BC_casus_belli;Establish Protectorate;;;;Establecer un protectorado;;;;;;;;;x;
+establish_protectorate_BC_casus_belli;Establish Protectorate (Africa scramble);;;;Establecer un protectorado (Reparto de África);;;;;;;;;x;
 establish_protectorate_BC_casus_belli_desc;Annex an §Yuncivilized country§W by forcing them to become a protectorate of ours.;;;;Anexar un §país no civilizado§W obligándolo a convertirse en un protectorado nuestro.;;;;;;;;;x;
 establish_protectorate_BC_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;;;Anexar $RECIPIENT$ estableciendo un protectorado sobre ellos.;;;;;;;;;x;
 establish_protectorate_BC_casus_belli_short;Annex $RECIPIENT$;;;;Anexar a $RECIPIENT$;;;;;;;;;x;

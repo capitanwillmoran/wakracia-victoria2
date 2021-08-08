@@ -1093,3 +1093,8 @@ fanatic_army = {
 	prestige = -0.02
 	icon = 15
 }
+
+war_focus = {
+    war_exhaustion = -0.1
+    icon = 7
+}
