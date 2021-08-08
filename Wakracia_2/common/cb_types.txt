@@ -61,7 +61,7 @@ make_puppet
 dismantle_forts
 humiliate
 demand_concession_casus_belli
-establish_protectorate_NI_casus_belli
+establish_protectorate_BC_casus_belli
 establish_protectorate_casus_belli
 unification_humiliate_cb
 unification_release_puppet_cb
@@ -1737,7 +1737,7 @@ establish_protectorate_BC_casus_belli = {
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
 	break_truce_militancy_factor = 2
-	truce_months = 12
+	truce_months = 24
 	
 	good_relation_prestige_factor = 0
 	good_relation_infamy_factor = 0
@@ -1745,16 +1745,11 @@ establish_protectorate_BC_casus_belli = {
 	
 	always = no
 
-	always = no
-
 	can_use = {
-		has_global_flag = berlin_conference
 		NOT = { is_our_vassal = THIS }
 		OR = {
-			NOT = { has_country_modifier = war_focus }
-		OR = {
 			NOT = {
-				number_of_states = 2 
+				number_of_states = 2
 			}
 			AND = {
 				THIS = {
@@ -1766,31 +1761,19 @@ establish_protectorate_BC_casus_belli = {
 				NOT = { number_of_states = 5 }
 			}
 		}
-		NOT = { is_our_vassal = THIS }
 		THIS = {
 			civilized = yes
 			nationalism_n_imperialism = 1
+			has_global_flag = berlin_conference
 			NOT = {
 				has_country_modifier = neutrality_modifier
-				has_global_flag = berlin_conference
 			}
 		}
 		civilized = no
-		OR = {
-			war_with = THIS
-			THIS = { military_score = 1 }
-		}
-		OR = {
-			war_with = THIS
-			NOT = {
-				civilization_progress = 0.8
-				has_country_flag = post_colonial_country
-			}
-		}
 		NOT = {
 			has_country_modifier = neutrality_modifier
 			capital_scope = { continent = europe }
-			number_of_states = 7
+			number_of_states = 12
 		}
 	}
 	
@@ -1799,8 +1782,8 @@ establish_protectorate_BC_casus_belli = {
 	war_name = WAR_PROTECTORATE_NAME
 
 	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
+		move_issue_percentage = {
+			from = jingoism
 			to = pro_military
 			value = 0.1
 		}
