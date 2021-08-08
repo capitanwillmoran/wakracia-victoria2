@@ -1,5 +1,6 @@
 political_decisions = {
 	new_wakracian_senate = {
+		picture = wakracia_logo
 		potential = {
 			NOT = { has_country_flag = new_wakracian_senate_built }
 			tag = BYZ

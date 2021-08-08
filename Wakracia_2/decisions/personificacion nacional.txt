@@ -18,7 +18,7 @@ political_decisions = {
 		}
       
 		effect = {
-			prestige_factor = 10
+			prestige = 10
 			country_event = 1512328
 			set_country_flag = wakracian_personificacion
 		}

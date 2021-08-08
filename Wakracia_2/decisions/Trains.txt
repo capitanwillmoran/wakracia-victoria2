@@ -9,15 +9,15 @@ any_owned_province = { is_core = THIS has_building = railroad }
 		}
 		
 		allow = {
-			money = 200000
+			money = 400001
 			war = no
 OR = { is_greater_power = yes }
 		}
 
 		effect = {
 set_country_flag = first_rail
-prestige = 100
-money = -200000
+prestige = 10
+money = -400000
 any_owned = { limit = { is_core = THIS } infrastructure = 1 }
 					}
 

@@ -1,0 +1,15 @@
+political_decisions = {
+ nyitran_denmark = {
+	potential = {
+		TAG = SLV
+		primary_culture = hungarian
+		ai_will_do = 1
+	}
+	allow = {
+		nationalism_n_imperialism = 1
+	}
+	effect = {
+		primary_culture = danish
+		prestige = -5
+	}
+ }

@@ -1,0 +1,295 @@
+#################################################################################################################
+#                                                                                                                #
+#                                        Events for the Berlin Conference                                        #
+#                                                                                                                #
+#################################################################################################################
+
+country_event = {
+
+    id = 95500
+    title = "EVTNAME95500" #The Berlin Conference
+    desc = "EVTDESC95500"
+    news = yes
+    news_desc_long = "EVTDESC95500_NEWS_LONG"
+    news_desc_medium = "EVTDESC95500_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC95500_NEWS_SHORT"
+    picture = "scramble_for_africa"
+    major = yes
+
+    trigger = {
+        OR = {
+            is_greater_power = yes
+            AND = {
+                colonial_nation = yes
+                any_owned_province = { continent = africa }
+            }
+        }
+        capital_scope = { continent = europe }
+        NOT = { tag = TUR }
+        NOT = { tag = CRI }
+        NOT = { tag = TAR }
+        invention = prophylaxis_against_malaria
+        invention = mission_to_civilize
+        invention = colonial_negotiations
+        NOT = { has_global_flag = berlin_conference }
+    }
+
+    allow_multiple_instances = no
+
+    mean_time_to_happen = {
+        months = 6
+        modifier = {
+            factor = 0.8
+            capital = 549
+        }
+    }
+
+    option = {
+        name = "EVT95500OPTA"
+        set_global_flag = berlin_conference
+        prestige = 25
+        TUR = { relation = { who = EGY value = 100 } }
+        any_country = {
+            limit = {
+                OR = {
+                    owns = 2071 #Zimbabwe
+                    owns = 1884 #Sierra Leone
+                    owns = 1887 #Liberia
+                    owns = 2038 #Tanzania
+                    owns = 1779 #Shingit, Mauritania
+                }
+            }
+            country_event = { id = 955203 days = 0 }
+        }
+
+        random_owned = {
+            limit = {
+                owner = {
+                    OR = {
+                        owns = 2071 #Zimbabwe
+                        owns = 1884 #Sierra Leone
+                        owns = 1887 #Liberia
+                        owns = 2038 #Tanzania
+                        owns = 1779 #Shingit, Mauritania
+                    }
+                }
+            }
+            owner = { country_event = { id = 955203 days = 0 } }
+        }
+    }
+}
+
+country_event = {
+
+    id = 95502
+    title = "EVTNAME95502" #The Age of Colonialism
+    desc = "EVTDESC95502"
+    picture = "scramble_for_africa"
+
+    trigger = {
+        civilized = no
+        capital_scope = { continent = africa }
+        has_global_flag = berlin_conference
+        NOT = { has_country_flag = delay_unciv_annexation }
+        NOT = { has_country_flag = reaction_to_berlin_conference }
+        NOT = { tag = MOR }
+        NOT = { tag = TUN }
+        NOT = { tag = ALD }
+        NOT = { tag = TRI }
+        NOT = { tag = EGY }
+        NOT = { tag = LIB }
+        NOT = { tag = X00 }
+        NOT = { tag = X05 }
+        NOT = { tag = X06 }
+        NOT = { tag = LBR }
+    }
+
+    mean_time_to_happen = {
+        days = 5
+    }
+
+    option = {
+        name = "EVT95502OPTA"
+        set_country_flag = reaction_to_berlin_conference
+        any_country = {
+            limit = {
+                civilized = yes
+                OR = {
+                    is_greater_power = yes
+                    is_secondary_power = yes
+                    colonial_nation = yes
+                }
+                capital_scope = { continent = europe }
+            }
+            leave_alliance = THIS
+            relation = {
+                who = THIS
+                value = -200
+            }
+        }
+    }
+}
+
+#Canditate for Removal
+country_event = {
+
+    id = 95503
+    title = "EVTNAME95503" #the Modern Age
+    desc = "EVTDESC95503"
+    picture = "zulu"
+
+    trigger = {
+        war = no
+        civilized = no
+        capital_scope = { continent = africa }
+        NOT = { has_global_flag = berlin_conference }
+        NOT = { has_country_flag = africa_in_the_modern_age }
+        any_owned_province = {
+            OR = {
+                port = yes
+                any_neighbor_province = { owner = { civilized = yes } }
+                any_neighbor_province = { owner = { has_country_modifier = western_influences } }
+            }
+        }
+        NOT = { tag = MOR }
+        NOT = { tag = TUN }
+        NOT = { tag = ALD }
+        NOT = { tag = TRI }
+        NOT = { tag = EGY }
+        NOT = { tag = LIB }
+        NOT = { tag = OMA }
+        NOT = { tag = CYR }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+
+    option = {
+        name = "EVT95503OPTA"
+        set_country_flag = africa_in_the_modern_age
+        any_country = {
+            limit = {
+                civilized = yes
+                NOT = { relation = { who = THIS value = 25 } }
+                capital_scope = { continent = europe }
+            }
+            relation = { who = THIS value = 50 }
+        }
+    }
+}
+
+country_event = {
+    id = 95511
+    title = "EVTNAME95511"
+    desc = "EVTDESC95511"
+    picture = "scramble_for_africa"
+
+    trigger = {
+        has_global_flag = berlin_conference
+        capital_scope = { continent = europe }
+        OR = {
+            is_greater_power = yes
+            is_secondary_power = yes
+        }
+        OR = {
+            government = absolute_monarchy
+            government = prussian_constitutionalism
+            government = hms_government
+        }
+        total_amount_of_ships = 20
+        total_amount_of_divisions = 10
+        nationalism_n_imperialism = 1
+        invention = mission_to_civilize
+        invention = colonial_negotiations
+        OR = {
+            war_policy = jingoism
+            war_policy = pro_military
+        }
+        war = no
+        ai = yes
+        is_disarmed = no
+        is_vassal = no
+        any_owned_province = { port = yes }
+        NOT = {
+            average_militancy = 4
+            num_of_revolts = 1
+            war_exhaustion = 10
+            any_owned_province = { continent = africa }
+            has_country_modifier = punitive_effects
+            has_country_modifier = neutrality_modifier
+            year = 1900
+            tag = RUS
+        }
+    }
+
+    mean_time_to_happen = {
+        months = 24
+    }
+
+    option = {
+        name = "EVT95511OPTA"
+        random_country = {
+            limit = {
+                ai = yes
+                capital_scope = { continent = africa }
+                civilized = no
+                war = no
+                is_vassal = no
+                part_of_sphere = no
+                NOT = { alliance_with = THIS }
+                NOT = { brigades_compare = 1 }
+                any_owned_province = { port = yes }
+            }
+            add_casus_belli = {
+                target = THIS
+                type = establish_protectorate_BC_casus_belli
+                months = 60
+            }
+            country_event = 95514
+        }
+        random_country = {
+            limit = {
+                civilized = yes
+                is_vassal = no
+                any_owned_province = {
+                    is_colonial = yes
+                    continent = africa
+                }
+                NOT = {
+                    relation = { who = THIS value = -50 }
+                    truce_with = THIS
+                    in_sphere = THIS
+                    alliance_with = THIS
+                }
+            }
+            add_casus_belli = {
+                target = THIS
+                type = place_in_the_sun
+                months = 60
+            }
+        }
+    }
+}
+
+country_event = {
+    id = 95514
+    title = "EVTNAME95514"
+    desc = "EVTDESC95514"
+    picture = "scramble_for_africa"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "EVT95514OPTA"
+        FROM = {
+            relation = { who = THIS value = -200 }
+            war = {
+                target = THIS
+                attacker_goal = {
+                    casus_belli = establish_protectorate_BC_casus_belli
+                }
+            }
+        }
+    }
+}

@@ -1065,3 +1065,31 @@ rog_occupied_capital = {
 mng_occupied_capital = {
 	icon = 15
 }
+
+punitive_effects = {
+    war_exhaustion = 2.0
+    core_pop_militancy_modifier = 0.1
+    diplomatic_points_modifier = -0.5
+    prestige = -0.1
+    icon = 4
+}
+
+### Neutrality ###
+neutrality_modifier = {
+    max_military_spending = -0.10
+    leadership_modifier = -0.7
+    diplomatic_points_modifier = -0.6
+    core_pop_militancy_modifier = -0.01
+    prestige = -0.025
+    icon = 7
+}
+
+### Great Patriotic War ###
+
+fanatic_army = {
+	land_organisation = 0.1
+	org_regain = 0.1
+	mobilisation_size = 0.15
+	prestige = -0.02
+	icon = 15
+}

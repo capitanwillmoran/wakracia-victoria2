@@ -1,0 +1,19 @@
+political_decisions = {
+	law_of_general_common_education = {
+		potential = {
+			tag = BYZ
+			NOT = {
+				has_country_flag = general_school_passed
+			}
+		}
+		allow = {
+			positivism = 1
+			ruling_party_ideology = conservative
+		}
+		effect = {
+			years_of_research = 0.2
+			social_reform = acceptable_schools
+			set_country_flag = general_school_passed
+		}
+	}		
+}

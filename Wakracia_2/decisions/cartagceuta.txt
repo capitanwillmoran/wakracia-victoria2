@@ -1,0 +1,46 @@
+political_decisions = {
+
+	cartagceuta = {
+		picture = "wakracia_logo"
+		potential = {
+
+			tag = BYZ
+			X06 = { exists = yes }
+			X05 = { exists = yes }
+			NOT = { has_country_flag = cartagceuta }
+
+		}
+	
+		allow = {
+			war = no
+			is_vassal = no
+		}
+      
+		effect = {
+			prestige = 10
+			release_vassal = X06
+			release_vassal = X05
+			diplomatic_influence = {
+				who = X06
+				value = 200
+			}
+			X06 = {
+				relation = {
+					who = FROM
+					value = 100
+				}
+			}
+			diplomatic_influence = {
+				who = X05
+				value = 200
+			}
+			X05 = {
+				relation = {
+					who = FROM
+					value = 100
+				}
+			}
+			set_country_flag = cartagceuta
+		}
+	}
+}

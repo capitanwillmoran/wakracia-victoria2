@@ -1,0 +1,38 @@
+political_decisions = {
+
+	fachowak = {
+		picture = "wakracia_logo"
+		potential = {
+
+			tag = BYZ
+			mass_politics = 1
+			OR = {
+			government = fascist_dictatorship
+			government = nationalsyndicalist_dictatorship
+			}
+			X09 = { exists = yes }
+			NOT = { has_country_flag = fachowak }
+
+		}
+	
+		allow = {
+			war = no
+			is_vassal = no
+		}
+      
+		effect = {
+			prestige = 10
+			casus_belli = {
+            			target = X09
+				type = humiliate
+				months = 60
+			}
+			war = {
+				target = X09
+				attacker_goal = { casus_belli = humiliate }
+				defender_goal = { casus_belli = humiliate }
+			}
+			set_country_flag = fachowak
+		}
+	}
+}

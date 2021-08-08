@@ -6,9 +6,8 @@ country_event = {
 	
 	trigger = {
 		has_country_flag = syrian_civil_war_happened
-		OR = {
 			tag = BYZ
-			tag = GRE
+		OR = {
 			year = 1900
 		}
 		NOT = {

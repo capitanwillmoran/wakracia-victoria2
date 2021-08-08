@@ -104,7 +104,7 @@ country_event = {
 		has_country_flag = italian_civil_war_happened
 		year = 1885
 		or = {	
-			badboy = 0.3
+			badboy = 0.1
 			militancy = 3
 		}
 		NOT = {

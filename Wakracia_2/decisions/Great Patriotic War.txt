@@ -1,0 +1,47 @@
+political_decisions = {
+
+great_patriotic_war = {
+	picture = "great_patriotic_war"
+	potential = {
+	OR = { is_greater_power = yes is_secondary_power = yes }
+		war = yes
+		is_vassal = no
+		NOT = { has_country_modifier = fanatic_army }
+OR = { 
+
+AND = { ruling_party_ideology = fascist pop_majority_ideology = fascist }
+
+AND = { ruling_party_ideology = theocratic pop_majority_ideology = theocratic }
+
+AND = { ruling_party_ideology = reactionary pop_majority_ideology = reactionary }
+
+AND = { ruling_party_ideology = communist pop_majority_ideology = communist }
+
+AND = { ruling_party_ideology = nationalsyndicalist pop_majority_ideology = nationalsyndicalist }
+
+government = presidential_dictatorship
+government = proletarian_dictatorship
+government = fascist_dictatorship
+government = nationalsyndicalist_dictatorship
+
+}
+				}
+
+	allow = {
+			election = no
+capital_scope = { controlled_by = THIS }
+national_provinces_occupied = 0.25 
+OR = { war_exhaustion = 50 ai = no }
+OR = { any_greater_power = { war_with = THIS brigades_compare = 2 } ai = no }
+					}
+
+	effect = {
+war_exhaustion = -25
+add_country_modifier = { name = fanatic_army duration = -1 }
+		}
+		ai_will_do = { 
+			factor = 1 
+			}
+	}
+
+}

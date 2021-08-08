@@ -1,0 +1,33 @@
+political_decisions = {
+	claim_greater_argentina = {
+		picture = "malvinas"
+		potential = {
+			tag = ARG
+			OR = {
+			government = fascist_dictatorship
+			government = presidential_dictatorship
+			government = bourgeois_dictatorship
+			government = absolute_monarchy
+			government = prussian_constitutionalism
+			government = hms_government
+			government = nationalsyndicalist_dictatorship
+			}
+			NOT = { has_country_flag = malvinasargentinas }
+		}
+
+		allow = {
+			is_vassal = no
+		}
+
+		effect = {
+			set_country_flag = malvinasargentinas
+			2131 = { add_core = ARG }
+			2133 = { add_core = ARG }
+			relation = {
+				who = BYZ
+				value = -50
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

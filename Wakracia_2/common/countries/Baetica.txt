@@ -1,5 +1,5 @@
 graphical_culture = EuropeanGC
-color = { 42 142 102 }
+color = { 42 111 102 }
 
 party = {
 	name = "GRE_reactionary"

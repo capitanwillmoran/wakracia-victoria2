@@ -77,7 +77,7 @@ political_decisions = {
 		alert = no
 
 		allow = {
-			prestige = 600
+			prestige = 60
 			war = no
 			NOT = { is_disarmed = yes }
 			is_vassal = no
