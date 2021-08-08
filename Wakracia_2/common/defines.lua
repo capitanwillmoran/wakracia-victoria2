@@ -592,7 +592,7 @@ diplomacy = {
 	CRISIS_WARGOAL_INFAMY_MULT = 0.1, -- Applied to all infamy from adding wargoals in a crisis
 	CRISIS_WARGOAL_PRESTIGE_MULT = 0.1, -- Applied to all prestige effects on wargoals in a crisis
 	CRISIS_WARGOAL_MILITANCY_MULT = 0, -- Applied to all militancy from failed wargoals in a crisis
-	CRISIS_INTEREST_WAR_EXHAUSTION_LIMIT = 0.5, -- GPs with WE above this will not get invited to a crisis
+	CRISIS_INTEREST_WAR_EXHAUSTION_LIMIT = 20, -- GPs with WE above this will not get invited to a crisis
 	
 	RANK_1_TENSION_DECAY = -0.5, -- extra flashpoint tension decay for GPs
 	RANK_2_TENSION_DECAY = -0.4,
