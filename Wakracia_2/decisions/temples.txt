@@ -331,7 +331,7 @@ political_decisions = {
 			set_global_flag = wakratianexpanded
 			money = -5000
 			prestige = 15
-			add_country_modifier = educational_reform
+			add_country_modifier = { name = educational_reform = 1825 } 
 		}
 		
 		ai_will_do = {
