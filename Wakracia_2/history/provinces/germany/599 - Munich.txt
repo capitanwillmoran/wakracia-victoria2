@@ -1,6 +1,8 @@
 owner=X09
 controller=X09
 add_core=BAV
+add_core=GER
+add_core=SGF
 trade_goods = coal
 life_rating = 40
 terrain = hills

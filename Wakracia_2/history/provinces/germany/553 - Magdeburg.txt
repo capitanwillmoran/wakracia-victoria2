@@ -3,6 +3,7 @@ controller=BOH
 add_core=BOH
 add_core=MAG
 add_core=GER
+add_core=NGF
 add_core=SAX
 trade_goods = cattle
 life_rating = 40

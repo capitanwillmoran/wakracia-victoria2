@@ -1,6 +1,7 @@
 owner=SLV
 controller=SLV
 add_core=GER
+add_core=NGF
 add_core=LNB
 add_core=DEN
 trade_goods = cattle

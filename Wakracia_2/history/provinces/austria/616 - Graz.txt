@@ -3,6 +3,7 @@ controller=X03
 add_core=AUS
 add_core=STY
 add_core=GER
+add_core=SGF
 trade_goods = iron
 life_rating = 35
 terrain = woods

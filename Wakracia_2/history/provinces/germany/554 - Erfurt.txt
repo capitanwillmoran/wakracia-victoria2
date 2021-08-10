@@ -1,6 +1,7 @@
 owner=SAX
 controller=X09
 add_core=GER
+add_core=NGF
 add_core=COB
 add_core=SAX
 trade_goods = iron

@@ -8,7 +8,7 @@
 
 	artisans=
 	{
-		culture = slovene
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 4749
 	}
@@ -43,7 +43,7 @@
 
 	farmers=
 	{
-		culture = slovene
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 42614
 	}
@@ -66,14 +66,14 @@
 
 	artisans=
 	{
-		culture = slovene
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 6652
 	}
 
 	clergymen=
 	{
-		culture = slovene
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 480
 	}
@@ -101,7 +101,7 @@
 
 	farmers=
 	{
-		culture = slovene
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 58998
 	}

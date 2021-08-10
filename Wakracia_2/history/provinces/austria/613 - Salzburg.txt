@@ -1,6 +1,7 @@
 owner=X09
 controller=X09
 add_core=GER
+add_core=SGF
 add_core=SLZ
 add_core=AUS
 trade_goods = grain

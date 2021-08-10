@@ -671,14 +671,14 @@
 618 = {
 	soldiers=
 	{
-		culture = slovene
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 1373
 	}
 
 	artisans=
 	{
-		culture = slovene
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 1717
 	}
@@ -713,7 +713,7 @@
 
 	farmers=
 	{
-		culture = slovene
+		culture = tatargerman
 		religion = hellenic_pagan
 		size= 21201
 	}

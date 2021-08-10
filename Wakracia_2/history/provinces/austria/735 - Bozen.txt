@@ -1,9 +1,10 @@
 owner=X09
 controller=X09
-add_core=GER
 add_core=TIR
 add_core=TST
 add_core=AUS
+add_core=GER
+add_core=SGF
 trade_goods = grain
 life_rating = 35
 terrain = mountain
