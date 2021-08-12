@@ -4,8 +4,12 @@ political_decisions = {
 		picture = "five_year_plan"
 		potential = {
 			OR = {
-				economic_policy = planned_economy
+				government = presidential_dictatorship
+				government = proletarian_dictatorship
+				government = fascist_dictatorship
+				government = nationalsyndicalist_dictatorship
 			}
+			economic_policy = planned_economy
 			NOT = { has_country_modifier = five_year_plan }
 		}
 
