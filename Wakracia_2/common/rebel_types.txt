@@ -3540,6 +3540,7 @@ theocratic_rebels = {
 		political_reform = underground_parties
 		ruling_party_ideology = theocratic
 	}
+	country_event = { id=90031 days=0 }
 }
 
 ###################################
@@ -3649,16 +3650,6 @@ agrarist_rebels = {
 			government = agrarist
 		}
 		modifier = {
-			factor = 1.015
-			NOT = { political_reform_want = 0.05 }
-		}
-		modifier = {
-			factor = 1.15
-			social_reform_want = 0.15 
-			NOT = { political_reform_want = 0.15 
-			}
-		}
-		modifier = {
 			factor = 0.01
 			NOT = {
 				OR = {
@@ -3686,13 +3677,13 @@ agrarist_rebels = {
 		modifier = {
 			factor = 1.05
 			country = {
-				average_militancy = 6
+				average_militancy = 8
 			}
 		}
 		modifier = {
 			factor = 1.05
 			country = {
-				average_consciousness = 6
+				average_consciousness = 8
 			}
 		}
 	}
@@ -3752,4 +3743,5 @@ agrarist_rebels = {
 		
 		nationalize = yes
 	}
+	country_event = { id=90032 days=0 }
 }

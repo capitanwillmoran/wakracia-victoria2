@@ -525,3 +525,30 @@ country_event = {
 		government = theocracy
 	}
 }
+
+country_event = {
+	id = 90032
+	title = "EVTNAME90032"
+	desc = "EVTDESC90032"
+	picture = "Unite"
+	
+	trigger = {
+		NOT = {
+			government = agrarist
+		}
+		political_parties = underground_parties
+		vote_franschise = none_voting
+		upper_house_composition = party_appointed
+		ruling_party_ideology = agrarism
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA90032"
+		government = agrarist
+		ruling_party_ideology = agrarism
+	}
+}

@@ -11,7 +11,7 @@ country_event = {
 		}
 		or = {
 			badboy = 0.4
-			militancy = 3
+			militancy = 2
 		}
 		tag = BYZ
 		NOT = {exists = SYC}
@@ -102,13 +102,14 @@ country_event = {
 	trigger = {
 		tag = BYZ
 		has_country_flag = italian_civil_war_happened
-		year = 1885
+		year = 1880
 		or = {	
-			badboy = 0.1
+			badboy = 0.3
 			militancy = 3
 		}
 		NOT = {
 			exists = RUM
+			year = 1888
 			has_country_flag = anatolian_civil_war_happened
 		}
 		
@@ -121,12 +122,42 @@ country_event = {
 
 		modifier = {
 			factor = 0.75 #increase likelihood to happen
-			year = 1886
+			year = 1880
 		}
 
 
 		modifier = {
+			factor = 0.76 #increase likelihood to happen
+			year = 1881
+		}
+
+		modifier = {
+			factor = 0.80 #increase likelihood to happen
+			year = 1882
+		}
+
+		modifier = {
+			factor = 0.85 #increase likelihood to happen
+			year = 1883
+		}
+
+		modifier = {
+			factor = 0.90 #increase likelihood to happen
+			year = 1884
+		}
+
+		modifier = {
+			factor = 0.93 #increase likelihood to happen
+			year = 1885
+		}
+
+		modifier = {
 			factor = 0.95 #increase likelihood to happen
+			year = 1886
+		}
+
+		modifier = {
+			factor = 0.99 #increase likelihood to happen
 			year = 1887
 		}
 	}
@@ -208,7 +239,7 @@ country_event = {
 	trigger = {
 		has_country_flag = anatolian_civil_war_happened
 		tag = BYZ
-		year = 1895
+		year = 1900
 		or = {	
 			badboy = 0.3
 			militancy = 3
@@ -217,6 +248,7 @@ country_event = {
 			exists = BAB
 			exists = IRQ
 			exists = SYR
+			year = 1903
 		}
 		has_country_flag = syrian_civil_war_happened
 	}
@@ -227,14 +259,14 @@ country_event = {
 		months = 1
 
 		modifier = {
-			factor = 0.75 #increase likelihood to happen
-			year = 1896
+			factor = 0.85 #increase likelihood to happen
+			year = 1901
 		}
 
 
 		modifier = {
 			factor = 0.99 #increase likelihood to happen
-			year = 1897
+			year = 1902
 		}
 	}
 	
