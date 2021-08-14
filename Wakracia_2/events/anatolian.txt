@@ -98,7 +98,7 @@ country_event = {
 			secede_province = A11
 		}
 		change_tag = AN9
-		set_country_flag = anatolia_fragmentedd_happened
+		set_country_flag = anatolia_fragmented_happened
 		}
 	}
 }

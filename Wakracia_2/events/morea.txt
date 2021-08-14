@@ -10,7 +10,7 @@ country_event = {
 		OR = {
 			tag = GRE
 			NOT = {
-				has_country_flag = epirote_civil_war_happened
+				has_country_flag = morea_civil_war_happened
 			}
 		}
 	}
@@ -63,7 +63,7 @@ country_event = {
 			defender_goal = {
 				casus_belli = status_quo
 			}
-		set_country_flag = morea_civil_war_happened
 		}
+		set_country_flag = morea_civil_war_happened
 	}
 }

@@ -48,8 +48,8 @@ country_event = {
 			defender_goal = {
 				casus_belli = status_quo
 			}
-		set_country_flag = basque_civil_war_happened
 		}
+		set_country_flag = basque_civil_war_happened
 	}
 	
 	option = {
@@ -67,7 +67,7 @@ country_event = {
 		BSQ = {
 			capital = 492
 			leadership = 120
-		set_country_flag = basque_civil_war_happened
 		}
+		set_country_flag = basque_civil_war_happened
 	}
 }

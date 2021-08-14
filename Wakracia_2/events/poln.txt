@@ -49,8 +49,8 @@ country_event = {
 			defender_goal = {
 				casus_belli = status_quo
 			}
-		set_country_flag = polan_civil_war_happened
 		}
+		set_country_flag = polan_civil_war_happened
 		ai_chance = {
 			factor = 1
 		}
@@ -71,8 +71,8 @@ country_event = {
 		POL = {
 			capital = 706
 			leadership = 120
-		set_country_flag = polan_civil_war_happened
 		}
+		set_country_flag = polan_civil_war_happened
 		ai_chance = {
 			factor = 99
 		}

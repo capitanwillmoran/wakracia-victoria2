@@ -59,8 +59,8 @@ country_event = {
 			defender_goal = {
 				casus_belli = status_quo
 			}
-		set_country_flag = italian_civil_war_happened
 		}
+		set_country_flag = italian_civil_war_happened
 	}
 	
 	option = {
@@ -87,8 +87,8 @@ country_event = {
     			background = aristocrat
    			prestige = 0.9
 			}
-		set_country_flag = italian_civil_war_happened
 		}
+		set_country_flag = italian_civil_war_happened
 	}
 }
 
@@ -196,8 +196,8 @@ country_event = {
 			defender_goal = {
 				casus_belli = status_quo
 			}
-		set_country_flag = anatolian_civil_war_happened
 		}
+		set_country_flag = anatolian_civil_war_happened
 	}
 	
 	option = {
@@ -224,8 +224,8 @@ country_event = {
 			background = gifted_administrator
    			prestige = 10
 			}
-		set_country_flag = anatolian_civil_war_happened
 		}
+		set_country_flag = anatolian_civil_war_happened
 	}
 }
 
@@ -249,8 +249,8 @@ country_event = {
 			exists = IRQ
 			exists = SYR
 			year = 1903
+			has_country_flag = syrian_civil_war_happened
 		}
-		has_country_flag = syrian_civil_war_happened
 	}
 
 	fire_only_once = yes

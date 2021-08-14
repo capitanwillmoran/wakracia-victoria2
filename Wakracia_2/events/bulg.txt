@@ -65,7 +65,7 @@ country_event = {
 			defender_goal = {
 				casus_belli = status_quo
 			}
-		set_country_flag = bulgarian_civil_war_happened
 		}
+		set_country_flag = bulgarian_civil_war_happened
 	}
 }
