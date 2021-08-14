@@ -8,10 +8,10 @@ country_event = {
 		has_country_flag = syrian_civil_war_happened
 			tag = BYZ
 		OR = {
-			year = 1900
+			year = 1910
 		}
 		NOT = {
-			year = 1902
+			year = 1912
 			has_country_flag = egyptian_civil_war_happened
 		}
 	}
@@ -23,7 +23,7 @@ country_event = {
 
 		modifier = {
 			factor = 0.99 #increase likelihood to happen
-			year = 1901
+			year = 1911
 		}
 	}
 	
