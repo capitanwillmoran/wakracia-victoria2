@@ -1,0 +1,94 @@
+country_event = {
+	id = 77777
+	title = "EVTNAME96009"
+	desc = "EVTDESC96009"
+	major = no
+	picture = "demolished_mosque"
+	
+	trigger = {
+		has_global_flag = swahili_fragmented_happened
+		ai = no
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA96009"
+	}
+}
+
+country_event = {
+	id = 77778
+	title = "EVTNAME96008"
+	desc = "EVTDESC96008"
+	major = no
+	picture = "woundedlion"
+	
+	trigger = {
+		has_global_flag = kazembe_fragmented_happened
+		ai = no
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA96008"
+	}
+}
+
+country_event = {
+	id = 77779
+	title = "EVTNAME96007"
+	desc = "EVTDESC96007"
+	major = no
+	picture = "zulu"
+	
+	trigger = {
+		has_global_flag = mali_fragmented_happened
+		ai = no
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA96007"
+	}
+}
+
+country_event = {
+	id = 77776
+	title = "EVTNAME96010"
+	desc = "EVTDESC96010"
+	major = no
+	picture = "qing_emperor"
+	
+	trigger = {
+		has_global_flag = china_fragmented_happened
+		ai = no
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA96010"
+	}
+}
+
+country_event = {
+	id = 77775
+	title = "EVTNAME96006"
+	desc = "EVTDESC96006"
+	major = no
+	picture = "spanish_glorious_revolution"
+	
+	trigger = {
+		has_global_flag = hispania_fragmented_happened
+		ai = no
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA96006"
+	}
+}

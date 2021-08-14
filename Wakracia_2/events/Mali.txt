@@ -9,7 +9,7 @@ country_event = {
 	trigger = {
 		tag = MLI
 		NOT = { 
-			has_country_flag = mali_fragmented_happened
+			has_global_flag = mali_fragmented_happened
 		}
 		OR = {
 			badboy = 0.2
@@ -143,7 +143,7 @@ country_event = {
 			}
 			secede_province = FEZ
 		}
-		set_country_flag = mali_fragmented_happened
+		set_country_flag = mali_global_happened
 		}
 	}
 }

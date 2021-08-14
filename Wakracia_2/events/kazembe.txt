@@ -9,7 +9,7 @@ country_event = {
 	trigger = {
 		tag = KZB
 		NOT = {
-			has_country_flag = kazembe_fragmented_happened
+			has_global_flag = kazembe_fragmented_happened
 		}
 		OR = {
 			badboy = 0.2
@@ -71,7 +71,7 @@ country_event = {
 			}
 			secede_province = LBA
 		}
-		set_country_flag = kazembe_fragmented_happened
+		set_global_flag = kazembe_fragmented_happened
 		}
 	}
 }

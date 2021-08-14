@@ -8,7 +8,7 @@ country_event = {
 	trigger = {
 		tag = SPA
 		NOT = {
-			has_country_flag = hispania_fragmented_happened
+			has_global_flag = hispania_fragmented_happened
 		}
 		OR = {
 			badboy = 0.3
@@ -71,7 +71,7 @@ country_event = {
 			secede_province = SP8
 		}
 		change_tag = SP1
-		set_country_flag = hispania_fragmented_happened
+		set_global_flag = hispania_fragmented_happened
 		}
 	}
 }

@@ -8,7 +8,7 @@ country_event = {
 	
 	trigger = {
 		NOT = { 
-			has_country_flag = swahili_fragmented_happened
+			has_global_flag = swahili_fragmented_happened
 		}
 		tag = SWA
 		OR = {
@@ -95,7 +95,7 @@ country_event = {
 			}
 			secede_province = KRW
 		}
-		set_country_flag = swahili_fragmented_happened
+		set_global_flag = swahili_fragmented_happened
 		}
 	}
 }
