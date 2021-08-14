@@ -143,7 +143,7 @@ country_event = {
 			}
 			secede_province = FEZ
 		}
-		set_country_flag = mali_global_happened
+		set_global_flag = mali_global_happened
 		}
 	}
 }
