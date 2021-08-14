@@ -8,12 +8,17 @@ country_event = {
 	trigger = {
 		tag = BYZ
 		RUM = { exists = yes }
-		SIC = { exists = yes }
 		or = {
-			SIC = { exists = no }
+			SIC = { exists = yes }
 			SYC = { exists = yes }
 			NAP = { exists = yes }
-		BAB = { exists = yes }
+			ITA = { exists = yes }
+		}
+		or = {
+			BAB = { exists = yes }
+			SYR = { exists = yes }
+			IRQ = { exists = yes }
+		}
 		GRE = { exists = no }
 		is_greater_power = no
 		NOT = {
