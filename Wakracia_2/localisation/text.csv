@@ -6484,7 +6484,7 @@ conservative;Conservative;Conservative;Conservative;Conservative;Conservadora;;;
 socialist;Laborist;Laborist;Laborist;Laborist;Laborista;;;;;;;;;x;;;;
 communist;Dirigist;Dirigist;Dirigist;Dirigist;Dirigista;;;;;;;;;x;;;;
 liberal;Liberal;Liberal;Liberal;Liberal;Liberal;;;;;;;;;x;;;;
-anarcho_liberal;Minarchist;Libéral anarchiste;Anarcho-Liberal;;Anarco liberal;;;;;;;;;x;;;;
+anarcho_liberal;Minarchist;Libéral anarchiste;Anarcho-Liberal;;Minarquista;;;;;;;;;x;;;;
 RULE_BUILD_FACTORY;Build Factories;Construire des usines;Fabriken bauen;;Construir fábricas;;;;;;;;;x;;;;
 RULE_EXPAND_FACTORY;Expand Factories;Agrandir des usines;Fabriken erweitern;;Ampliar fábricas;;;;;;;;;x;;;;
 RULE_BUILD_RAILWAY;Build Railway;Construire une voie ferrée;Eisenbahn bauen;;Construir ferrocarril;;;;;;;;;x;;;;
