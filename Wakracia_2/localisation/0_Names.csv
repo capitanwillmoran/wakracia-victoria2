@@ -896,10 +896,10 @@ MNR;Siv;Siv;Siv;Siv;Siv;Montserrat;Montserrat;Montserrat;Montserrat;Montserrat;M
 MNR_ADJ;Siv;Siv;Siv;Siv;Siveño;di Montserrat;Montserrat;Montserrat;Montserrat;Montserrat;Montserratense;ìîíòñåğğàòñê;Montserrat;x;;;;;;;;;;;;;;
 MNS;Munster;Munster;Munster;Munster;Munster;Munster;Munster;Munster;Munster;Munster;O Munster;Ìàíñòåğ;Munster;x;;;;;;;;;;;;;;
 MNS_ADJ;Munster;du Munster;Munster-;Munster;Munsteriana;di Munster;Munster;Munster;Munster;Munster;do Munster;Ìàíñòåğñê;Munster;x;;;;;;;;;;;;;;
-MNX;China;L'Empire Ming;Das Ming-Kaiserreich;Dynastia Ming;China;L'Impero Ming;A Ming birodalom;Ming Ríše;A Ming birodalom;de Ming-Rijk;O Império do Grande Ming;Èìïåğèÿ Ìèí;Ming Empire;x;;;;;;;;;;;;;;
+MNX;Ming;L'Empire Ming;Das Ming-Kaiserreich;Dynastia Ming;Ming;L'Impero Ming;A Ming birodalom;Ming Ríše;A Ming birodalom;de Ming-Rijk;O Império do Grande Ming;Èìïåğèÿ Ìèí;Ming Empire;x;;;;;;;;;;;;;;
 MNX_ADJ;Ming;Ming;Ming-;Ming;Ming;dei Ming;Ming;ming;Ming;Ming;Ming;Ìèíñê;Ming;x;;;;;;;;;;;;;;
 MNX_democracy;Republic of China;La République de Chine;Die Republik China;Chiñska Republika Ludowa;República de China;La Repubblica di Cina;A Kínai Köztársaság;Cínská republika;A Kínai Köztársaság;de Republiek China;A República da China;Êèòàéñêàÿ Ğåñïóáëèêà;Kiinan tasavallan;x;;;;;;;;;;;;;;
-MNX_democracy_ADJ;Chinese;Chinois;Chinesisch;chiñsk;China;Cinese;kínai;cínština;kínai;Chinese;Chinês;êèòàéñê;Kiinan kieli;x;;;;;;;;;;;;;;
+MNX_democracy_ADJ;Chinese;Chinois;Chinesisch;chiñsk;Chino Ming;Cinese;kínai;cínština;kínai;Chinese;Chinês;êèòàéñê;Kiinan kieli;x;;;;;;;;;;;;;;
 MNX_fascist_dictatorship;Nanking Republic;La République de Nankin;Die Nanking-Republik;Republika Nankin;República de Nankín;La Repubblica di Nanchino;a nankingi Köztársaság;Nanking republika;a nankingi Köztársaság;de Nanking Republiek;A república de Nanquim;Íàíêèíñêàÿ Ğåñïóáëèêà;Nanking tasavalta;x;;;;;;;;;;;;;;
 MNX_fascist_dictatorship_ADJ;Nanking;Nankin;Nanking;nankiñsk;Nankín;Nanchinese;Nanking;Nanking;Nanking;Nanking;de Namquim;íàíêèíñê;Nanking;x;;;;;;;;;;;;;;
 MNX_proletarian_dictatorship;People's Republic of China;La République Populaire de Chine;Die Volksrepublik China;Chiñska Republika Ludowa;República Popular de China;La Repubblica Popolare Cinese;Népköztársaság Kínai;Cínská lidová republika;Népköztársaság Kínai;de Volksrepubliek China;A Republica Popular da China;Êèòàéñêàÿ Íàğîäíàÿ Ğåñïóáëèêà;People Kiina;x;;;;;;;;;;;;;;
