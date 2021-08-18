@@ -469,17 +469,17 @@ EVTOPTA90910;Wagons West!;Wagons à l'ouest !;Wagen gen Westen!;;¡Los vagones del
 SUPPRESSION_POINTS;Suppression points;Points de répression;Unterdrückungspunkte;;Puntos de supresión;;;;;;;;;x
 school_reforms;School system;Système d'éducation;Schulsystem;;Sistema escolar;;;;;;;;;x
 no_schools;No School system;Système inexistant;Kein Schulsystem;;Ningún sistema escolar;;;;;;;;;x
-low_schools;Basic School system;Système de base;Einfaches Schulsystem;;Sistema de la Escuela Básica;;;;;;;;;x
+low_schools;Basic School system;Système de base;Einfaches Schulsystem;;Sistema escolar básico;;;;;;;;;x
 acceptable_schools;Acceptable School system;Système acceptable;Akzeptables Schulsystem;;Sistema escolar aceptable;;;;;;;;;x
 good_schools;Good School system;Système de bon niveau;Gutes Schulsystem;;Buen sistema escolar;;;;;;;;;x
 no_schools_l;No School system;Système d'éducation inexistant;Kein Schulsystem;;Ningún sistema escolar;;;;;;;;;x
-low_schools_l;Basic School system;Système d'éducation de base;Einfaches Schulsystem;;Sistema de la Escuela Básica;;;;;;;;;x
+low_schools_l;Basic School system;Système d'éducation de base;Einfaches Schulsystem;;Sistema escolar básico;;;;;;;;;x
 acceptable_schools_l;Acceptable School system;Système d'éducation acceptable;Akzeptables Schulsystem;;Sistema escolar aceptable;;;;;;;;;x
 good_schools_l;Good School system;Système d'éducation de bon niveau;Gutes Schulsystem;;Buen sistema escolar;;;;;;;;;x
 no_schools_desc;No public Schools.;Pas d'écoles publiques.;Keine öffentlichen Schulen.;;No hay escuelas públicas.;;;;;;;;;x
 low_schools_desc;Public Schools are uncommon.;Les écoles publiques sont rares.;Öffentliche Schulen sind nicht verbreitet.;;Las escuelas públicas son poco comunes.;;;;;;;;;x
-acceptable_schools_desc;Public Schools are common.;Les écoles publiques sont fréquentes.;Öffentliche Schulen sind verbreitet.;;Las Escuelas Públicas son comunes.;;;;;;;;;x
-good_schools_desc;There are really a lot of Public Schools.;Il y a beaucoup d'écoles publiques.;Es gibt wirklich viele öffentliche Schulen.;;En realidad, hay una gran cantidad de escuelas públicas.;;;;;;;;;x
+acceptable_schools_desc;Public Schools are common.;Les écoles publiques sont fréquentes.;Öffentliche Schulen sind verbreitet.;;Las escuelas públicas son comunes.;;;;;;;;;x
+good_schools_desc;There are really a lot of Public Schools.;Il y a beaucoup d'écoles publiques.;Es gibt wirklich viele öffentliche Schulen.;;Hay muchas escuelas públicas.;;;;;;;;;x
 NATIONALIST_UNION_MOVEMENT;$COUNTRY_ADJ$ Unification Movement;Mouvement d'unification $COUNTRY_ADJ$;$COUNTRY_ADJ$ Vereinigungs-Bewegung;;Movimiento de unificación $COUNTRY_ADJ$;;;;;;;;;x
 NATIONALIST_LIBERATION_MOVEMENT;$COUNTRY$ Liberation Movement;Mouvement de libération de $COUNTRY$;$COUNTRY$ Befreiungs-Bewegung;;Movimiento por la liberación $COUNTRY$;;;;;;;;;x
 SUPRESSION_MONTHLY_GAIN;Monthly gain: §G$VAL$§!;Gain mensuel : §G$VAL$§!;Monatlicher Zuwach: §G$VAL$§!;;Ganancia mensual: §G$VAL$§!;;;;;;;;;x
