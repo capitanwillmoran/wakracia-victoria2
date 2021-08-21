@@ -1,0 +1,32 @@
+country_event = {
+
+	id = 97502
+	news = no
+	
+	trigger = {
+		tag = BYZ
+		year = 1837
+		NOT = {
+			has_country_flag = traxi_happened
+		}
+	}
+	
+	fire_only_once = yes
+	
+	title = EVTNAME97502
+	desc = EVTDESC97502
+	picture = "trax"
+
+	option = {
+		name = "EVTOPTA97502"
+		prestige = -1
+		any_pop = {
+			limit = {
+				is_primary_culture = yes
+				is_accepted_culture = yes
+			}
+			militancy = 1
+		}
+		set_country_flag = traxi_happened
+	}
+}

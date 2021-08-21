@@ -4,15 +4,17 @@ country_event = {
 	news = no
 	
 	trigger = {
-		OR = { tag = BYZ tag = BYZ }
+		tag = BYZ
 		year = 1888
-		NOT = {
-			year = 1889
-		}
 	}
  
 	mean_time_to_happen =  {
 		months = 1
+
+		modifier = {
+			factor = 0.99 #increase likelihood to happen
+			year = 1888
+		}
 	}
 	
 	fire_only_once = yes
