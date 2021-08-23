@@ -1066,6 +1066,14 @@ mng_occupied_capital = {
 	icon = 15
 }
 
+mym_occupied_capital = {
+	icon = 15
+}
+
+ita_occupied_capital = {
+	icon = 15
+}
+
 punitive_effects = {
     war_exhaustion = 2.0
     core_pop_militancy_modifier = 0.1

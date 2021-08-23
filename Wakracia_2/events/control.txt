@@ -279,3 +279,70 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = 97039
+	title = "EVTNAME97039"
+	desc = "EVTDESC97039"
+	major = no
+	picture = "myrmidoanmonke"
+	
+	trigger = {
+		tag = BYZ
+		war = yes
+		X09 = { exists = yes }
+		OR = {
+			744 = {
+				controlled_by = BYZ
+			}
+		}
+		NOT = {
+			has_country_modifier = mym_occupied_capital 
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA97039"
+		prestige = 5
+		war_exhaustion = -10
+		add_country_modifier = {
+			name = mym_occupied_capital
+			duration = 365
+		}
+	}
+}
+
+country_event = {
+	id = 97040
+	title = "EVTNAME97040"
+	desc = "EVTDESC97040"
+	major = no
+	picture = "italianmonke"
+	
+	trigger = {
+		tag = BYZ
+		war = yes
+		ITA = { exists = yes }
+		OR = {
+			744 = {
+				controlled_by = BYZ
+			}
+			749 = {
+				controlled_by = BYZ
+			}
+		}
+		NOT = {
+			has_country_modifier = ita_occupied_capital 
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA97040"
+		prestige = 5
+		war_exhaustion = -10
+		add_country_modifier = {
+			name = ita_occupied_capital
+			duration = 365
+		}
+	}
+}
