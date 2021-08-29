@@ -11,7 +11,7 @@ country_event = {
 			government = prussian_constitutionalism
 		}
 		year = 1840
-		has_country_flag = 85701a
+		has_country_flag = 85701b
 		NOT = {
 			year = 1841
 			}
