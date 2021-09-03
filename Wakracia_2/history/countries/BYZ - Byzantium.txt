@@ -1,6 +1,9 @@
 capital = 860
 primary_culture = greek
 culture = zzz_religion_hellenic_pagan
+culture = magnagreek
+culture = anatolian
+culture = greekegyptian
 religion = hellenic_pagan
 government = prussian_constitutionalism
 plurality = 0
