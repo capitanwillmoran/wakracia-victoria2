@@ -36,6 +36,7 @@ country_event = {
 				is_core = SIC
 			}
 			secede_province = SIC
+			add_core = BYZ
 		}
 		SIC = {
 			capital = 754
@@ -74,6 +75,7 @@ country_event = {
 				is_core = SIC
 			}
 			secede_province = SIC
+			add_core = BYZ
 		}
 		SIC = {
 			capital = 754
@@ -173,6 +175,7 @@ country_event = {
 				is_core = RUM
 			}
 			secede_province = RUM
+			add_core = BYZ
 		}
 		RUM = {
 			capital = 861
@@ -211,6 +214,7 @@ country_event = {
 				is_core = RUM
 			}
 			secede_province = RUM
+			add_core = BYZ
 		}
 		RUM = {
 			capital = 861

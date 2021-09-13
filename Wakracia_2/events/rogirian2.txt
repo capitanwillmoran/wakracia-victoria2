@@ -35,6 +35,7 @@ country_event = {
 				is_core = TEX
 			}
 			secede_province = TEX
+			add_core = MEX
 		}
 		TEX = {
 			capital = 133

@@ -34,6 +34,7 @@ country_event = {
 				is_core = RGR
 			}
 			secede_province = RGR
+			add_core = MEX
 		}
 		RGR = {
 			capital = 138

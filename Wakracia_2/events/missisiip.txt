@@ -34,18 +34,21 @@ country_event = {
 				is_core = FSA
 			}
 			secede_province = FSA
+			add_core = UIL
 		}
 		any_owned = {
 			limit = {
 				is_core = DAK
 			}
 			secede_province = DAK
+			add_core = UIL
 		}
 		any_owned = {
 			limit = {
 				is_core = LOU
 			}
 			secede_province = LOU
+			add_core = UIL
 		}
 		any_owned = {
 			limit = {
@@ -58,6 +61,7 @@ country_event = {
 				is_core = UNB
 			}
 			secede_province = UNB
+			add_core = UIL
 		}
 		FSA = {
 			capital = 163
@@ -96,30 +100,35 @@ country_event = {
 				is_core = FSA
 			}
 			secede_province = FSA
+			add_core = UIL
 		}
 		any_owned = {
 			limit = {
 				is_core = DAK
 			}
 			secede_province = DAK
+			add_core = UIL
 		}
 		any_owned = {
 			limit = {
 				is_core = LOU
 			}
 			secede_province = LOU
+			add_core = UIL
 		}
 		any_owned = {
 			limit = {
 				is_core = WIC
 			}
 			secede_province = WIC
+			add_core = UIL
 		}
 		any_owned = {
 			limit = {
 				is_core = UNB
 			}
 			secede_province = UNB
+			add_core = UIL
 		}
 		FSA = {
 			capital = 163
