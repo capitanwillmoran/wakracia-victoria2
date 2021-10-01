@@ -11,6 +11,7 @@ political_decisions = {
 				government = hms_government
 				government = democracy
 				government = theocracy
+				government = agrarist
 				government = nationalsyndicalist_dictatorship
 			}
 		}	
@@ -2130,7 +2131,7 @@ political_decisions = {
 			primary_culture = frankish
 			NOT = {
 				exists = FRK
-				tag = FRA
+				tag = FRR
 			}
 		}	
 		allow = {
@@ -2222,6 +2223,7 @@ political_decisions = {
 			primary_culture = french
 			NOT = {
 				exists = FRR
+				tag = FRR
 			}
 		}
 		
@@ -2868,7 +2870,7 @@ political_decisions = {
 				primary_culture = laessin
 				primary_culture = brithenig
 				primary_culture = latin
-				primary_culture = xliponian
+				primary_culture = greek
 				primary_culture = wenedyk
 				primary_culture = bazramani
 			}

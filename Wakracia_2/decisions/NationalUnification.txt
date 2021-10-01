@@ -292,6 +292,8 @@ political_decisions = {
 				tag = HRE
 				tag = WSF
 				tag = ENS
+				tag = FRR
+				tag = SCA
 			}
 		}
 		
