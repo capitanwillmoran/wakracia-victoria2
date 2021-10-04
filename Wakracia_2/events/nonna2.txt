@@ -12,7 +12,6 @@ country_event = {
 		year = 1845
 		has_country_flag = 95221
 		NOT = {
-			year = 1846
 			has_country_flag = 95222
 			}
 	}
