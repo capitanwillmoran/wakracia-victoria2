@@ -16,17 +16,4 @@ country_event = {
 			factor = 25
 		}
 	}
-
-	option = {
-		name = "EVTOPTB11101"
-		prestige = 1
-		relation = {
-			who = FROM
-			value = -100
-		}
-		any_pop = {
-			militancy = 3
-			consciousness = 2
-		}
-	}
 }

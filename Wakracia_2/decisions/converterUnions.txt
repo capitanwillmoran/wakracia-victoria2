@@ -2924,6 +2924,34 @@ political_decisions = {
 			#Duchy of Antioch
 			900 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			897 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			#Costa Francesa
+			FRA_467 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			FRA_461 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			#Costa Hispanica
+			SPA_498 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			SPA_503 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			SPA_513 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			SPA_517 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			#Marruecos
+			MOR_1688 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			ALD_1704 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			FRA_1700 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			#Tripoli
+			TRI_1743 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			EGY_1754 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			1684 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			765 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			766 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			745 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			740 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			746 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			733 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			731 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			737 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			736 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			770 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			778 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
+			800 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 		}
 		
 		effect = {
@@ -2942,11 +2970,275 @@ political_decisions = {
 			capital = 749
 			add_accepted_culture = latin
 			add_accepted_culture = greek #Byzantines
-			any_country = {
-				limit = {
-					in_sphere = THIS
-					NOT = { has_country_flag = post_colonial_country }
-				}
+			724 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			725 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			741 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			742 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			743 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			741 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			729 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			749 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			750 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			2567 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			754 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			756 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			758 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			SIC_763 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			TUN_1726 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			AUS_780 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			781 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			774 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			773 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			TUR_860 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			834 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			835 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			EGY_1753 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			1751 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			1747 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			916 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			917 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			918 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			900 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			897 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			FRA_467 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			FRA_461 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			SPA_503 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			SPA_498 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			SPA_513 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			SPA_517 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			MOR_1688 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			ALD_1704 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			FRA_1700 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			TRI_1743 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			EGY_1754 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			1684 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			765 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			766 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			745 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			740 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			746 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			733 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			731 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			737 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			736 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			770 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			778 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
+			}
+			800 = {
+				remove_core = THIS
+				add_core = SPQ
+				secede_province = SPQ
 			}
 		}
 		ai_will_do = {
