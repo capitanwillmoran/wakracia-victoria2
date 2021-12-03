@@ -265,27 +265,27 @@ RUS_2618;Upper Okhotsk;Upper Okhotsk;Ober-Okhotsk;;Alto Okhotsk;;;;;;;;;x
 RUS_2621;Inner Chukotka;Yakutsk;Yakutsk;;Chukotka Interior;;;;;;;;;x
 RUS_1074;Kamchatka;Kamchatka;Kamtschatka;;Kamchatka;;;;;;;;;x
 RUS_2590;Coastal Chukotka;Coastal Chukotka;Küste von Tschuktschen;;Chukotka Costera;;;;;;;;;x
-TUR_885;Kars;Kars;Kars;;Kars;;;;;;;;;x
-TUR_884;Trabzon;Trabzon;Trabzon;;Trebisonda;;;;;;;;;x
-TUR_889;Diyarbakir-Van;Diyarbakir-Van;Diyarbakir-Van;;Diyarbakir-Van;;;;;;;;;x
-TUR_876;Ankara and Adana;Ankara and Adana;Ankara und Adana;;Ankara y Adana;;;;;;;;;x
+TUR_885;Chorzene;Chorzene;Chorzene;Chorzene;Chorzene;;;;;;;;;x
+TUR_884;Trabzon;Trabzon;Trabzon;Trabzon;Trebisonda;;;;;;;;;x
+TUR_889;Amida;Amida;Amida;Amida;Amida;;;;;;;;;x
+TUR_876;Ankara and Adana;Ankara and Adana;Ankara and Adana;Ankara and Adana;Ankara y Adana;;;;;;;;;x
 TUR_873;Konya;Konya;Konya;;Konya;;;;;;;;;x
-TUR_881;Kastamonu;Kastamonu;Kastamonu;;Kastamonu;;;;;;;;;x
+TUR_881;Paphlagonia;Paphlagonia;Paphlagonia;Paphlagonia;Paphlagonia;;;;;;;;;x
 TUR_869;Aydin;Aydin;Aydin;;Aydin;;;;;;;;;x
 TUR_863;Hudavendigar;Hudavendigar;Hüdavendigar;;Hudavendigar;;;;;;;;;x
-TUR_923;Mosul;Mosul;Mosul;;Mosul;;;;;;;;;x
-TUR_931;Baghdad;Baghdad;Baghdad;;Bagdad;;;;;;;;;x
+TUR_923;Mepsila;Mepsila;Mepsila;Mepsila;Mepsila;;;;;;;;;x
+TUR_931;Babylon;Babylon;Babylon;Babylon;Babilonia;;;;;;;;;x
 TUR_935;Basra;Basra;Basra;;Basora;;;;;;;;;x
-EGY_897;Aleppo;Aleppo;Aleppo;;Aleppo;;;;;;;;;x
+EGY_897;Halapia;Halapia;Halapia;Halapia;Halapia;;;;;;;;;x
 EGY_910;Transjordan;Transjordan;Transjordanien;;Transjordania;;;;;;;;;x
-EGY_903;Syria;Syria;Syrien;;Siria;;;;;;;;;x
+EGY_903;Syria;Syria;Syrien;Syria;Syria;;;;;;;;;x
 NEJ_1156;Hail;Hail;Ha'il;;Hail;;;;;;;;;x
 NEJ_1157;Nejd;Nejd;Nadschd;;Nejd;;;;;;;;;x
-EGY_1746;Sinai;Sinai;Sinai;;Sinaí;;;;;;;;;x
+EGY_1746;Sinaitica;Sinai;Sinai;;Sinaitica;;;;;;;;;x
 EGY_1750;Lower Egypt;Basse Égypte;Unter-Ägypten;;Bajo Egipto;;;;;;;;;x
 EGY_1762;Middle Egypt;Égypte Moyenne;Mittel-Ägypten;;Egipto Medio;;;;;;;;;x
 EGY_1771;Upper Egypt;Basse Égypte;Unter-Ägypten;;Alto Egipto;;;;;;;;;x
-EGY_1753;Matruh;Matruh;Matruh;;Matruh;;;;;;;;;x
+EGY_1753;Paraetonium;Paraetonium;Paraetonium;;Paraetonium;;;;;;;;;x
 EGY_1758;Egyptian Desert;Egyptian Desert;Ägyptische Wüste;;Desierto Egipcio;;;;;;;;;x
 EGY_1834;Dongola;Dongolah;Dunqula;;Dongola;;;;;;;;;x
 EGY_1827;Sudan;Soudan;Sudan;;Sudán;;;;;;;;;x
@@ -295,11 +295,11 @@ ETH_1854;Gonder-Tigray;Gonder-Tigray;Gonder-Tigray;;Gonder-Tigray;;;;;;;;;x
 ETH_1864;Amhara;Amhara;Amhara;;Amhara;;;;;;;;;x
 ETH_1867;Oromia;Oromia;Oromia;;Oromia;;;;;;;;;x
 ALD_1708;Constantine;Constantine;Constantine;;Constantino;;;;;;;;;x
-FRA_1700;Algiers;Alger;Algier;;Argel;;;;;;;;;x
-ALD_1704;Tlemcen;Tlemcen;Tlemcen;;Tlemcen;;;;;;;;;x
-MOR_1688;al Rif;al Rif;Al Rif;;al Rif;;;;;;;;;x
-MOR_1686;Fez;Fez;Fès;;Fez;;;;;;;;;x
-MOR_1693;Morocco;Maroc;Marokko;;Marruecos;;;;;;;;;x
+FRA_1700;Icosium;Icosium;Icosium;Icosium;Icosium;;;;;;;;;x
+ALD_1704;Regio Pomaria;Regio Pomaria;Regio Pomaria;Regio Pomaria;Regio Pomaria;;;;;;;;;x
+MOR_1688;Tingitana;Tingitana;Tingitana;Tingitana;Tingitana;;;;;;;;;x
+MOR_1686;Fezza;Fezza;Fezza;Fezza;Fezza;;;;;;;;;x
+MOR_1693;Marrochium;Marrochium;Marrochium;Marrochium;Marrochium;;;;;;;;;x
 FRA_1803;Timbuktu;Timbuktu;Timbuktu;;Tombuctú;;;;;;;;;x
 FRA_1798;Eastern Mali;Mali orientale;Ost-Mali;;Malí Oriental;;;;;;;;;x
 FRA_1801;Western Mali;Mali ouest;West-Mali;;Malí Occidental;;;;;;;;;x

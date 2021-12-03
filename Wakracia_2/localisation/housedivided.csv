@@ -793,7 +793,7 @@ ECONOMIC_REFORM_COST_DESC;Cost modifier for economic reforms: ;Coût du modificat
 MAPMODE_19;Civilization Level;Niveau de civilisation;Zivilisationsstufe;;Nivel de civilización;;;;;;;;;x
 CHI_absolute_monarchy;The Chinese Empire;Empire Chinois;Das Chinesische Reich;;Imperio Chino;;;;;;;;;x
 EVTOPTB23212;Keep looking at the sky!;Continuez de regarder au ciel !;Schau weiter in den Himmel!;;¡Sigue mirando en el cielo!;;;;;;;;;x
-LOSE_CIVILIZED_EFFECT;We shall be known as an §YUncivilized Nation§W\n;Nous allons être considérés comme §Ynation non-civilisée§W\n;Man soll uns kennen als §YUnzivilisierte Nation§W\n;;Pasaremos a ser conocida como una nación §YNación incivilizada§ W\n;;;;;;;;;x
+LOSE_CIVILIZED_EFFECT;We shall be known as an §YUncivilized Nation§\n;Nous allons être considérés comme §Ynation non-civilisée§W\n;Man soll uns kennen als §YUnzivilisierte Nation§W\n;;Pasaremos a ser conocida como una nación §YNación incivilizada§\n;;;;;;;;;x
 french_growth_nerf;French Population decline:;Déclin de la population française ;Rückgang der Französischen Bevölkerung:;;Declive de la Población Francesa;;;;;;;;;x
 french_growth_nerf_desc;Our growth rate is slowed:;Notre croissance ralentit;Unsere Wachstumsrate ist verlangsamt:;;Nuestra tasa de crecimiento es más lenta;;;;;;;;;x
 EVTNAME37226;Population decline;Diminution de la population;Bevölkerungsrückgang;;Disminución de la población;;;;;;;;;x
