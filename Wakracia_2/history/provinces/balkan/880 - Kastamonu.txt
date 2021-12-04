@@ -2,6 +2,7 @@ owner=BYZ
 controller=BYZ
 add_core=RUM
 add_core=BYZ
+add_core=AN8
 add_core=PNT
 trade_goods = coal
 life_rating = 35
