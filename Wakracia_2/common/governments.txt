@@ -130,6 +130,6 @@ agrarist = {
 	
 	election = no
 	appoint_ruling_party = yes
-	flagType = republic
+	flagType = agrarism
 }
 

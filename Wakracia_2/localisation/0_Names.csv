@@ -139,7 +139,7 @@ AWS;Afar;Afar;Afar;Afar;Afar;Afar;Afar;Afar;Afar;Afar;Afar;Àôàğ;Afar;x;;;;;;;;;;
 AWS_ADJ;Afar;Afar;Afar;Afarów;Afar;di Afar;Afar;Afar;Afar;Afar;Afar;àôàğñê;Afar;x;;;;;;;;;;;;;;
 AYD;Aydïn;Aÿdin;Aydïn;Aydın;Aydïn;Aydin;Aydin;Aydin;Aydin;Aydin;Aidim;Àéäûíîãóëëàğû;Aydin;x;;;;;;;;;;;;;;
 AYD_ADJ;Aydïnid;Aÿdinide;Aydinïd;aydıñsk;de Aydïn;Aydinide;Aydinid;Aydinid;Aydinid;Aydinid;de Aidim;àéäûíîãóëëàğñê;Aydinid;x;;;;;;;;;;;;;;
-AYR;Air;Aïr;Air;Air;Agadez;Air;Levego;Vzduch;Levego;Lucht;Aïr;Àãàäåñ;ilma;x;;;;;;;;;;;;;;
+AYR;Air;Aïr;Air;Air;Air;Air;Levego;Vzduch;Levego;Lucht;Aïr;Àãàäåñ;ilma;x;;;;;;;;;;;;;;
 AYR_ADJ;Air;de l'Aïr;Air-;Airu;de Agadez;di Air;Levego;Vzduch;Levego;Lucht;de Aïr;Àãàäåññê;ilma;x;;;;;;;;;;;;;;
 AZT;The Aztec;Les Aztèques;Die Azteken;Aztekowie;Aztecas;Gli Aztechi;az azték;aztéckı;az azték;de Azteekse;Asteca;Àöòåêè;atsteekkien;x;;;;;;;;;;;;;;
 AZT_ADJ;Aztec;Aztèque;Aztekisch;Azteków;Azteca;Azteca;azték;aztéckı;azték;Aztec;Asteca;Àöòåêñê;aztec;x;;;;;;;;;;;;;;
@@ -299,7 +299,7 @@ COP;Coptia;Coptie;Koptien;Koptija;Coptia;Coptia;Koptia;Koptie;Koptia;Coptië;Cópt
 COP_ADJ;Coptic;Copte;Koptisch;Koptyjski;Copta;Copta;Kopt;Koptské;Kopt;Coptisch;Cóptico;êîïòñê;Koptilainen;x;;;;;;;;;;;;;;
 CPG;Durocortorum;Champagne;Champagner;Szampania;Durocortorum;Sciampagna;Pezsgo;Šampanské;Pezsgo;Champagne;Champanha;Øàìïàíü;Samppanja;x;;;;;;;;;;;;;;
 CPG_ADJ;Durocortorum;Champenois;Champagne-;Szampanii;Durocortorum;Sciampana;Champagnan;Champagnan;Champagnan;Champagnan;Champanhês;Øàìïàíñê;Champagnan;x;;;;;;;;;;;;;;
-CPL;Congress Poland;Pologne du Congrès;Kongress Polen;Kongresówka;El Zarato de Polonia;Polonia del Congresso;Kongresszus Lengyelország;Kongres Polsko;Kongresszus Lengyelország;Congres Polen;Polônia do Congresso;Öàğñòâî Ïîëüñêîå;Kongressi Puola;x;;;;;;;;;;;;;;
+CPL;Congress Poland;Pologne du Congrès;Kongress Polen;Kongresówka;Zarato de Polonia;Polonia del Congresso;Kongresszus Lengyelország;Kongres Polsko;Kongresszus Lengyelország;Congres Polen;Polônia do Congresso;Öàğñòâî Ïîëüñêîå;Kongressi Puola;x;;;;;;;;;;;;;;
 CPL_ADJ;Polish;Polonais;Polisch;polsk;Polaca;Polacca;lengyel;polština;lengyel;Pools;Polonês;ïîëüñê;Kiillottaa;x;;;;;;;;;;;;;;
 CPV;Cape Verde;Cap-Vert;Kap Verde;Wyspy Zielonego Przyl¹dka;Cabo Verde;Capo Verde;Zöld-Fok;Kapverdy;Zöld-Fok;Kaapverdië;Cabo Verde;Êàáî-Âåğäå;Kap Verde;x;;;;;;;;;;;;;;
 CPV_ADJ;Cape Verdean;Cap-Verdien;Kapverdisch;Zielonego Przyl¹dka;Caboverdiana;di Capo Verde;Zöld-foki-szigetek;Cape Verdean;Zöld-foki-szigetek;Kaapverdisch;Cabo-Verdiano;êàáî-âåğäèàíñê;Kap Verdean;x;;;;;;;;;;;;;;
@@ -974,7 +974,7 @@ NUM;Nuremberg;Nuremberg;Nürnberg;Norymberga;Nuremburg;Norimberga;Nürnberg;Norimb
 NUM_ADJ;Nuremberger;Nurembergeois;Nürnbergisch;Norymbergi;Nuremburguesa;Norimberghese;Nuremberger;Nuremberger;Nuremberger;Nuremberger;Nuremberguês;Íşğíáåğãñê;Nürnbergille;x;;;;;;;;;;;;;;
 NVG;Novgorod;Novgorod;Nowgorod;Nowogród;Nóvgorod;Novgorod;Novgorod;Novgorod;Novgorod;Novgorod;Novgorod;Íîâãîğîä;Novgorod;x;;;;;;;;;;;;;;
 NVG_ADJ;Novgorodian;Novgorodien;Nowgorod-;Nowogrodu;Nóvgorodiense;di Novgorod;novgorodi;Novgorodskımi;novgorodi;Novgorodian;Novgorodian;Íîâãîğîäñê;Novgorodin;x;;;;;;;;;;;;;;
-NYE;North Yemen;Yémen du Nord;Nordjemen;Jemen Pó³nocny;Yemen del Norte;Yemen del Nord;Észak-Jemen;Severní Jemen;Észak-Jemen;Noord-Jemen;Iêmen do Norte;Ñåâåğíûé Éåìåí;Pohjois-Jemen;x;;;;;;;;;;;;;;
+NYE;North Yemen;Yémen du Nord;Nordjemen;Jemen Pó³nocny;Yemen del Norte;Yemén del Norte;Észak-Jemen;Severní Jemen;Észak-Jemen;Noord-Jemen;Iêmen do Norte;Ñåâåğíûé Éåìåí;Pohjois-Jemen;x;;;;;;;;;;;;;;
 NYE_ADJ;North Yemeni;Yéménite du Nord;Nordjemenitisch;Pó³nocnojemeñsk;Norteyemení;Yemenita Settentrionale;Észak-Jemeni;Severní Jemenu;Észak-Jemeni;Noord-Jemeni;Iemenita;ñåâåğíîéåìåíñê;Pohjois-Jemeni;x;;;;;;;;;;;;;;
 NZH;Nizhny Novgorod;Nijni-Novgorod;Nischni Nowgorod;Ni¿ny Nowogród;Nizhni Nóvgorod;Ninij Novgorod;Nyizsnyij Novgorod;Ninij Novgorod;Nyizsnyij Novgorod;Nizhny Novgorod;Nijni Novgorod;Íèæíèé Íîâãîğîä;Nizhny Novgorod;x;;;;;;;;;;;;;;
 NZH_ADJ;Nizhny Novgorodian;Nijni-Novgorodien;Nischni Nowgorod-;ni¿nonowogrodzk;Nizhegorodense;di Ninij Novgorod;Nyizsnyij novgorodi;Ninij Novgorodskımi;Nyizsnyij novgorodi;Nizhny Novgorodian;de Nijni Novgorod;íèæåãîğîäñê;Nizhny Novgorodin;x;;;;;;;;;;;;;;
@@ -1478,7 +1478,7 @@ WSF;Zapadoslavia;Zapadoslavie;Sapadoslawien;Zachodnios³awia;Zapadoslavia;Zapados
 WSF_ADJ;West Slavic;Slave Occidental;Westslawisch;zachodnios³owiañsk;Zapadoslava;Slava Occidentale;Nyugat-szláv;Západoslovanskı;Nyugat-szláv;West Slavic;Zapadoslava;çàïàäíîñëàâÿíñê;West Slavic;x;;;;;;;;;;;;;;
 WSH;Western Sahara;Sahara Occidental;Westsahara;Sahara Zachodnia;Sahara Occidental;Sahara Occidentale;nyugat-Szahara;západní Sahara;nyugat-Szahara;Westelijke Sahara;Saara Ocidental;Çàïàäíàÿ Ñàõàğà;Länsi-Sahara;x;;;;;;;;;;;;;;
 WSH_ADJ;Western Saharan;Sahraoui;Westsaharisch;zachodniosaharyjsk;Saharaui;Sahariana Occidentale;Nyugat-szaharai;Západní saharskı;Nyugat-szaharai;Westelijke Sahara;Saaráui;çàïàäíîñàõàğñê;Länsi-Saharan;x;;;;;;;;;;;;;;
-WSI;West Indies;Antilles;Die Westindische Inseln;Zachodnie Indie;Las Indias Occidentales;Le Indie Occidentali;Nyugat-India;Západní Indie;Nyugat-India;West Indië;As Índias Ocidentais;Çàïàäíûå Èíäèè;Länsi-Intia;x;;;;;;;;;;;;;;
+WSI;West Indies;Antilles;Die Westindische Inseln;Zachodnie Indie;Indias Occidentales;Le Indie Occidentali;Nyugat-India;Západní Indie;Nyugat-India;West Indië;As Índias Ocidentais;Çàïàäíûå Èíäèè;Länsi-Intia;x;;;;;;;;;;;;;;
 WSI_ADJ;West Indian;Antillienne;Westindisch;zachodnioindyjsk;Antillana;Indoccidentale;Nyugat-indiai;Západoindickı;Nyugat-indiai;West-Indisch;Índio Ocidental;çàïàäíîèíäèéñê;Länsi-intialainen;x;;;;;;;;;;;;;;
 WUU;Wu Dynasty;Dynastie Wu;Die Wu-Dynastie;Pañstwo Wu;Dinastía Wu;Dinastia Wu;A Wu-dinasztia;Wu Dynasty;A Wu-dinasztia;de Wu-dynastie;A Dinastia Wu;Äèíàñòèÿ Ó;Wu Dynasty;x;;;;;;;;;;;;;;
 WUU_ADJ;Wu;Wu;Wu-;Wu;Wu;degli Wu;Wu;Wu;Wu;Wu;Wu;óñê;Wu;x;;;;;;;;;;;;;;
@@ -2198,7 +2198,7 @@ MED_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido
 MED_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Iaoeiiaeuiay Ia0oey;Kansallispuolue;x;;;;;;;;;;;;;;
 MED_socialist;Laborist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Laborista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Nioeaeenoe0aneay Ia0oey;Sosialistinenpuolue;x;;;;;;;;;;;;;;
 MHC;Mahican;Mohicans;Mohikaner;Mahican;Mohicano;Mahican;Mahican;Mahican;Mahican;Mahican;Mahican;Mahican;Mahican;x;;;;;;;;;;;;;;
-MHC_ADJ;Mahican;mohicane;Mohikanisch;Mahican;Mohicanos;Mahican;Mahican;Mahican;Mahican;Mahican;Mahican;Mahican;Mahican;x;;;;;;;;;;;;;;
+MHC_ADJ;Mahican;mohicane;Mohikanisch;Mahican;Mohicano;Mahican;Mahican;Mahican;Mahican;Mahican;Mahican;Mahican;Mahican;x;;;;;;;;;;;;;;
 MHC_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;0aaeeaeuiay Ia0oey;Radikaalipuolue;x;;;;;;;;;;;;;;
 MHC_communist;Dirigist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Dirigista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Eiiioienoe0aneay Ia0oey;Kommunistinenpuolue;x;;;;;;;;;;;;;;
 MHC_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Eiina0aaoeaiay Ia0oey;Konservatiivipuolue;x;;;;;;;;;;;;;;
