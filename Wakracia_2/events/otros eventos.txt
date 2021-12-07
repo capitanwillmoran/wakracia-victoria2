@@ -155,3 +155,62 @@ country_event = {
 		prestige = -0.5
 	}
 }
+
+country_event = {
+	id = 77796
+	title = "EVTNAME77796"
+	desc = "EVTDESC77796"
+	major = no
+	picture = "nisman"
+	
+	trigger = {
+		tag = BYZ
+		year = 1883
+		ai = no
+		NOT = {
+			has_country_flag = 77796
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77796"
+		set_country_flag = 77796
+		labourers = {
+			consciousness = -1
+		}
+		craftsmen = {
+			consciousness = -1
+		}
+		artisans = {
+			consciousness = -1
+		}
+		aristocrats = {
+			militancy = 1
+		}
+		bureaucrats = {
+			militancy = 1
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77796"
+		set_country_flag = 77796
+		labourers = {
+			militancy = 1
+		}
+		craftsmen = {
+			militancy = 1
+		}
+		artisans = {
+			militancy = 1
+		}
+		aristocrats = {
+			consciousness = -1
+		}
+		bureaucrats = {
+			consciousness = -1
+		}
+	}
+}
