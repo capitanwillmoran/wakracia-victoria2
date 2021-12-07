@@ -1,0 +1,157 @@
+country_event = {
+	id = 77791
+	title = "EVTNAME77791"
+	desc = "EVTDESC77791"
+	major = no
+	picture = "fjol"
+	
+	trigger = {
+		tag = BYZ
+		year = 1871
+		ai = no
+		NOT = {
+			has_country_flag = 77791
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77791"
+		set_country_flag = 77791
+	}
+}
+
+country_event = {
+	id = 77792
+	title = "EVTNAME77792"
+	desc = "EVTDESC77792"
+	major = no
+	picture = "ghostt"
+	
+	trigger = {
+		tag = BYZ
+		year = 1873
+		ai = no
+		NOT = {
+			has_country_flag = 77792
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77792"
+		set_country_flag = 77792
+		treasury = -100
+		aristocrats = {
+			consciousness = -1
+		}
+		bureaucrats = {
+			consciousness = -1
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77792"
+		set_country_flag = 77792
+		aristocrats = {
+			consciousness = 1
+		}
+		bureaucrats = {
+			consciousness = 1
+		}
+	}
+}
+
+country_event = {
+	id = 77793
+	title = "EVTNAME77793"
+	desc = "EVTDESC77793"
+	major = no
+	picture = "barr"
+	
+	trigger = {
+		tag = BYZ
+		year = 1876
+		ai = no
+		NOT = {
+			has_country_flag = 77793
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77793"
+		set_country_flag = 77793
+		treasury = 1000
+		aristocrats = {
+			militancy = -1
+		}
+		bureaucrats = {
+			militancy = -1
+		}
+		labourers = {
+			consciousness = 1
+		}
+	}
+}
+
+country_event = {
+	id = 77794
+	title = "EVTNAME77794"
+	desc = "EVTDESC77794"
+	major = no
+	picture = "huevosroberto"
+	
+	trigger = {
+		tag = BYZ
+		year = 1878
+		ai = no
+		NOT = {
+			has_country_flag = 77794
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77794"
+		set_country_flag = 77794
+		bureaucrats = {
+			consciousness = 1
+		}
+	}
+}
+
+country_event = {
+	id = 77795
+	title = "EVTNAME77795"
+	desc = "EVTDESC77795"
+	major = no
+	picture = "crazy"
+	
+	trigger = {
+		tag = BYZ
+		year = 1881
+		ai = no
+		NOT = {
+			has_country_flag = 77795
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77795"
+		set_country_flag = 77795
+		prestige = 0.5
+	}
+	
+	option = {
+		name = "EVTOPTB77795"
+		set_country_flag = 77795
+		prestige = -0.5
+	}
+}
