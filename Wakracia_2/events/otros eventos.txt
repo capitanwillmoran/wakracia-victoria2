@@ -214,3 +214,83 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = 77797
+	title = "EVTNAME77797"
+	desc = "EVTDESC77797"
+	major = no
+	picture = "andorrano"
+	
+	trigger = {
+		tag = BYZ
+		year = 1919
+		ai = no
+		NOT = {
+			has_country_flag = 77797
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77797"
+		set_country_flag = 77797
+		bureaucrats = {
+			consciousness = 1
+		}
+	}
+}
+
+country_event = {
+	id = 77798
+	title = "EVTNAME77798"
+	desc = "EVTDESC77798"
+	major = no
+	picture = "andorrano"
+	
+	trigger = {
+		tag = BYZ
+		year = 1920
+		ai = no
+		NOT = {
+			has_country_flag = 77798
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77798"
+		set_country_flag = 77798
+	}
+}
+
+country_event = {
+	id = 77799
+	title = "EVTNAME77799"
+	desc = "EVTDESC77799"
+	major = no
+	picture = "paella"
+	
+	trigger = {
+		tag = BYZ
+		year = 1888
+		ai = no
+		NOT = {
+			has_country_flag = 77799
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77798"
+		set_country_flag = 77799
+		474 = {
+			owner = {
+				relation = { who = BYZ value = -10 }
+			}
+		}
+	}
+}
