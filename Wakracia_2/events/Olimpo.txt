@@ -3,6 +3,7 @@ country_event = {
 	news = no
 
 	trigger = {
+		tag = BYZ
 		has_country_flag = wakracian_referendum
 		NOT = {
 			has_country_flag = 1512329
@@ -16,7 +17,7 @@ is_triggered_only = yes
 	picture = "wakr"
 
 	option = {
-		name = "EVTOPTA1512329a"
+		name = "EVTOPTA1512329"
 		prestige = -5
 		government = theocratic
 		political_reform = none_voting
@@ -39,8 +40,9 @@ is_triggered_only = yes
 		}
 		set_country_flag = 1512329
 	}
+
 	option = {
-		name = "EVTOPTA1512329b"
+		name = "EVTOPTB1512329"
 		prestige = -5
 		labourers = {
 			consciousness = 1
@@ -58,19 +60,18 @@ is_triggered_only = yes
 			consciousness = -1
 		}
 		831 = { change_province_name = "Olympos" }
-		secede_province = {
-			limit = {
-				is_core = OLY
-			}
-			secede_province = OLY
-		}
+		release_vassal = OLY
 		set_country_flag = 1512329
 	}
+
 	option = {
-		name = "EVTOPTA1512329c"
-		prestige = 5
+		name = "EVTOPTC1512329"
+		prestige = -5
 		clergymen = {
 			consciousness = 5
+		}
+		clergymen = {
+			militancy = 5
 		}
 		set_country_flag = 1512329
 	}

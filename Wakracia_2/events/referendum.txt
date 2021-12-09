@@ -12,6 +12,7 @@ is_triggered_only = yes
 	political_reform = none_voting
 	political_reform = party_appointed
 	country_event = 60040
+	country_event = 1512329
 	set_country_flag = wakracian_referendum
 
   }
@@ -20,6 +21,7 @@ is_triggered_only = yes
 	name = EVTOPTB1512327
 	government = prussian_constitutionalism
 	country_event = 60060
+	country_event = 1512329
 	set_country_flag = wakracian_referendum
 
   }
@@ -30,6 +32,7 @@ is_triggered_only = yes
 	political_reform = ruling_party_opinion
 	political_reform = universal_voting
 	country_event = 60050
+	country_event = 1512329
 	set_country_flag = wakracian_referendum
 
   }
