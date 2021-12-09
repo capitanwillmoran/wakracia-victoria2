@@ -294,3 +294,107 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = 77804
+	title = "EVTNAME77804"
+	desc = "EVTDESC77804"
+	major = no
+	picture = "josep"
+	
+	trigger = {
+		tag = BYZ
+		year = 1927
+		ai = no
+		NOT = {
+			has_country_flag = 77804
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77804"
+		set_country_flag = 77804
+		treasury = -1000
+		aristocrats = {
+			consciousness = -1
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77804"
+		set_country_flag = 77804
+	}
+}
+
+country_event = {
+	id = 77805
+	title = "EVTNAME77805"
+	desc = "EVTDESC77805"
+	major = no
+	picture = "pooky2"
+	
+	trigger = {
+		tag = BYZ
+		ai = no
+		year = 1924
+		invention = wright_n_langleys_aeroplanes
+		NOT = {
+			has_country_flag = 77805
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77805"
+		set_country_flag = 77805
+		random_list = {
+			50 = {
+				set_country_flag = pooky_lost
+				country_event = 77806
+			}
+			50 = {
+				set_country_flag = pooky_arrives
+				country_event = 77807
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 77806
+	title = "EVTNAME77806"
+	desc = "EVTDESC77806"
+	major = no
+	picture = "pooky1"
+
+	is_triggered_only = yes
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77806"
+		set_country_flag = 77806
+		prestige = -2
+	}
+}
+
+country_event = {
+	id = 77807
+	title = "EVTNAME77807"
+	desc = "EVTDESC77807"
+	major = no
+	picture = "pooky2"
+
+	is_triggered_only = yes
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77807"
+		set_country_flag = 77807
+		prestige = 5
+	}
+}

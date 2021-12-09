@@ -1,0 +1,67 @@
+country_event = {
+	id = 77800
+	title = "EVTNAME77800"
+	desc = "EVTDESC77800"
+	major = no
+	picture = "market"
+	
+	trigger = {
+		tag = BYZ
+		ai = no
+		central_bank_money_bill_printing = 1
+		NOT = {
+			has_country_flag = 77800
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77800"
+		set_country_flag = 77800
+		treasury = 1000
+	}
+}
+
+country_event = {
+	id = 77801
+	title = "EVTNAME77801"
+	desc = "EVTDESC77801"
+	major = no
+	picture = "Invention"
+	
+	trigger = {
+		tag = BYZ
+		ai = no
+		electrical_power_generation = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77801"
+		set_country_flag = 77801
+		treasury = -1000
+	}
+}
+
+country_event = {
+	id = 77802
+	title = "EVTNAME77802"
+	desc = "EVTDESC77802"
+	major = no
+	picture = "movie"
+	
+	trigger = {
+		tag = BYZ
+		ai = no
+		invention = the_talkies
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77802"
+		set_country_flag = 77802
+	}
+}
