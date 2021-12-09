@@ -398,3 +398,28 @@ country_event = {
 		prestige = 5
 	}
 }
+
+country_event = {
+	id = 77808
+	title = "EVTNAME77808"
+	desc = "EVTDESC77808"
+	major = no
+	picture = "selenita"
+	
+	trigger = {
+		tag = BYZ
+		year = 1930
+		ai = no
+		NOT = {
+			has_country_flag = 77808
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77808"
+		set_country_flag = 77808
+		prestige = -2
+	}
+}
