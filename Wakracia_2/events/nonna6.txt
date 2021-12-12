@@ -22,7 +22,7 @@ country_event = {
 		months = 12
 
 		modifier = {
-			factor = 0.95 #increase likelihood to happen
+			factor = 0.99 #increase likelihood to happen
 			year = 1903
 		}
 	}
