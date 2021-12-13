@@ -9,6 +9,9 @@ country_event = {
 		tag = QUE
 		year = 1880
 		war = no
+		CAN = {
+			ai = yes
+		}
 		NOT = {
 			has_country_flag = kanada_referendum
 			}
