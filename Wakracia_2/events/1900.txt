@@ -1,4 +1,3 @@
-#Dawn of the New Milennia
 country_event = {
 	id = 9000002
 	title = "EVTNAME9000002"
@@ -9,10 +8,11 @@ country_event = {
 		ai = no
 		year = 1900
 		NOT = { has_global_flag = yeartwok }
-		}
+	}
 	
 	option = {
-	name = "It is the dawn of a new century!"
+	name = "EVTOPTA9000002"
 		set_global_flag = yeartwok 
-			}
 		}
+	}
+}

@@ -423,3 +423,38 @@ country_event = {
 		prestige = -2
 	}
 }
+
+country_event = {
+	id = 77809
+	title = "EVTNAME77809"
+	desc = "EVTDESC77809"
+	major = no
+	picture = "miniaturas"
+	
+	trigger = {
+		tag = BYZ
+		year = 1861
+		ai = no
+		NOT = {
+			has_country_flag = 77809
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77809"
+		set_country_flag = 77809
+		treasury = -1000
+		labourers = {
+			militancy = 0.2
+		}
+		craftsmen = {
+			militancy = 0.2
+		}
+		artisans = {
+			militancy = 0.2
+		}
+	}
+}
+

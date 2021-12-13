@@ -1,0 +1,53 @@
+country_event = {
+	id = 77812
+	title = "EVTNAME77812"
+	desc = "EVTDESC77812"
+	major = no
+	picture = "wakr"
+	
+	trigger = {
+		tag = QUE
+		year = 1880
+		war = no
+		NOT = {
+			has_country_flag = kanada_referendum
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77812"
+		CAN = {
+			any_owned = {
+				add_core = QUE
+			}
+		}
+		any_country = {
+			limit = {
+				tag = CAN
+				any_core = {
+					owned_by = THIS
+					NOT = { is_core = QUE }
+					is_colonial = no
+				}
+				exists = no
+				is_cultural_union = no
+				war = no
+			}
+		}
+		QUE = { inherit = CAN }
+		ai_chance = {
+			factor = 0.9
+		}
+		set_country_flag = kanada_referendum
+	}
+	
+	option = {
+		name = "EVTOPTB77812"
+		set_country_flag = kanada_referendum
+		ai_chance = {
+			factor = 0.1
+		}
+	}
+}

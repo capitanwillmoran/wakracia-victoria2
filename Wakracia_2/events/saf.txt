@@ -1,0 +1,53 @@
+country_event = {
+	id = 77811
+	title = "EVTNAME77811"
+	desc = "EVTDESC77811"
+	major = no
+	picture = "scramble_for_africa"
+	
+	trigger = {
+		tag = SPA
+		NOT = {
+			has_country_flag = sudafrica_referendum
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77811"
+		any_owned = {
+			limit = {
+				is_core = SAF
+			}
+			secede_province = SAF
+		}
+		ai_chance = {
+			factor = 0.8
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77811"
+		set_country_flag = sudafrica_referendum
+		any_owned = {
+			limit = {
+				is_core = SAF
+			}
+			secede_province = SAF
+		}
+		war = {
+			target = SAF
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		ai_chance = {
+			factor = 0.2
+		}
+	}
+}
