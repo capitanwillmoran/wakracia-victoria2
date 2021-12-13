@@ -1,0 +1,56 @@
+country_event = {
+	id = 77815
+	title = "EVTNAME77815"
+	desc = "EVTDESC77815"
+	major = no
+	picture = "wakr"
+	
+	trigger = {
+		tag = SCA
+		war = no
+		SLV = {
+			ai = yes
+			war = no
+		}
+		NOT = {
+			has_country_flag = slv_referendum
+			}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77815"
+		SLV = {
+			any_owned = {
+				add_core = SCA
+			}
+		}
+		any_country = {
+			limit = {
+				tag = SLV
+				any_core = {
+					owned_by = THIS
+					NOT = { is_core = SCA }
+					is_colonial = no
+				}
+				exists = no
+				is_cultural_union = no
+				war = no
+			}
+		}
+		SCA = { inherit = SLV }
+		ai_chance = {
+			factor = 0.9
+		}
+		set_country_flag = slv_referendum
+	}
+	
+	option = {
+		name = "EVTOPTB77815"
+		set_country_flag = slv_referendum
+		ai_chance = {
+			factor = 0.1
+		}
+	}
+}
