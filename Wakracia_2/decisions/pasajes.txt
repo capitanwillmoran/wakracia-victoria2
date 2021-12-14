@@ -1,0 +1,26 @@
+political_decisions = {
+	noticket = {
+		picture = titanic
+		potential = {
+			OR = {
+			ruling_party_ideology = communist
+			ruling_party_ideology = socialist
+			}
+			NOT = { has_country_modifier = notickets }
+		}
+
+		allow = {
+			war = no
+		}
+
+		effect = {
+			plurality = -25
+				badboy = 5
+			add_country_modifier = {
+				name = notickets
+				duration = 1095
+			}
+			treasury = 10
+		}
+	}
+}

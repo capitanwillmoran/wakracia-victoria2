@@ -1106,3 +1106,9 @@ war_focus = {
     war_exhaustion = -0.1
     icon = 7
 }
+
+notickets = {
+    immigrant_attract = -2
+    population_growth = 0.001
+    icon = 11
+}
