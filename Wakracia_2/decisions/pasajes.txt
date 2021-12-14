@@ -20,7 +20,31 @@ political_decisions = {
 				name = notickets
 				duration = 1095
 			}
-			treasury = 10
+			treasury = 100000
+			labourers = {
+				consciousness = 3
+				militancy = 2
+			}
+			craftsmen = {
+				consciousness = 3
+				militancy = 2
+			}
+			artisans = {
+				consciousness = 3
+				militancy = 2
+			}
+			aristocrats = {
+				consciousness = 3
+				militancy = 2
+			}
+			bureaucrats = {
+				consciousness = 3
+				militancy = 2
+			}
+			soldiers = {
+				consciousness = 3
+				militancy = 2
+			}
 		}
 	}
 }

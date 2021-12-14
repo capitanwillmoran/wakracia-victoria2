@@ -8739,7 +8739,7 @@ EVTNAME77820;KRAF;;;;FARK;;;;;;;;;;
 EVTDESC77820;The Kepnian Revolutionary Armed Forces have taken up arms against the ruling Kepnian government, seizing several administrative buildings. Most of the government has fled the major cities, the deposed leader of the state must make a decision whether to recognise the new ruling government or take back power. Or through international diplomacy, regain power, although this would mean breaking diplomatic relations with several states.;;;;Las Fuerzas Armadas Revolucionarias de Kepnia se han levantado en armas contra el gobierno oficialista Kepnio, tomando varios edificios administrativos. La mayoría del gobierno ha huido de las grandes ciudades, el depuesto líder del estado debe tomar la decisión de reconocer al nuevo gobierno dirigista o retomar el poder. O a través de diplomacia internacional, retomar el poder, aunque esto supondría un quiebre de relaciones diplomáticas con varios estados.;;;;;;;;;;
 EVTOPTA77820;The KRAF has won;;;;Las FARK han ganado;;;;;;;;;;
 EVTOPTB77820;Crying out to the great powers;;;;Llorar a las potencias;;;;;;;;;;
-noticket_desc;;;;;Para evitar la fuga de capitales al extranjero, podemos prohibir la venta de pasajes al exterior.;;;;;;;;;;
+noticket_desc;;;;;Para evitar la fuga de capitales al extranjero, podemos prohibir la venta de pasajes al exterior. Esto será extremadamente impopular con la población.;;;;;;;;;;
 noticket_title;;;;;Prohibir los pasajes al exterior;;;;;;;;;;
 notickets;;;;;Sin pasajes;;;;;;;;;;
 notickets_desc;;;;;Este estado ha prohibido la venta de pasajes al exterior;;;;;;;;;;
