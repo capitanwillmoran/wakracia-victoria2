@@ -2,7 +2,8 @@ country_event = {
 	id = 77814
 	title = "EVTNAME77814"
 	desc = "EVTDESC77814"
-	major = yes
+	major = no
+	picture = "Amistad"
 	
 	trigger = {
 		tag = ARG
@@ -38,8 +39,8 @@ country_event = {
    			picture = russian_general_12
    			date = 1836.1.1
    			type = land
-    			personality = soldierly
-    			background = aristocrat
+    			personality = skilled
+    			background = politician
    			prestige = 0.9
 			}
 		}
@@ -75,8 +76,8 @@ country_event = {
    			picture = russian_general_12
    			date = 1836.1.1
    			type = land
-    			personality = soldierly
-    			background = aristocrat
+    			personality = skilled
+    			background = politician
    			prestige = 0.9
 			}
 		}

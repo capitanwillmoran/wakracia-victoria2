@@ -3,7 +3,7 @@ country_event = {
 	title = "EVTNAME77815"
 	desc = "EVTDESC77815"
 	major = no
-	picture = "wakr"
+	picture = "crisis"
 	
 	trigger = {
 		tag = SCA
