@@ -1108,7 +1108,7 @@ war_focus = {
 }
 
 notickets = {
-    immigrant_attract = -2
+    global_immigrant_attract = -2.0
     population_growth = 0.001
     icon = 11
 }
