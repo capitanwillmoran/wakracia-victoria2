@@ -1,0 +1,44 @@
+country_event = {
+	id = 77820
+	title = "EVTNAME77820"
+	desc = "EVTDESC77820"
+	major = no
+	picture = "Socialism"
+	
+	trigger = {
+		tag = CLM
+		year = 1914
+		NOT = {
+			has_country_flag = farkcoup
+			government = proletarian_dictatorship
+		}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77820"
+		government = proletarian_dictatorship
+		political_reform = none_voting
+		political_reform = party_appointed
+		country_event = 60000
+		set_country_flag = farkcoup
+		ai_chance = {
+			factor = 0.9
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77820"
+		set_country_flag = farkcoup
+		relation = { who = BYZ value = -100 }
+		relation = { who = ENG value = -100 }
+		relation = { who = SCA value = -100 }
+		relation = { who = FLR value = -100 }
+		relation = { who = USA value = -100 }
+		relation = { who = GER value = -100 }
+		ai_chance = {
+			factor = 0.1
+		}
+	}
+}
