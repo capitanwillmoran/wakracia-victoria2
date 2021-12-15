@@ -112,7 +112,7 @@ country_event = {
 	fire_only_once = yes
 	
 	option = {
-		name = "EVTOPTA77821"
+		name = "EVTOPTA77822"
 		any_pop = {
 			consciousness = 7
 			militancy = 3
@@ -141,7 +141,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTB77821"
+		name = "EVTOPTB77822"
 		any_pop = {
 			consciousness = -7
 			militancy = -3

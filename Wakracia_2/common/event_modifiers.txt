@@ -1112,3 +1112,11 @@ notickets = {
     population_growth = 0.001
     icon = 11
 }
+
+bananamonopoly = {
+	poor_everyday_needs = 0.5
+	local_RGO_output = 0.10
+	local_RGO_throughput = 0.10
+	pop_militancy_modifier = 1
+	icon = 4
+}

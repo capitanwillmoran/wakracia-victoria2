@@ -1,0 +1,31 @@
+country_event = {
+    id = 77823
+    title = "EVTNAME77823"
+    desc = "EVTDESC77823"
+    major = no
+    picture = "bananas"
+
+    trigger = {
+        owned_by = BYZ
+	year = 1899
+    }
+
+    fire_only_once = yes
+
+    option = {
+        name = "EVTOPTA77823"
+        any_owned = {
+            limit = {
+                trade_goods = fruit
+            }
+        add_province_modifier = { name = bananamonopoly = 1825 }
+        poor_strata = { militancy = 3 }
+        }
+    }
+
+    option = {
+        name = "EVTOPTB77823"
+        rich_strata = { militancy = 2 }
+        poor_strata = { militancy = -0.5 }
+    }
+}
