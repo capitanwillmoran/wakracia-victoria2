@@ -1,0 +1,89 @@
+political_decisions = {
+
+	aus_conquest_of_the_desert = {
+		picture = conquest_of_the_desert
+		potential = {
+			is_vassal = no
+			tag = AST
+			NOT = { has_country_flag = aus_conquest_of_the_desert }
+		}
+
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+		}
+
+		effect = {
+			set_country_flag = aus_conquest_of_the_desert
+			prestige = 2
+			random_owned = {
+				ENG_2468 = {
+					secede_province = THIS
+					add_core = THIS
+					life_rating = 20
+					any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+				}
+				ENG_2483 = {
+					secede_province = THIS
+					add_core = THIS
+					life_rating = 20
+					any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+				}
+				ENG_2505 = {
+					secede_province = THIS
+					add_core = THIS
+					life_rating = 20
+					any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+				}
+				ENG_2497 = {
+					secede_province = THIS
+					add_core = THIS
+					life_rating = 20
+					any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+				}
+				ENG_2491 = {
+					secede_province = THIS
+					add_core = THIS
+					life_rating = 20
+					any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+				}
+				ENG_2476 = {
+					secede_province = THIS
+					add_core = THIS
+					life_rating = 20
+					any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+				}
+				2505 = {
+					owner = {
+						relation = { who = AST value = -500 }
+						casus_belli = {
+							target = AST
+							type = humiliate
+							months = 36
+						}
+					}
+				}
+				2506 = {
+					owner = {
+						relation = { who = AST value = -500 }
+						casus_belli = {
+							target = AST
+							type = humiliate
+							months = 36
+						}
+					}
+				}
+				2602 = {
+					owner = {
+						relation = { who = AST value = -500 }
+						casus_belli = {
+							target = AST
+							type = humiliate
+							months = 36
+						}
+					}
+				}
+			}
+		}
+	}
+}
