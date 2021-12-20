@@ -1,0 +1,146 @@
+country_event = {
+    id = 77824
+    title = "EVTNAME77824"
+    desc = "EVTDESC77824"
+    major = no
+    picture = "angry_natives"
+
+    trigger = {
+        owned_by = DEC
+	year = 1869
+	OR = {
+            is_great_power = no
+            is_secundary_power = no
+	}
+    }
+
+    fire_only_once = yes
+
+    option = {
+        name = "EVTOPTA77824"
+	any_owned = {
+		limit = {
+			is_core = SMO
+		}
+		secede_province = SMO
+	}
+	any_owned = {
+		limit = {
+			is_core = PPG
+		}
+		secede_province = PPG
+	}
+	any_owned = {
+		limit = {
+			is_core = VTU
+		}
+		secede_province = VTU
+	}
+	any_owned = {
+		limit = {
+			is_core = BIM
+		}
+		secede_province = BIM
+	}
+	any_owned = {
+		limit = {
+			is_core = MLD
+		}
+		secede_province = MLD
+	}
+        release_vassal = LSK
+	PPG = {
+		civilized = yes
+	}
+	MLD = {
+		civilized = yes
+	}
+	random_owned = {
+		1320 = {
+			secede_province = MLC
+			add_core = MLC
+			life_rating = 20
+			any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+		}
+		1411 = {
+			secede_province = MLC
+			add_core = MLC
+			life_rating = 20
+			any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+		}
+		1441 = {
+			secede_province = BIM
+			add_core = BIM
+			life_rating = 20
+			any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+		}
+		2406 = {
+			secede_province = MLC
+			add_core = MLC
+			life_rating = 20
+			any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+		}
+		2536 = {
+			secede_province = VTU
+			add_core = VTU
+			life_rating = 20
+			any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+		}
+		1442 = {
+			secede_province = BIM
+			add_core = BIM
+			life_rating = 20
+			any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+		}
+		2517 = {
+			secede_province = JAP
+			add_core = JAP
+			life_rating = 20
+			any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+		}
+		2536 = {
+			secede_province = JAP
+			add_core = JAP
+			life_rating = 20
+			any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+		}
+		2544 = {
+			secede_province = SMO
+			add_core = SMO
+			life_rating = 20
+			any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+		}
+		2547 = {
+			secede_province = SMO
+			add_core = SMO
+			life_rating = 20
+			any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+		}
+		2546 = {
+			secede_province = HAW
+			add_core = HAW
+			life_rating = 20
+			any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+		}
+		686 = {
+			secede_province = HAW
+			add_core = HAW
+			life_rating = 20
+			any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+		}
+		1654 = {
+			secede_province = JAP
+			add_core = JAP
+			life_rating = 20
+			any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+		}
+		2521 = {
+			secede_province = JAP
+			add_core = JAP
+			life_rating = 20
+			any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+		}
+        poor_strata = { militancy = 3 }
+        }
+    }
+}
