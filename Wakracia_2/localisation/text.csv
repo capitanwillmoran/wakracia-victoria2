@@ -12960,8 +12960,8 @@ PROV3009;Mjwok Islands;Île de Santa Catalina;Santa Catalina-Inseln;Islas de Mjwo
 PROV3010;Coast of Oregon;Côte d'Oregon;Küste von Oregon;;Costa de Oregón;;;;;;;x;;;;;;
 PROV3011;Coast of Nootka;Côte de Columbia;Küste von Kolumbien;;Costa de Nootka;;;;;;;x;;;;;;
 PROV3012;Hecate Strait;Détroit d'Hecate;Hecatestraße;;Estrecho de Hecate ;;;;;;;x;;;;;;
-PROV3013;Gulf of Alaska;Golfe d'Alaska;Golf von Alaska;;Golfo de Alaska;;;;;;;x;;;;;;
-PROV3014;Coast of Alaska;Côte d'Alaska;Küste von Alaska;;Costa de Alaska;;;;;;;x;;;;;;
+PROV3013;Gulf of Alaska;Golfe d'Alaska;Golf von Alaska;;Golfo de Alyeska;;;;;;;x;;;;;;
+PROV3014;Coast of Alaska;Côte d'Alaska;Küste von Alaska;;Costa de Alyeska;;;;;;;x;;;;;;
 PROV3015;Kuskowim Bay;Baie de Kuskokwim;Kuskowim-Bucht;;Bahía de Kuskowim ;;;;;;;x;;;;;;
 PROV3016;Hatton Bank;Banc Hatton;Hatton Bank;;Hatton Bank;;;;;;;x;;;;;;
 PROV3017;Eastern Gibbs Fracture;Fracture Gibbs orientale;Eastern Gibbs Fracture;;Fractura de Gibbs oriental;;;;;;;x;;;;;;
@@ -13236,7 +13236,7 @@ PROVINCEVIEW_ADMIN_TECH;From tech: §Y$VALUE$%§W;Provenant de la technologie : §Y
 PROVINCEVIEW_ADMIN_POPS;From §YBureaucrats: $VALUE$%§W;Provenant des §Ybureaucrates : $VALUE$%§W;Von §YBürokraten: $VALUE$%§W;;Por §YBurócratas: $VALUE$%§W;;;;;;;;;x;;;;
 PROVINCEVIEW_UNCOLONIZED;Uncolonized;Non colonisé;Unkolonisiert;;Sin colonizar;;;;;;;;;x;;;;
 PROVINCEVIEW_SELECT_NATIONAL_FOCUS_TO_COLONIZE;Select national focus to colonize.;Sélectionnez la cause nationale pour coloniser.;Nationaler Fokus zur Kolonisierung auswählen.;;Elige atención nacional para colonizar.;;;;;;;;;x;;;;
-USA_1;Alaska;Alaska;Alaska;Alaska;Alaska;;;;;;;;;x;;;;
+USA_1;Alyeska;Alyeska;Alyeska;Alyeska;Alyeska;;;;;;;;;x;;;;
 USA_78;South Cascadia;South Cascadia;South Cascadia;South Cascadia;Cascadia Sur;;;;;;;;;x;;;;
 USA_81;Oregon;Oregon;Oregon;Oregon;Oregón;;;;;;;;;x;;;;
 USA_91;Idaho;Idaho;Idaho;Idaho;Idaho;;;;;;;;;x;;;;
