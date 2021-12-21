@@ -123,6 +123,7 @@ political_decisions = {
             OR = {
                 government = fascist_dictatorship
                 government = proletarian_dictatorship
+		government = nationalsyndicalist_dictatorship
             }
             NOT = { has_country_modifier = cult_of_personality }
             NOT = { has_country_modifier = totalitarian_system }
@@ -221,6 +222,7 @@ political_decisions = {
             OR = {
                 government = fascist_dictatorship
                 government = proletarian_dictatorship
+		government = nationalsyndicalist_dictatorship
             }
             NOT = { has_country_modifier = totalitarian_system }
         }

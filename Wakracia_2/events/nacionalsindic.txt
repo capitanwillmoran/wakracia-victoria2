@@ -1,0 +1,1253 @@
+###########################################################################
+#																		  
+#Fascism																	  
+#																		  
+# Event IDs 77825 - 17699 are reserved for this. DO NOT CHANGE. 		  
+#																		  
+###########################################################################
+
+#Black Flags
+country_event = {
+	id = 77825
+	title = "EVTNAME77825"
+	desc = "EVTDESC77825"
+	picture = "Celebration"
+	
+	trigger = {
+		is_ideology_enabled = nationalsyndicalist
+		socialist = 5
+		NOT = {
+			nationalsyndicalist = 5
+		}
+		civilized = yes
+		OR = {
+			government = prussian_constitutionalism
+			government = democracy
+			government = hms_government
+			government = absolute_monarchy
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 150
+		modifier = {
+			factor = 0.9
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			great_war_experience = 1
+		}
+		modifier = {
+			factor = 0.9
+			mass_politics = 1
+		}
+		modifier = {
+			factor = 0.9
+			anti__rationalism = 1
+		}
+		modifier = {
+			factor = 0.9
+			social_alienation = 1
+		}
+		modifier = {
+			factor = 1.5
+			NOT = {
+				average_consciousness = 4
+			}
+		}
+		modifier = {
+			factor = 1.5
+			nationalvalue = nv_liberty
+		}
+		modifier = {
+			factor = 0.9
+			nationalvalue = nv_order
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA77825"
+		random_state = {
+			limit = {
+				is_colonial = no
+			}
+			any_pop = {
+				ideology = {
+					value = nationalsyndicalist
+					factor = 0.2
+				}
+				scaled_militancy = {
+					ideology = nationalsyndicalist
+					factor = 3
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77825"
+		random_state = {
+			limit = {
+				is_colonial = no
+			}
+			any_pop = {
+				ideology = {
+					value = reactionary
+					factor = 0.2
+				}
+				ideology = {
+					value = nationalsyndicalist
+					factor = 0.1
+				}
+				scaled_militancy = {
+					ideology = nationalsyndicalist
+					factor = 2
+				}
+			}
+		}
+	}
+}
+
+#Blackshirts
+country_event = {
+	id = 77826
+	title = "EVTNAME77826"
+	desc = "EVTDESC77826"
+	picture = "Synd2"
+	news = yes
+	news_desc_long = "EVTDESC77826_NEWS_LONG"
+	news_desc_medium = "EVTDESC77826_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC77826_NEWS_SHORT"
+	picture = "nationalsyndicalist"
+	
+	trigger = {
+		is_ideology_enabled = nationalsyndicalist
+		civilized = yes
+		nationalsyndicalist = 5
+		NOT = {
+			has_country_flag = paramilitaries_outlawed
+		}
+		OR = {
+			government = prussian_constitutionalism
+			government = democracy
+			government = hms_government
+			government = absolute_monarchy
+		}
+		public_meetings = yes_meeting
+	}
+	
+	mean_time_to_happen = {
+		months = 150
+		modifier = {
+			factor = 0.9
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			great_war_experience = 1
+		}
+		modifier = {
+			factor = 0.9
+			mass_politics = 1
+		}
+		modifier = {
+			factor = 0.9
+			anti__rationalism = 1
+		}
+		modifier = {
+			factor = 0.9
+			social_alienation = 1
+		}
+		modifier = {
+			factor = 1.5
+			NOT = {
+				average_consciousness = 4
+			}
+		}
+		modifier = {
+			factor = 1.5
+			nationalvalue = nv_liberty
+		}
+		modifier = {
+			factor = 0.9
+			nationalvalue = nv_order
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA77826"
+		random_state = {
+			any_pop = {
+				scaled_militancy = {
+					ideology = nationalsyndicalist
+					factor = 5
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77826"
+		random_state = {
+			any_pop = {
+				ideology = {
+					value = nationalsyndicalist
+					factor = 0.1
+				}
+			}
+		}
+	}
+}
+
+#nationalsyndicalist Soup-Kitchens
+country_event = {
+	id = 77827
+	title = "EVTNAME77827"
+	desc = "EVTDESC77827"
+	picture = "Poor"
+	
+	trigger = {
+		is_ideology_enabled = nationalsyndicalist
+		civilized = yes
+		nationalsyndicalist = 5
+		unemployment = 0.05
+		OR = {
+			government = prussian_constitutionalism
+			government = democracy
+			government = hms_government
+			government = absolute_monarchy
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 150
+		modifier = {
+			factor = 0.9
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			great_war_experience = 1
+		}
+		modifier = {
+			factor = 0.9
+			mass_politics = 1
+		}
+		modifier = {
+			factor = 0.9
+			anti__rationalism = 1
+		}
+		modifier = {
+			factor = 0.9
+			social_alienation = 1
+		}
+		modifier = {
+			factor = 1.5
+			NOT = {
+				average_consciousness = 4
+			}
+		}
+		modifier = {
+			factor = 1.5
+			nationalvalue = nv_liberty
+		}
+		modifier = {
+			factor = 0.9
+			nationalvalue = nv_order
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA77827"
+		random_state = {
+			poor_strata = {
+				consciousness = 1
+				militancy = 1
+				ideology = {
+					value = nationalsyndicalist
+					factor = 0.3
+				}
+			}	
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77827"
+		random_state = {
+			poor_strata = {
+				militancy = 4
+				consciousness = 2
+			}
+		}
+	}
+}
+
+#March on capital
+country_event = {
+	id = 77828
+	title = "EVTNAME77828"
+	desc = "EVTDESC77828"
+	news = yes
+	news_desc_long = "EVTDESC77828_NEWS_LONG"
+	news_desc_medium = "EVTDESC77828_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC77828_NEWS_SHORT"
+	major = yes
+	
+	trigger = {
+		is_ideology_enabled = nationalsyndicalist
+		civilized = yes
+		nationalsyndicalist = 30
+		average_militancy = 4
+		OR = {
+			government = prussian_constitutionalism
+			government = democracy
+			government = hms_government
+			government = absolute_monarchy
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 150
+		modifier = {
+			factor = 0.9
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			great_war_experience = 1
+		}
+		modifier = {
+			factor = 0.9
+			mass_politics = 1
+		}
+		modifier = {
+			factor = 0.9
+			anti__rationalism = 1
+		}
+		modifier = {
+			factor = 0.9
+			social_alienation = 1
+		}
+		modifier = {
+			factor = 1.5
+			NOT = {
+				average_consciousness = 4
+			}
+		}
+		modifier = {
+			factor = 1.5
+			nationalvalue = nv_liberty
+		}
+		modifier = {
+			factor = 0.9
+			nationalvalue = nv_order
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA77828"
+		any_pop = {
+			ideology = {
+				value = nationalsyndicalist
+				factor = 0.05
+			}
+			scaled_militancy = {
+				ideology = nationalsyndicalist
+				factor = 8
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77828"
+		government = nationalsyndicalist_dictatorship
+		political_reform = none_voting
+		political_reform = party_appointed
+		political_reform = no_meeting
+		political_reform = state_press
+		political_reform = state_controlled
+		political_reform = underground_parties
+		any_pop = {
+			militancy = 8
+		}
+	}
+}
+
+#Free Corps
+country_event = {
+	id = 77829
+	title = "EVTNAME77829"
+	desc = "EVTDESC77829"
+	picture = "Oldsoldiers"
+	
+	trigger = {
+		is_ideology_enabled = nationalsyndicalist
+		civilized = yes
+		war = no
+		war_exhaustion = 1
+		unemployment = 0.04
+		OR = {
+			government = prussian_constitutionalism
+			government = democracy
+			government = hms_government
+			government = absolute_monarchy
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 30
+		modifier = {
+			factor = 0.9
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			great_war_experience = 1
+		}
+		modifier = {
+			factor = 0.9
+			mass_politics = 1
+		}
+		modifier = {
+			factor = 0.9
+			anti__rationalism = 1
+		}
+		modifier = {
+			factor = 0.9
+			social_alienation = 1
+		}
+		modifier = {
+			factor = 1.5
+			NOT = {
+				average_consciousness = 4
+			}
+		}
+		modifier = {
+			factor = 1.5
+			nationalvalue = nv_liberty
+		}
+		modifier = {
+			factor = 0.9
+			nationalvalue = nv_order
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA77829"
+		random_state = {
+			soldiers = {
+				ideology = {
+					value = nationalsyndicalist
+					factor = 0.4
+				}
+				militancy = 2
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77829"
+		random_state = {
+			soldiers = {
+				militancy = 4
+				consciousness = 4
+			}
+		}
+	}
+}
+
+# nationalsyndicalist Newspaper
+country_event = {
+	id = 77830
+	title = "EVTNAME77830"
+	desc = "EVTDESC77830"
+	picture = "propaganda"
+	
+	trigger = {
+		is_ideology_enabled = nationalsyndicalist
+		civilized = yes
+		OR = {
+			press_rights = censored_press
+			press_rights = free_press
+		}
+		OR = {
+			government = prussian_constitutionalism
+			government = democracy
+			government = hms_government
+			government = absolute_monarchy
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 150
+		modifier = {
+			factor = 0.9
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			great_war_experience = 1
+		}
+		modifier = {
+			factor = 0.9
+			mass_politics = 1
+		}
+		modifier = {
+			factor = 0.9
+			anti__rationalism = 1
+		}
+		modifier = {
+			factor = 0.9
+			social_alienation = 1
+		}
+		modifier = {
+			factor = 1.5
+			NOT = {
+				average_consciousness = 4
+			}
+		}
+		modifier = {
+			factor = 1.5
+			nationalvalue = nv_liberty
+		}
+		modifier = {
+			factor = 0.9
+			nationalvalue = nv_order
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA77830"
+		random_state = {
+			poor_strata = {
+				ideology = {
+					value = nationalsyndicalist
+					factor = 0.2
+				}
+				militancy = 1
+				consciousness = 1
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77830"
+		random_state = {
+			middle_strata = {
+				ideology = {
+					value = nationalsyndicalist
+					factor = 0.2
+				}
+				militancy = 1
+				consciousness = 1
+			}
+		}
+	}
+}
+
+#The Blackshirt Massacre
+country_event = {
+	id = 77831
+	title = "EVTNAME77831"
+	desc = "EVTDESC77831"
+	picture = "Riot"
+	
+	trigger = {
+		is_ideology_enabled = nationalsyndicalist
+		civilized = yes
+		nationalsyndicalist = 10
+		average_militancy = 4
+		OR = {
+			government = prussian_constitutionalism
+			government = democracy
+			government = hms_government
+			government = absolute_monarchy
+		}
+		NOT = {
+			administration_spending = 0.7
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 150
+		modifier = {
+			factor = 0.9
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			great_war_experience = 1
+		}
+		modifier = {
+			factor = 0.9
+			mass_politics = 1
+		}
+		modifier = {
+			factor = 0.9
+			anti__rationalism = 1
+		}
+		modifier = {
+			factor = 0.9
+			social_alienation = 1
+		}
+		modifier = {
+			factor = 1.5
+			NOT = {
+				average_consciousness = 4
+			}
+		}
+		modifier = {
+			factor = 1.5
+			nationalvalue = nv_liberty
+		}
+		modifier = {
+			factor = 0.9
+			nationalvalue = nv_order
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA77831"
+		random_state = {
+			any_pop = {
+				militancy = -4
+				consciousness = 3
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77831"
+		random_state = {
+			any_pop = {
+				ideology = {
+					value = liberal
+					factor = 0.2
+				}
+				consciousness = -1
+				militancy = 3
+			}
+		}
+	}
+}
+
+#Anti-Minority Agitation
+country_event = {
+	id = 77832
+	title = "EVTNAME77832"
+	desc = "EVTDESC77832"
+	picture = "propaganda"
+	
+	trigger = {
+		is_ideology_enabled = nationalsyndicalist
+		civilized = yes
+		nationalsyndicalist = 10
+		OR = {
+			government = prussian_constitutionalism
+			government = democracy
+			government = hms_government
+			government = absolute_monarchy
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 200
+		modifier = {
+			factor = 0.9
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			great_war_experience = 1
+		}
+		modifier = {
+			factor = 0.9
+			mass_politics = 1
+		}
+		modifier = {
+			factor = 0.9
+			anti__rationalism = 1
+		}
+		modifier = {
+			factor = 0.9
+			social_alienation = 1
+		}
+		modifier = {
+			factor = 1.5
+			NOT = {
+				average_consciousness = 4
+			}
+		}
+		modifier = {
+			factor = 1.5
+			nationalvalue = nv_liberty
+		}
+		modifier = {
+			factor = 0.9
+			nationalvalue = nv_order
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA77832"
+		any_pop = {
+			limit = {
+				is_primary_culture = no
+				is_accepted_culture = no
+				location = {
+					is_colonial = no
+				}
+			}
+			militancy = 2
+			consciousness = 2
+		}
+		any_pop = {
+			limit = {
+				is_primary_culture = yes
+				is_accepted_culture = yes
+				location = {
+					is_colonial = no
+				}
+			}
+			dominant_issue = {
+				value = residency
+				factor = 0.07
+			}
+			ideology = {
+				value = nationalsyndicalist
+				factor = 0.07
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77832"
+		any_pop = {
+			limit = {
+				is_primary_culture = yes
+				is_accepted_culture = yes
+				location = {
+					is_colonial = no
+				}
+			}
+			ideology = {
+				value = nationalsyndicalist
+				factor = 0.03
+			}
+			scaled_militancy = {
+				ideology = nationalsyndicalist
+				factor = 3
+			}
+		}
+	}
+}
+
+#nationalsyndicalist March
+country_event = {
+	id = 77833
+	title = "EVTNAME77833"
+	desc = "EVTDESC77833"
+	news = yes
+	news_desc_long = "EVTDESC77833_NEWS_LONG"
+	news_desc_medium = "EVTDESC77833_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC77833_NEWS_SHORT"
+	picture = "Parade"
+	
+	trigger = {
+		is_ideology_enabled = nationalsyndicalist
+		NOT = {
+			has_country_flag = paramilitaries_outlawed
+		}
+		civilized = yes
+		nationalsyndicalist = 10
+		OR = {
+			government = prussian_constitutionalism
+			government = democracy
+			government = hms_government
+			government = absolute_monarchy
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 200
+		modifier = {
+			factor = 0.9
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			great_war_experience = 1
+		}
+		modifier = {
+			factor = 0.9
+			mass_politics = 1
+		}
+		modifier = {
+			factor = 0.9
+			anti__rationalism = 1
+		}
+		modifier = {
+			factor = 0.9
+			social_alienation = 1
+		}
+		modifier = {
+			factor = 1.5
+			NOT = {
+				average_consciousness = 4
+			}
+		}
+		modifier = {
+			factor = 1.5
+			nationalvalue = nv_liberty
+		}
+		modifier = {
+			factor = 0.9
+			nationalvalue = nv_order
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA77833"
+		random_state = {
+			limit = {
+				is_colonial = no
+			}
+			any_pop = {
+				limit = {
+					is_primary_culture = yes
+				}
+				ideology = {
+					value = nationalsyndicalist
+					factor = 0.3
+				}
+				militancy = 3
+				consciousness = 3
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77833"
+		any_pop = {
+			scaled_militancy = {
+				ideology = nationalsyndicalist
+				factor = 10
+			}
+		}
+		set_country_flag = paramilitaries_outlawed
+	}
+}
+
+#Beer Hall Putsch
+country_event = {
+	id = 77834
+	title = "EVTNAME77834"
+	desc = "EVTDESC77834"
+	picture = "Policeaction"
+	
+	trigger = {
+		is_ideology_enabled = nationalsyndicalist
+		civilized = yes
+		nationalsyndicalist = 20
+		OR = {
+			government = prussian_constitutionalism
+			government = democracy
+			government = hms_government
+			government = absolute_monarchy
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 200
+		modifier = {
+			factor = 0.9
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			great_war_experience = 1
+		}
+		modifier = {
+			factor = 0.9
+			mass_politics = 1
+		}
+		modifier = {
+			factor = 0.9
+			anti__rationalism = 1
+		}
+		modifier = {
+			factor = 0.9
+			social_alienation = 1
+		}
+		modifier = {
+			factor = 1.5
+			NOT = {
+				average_consciousness = 4
+			}
+		}
+		modifier = {
+			factor = 1.5
+			nationalvalue = nv_liberty
+		}
+		modifier = {
+			factor = 0.9
+			nationalvalue = nv_order
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA77834"
+		random_state = {
+			limit = {
+				is_colonial = no
+			}
+			any_pop = {
+				ideology = {	
+					value = nationalsyndicalist
+					factor = 0.3
+				}
+				scaled_militancy = {
+					ideology = nationalsyndicalist
+					factor = 10
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77834"
+		random_state = {
+			any_pop = {
+				limit = {
+					militancy = 3
+					location = {
+						is_colonial = no
+					}
+				}
+				ideology = {
+					value = nationalsyndicalist
+					factor = 0.3
+				}
+			}
+		}
+	}
+}
+
+#nationalsyndicalist Trade Union
+country_event = {
+	id = 77835
+	title = "EVTNAME77835"
+	desc = "EVTDESC77835"
+	picture = "Strike"
+	
+	trigger = {
+		is_ideology_enabled = nationalsyndicalist
+		is_ideology_enabled = socialist
+		civilized = yes
+		nationalsyndicalist = 10
+		NOT = {
+			trade_unions = no_trade_unions
+		}
+		OR = {
+			government = prussian_constitutionalism
+			government = democracy
+			government = hms_government
+			government = absolute_monarchy
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 250
+		modifier = {
+			factor = 0.9
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			great_war_experience = 1
+		}
+		modifier = {
+			factor = 0.9
+			mass_politics = 1
+		}
+		modifier = {
+			factor = 0.9
+			anti__rationalism = 1
+		}
+		modifier = {
+			factor = 0.9
+			social_alienation = 1
+		}
+		modifier = {
+			factor = 1.5
+			NOT = {
+				average_consciousness = 4
+			}
+		}
+		modifier = {
+			factor = 1.5
+			nationalvalue = nv_liberty
+		}
+		modifier = {
+			factor = 0.9
+			nationalvalue = nv_order
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA77835"
+		random_state = {
+			limit = {
+				is_colonial = no
+			}
+			any_pop = {
+				scaled_militancy = {
+					ideology = nationalsyndicalist
+					factor = 3
+				}
+			}
+			poor_strata = {
+				ideology = {
+					value = socialist
+					factor = 0.2
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77835"
+		random_state = {
+			limit = {
+				is_colonial = no
+			}
+			poor_strata = {
+				ideology = {
+					value = nationalsyndicalist
+					factor = 0.3
+				}
+			}
+		}
+	}
+}
