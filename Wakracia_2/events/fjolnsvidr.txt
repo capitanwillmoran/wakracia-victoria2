@@ -1,0 +1,22 @@
+country_event = {
+	id = 77838
+	title = "EVTNAME77838"
+	desc = "EVTDESC77838"
+	picture = "fjol"
+	
+	trigger = {
+		tag = BYZ
+		year = 1889
+		ai = no
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77838"
+	}
+}

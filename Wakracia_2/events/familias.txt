@@ -1,0 +1,31 @@
+country_event = {
+	id = 77837
+	title = "EVTNAME77837"
+	desc = "EVTDESC77837"
+	picture = "Wakr"
+	
+	trigger = {
+		year = 1906
+		tag = BYZ
+		ai = no
+		civilized = yes
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77837"
+		rich_strata = { militancy = 1 }
+        	poor_strata = { militancy = -0.5 }
+	}
+	
+	option = {
+		name = "EVTOPTB77837"
+		rich_strata = { militancy = -0.5 }
+		poor_strata = { militancy = 1 }
+	}
+}
