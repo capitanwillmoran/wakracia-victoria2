@@ -1,0 +1,53 @@
+political_decisions = {
+
+	hentai_lift = {
+		picture = hentai
+		potential = {
+			is_vassal = no
+			tag = JAP
+			NOT = { has_country_flag = hentai_lift }
+		}
+
+		allow = {
+			war = no
+			OR = {
+				government = prussian_constitutionalism
+				government = democracy
+				government = hms_government
+			}
+		}
+
+		effect = {
+			set_country_flag = hentai_lift
+			prestige = 2
+			rich_strata = { militancy = -0.5 }
+			poor_strata = { militancy = 1 }
+		}
+	}
+
+	no_hentai_lift = {
+		picture = no_hentai
+		potential = {
+			is_vassal = no
+			tag = JAP
+			NOT = { has_country_flag = no_hentai_lift }
+		}
+
+		allow = {
+			war = no
+			NOT = { 
+				OR = {
+				government = prussian_constitutionalism
+				government = democracy
+				government = hms_government
+			}
+		}
+
+		effect = {
+			set_country_flag = no_hentai_lift
+			prestige = -1
+			rich_strata = { militancy = 0.5 }
+			poor_strata = { militancy = -1 }
+		}
+	}
+}

@@ -1,0 +1,28 @@
+political_decisions = {
+
+	move_capital_to_florida = {
+        	picture = florida
+        	alert = no
+        	potential = {
+			tag = FLR
+			owns = 200 # Osopookytienepatreonpolis
+			NOT = { capital = 200 }
+		}
+
+		allow = {
+			NOT = { capital = 200 }
+		}
+
+		effect = {
+			capital = 200
+			prestige = 5
+			200 = {
+				change_province_name = "Florida"
+			}
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

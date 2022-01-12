@@ -1,0 +1,127 @@
+country_event = {
+	id = 77839
+	title = "EVTNAME77839"
+	desc = "EVTDESC77839"
+	major = no
+	picture = "japanese_power"
+	
+	trigger = {
+		tag = JAP
+		year = 1922
+		NOT = {
+			has_country_flag = ainu_civil_war_happened
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77839"
+		any_pop = {
+			consciousness = 2
+			militancy = 1
+		}
+		random_owned = {
+			1643 = {
+				secede_province = AIN
+				add_core = AIN
+				life_rating = 20
+				any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+			}
+			1644 = {
+				secede_province = AIN
+				add_core = AIN
+				life_rating = 20
+				any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+			}
+			1642 = {
+				secede_province = AIN
+				add_core = AIN
+				life_rating = 20
+				any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+			}
+		}
+		AIN = {
+			leadership = 120
+		define_general = {
+   			name = "Hokuto Iboshi"
+   			picture = russian_general_12
+   			date = 1901.1.1
+   			type = land
+    			personality = persistant
+    			background = poet
+   			prestige = 0.9
+			}
+		}
+		war = {
+			target = AIN
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		set_country_flag = ainu_civil_war_happened
+		relation = {
+			who = AIN
+			value = -200
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77839"
+		any_pop = {
+			consciousness = -2
+			militancy = -1
+		}
+		random_owned = {
+			1643 = {
+				secede_province = AIN
+				add_core = AIN
+				life_rating = 20
+				any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+			}
+			1644 = {
+				secede_province = AIN
+				add_core = AIN
+				life_rating = 20
+				any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+			}
+			1642 = {
+				secede_province = AIN
+				add_core = AIN
+				life_rating = 20
+				any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+			}
+		}
+		any_owned = {
+			limit = {
+				is_core = AIN
+			}
+			secede_province = AIN
+		}
+		AIN = {
+			leadership = 120
+		define_general = {
+   			name = "Hokuto Iboshi"
+   			picture = russian_general_12
+   			date = 1901.1.1
+   			type = land
+    			personality = persistant
+    			background = poet
+   			prestige = 0.9
+			}
+		}
+		set_country_flag = ainu_civil_war_happened
+		relation = {
+			who = AIN
+			value = 100
+		}
+	}
+}
