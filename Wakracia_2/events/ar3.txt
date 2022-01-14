@@ -1,0 +1,149 @@
+country_event = {
+	id = 77863
+	title = "EVTNAME77863"
+	desc = "EVTDESC77863"
+	major = no
+	picture = "Harassment"
+	
+	trigger = {
+		tag = CRI
+		year = 1870
+		owns = 2348
+		NOT = {
+			OR = {
+				has_country_flag = kaelos_civil_war1_happened
+				has_country_flag = kaelos_civil_war2_happened
+			}
+			exists = SBA
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77863"
+		any_pop = {
+			consciousness = -1
+			militancy = -1
+		}
+		any_owned = {
+			limit = {
+				is_core = SBA
+			}
+			secede_province = SBA
+		}
+		SBA = {
+			leadership = 1
+			political_reform = none_voting
+			political_reform = party_appointed
+			country_event = 60020
+			ruling_party_ideology = liberal
+		define_general = {
+   			name = "Bartholomaios Mitros"
+   			picture = russian_general_12
+   			date = 1821.6.26
+   			type = land
+    			personality = daring
+    			background = natural_born_leader
+   			prestige = 0.9
+			}
+		}
+		war = {
+			target = SBA
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		set_country_flag = kaelos_civil_war1_happened
+	}
+	
+	option = {
+		name = "EVTOPTB77863"
+		capital = 2348
+		any_pop = {
+			consciousness = 3
+			militancy = 3
+		}
+		ARG = {
+			leadership = 1
+		define_general = {
+   			name = "Bartholomaios Mitros"
+   			picture = russian_general_12
+   			date = 1821.6.26
+   			type = land
+    			personality = daring
+    			background = natural_born_leader
+   			prestige = 0.9
+			}
+		}
+		set_country_flag = kaelos_civil_war2_happened
+	}
+}
+
+country_event = {
+	id = 77864
+	title = "EVTNAME77864"
+	desc = "EVTDESC77864"
+	major = no
+	picture = "Harassment"
+	
+	trigger = {
+		tag = CRI
+		year = 1872
+		has_country_flag = kaelos_civil_war2_happened
+		NOT = {
+			exists = TUC
+			has_country_flag = kaelos_civil_war3_happened
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77864"
+		any_pop = {
+			consciousness = 2
+			militancy = 2
+		}
+		ARG_2387 = { add_core = TUC }
+		any_owned = {
+			limit = {
+				is_core = TUC
+			}
+			secede_province = TUC
+		}
+		war = {
+			target = TUC
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		set_country_flag = kaelos_civil_war3_happened
+	}
+	
+	option = {
+		name = "EVTOPTB77864"
+		ARG_2387 = { add_core = TUC }
+		any_pop = {
+			consciousness = -1
+			militancy = -1
+		}
+		set_country_flag = kaelos_civil_war3_happened
+	}
+}
