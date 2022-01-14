@@ -1,0 +1,861 @@
+country_event = {
+	id = 77840
+	title = "EVTNAME77840"
+	desc = "EVTDESC77840"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		year = 1836
+		government = democracy
+		ruling_party_ideology = conservative
+		election = no
+		NOT = {
+			has_country_flag = florida1_happened
+			year = 1837
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77840"
+		any_pop = {
+			consciousness = -0.1
+			militancy = -0.1
+		}
+		set_country_flag = florida1_happened
+	}
+}
+
+country_event = {
+	id = 77841
+	title = "EVTNAME77841"
+	desc = "EVTDESC77841"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		year = 1836
+		government = democracy
+		election = no
+		ruling_party_ideology = liberal
+		NOT = {
+			has_country_flag = florida1_happened
+			year = 1837
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77841"
+		any_pop = {
+			consciousness = -0.1
+			militancy = 0.1
+		}
+		set_country_flag = florida1_happened
+	}
+}
+
+country_event = {
+	id = 77842
+	title = "EVTNAME77842"
+	desc = "EVTDESC77842"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		year = 1836
+		government = democracy
+		election = no
+		ruling_party_ideology = reactionary
+		NOT = {
+			has_country_flag = florida1_happened
+			year = 1837
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77842"
+		any_pop = {
+			consciousness = 0.1
+			militancy = -0.1
+		}
+		set_country_flag = florida1_happened
+	}
+}
+
+country_event = {
+	id = 77843
+	title = "EVTNAME77843"
+	desc = "EVTDESC77843"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		year = 1840
+		month = 8
+		government = democracy
+		election = no
+		ruling_party_ideology = conservative
+		NOT = {
+			has_country_flag = florida2_happened
+			year = 1841
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77843"
+		any_pop = {
+			consciousness = -0.1
+			militancy = -0.1
+		}
+		set_country_flag = florida2_happened
+	}
+}
+
+country_event = {
+	id = 77844
+	title = "EVTNAME77844"
+	desc = "EVTDESC77844"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		year = 1840
+		month = 8
+		government = democracy
+		election = no
+		ruling_party_ideology = reactionary
+		NOT = {
+			has_country_flag = florida2_happened
+			year = 1841
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77844"
+		any_pop = {
+			consciousness = 0.1
+			militancy = -0.1
+		}
+		set_country_flag = florida2_happened
+	}
+}
+
+country_event = {
+	id = 77845
+	title = "EVTNAME77845"
+	desc = "EVTDESC77845"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		year = 1840
+		month = 8
+		government = democracy
+		election = no
+		ruling_party_ideology = liberal
+		NOT = {
+			has_country_flag = florida2_happened
+			year = 1841
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77844"
+		any_pop = {
+			consciousness = -0.1
+			militancy = 0.1
+		}
+		set_country_flag = florida2_happened
+	}
+}
+
+country_event = {
+	id = 77846
+	title = "EVTNAME77846"
+	desc = "EVTDESC77846"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1844
+			year = 1845
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = conservative
+		has_country_flag = florida2_happened
+		NOT = {
+			has_country_flag = florida3_happened
+			year = 1846
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77846"
+		any_pop = {
+			consciousness = -0.1
+			militancy = 0.1
+		}
+		set_country_flag = florida3_happened
+	}
+}
+
+country_event = {
+	id = 77847
+	title = "EVTNAME77847"
+	desc = "EVTDESC77847"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1844
+			year = 1845
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = reactionary
+		has_country_flag = florida2_happened
+		NOT = {
+			has_country_flag = florida3_happened
+			year = 1846
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77847"
+		any_pop = {
+			consciousness = 0.1
+			militancy = -0.1
+		}
+		set_country_flag = florida3_happened
+	}
+}
+
+country_event = {
+	id = 77848
+	title = "EVTNAME77848"
+	desc = "EVTDESC77848"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1844
+			year = 1845
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = liberal
+		has_country_flag = florida2_happened
+		NOT = {
+			has_country_flag = florida3_happened
+			year = 1846
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77848"
+		any_pop = {
+			consciousness = -0.1
+			militancy = 0.1
+		}
+		set_country_flag = florida3_happened
+	}
+}
+
+country_event = {
+	id = 77849
+	title = "EVTNAME77849"
+	desc = "EVTDESC77849"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1848
+			year = 1849
+			year = 1850
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = conservative
+		has_country_flag = florida3_happened
+		NOT = {
+			has_country_flag = florida4_happened
+			year = 1851
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77849"
+		any_pop = {
+			consciousness = -0.1
+			militancy = 0.1
+		}
+		set_country_flag = florida4_happened
+	}
+}
+
+country_event = {
+	id = 77850
+	title = "EVTNAME77850"
+	desc = "EVTDESC77850"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1848
+			year = 1849
+			year = 1850
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = reactionary
+		has_country_flag = florida3_happened
+		NOT = {
+			has_country_flag = florida4_happened
+			year = 1851
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77850"
+		any_pop = {
+			consciousness = 0.1
+			militancy = -0.1
+		}
+		set_country_flag = florida4_happened
+	}
+}
+
+country_event = {
+	id = 77851
+	title = "EVTNAME77851"
+	desc = "EVTDESC77851"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1848
+			year = 1849
+			year = 1850
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = liberal
+		has_country_flag = florida3_happened
+		NOT = {
+			has_country_flag = florida4_happened
+			year = 1851
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77851"
+		any_pop = {
+			consciousness = 0.1
+			militancy = -0.1
+		}
+		set_country_flag = florida4_happened
+	}
+}
+
+country_event = {
+	id = 77852
+	title = "EVTNAME77852"
+	desc = "EVTDESC77852"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1852
+			year = 1853
+			year = 1854
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = liberal
+		has_country_flag = florida4_happened
+		NOT = {
+			has_country_flag = florida5_happened
+			year = 1855
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77852"
+		any_pop = {
+			consciousness = 0.1
+			militancy = -0.1
+		}
+		set_country_flag = florida5_happened
+	}
+}
+
+country_event = {
+	id = 77853
+	title = "EVTNAME77853"
+	desc = "EVTDESC77853"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1852
+			year = 1853
+			year = 1854
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = conservative
+		has_country_flag = florida4_happened
+		NOT = {
+			has_country_flag = florida5_happened
+			year = 1855
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77853"
+		any_pop = {
+			consciousness = 0.1
+			militancy = -0.1
+		}
+		set_country_flag = florida5_happened
+	}
+}
+
+country_event = {
+	id = 77854
+	title = "EVTNAME77854"
+	desc = "EVTDESC77854"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1852
+			year = 1853
+			year = 1854
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = reactionary
+		has_country_flag = florida4_happened
+		NOT = {
+			has_country_flag = florida5_happened
+			year = 1855
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77854"
+		any_pop = {
+			consciousness = 0.1
+			militancy = -0.1
+		}
+		set_country_flag = florida5_happened
+	}
+}
+
+country_event = {
+	id = 77856
+	title = "EVTNAME77856"
+	desc = "EVTDESC77856"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1856
+			year = 1857
+			year = 1858
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = liberal
+		has_country_flag = florida5_happened
+		NOT = {
+			has_country_flag = florida6_happened
+			year = 1859
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77856"
+		any_pop = {
+			consciousness = -0.1
+			militancy = 0.1
+		}
+		set_country_flag = florida6_happened
+	}
+}
+
+country_event = {
+	id = 77857
+	title = "EVTNAME77857"
+	desc = "EVTDESC77857"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1856
+			year = 1857
+			year = 1858
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = conservative
+		has_country_flag = florida5_happened
+		NOT = {
+			has_country_flag = florida6_happened
+			year = 1859
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77857"
+		any_pop = {
+			consciousness = -0.1
+			militancy = 0.1
+		}
+		set_country_flag = florida6_happened
+	}
+}
+
+country_event = {
+	id = 77858
+	title = "EVTNAME77858"
+	desc = "EVTDESC77858"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1856
+			year = 1857
+			year = 1858
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = reactionary
+		has_country_flag = florida5_happened
+		NOT = {
+			has_country_flag = florida6_happened
+			year = 1859
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77858"
+		any_pop = {
+			consciousness = -0.1
+			militancy = 0.1
+		}
+		set_country_flag = florida6_happened
+	}
+}
+
+country_event = {
+	id = 77859
+	title = "EVTNAME77859"
+	desc = "EVTDESC77859"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1861
+			year = 1862
+			year = 1863
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = reactionary
+		has_country_flag = florida6_happened
+		NOT = {
+			has_country_flag = florida7_happened
+			year = 1864
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77859"
+		any_pop = {
+			consciousness = -0.1
+			militancy = 0.1
+		}
+		set_country_flag = florida7_happened
+	}
+}
+
+country_event = {
+	id = 77860
+	title = "EVTNAME77860"
+	desc = "EVTDESC77860"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1861
+			year = 1862
+			year = 1863
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = conservative
+		has_country_flag = florida6_happened
+		NOT = {
+			has_country_flag = florida7_happened
+			year = 1864
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77860"
+		any_pop = {
+			consciousness = -0.1
+			militancy = 0.1
+		}
+		set_country_flag = florida7_happened
+	}
+}
+
+country_event = {
+	id = 77861
+	title = "EVTNAME77861"
+	desc = "EVTDESC77861"
+	major = no
+	picture = "Administration"
+	
+	trigger = {
+		tag = FLR
+		or = {
+			year = 1861
+			year = 1862
+			year = 1863
+		}
+		government = democracy
+		election = no
+		ruling_party_ideology = liberal
+		has_country_flag = florida6_happened
+		NOT = {
+			has_country_flag = florida7_happened
+			year = 1864
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77861"
+		any_pop = {
+			consciousness = -0.1
+			militancy = 0.1
+		}
+		set_country_flag = florida7_happened
+	}
+}
+
+country_event = {
+	id = 77862
+	title = "EVTNAME77862"
+	desc = "EVTDESC77862"
+	major = no
+	picture = "Harassment"
+	
+	trigger = {
+		tag = FLR
+		government = democracy
+		election = no
+		has_country_flag = florida7_happened
+		NOT = {
+			has_country_flag = florida7a_happened
+			has_country_flag = florida7b_happened
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77862"
+		any_pop = {
+			consciousness = 1
+			militancy = 1
+		}
+		political_reform = none_voting
+		political_reform = party_appointed
+		country_event = 60010
+		set_country_flag = florida7a_happened
+		ai_chance = {
+			factor = 0.9
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77862"
+		any_pop = {
+			consciousness = 1
+			militancy = 1
+		}
+		set_country_flag = florida7b_happened
+		ai_chance = {
+			factor = 0.1
+		}
+	}
+}
