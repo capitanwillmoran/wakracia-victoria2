@@ -3614,6 +3614,7 @@ political_decisions = {
 				primary_culture = pictish
 				primary_culture = welsh
 				primary_culture = breton
+				primary_culture = scottish
 			}
 			NOT = {
 				exists = CEL
@@ -3626,7 +3627,7 @@ political_decisions = {
 			war = no
 			prestige = 5
 			IRE = { all_core = { OR = { owned_by = THIS owner = { in_sphere = THIS } } } }
-			HSC = { all_core = { OR = { owned_by = THIS owner = { in_sphere = THIS } } } }
+			SCO = { all_core = { OR = { owned_by = THIS owner = { in_sphere = THIS } } } }
 			WHA = { all_core = { OR = { owned_by = THIS owner = { in_sphere = THIS } } } }
 			BRT = { all_core = { OR = { owned_by = THIS owner = { in_sphere = THIS } } } }
 		}
@@ -3643,6 +3644,7 @@ political_decisions = {
 					OR = {
 						primary_culture = irish
 						primary_culture = pictish
+						primary_culture = scottish
 						primary_culture = welsh
 						primary_culture = breton
 					}
@@ -3651,13 +3653,14 @@ political_decisions = {
 			}
 			any_owned = { add_core = CEL }
 			IRE = { all_core = { add_core = CEL remove_core = ENG remove_core = GBR } }
-			HSC = { all_core = { add_core = CEL remove_core = SCO remove_core = ENG remove_core = GBR } }
+			SCO = { all_core = { add_core = CEL remove_core = SCO remove_core = ENG remove_core = GBR } }
 			WHA = { all_core = { add_core = CEL remove_core = ENG remove_core = GBR } }
 			BRT = { all_core = { add_core = CEL remove_core = FRA } }
 			add_accepted_culture = irish
 			add_accepted_culture = pictish
 			add_accepted_culture = welsh
 			add_accepted_culture = breton
+			add_accepted_culture = scottish
 			
 			change_tag = CEL
 		}
