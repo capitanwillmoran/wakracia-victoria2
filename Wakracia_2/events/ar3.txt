@@ -6,7 +6,7 @@ country_event = {
 	picture = "Harassment"
 	
 	trigger = {
-		tag = CRI
+		tag = ARG
 		year = 1870
 		owns = 2348
 		NOT = {
@@ -96,7 +96,7 @@ country_event = {
 	picture = "Harassment"
 	
 	trigger = {
-		tag = CRI
+		tag = ARG
 		year = 1872
 		has_country_flag = kaelos_civil_war2_happened
 		NOT = {

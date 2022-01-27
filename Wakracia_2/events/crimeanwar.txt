@@ -6,7 +6,10 @@ country_event = {
 	picture = "Harassment"
 	
 	trigger = {
-		tag = CRI
+		OR = {
+			tag = CRI
+			tag = TAR
+		}
 		year = 1890
 		OR = {
 			is_great_power = no
@@ -97,7 +100,10 @@ country_event = {
 	picture = "Harassment"
 	
 	trigger = {
-		tag = CRI
+		OR = {
+			tag = CRI
+			tag = TAR
+		}
 		has_country_flag = crimean_civil_war1_happened
 		NOT = {
 			has_country_flag = crimean_civil_war2_happened
