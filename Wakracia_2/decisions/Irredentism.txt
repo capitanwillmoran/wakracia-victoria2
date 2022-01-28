@@ -1832,4 +1832,73 @@ political_decisions = {
 		}
 		ai_will_do = { factor = 1 }
 	}
+
+	greater_rus = {
+		picture = tart
+		potential = {
+			tag = RUS
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+			NOT = { has_country_flag = greater_rus }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+		}
+		
+		effect = {
+			set_country_flag = greater_rus
+			RUS_958 = { add_core = RUS }
+			RUS_718 = { add_core = RUS }
+			RUS_947 = { add_core = RUS }
+			RUS_977 = { add_core = RUS }
+			RUS_1009 = { add_core = RUS }
+			RUS_1008 = { add_core = RUS }
+			RUS_943 = { add_core = RUS }
+			RUS_998 = { add_core = RUS }
+			RUS_1003 = { add_core = RUS }
+			RUS_994 = { add_core = RUS }
+			RUS_981 = { add_core = RUS }
+			RUS_2589 = { add_core = RUS }
+			RUS_990 = { add_core = RUS }
+			RUS_1026 = { add_core = RUS }
+			RUS_1020 = { add_core = RUS }
+			RUS_1037 = { add_core = RUS }
+			RUS_1060 = { add_core = RUS }
+			RUS_1182 = { add_core = RUS }
+			RUS_1041 = { add_core = RUS }
+			RUS_979 = { add_core = RUS }
+			RUS_2685 = { add_core = RUS }
+			RUS_1064 = { add_core = RUS }
+			RUS_1184 = { add_core = RUS }
+			RUS_1185 = { add_core = RUS }
+			938 = { add_core = RUS }
+			995 = { add_core = RUS }
+			1065 = { add_core = RUS }
+			2690 = { add_core = RUS }
+			2682 = { add_core = RUS }
+			2613 = { add_core = RUS }
+			988 = { add_core = RUS }
+			1192 = { add_core = RUS }
+			1191 = { add_core = RUS }
+			1205 = { add_core = RUS }
+			1196 = { add_core = RUS }
+			1204 = { add_core = RUS }
+			1150 = { add_core = RUS }
+			1116 = { add_core = RUS }
+			2646 = { add_core = RUS }
+			2681 = { add_core = RUS }
+			2692 = { add_core = RUS }
+			2691 = { add_core = RUS }
+			2615 = { add_core = RUS }
+			2698 = { add_core = RUS }
+			1187 = { add_core = RUS }
+			1188 = { add_core = RUS }
+			add_accepted_culture = ugrian
+			add_accepted_culture = uighur
+		}
+		ai_will_do = { factor = 1 }
+	}
 }

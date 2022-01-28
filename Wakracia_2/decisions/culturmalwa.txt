@@ -1,0 +1,659 @@
+political_decisions = {
+
+	culturalindia = {
+		picture = marajj
+		potential = {
+			OR = {
+				tag = MAW
+				tag = X16
+				tag = SRI
+				tag = XMA
+				tag = JML
+				tag = RAJ
+				tag = PAN
+				tag = PGD
+				tag = BER
+				tag = MYS
+				tag = BIJ
+				tag = NAG
+				tag = GOC
+				tag = TRA
+				tag = VIJ
+				tag = GWA
+				tag = NEP
+				tag = BHU
+				tag = XIN
+				tag = SIN
+				tag = BIK
+			}
+			owns = 1321
+			owns = 1322
+			owns = 1323
+			owns = 1324
+			NOT = { has_country_flag = culturalindia }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -5000
+			badboy = 3
+			add_accepted_culture = sinhala
+			set_country_flag = culturalindia
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalindia1 = {
+		picture = marajj
+		potential = {
+			OR = {
+				tag = MAW
+				tag = X16
+				tag = SRI
+				tag = XMA
+				tag = JML
+				tag = RAJ
+				tag = PAN
+				tag = PGD
+				tag = BER
+				tag = MYS
+				tag = BIJ
+				tag = NAG
+				tag = GOC
+				tag = TRA
+				tag = VIJ
+				tag = GWA
+				tag = NEP
+				tag = BHU
+				tag = XIN
+				tag = SIN
+				tag = BIK
+			}
+			owns = 1317
+			owns = 1316
+			owns = 1318
+			owns = 1319
+			NOT = { has_country_flag = culturalindia1 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			badboy = 3
+			add_accepted_culture = malayalam
+			set_country_flag = culturalindia1
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalindia2 = {
+		picture = marajj
+		potential = {
+			OR = {
+				tag = MAW
+				tag = X16
+				tag = SRI
+				tag = XMA
+				tag = JML
+				tag = RAJ
+				tag = PAN
+				tag = PGD
+				tag = BER
+				tag = MYS
+				tag = BIJ
+				tag = NAG
+				tag = GOC
+				tag = TRA
+				tag = VIJ
+				tag = GWA
+				tag = NEP
+				tag = BHU
+				tag = XIN
+				tag = SIN
+				tag = BIK
+			}
+			owns = 1309
+			owns = 1304
+			owns = 1311
+			NOT = { has_country_flag = culturalindia2 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -5000
+			badboy = 3
+			add_accepted_culture = tamil
+			set_country_flag = culturalindia2
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalindia3 = {
+		picture = marajj
+		potential = {
+			OR = {
+				tag = MAW
+				tag = X16
+				tag = SRI
+				tag = XMA
+				tag = JML
+				tag = RAJ
+				tag = PAN
+				tag = PGD
+				tag = BER
+				tag = MYS
+				tag = BIJ
+				tag = NAG
+				tag = GOC
+				tag = TRA
+				tag = VIJ
+				tag = GWA
+				tag = NEP
+				tag = BHU
+				tag = XIN
+				tag = SIN
+				tag = BIK
+			}
+			owns = 1286
+			owns = 1302
+			owns = 1313
+			owns = 1314
+			NOT = { has_country_flag = culturalindia3 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -5000
+			badboy = 5
+			add_accepted_culture = kannada
+			set_country_flag = culturalindia3
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalindia4 = {
+		picture = marajj
+		potential = {
+			OR = {
+				tag = MAW
+				tag = X16
+				tag = SRI
+				tag = XMA
+				tag = JML
+				tag = RAJ
+				tag = PAN
+				tag = PGD
+				tag = BER
+				tag = MYS
+				tag = BIJ
+				tag = NAG
+				tag = GOC
+				tag = TRA
+				tag = VIJ
+				tag = GWA
+				tag = NEP
+				tag = BHU
+				tag = XIN
+				tag = SIN
+				tag = BIK
+			}
+			owns = 1306
+			owns = 1307
+			owns = 1308
+			NOT = { has_country_flag = culturalindia4 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -5000
+			badboy = 3
+			add_accepted_culture = telugu
+			set_country_flag = culturalindia4
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalindia5 = {
+		picture = marajj
+		potential = {
+			OR = {
+				tag = MAW
+				tag = X16
+				tag = SRI
+				tag = XMA
+				tag = JML
+				tag = RAJ
+				tag = PAN
+				tag = PGD
+				tag = BER
+				tag = MYS
+				tag = BIJ
+				tag = NAG
+				tag = GOC
+				tag = TRA
+				tag = VIJ
+				tag = GWA
+				tag = NEP
+				tag = BHU
+				tag = XIN
+				tag = SIN
+				tag = BIK
+			}
+			owns = 1301
+			owns = 1299
+			owns = 1285
+			owns = 1275
+			NOT = { has_country_flag = culturalindia5 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			badboy = 3
+			money = -10000
+			add_accepted_culture = marathi
+			set_country_flag = culturalindia5
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalindia6 = {
+		picture = marajj
+		potential = {
+			OR = {
+				tag = MAW
+				tag = X16
+				tag = SRI
+				tag = XMA
+				tag = JML
+				tag = RAJ
+				tag = PAN
+				tag = PGD
+				tag = BER
+				tag = MYS
+				tag = BIJ
+				tag = NAG
+				tag = GOC
+				tag = TRA
+				tag = VIJ
+				tag = GWA
+				tag = NEP
+				tag = BHU
+				tag = XIN
+				tag = SIN
+				tag = BIK
+			}
+			owns = 1293
+			owns = 1296
+			owns = 1294
+			owns = 1291
+			NOT = { has_country_flag = culturalindia6 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -10000
+			badboy = 3
+			add_accepted_culture = gujarati
+			set_country_flag = culturalindia6
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalindia7 = {
+		picture = marajj
+		potential = {
+			OR = {
+				tag = MAW
+				tag = X16
+				tag = SRI
+				tag = XMA
+				tag = JML
+				tag = RAJ
+				tag = PAN
+				tag = PGD
+				tag = BER
+				tag = MYS
+				tag = BIJ
+				tag = NAG
+				tag = GOC
+				tag = TRA
+				tag = VIJ
+				tag = GWA
+				tag = NEP
+				tag = BHU
+				tag = XIN
+				tag = SIN
+				tag = BIK
+			}
+			owns = 1271
+			NOT = { has_country_flag = culturalindia7 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -10000
+			badboy = 1
+			add_accepted_culture = rajput
+			set_country_flag = culturalindia7
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalindia8 = {
+		picture = marajj
+		potential = {
+			OR = {
+				tag = MAW
+				tag = X16
+				tag = SRI
+				tag = XMA
+				tag = JML
+				tag = RAJ
+				tag = PAN
+				tag = PGD
+				tag = BER
+				tag = MYS
+				tag = BIJ
+				tag = NAG
+				tag = GOC
+				tag = TRA
+				tag = VIJ
+				tag = GWA
+				tag = NEP
+				tag = BHU
+				tag = XIN
+				tag = SIN
+				tag = BIK
+			}
+			owns = 1269
+			owns = 1246
+			owns = 1247
+			owns = 1237
+			owns = 1273
+			NOT = { has_country_flag = culturalindia8 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -10000
+			badboy = 7
+			add_accepted_culture = kanauji
+			set_country_flag = culturalindia8
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalindia9 = {
+		picture = marajj
+		potential = {
+			OR = {
+				tag = MAW
+				tag = X16
+				tag = SRI
+				tag = XMA
+				tag = JML
+				tag = RAJ
+				tag = PAN
+				tag = PGD
+				tag = BER
+				tag = MYS
+				tag = BIJ
+				tag = NAG
+				tag = GOC
+				tag = TRA
+				tag = VIJ
+				tag = GWA
+				tag = NEP
+				tag = BHU
+				tag = XIN
+				tag = SIN
+				tag = BIK
+			}
+			owns = 1305
+			owns = 1251
+			owns = 1280
+			owns = 1262
+			owns = 1261
+			NOT = { has_country_flag = culturalindia9 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -10000
+			badboy = 7
+			add_accepted_culture = oriya
+			set_country_flag = culturalindia9
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalindia10 = {
+		picture = marajj
+		potential = {
+			OR = {
+				tag = MAW
+				tag = X16
+				tag = SRI
+				tag = XMA
+				tag = JML
+				tag = RAJ
+				tag = PAN
+				tag = PGD
+				tag = BER
+				tag = MYS
+				tag = BIJ
+				tag = NAG
+				tag = GOC
+				tag = TRA
+				tag = VIJ
+				tag = GWA
+				tag = NEP
+				tag = BHU
+				tag = XIN
+				tag = SIN
+				tag = BIK
+			}
+			owns = 1259
+			owns = 1257
+			owns = 2566
+			NOT = { has_country_flag = culturalindia10 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -10000
+			badboy = 6
+			add_accepted_culture = bengali
+			set_country_flag = culturalindia10
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalindia11 = {
+		picture = marajj
+		potential = {
+			OR = {
+				tag = MAW
+				tag = X16
+				tag = SRI
+				tag = XMA
+				tag = JML
+				tag = RAJ
+				tag = PAN
+				tag = PGD
+				tag = BER
+				tag = MYS
+				tag = BIJ
+				tag = NAG
+				tag = GOC
+				tag = TRA
+				tag = VIJ
+				tag = GWA
+				tag = NEP
+				tag = BHU
+				tag = XIN
+				tag = SIN
+				tag = BIK
+			}
+			owns = 1288
+			owns = 1290
+			owns = 1289
+			NOT = { has_country_flag = culturalindia11 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -10000
+			badboy = 4
+			add_accepted_culture = sindi
+			set_country_flag = culturalindia11
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalindia12 = {
+		picture = marajj
+		potential = {
+			OR = {
+				tag = MAW
+				tag = X16
+				tag = SRI
+				tag = XMA
+				tag = JML
+				tag = RAJ
+				tag = PAN
+				tag = PGD
+				tag = BER
+				tag = MYS
+				tag = BIJ
+				tag = NAG
+				tag = GOC
+				tag = TRA
+				tag = VIJ
+				tag = GWA
+				tag = NEP
+				tag = BHU
+				tag = XIN
+				tag = SIN
+				tag = BIK
+			}
+			owns = 1231
+			owns = 1228
+			owns = 1218
+			NOT = { has_country_flag = culturalindia12 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -10000
+			badboy = 4
+			add_accepted_culture = panjabi
+			set_country_flag = culturalindia12
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+}

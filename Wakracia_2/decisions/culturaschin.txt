@@ -1,0 +1,216 @@
+political_decisions = {
+
+	culturalchin = {
+		picture = chinese_89
+		potential = {
+			tag = CHI
+			NOT = { has_country_flag = culturalchin }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -5000
+			prestige = -5
+			badboy = 3
+			add_accepted_culture = lao
+			add_accepted_culture = vietnamese
+			add_accepted_culture = burmese
+			add_accepted_culture = khmer
+			set_country_flag = culturalchin
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalchin1 = {
+		picture = chinese_89
+		potential = {
+			tag = CHI
+			owns = 1501
+			owns = 1493
+			NOT = { has_country_flag = culturalchin1 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			badboy = 3
+			add_accepted_culture = yue
+			set_country_flag = culturalchin1
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalchin2 = {
+		picture = chinese_89
+		potential = {
+			tag = CHI
+			owns = 1503
+			owns = 1507
+			owns = 1526
+			NOT = { has_country_flag = culturalchin2 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -5000
+			badboy = 3
+			add_accepted_culture = miao
+			set_country_flag = culturalchin2
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalchin3 = {
+		picture = chinese_89
+		potential = {
+			tag = CHI
+			owns = 1505
+			owns = 1585
+			owns = 1506
+			owns = 1501
+			owns = 1603
+			NOT = { has_country_flag = culturalchin3 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -5000
+			badboy = 5
+			add_accepted_culture = yi
+			add_accepted_culture = bai
+			set_country_flag = culturalchin3
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalchin4 = {
+		picture = chinese_89
+		potential = {
+			tag = CHI
+			owns = 1497
+			owns = 1494
+			owns = 1550
+			owns = 1500
+			owns = 1486
+			owns = 1482
+			NOT = { has_country_flag = culturalchin4 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -5000
+			badboy = 5
+			add_accepted_culture = min
+			add_accepted_culture = hakka
+			set_country_flag = culturalchin4
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalchin5 = {
+		picture = chinese_89
+		potential = {
+			tag = CHI
+			owns = 1611
+			owns = 1473
+			owns = 1550
+			owns = 1581
+			owns = 1523
+			owns = 1608
+			owns = 1610
+			owns = 1606
+			owns = 1604
+			owns = 1538
+			owns = 1541
+			owns = 1540
+			owns = 1536
+			NOT = { has_country_flag = culturalchin5 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			badboy = 7
+			money = -10000
+			add_accepted_culture = nanfaren
+			set_country_flag = culturalchin5
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	culturalchin6 = {
+		picture = chinese_89
+		potential = {
+			tag = CHI
+			owns = 1513
+			owns = 1472
+			owns = 1062
+			owns = 1490
+			NOT = { has_country_flag = culturalchin6 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			NOT = {
+				badboy = 0.2
+			}
+		}
+		
+		effect = {
+			money = -10000
+			badboy = 7
+			add_accepted_culture = beifaren
+			set_country_flag = culturalchin6
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+}
