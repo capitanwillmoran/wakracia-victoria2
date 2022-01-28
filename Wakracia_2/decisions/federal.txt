@@ -1,0 +1,64 @@
+political_decisions = {
+
+	federal_atlantida = {
+		potential = {
+			tag = CUB
+			NOT = {
+				capital = 2209
+			}
+			NOT = { has_country_flag = federal_atlantida }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			NOT = {
+				state_n_government = 1
+			}
+		}
+		
+		effect = {
+			capital = 2209
+			prestige = -5
+			release = JAM
+			release = CUR
+			release = AGU
+			release = BHM
+			release = DOM
+			release = HAI
+			release = PRI
+			release = SKN
+			release = MNR
+			release = GDL
+			release = DMN
+			release = MTQ
+			release = STL
+			release = GRD
+			release = STV
+			release = BAR
+			release = TTB
+			release = WSI
+			release = CRB
+			create_vassal = JAM
+			create_vassal = CUR
+			create_vassal = AGU
+			create_vassal = BHM
+			create_vassal = DOM
+			create_vassal = HAI
+			create_vassal = PRI
+			create_vassal = SKN
+			create_vassal = MNR
+			create_vassal = GDL
+			create_vassal = DMN
+			create_vassal = MTQ
+			create_vassal = STL
+			create_vassal = GRD
+			create_vassal = STV
+			create_vassal = BAR
+			create_vassal = TTB
+			create_vassal = WSI
+			create_vassal = CRB
+			set_country_flag = federal_atlantida
+		}
+		ai_will_do = { factor = 1 }
+	}

@@ -2030,7 +2030,10 @@ political_decisions = {
 	form_indochina = {
 		potential = {
 			capital_scope = { is_core = IDO }
-			NOT = { exists = IDO }
+			NOT = {
+				exists = IDO
+				tag = CHI
+			}
 		}
 		allow = {
 			war = no

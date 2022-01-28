@@ -1,0 +1,26 @@
+political_decisions = {
+
+	cuban_florida = {
+		picture = conquest_of_the_south
+		potential = {
+			is_vassal = no
+			tag = CUB
+			NOT = { has_country_flag = cuban_florida }
+		}
+
+		allow = {
+			war = no
+			owns = 200
+		}
+
+		effect = {
+			set_country_flag = cuban_florida
+			prestige = 2
+			200 = { secede_province = FLR }
+			money = 100000
+			FLR = {
+				money = -100000
+			}
+		}
+	}
+}

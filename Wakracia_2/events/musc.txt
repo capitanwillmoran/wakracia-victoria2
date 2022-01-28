@@ -1,0 +1,107 @@
+country_event = {
+	id = 77865
+	title = "EVTNAME77865"
+	desc = "EVTDESC77865"
+	major = no
+	picture = "russianmonke"
+	
+	trigger = {
+		tag = MUS
+		civilized = yes
+		NOT = {
+			has_country_flag = russian_civil_war1_happened
+			exists = X17
+			exists = X27
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77865"
+		any_pop = {
+			consciousness = 3
+			militancy = 3
+		}
+		any_owned = {
+			limit = {
+				is_core = X17
+			}
+			secede_province = X17
+		}
+		any_owned = {
+			limit = {
+				is_core = X27
+			}
+			secede_province = X27
+		}
+		war = {
+			target = X17
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		war = {
+			target = X27
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		X27 = {
+			civilized = yes
+		create_alliance = X17
+			relation = {
+				who = X17
+				value = 200
+			}
+		}
+		X17 = {
+			civilized = yes
+		}
+		set_country_flag = russian_civil_war1_happened
+	}
+	
+	option = {
+		name = "EVTOPTB77865"
+		any_pop = {
+			consciousness = -0.5
+			militancy = -0.5
+		}
+		any_owned = {
+			limit = {
+				is_core = X17
+			}
+			secede_province = X17
+		}
+		any_owned = {
+			limit = {
+				is_core = X27
+			}
+			secede_province = X27
+		}
+		X27 = {
+			civilized = yes
+		create_alliance = X17
+			relation = {
+				who = X17
+				value = 200
+			}
+		}
+		X17 = {
+			civilized = yes
+		}
+		set_country_flag = russian_civil_war1_happened
+	}
+}

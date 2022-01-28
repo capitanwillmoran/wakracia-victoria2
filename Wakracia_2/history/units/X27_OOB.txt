@@ -468,3 +468,61 @@ ZUN = {
 #Leaders
 
 #Armies
+	name="Nenetsia"
+	location=981
+	regiment = {
+		name="2nd Infantry"
+		type=infantry
+		home=981
+	}
+	regiment = {
+		name="1st Infantry"
+		type=infantry
+		home=2588
+	}
+	regiment = {
+		name="3rd Infantry"
+		type=infantry
+		home=2588
+	}
+	regiment = {
+		name="4th Infantry"
+		type=infantry
+		home=987
+	}
+	regiment = {
+		name="5th Infantry"
+		type=infantry
+		home=990
+	}
+	regiment = {
+		name="6th Infantry"
+		type=infantry
+		home=2699
+	}
+	regiment = {
+		name="7th Infantry"
+		type=infantry
+		home=1028
+	}
+	regiment = {
+		name="8th Infantry"
+		type=infantry
+		home=1028
+	}
+	regiment = {
+		name="1st Artillery"
+		type=artillery
+		home=1028
+	}
+	regiment = {
+		name="2nd Artillery"
+		type=artillery
+		home=990
+	}
+	regiment = {
+		name="3rd Artillery"
+		type=artillery
+		home=2700
+	}
+}

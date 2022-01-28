@@ -380,3 +380,61 @@ ZUN = {
 #Leaders
 
 #Armies
+	name="Vanema"
+	location=1007
+	regiment = {
+		name="2nd Infantry"
+		type=infantry
+		home=1007
+	}
+	regiment = {
+		name="1st Infantry"
+		type=infantry
+		home=949
+	}
+	regiment = {
+		name="3rd Infantry"
+		type=infantry
+		home=1003
+	}
+	regiment = {
+		name="4th Infantry"
+		type=infantry
+		home=1007
+	}
+	regiment = {
+		name="5th Infantry"
+		type=infantry
+		home=947
+	}
+	regiment = {
+		name="6th Infantry"
+		type=infantry
+		home=996
+	}
+	regiment = {
+		name="7th Infantry"
+		type=infantry
+		home=998
+	}
+	regiment = {
+		name="8th Infantry"
+		type=infantry
+		home=995
+	}
+	regiment = {
+		name="1st Artillery"
+		type=artillery
+		home=945
+	}
+	regiment = {
+		name="2nd Artillery"
+		type=artillery
+		home=948
+	}
+	regiment = {
+		name="3rd Artillery"
+		type=artillery
+		home=938
+	}
+}

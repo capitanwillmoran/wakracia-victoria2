@@ -664,7 +664,6 @@ political_decisions = {
 								vassal_of = THIS
 							}
 							war = no
-							is_greater_power = no
 						}
 					}
 				}
@@ -749,7 +748,6 @@ political_decisions = {
 								vassal_of = THIS
 							}
 							war = no
-							is_greater_power = no
 						}
 					}
 				}

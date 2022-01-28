@@ -43,14 +43,6 @@ political_decisions = {
 			nationalism_n_imperialism = 1
 			NOT = { government = hms_government }
 			NOT = {	government = democracy }
-			war_policy = jingoism
-			OR = {
-				is_greater_power = yes
-				AND = {
-					is_secondary_power = yes
-					prestige = 150
-				}
-			}
 		}
 		
 		effect = {
@@ -145,14 +137,14 @@ political_decisions = {
 	picture = claim_greater_albania
 		potential = {
 			tag = ALB
-			government = fascist_dictatorship
 			NOT = { has_country_flag = claim_greater_albania }
 		}
 
 		allow = {
 			war = no
 			is_vassal = no
-			prestige = 45
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 
 		effect = {
@@ -264,7 +256,6 @@ political_decisions = {
 		picture = greater_nepal
 		potential = {
 			tag = NEP
-			government = fascist_dictatorship
 			NOT = { has_country_flag = claimed_greater_nepal }
 		}
 		
@@ -378,7 +369,6 @@ political_decisions = {
 	greater_ukraine = {
 		potential = {
 			tag = UKR
-			government = fascist_dictatorship
 			NOT = { has_country_flag = claimed_greater_ukraine }
 		}
 		
@@ -387,7 +377,6 @@ political_decisions = {
 			is_vassal = no
 			is_disarmed = no
 			war_policy = jingoism
-			is_greater_power = yes
 		}
 		
 		effect = {
@@ -497,13 +486,14 @@ political_decisions = {
 		potential = {
 			NOT = { has_country_flag = claimed_greater_syria }
 			tag = SYR
-			government = fascist_dictatorship
 		}
 		
 		allow = {
 			nationalism_n_imperialism = 1
 			war = no
 			is_vassal = no
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -541,11 +531,8 @@ political_decisions = {
 			nationalism_n_imperialism = 1
 			romanticism = 1
 			invention = manifest_destiny
-			war_policy = jingoism
-			OR = {
-				is_greater_power = yes
-				government = fascist_dictatorship
-			}
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -570,7 +557,8 @@ political_decisions = {
 			nationalism_n_imperialism = 1
 			romanticism = 1
 			invention = manifest_destiny
-			war_policy = jingoism
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 			is_vassal = no
 		}
 		
@@ -600,10 +588,8 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
-			OR = {
-				is_greater_power = yes
-				is_secondary_power = yes
-			}
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -624,7 +610,6 @@ political_decisions = {
 		picture = greater_bulgaria
 		potential = {
 			tag = BUL
-			government = fascist_dictatorship
 			NOT = { has_country_flag = greater_bulgaria_claimed }
 		}
 		
@@ -633,6 +618,8 @@ political_decisions = {
 			is_greater_power = yes
 			invention = manifest_destiny
 			invention = nostalgic_romanticism
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -665,7 +652,8 @@ political_decisions = {
 			is_disarmed = no
 			nationalism_n_imperialism = 1
 			is_greater_power = yes
-			war_policy = jingoism
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 			ISR = {
 				all_core = { owned_by = ISR }
 			}
@@ -698,7 +686,6 @@ political_decisions = {
 			has_country_flag = greater_israel
 			is_greater_power = yes
 			all_core = { owned_by = THIS }
-			government = fascist_dictatorship
 			NOT = { has_country_flag = absolute_madman_israel }
 		}
 		
@@ -709,7 +696,8 @@ political_decisions = {
 			is_vassal = no
 			is_disarmed = no
 			nationalism_n_imperialism = 1
-			war_policy = jingoism
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -752,11 +740,8 @@ political_decisions = {
 			is_vassal = no
 			is_disarmed = no
 			nationalism_n_imperialism = 1
-			OR = {
-				is_greater_power = yes
-				government = fascist_dictatorship
-			}
-			war_policy = jingoism
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 			ISR = {
 				all_core = { owned_by = ISR }
 			}
@@ -792,11 +777,8 @@ political_decisions = {
 			is_vassal = no
 			is_disarmed = no
 			nationalism_n_imperialism = 1
-			OR = {
-				is_greater_power = yes
-				government = fascist_dictatorship
-			}
-			war_policy = jingoism
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 			ISR = {
 				all_core = { owned_by = ISR }
 			}
@@ -831,11 +813,8 @@ political_decisions = {
 			is_vassal = no
 			is_disarmed = no
 			nationalism_n_imperialism = 1
-			OR = {
-				is_greater_power = yes
-				government = fascist_dictatorship
-			}
-			war_policy = jingoism
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 			ISR = {
 				all_core = { owned_by = ISR }
 			}
@@ -870,11 +849,8 @@ political_decisions = {
 			is_vassal = no
 			is_disarmed = no
 			nationalism_n_imperialism = 1
-			OR = {
-				is_greater_power = yes
-				government = fascist_dictatorship
-			}
-			war_policy = jingoism
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 			ISR = {
 				all_core = { owned_by = ISR }
 			}
@@ -910,11 +886,8 @@ political_decisions = {
 			is_vassal = no
 			is_disarmed = no
 			nationalism_n_imperialism = 1
-			OR = {
-				is_greater_power = yes
-				government = fascist_dictatorship
-			}
-			war_policy = jingoism
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 			ISR = {
 				all_core = { owned_by = ISR }
 			}
@@ -1107,8 +1080,10 @@ political_decisions = {
 		picture = wakracia_logo
 		potential = {
 			tag = BYZ
-			government = fascist_dictatorship
-			government = nationalsyndicalist_dictatorship
+			OR = {
+				government = fascist_dictatorship
+				government = nationalsyndicalist_dictatorship
+			}
 			NOT = { has_country_flag = greater_wakracia }			
 		}
 				
@@ -1116,6 +1091,8 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -1145,8 +1122,10 @@ political_decisions = {
 	greater_carthage = {
 		potential = {
 			tag = X05
+			OR = {
 			government = fascist_dictatorship
 			government = nationalsyndicalist_dictatorship
+			}
 			NOT = { has_country_flag = greater_carthage }			
 		}
 				
@@ -1154,6 +1133,8 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -1177,8 +1158,6 @@ political_decisions = {
 	greater_bactria = {
 		potential = {
 			tag = X04
-			government = fascist_dictatorship
-			government = nationalsyndicalist_dictatorship
 			NOT = { has_country_flag = greater_bactria }			
 		}
 				
@@ -1186,6 +1165,8 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -1210,8 +1191,6 @@ political_decisions = {
 			government = presidential_dictatorship
 			government = bourgeois_dictatorship
 			government = absolute_monarchy
-			government = prussian_constitutionalism
-			government = hms_government
 			government = nationalsyndicalist_dictatorship
 			}
 			NOT = { has_country_flag = greater_tartaria }			
@@ -1221,6 +1200,8 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -1281,8 +1262,13 @@ political_decisions = {
 	greater_maraj = {
 		potential = {
 			tag = RAJ
+			OR = {
 			government = fascist_dictatorship
+			government = presidential_dictatorship
+			government = bourgeois_dictatorship
+			government = absolute_monarchy
 			government = nationalsyndicalist_dictatorship
+			}
 			NOT = { has_country_flag = greater_maraj }			
 		}
 				
@@ -1290,6 +1276,8 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -1310,8 +1298,13 @@ political_decisions = {
 	greater_alpes = {
 		potential = {
 			tag = SWI
+			OR = {
 			government = fascist_dictatorship
+			government = presidential_dictatorship
+			government = bourgeois_dictatorship
+			government = absolute_monarchy
 			government = nationalsyndicalist_dictatorship
+			}
 			NOT = { has_country_flag = greater_alpes }			
 		}
 				
@@ -1319,6 +1312,8 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -1337,8 +1332,13 @@ political_decisions = {
 	greater_hispania = {
 		potential = {
 			tag = SPA
+			OR = {
 			government = fascist_dictatorship
+			government = presidential_dictatorship
+			government = bourgeois_dictatorship
+			government = absolute_monarchy
 			government = nationalsyndicalist_dictatorship
+			}
 			NOT = { has_country_flag = greater_spain }			
 		}
 				
@@ -1346,6 +1346,8 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -1363,8 +1365,6 @@ political_decisions = {
 	greater_rogiria = {
 		potential = {
 			tag = MEX
-			government = fascist_dictatorship
-			government = nationalsyndicalist_dictatorship
 			NOT = { has_country_flag = greater_rogiria }			
 		}
 				
@@ -1372,6 +1372,8 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -1390,24 +1392,28 @@ political_decisions = {
 	greater_cubatlantis = {
 		potential = {
 			tag = CUB
-			government = fascist_dictatorship
-			government = nationalsyndicalist_dictatorship
-			NOT = { has_country_flag = greater_cuba }			
+			NOT = {
+				has_country_flag = greater_cuba
+				has_country_flag = federal_atlantida
+			}			
 		}
 				
 		allow = {
 			war = no
 			is_vassal = no
-			nationalism_n_imperialism = 1
+			state_n_government = 1
 		}
 		
 		effect = {
+			capital = 2217
 			set_country_flag = greater_cuba
 			ENG_203 = { add_core = CUB }
 			SPA_2209 = { add_core = CUB }
 			HAI_2213 = { add_core = CUB }
 			ENG_2224 = { add_core = CUB }
-			ENG_228 = { add_core = CUB }
+			ENG_2228 = { add_core = CUB }
+			2234 = { add_core = CUB }
+			2235 = { add_core = CUB }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -1415,8 +1421,13 @@ political_decisions = {
 	greater_myrmidoan = {
 		potential = {
 			tag = X09
+			OR = {
 			government = fascist_dictatorship
+			government = presidential_dictatorship
+			government = bourgeois_dictatorship
+			government = absolute_monarchy
 			government = nationalsyndicalist_dictatorship
+			}
 			NOT = { has_country_flag = greater_myrmidoan }			
 		}
 				
@@ -1424,6 +1435,8 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -1445,8 +1458,13 @@ political_decisions = {
 	greater_mississippi = {
 		potential = {
 			tag = UIL
+			OR = {
 			government = fascist_dictatorship
+			government = presidential_dictatorship
+			government = bourgeois_dictatorship
+			government = absolute_monarchy
 			government = nationalsyndicalist_dictatorship
+			}
 			NOT = { has_country_flag = greater_mississippi }			
 		}
 				
@@ -1454,6 +1472,8 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -1517,6 +1537,8 @@ political_decisions = {
 		allow = {
 			is_vassal = no
 			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -1589,6 +1611,8 @@ political_decisions = {
 		allow = {
 			is_vassal = no
 			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -1650,6 +1674,8 @@ political_decisions = {
 		allow = {
 			is_vassal = no
 			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -1688,6 +1714,8 @@ political_decisions = {
 		allow = {
 			is_vassal = no
 			nationalism_n_imperialism = 1
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
 		}
 		
 		effect = {
@@ -1716,10 +1744,6 @@ political_decisions = {
 				
 		allow = {
 			is_vassal = no
-			OR = {
-				is_secondary_power = yes
-				is_great_power = yes
-			}
 			nationalism_n_imperialism = 1
 		}
 		
@@ -1734,6 +1758,79 @@ political_decisions = {
 			FRA_420 = { add_core = THIS }
 			304 = { add_core = THIS }
 			299 = { add_core = THIS }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_malwa = {
+		potential = {
+			tag = MAW
+			NOT = { has_country_flag = greater_malwa }			
+		}
+				
+		allow = {
+			is_vassal = no
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+			nationalism_n_imperialism = 1
+		}
+		
+		effect = {
+			set_country_flag = greater_malwa
+			ENG_1304 = { add_core = THIS }
+			ENG_1317 = { add_core = THIS }
+			MYS_1314 = { add_core = THIS }
+			ENG_1321 = { add_core = THIS }
+			ENG_1297 = { add_core = THIS }
+			ENG_1305 = { add_core = THIS }
+			HYD_1283 = { add_core = THIS }
+			ENG_1291 = { add_core = THIS }
+			NAG_1277 = { add_core = THIS }
+			ENG_1275 = { add_core = THIS }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_japan2 = {
+		picture = japan_land_tax_reform
+		potential = {
+			tag = JAP
+			has_unclaimed_cores = no
+			has_country_flag = japkorean
+			NOT = { has_country_flag = greater_japan2 }			
+		}
+				
+		allow = {
+			is_vassal = no
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+			nationalism_n_imperialism = 1
+		}
+		
+		effect = {
+			set_country_flag = greater_japan2
+			JAP_1654 = { add_core = THIS }
+			SPA_2517 = { add_core = THIS }
+			HAW_658 = { add_core = THIS }
+			AST_2454 = { add_core = THIS }
+			AST_2457 = { add_core = THIS }
+			BRZ_2540 = { add_core = THIS }
+			AST_2427 = { add_core = THIS }
+			FRA_1097 = { add_core = THIS }
+			HAW_658 = { add_core = THIS }
+			NET_1449 = { add_core = THIS }
+			SPA_1463 = { add_core = THIS }
+			SPA_1459 = { add_core = THIS }
+			SPA_1455 = { add_core = THIS }
+			CHI_2562 = { add_core = THIS }
+			1531 = { add_core = THIS }
+			2537 = { add_core = THIS }
+			2539 = { add_core = THIS }
+			2534 = { add_core = THIS }
+			2535 = { add_core = THIS }
+			1097 = { add_core = THIS }
+			2536 = { add_core = THIS }
+			2508 = { add_core = THIS }
 		}
 		ai_will_do = { factor = 1 }
 	}
