@@ -813,7 +813,7 @@ country_event = {
 	title = "EVTNAME77862"
 	desc = "EVTDESC77862"
 	major = no
-	picture = "Harassment"
+	picture = "36_parallel"
 	
 	trigger = {
 		tag = FLR
@@ -853,6 +853,69 @@ country_event = {
 			consciousness = 1
 			militancy = 1
 		}
+		set_country_flag = florida7b_happened
+		ai_chance = {
+			factor = 0.1
+		}
+	}
+}
+
+country_event = {
+	id = 77866
+	title = "EVTNAME77866"
+	desc = "EVTDESC77866"
+	major = no
+	picture = "36_parallel"
+	
+	trigger = {
+		tag = FLR
+		year = 1869
+		has_country_flag = florida7a_happened
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77866"
+		any_pop = {
+			consciousness = 1
+			militancy = 1
+		}
+		political_reform = none_voting
+		political_reform = party_appointed
+		country_event = 60040
+		set_country_flag = florida7a_happened
+		ai_chance = {
+			factor = 0.9
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77866"
+		any_pop = {
+			consciousness = 1
+			militancy = 1
+		}
+		political_reform = universal_voting
+		country_event = 60050
+		set_country_flag = florida7b_happened
+		ai_chance = {
+			factor = 0.1
+		}
+	}
+	
+	option = {
+		name = "EVTOPTC77866"
+		any_pop = {
+			consciousness = 1
+			militancy = 1
+		}
+		political_reform = universal_weighted_voting
+		country_event = 60070
 		set_country_flag = florida7b_happened
 		ai_chance = {
 			factor = 0.1

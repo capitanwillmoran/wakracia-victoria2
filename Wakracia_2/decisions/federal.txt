@@ -20,6 +20,7 @@ political_decisions = {
 		effect = {
 			capital = 2209
 			prestige = -5
+			badboy = -0.2
 			release = JAM
 			release = CUR
 			release = AGU
@@ -60,5 +61,51 @@ political_decisions = {
 			create_vassal = CRB
 			set_country_flag = federal_atlantida
 		}
-		ai_will_do = { factor = 1 }
+		ai_will_do = {
+			factor = 0
+			modifier = { factor = 1 badboy = 5 }
+		}
 	}
+
+	federal_hungar = {
+		potential = {
+			tag = X03
+			NOT = { has_country_flag = federal_hungar }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			prestige = 5
+			NOT = {
+				state_n_government = 1
+			}
+		}
+		
+		effect = {
+			prestige = -5
+			badboy = -0.2
+			release = BOS
+			release = AUS
+			release = DLM
+			release = ROM
+			release = BUL
+			release = CRO
+			release = SER
+			release = LBV
+			create_vassal = BOS
+			create_vassal = AUS
+			create_vassal = DLM
+			create_vassal = ROM
+			create_vassal = BUL
+			create_vassal = CRO
+			create_vassal = SER
+			create_vassal = LBV
+			set_country_flag = federal_hungar
+		}
+		ai_will_do = {
+			factor = 0
+			modifier = { factor = 1 badboy = 5 }
+		}
+	}
+}

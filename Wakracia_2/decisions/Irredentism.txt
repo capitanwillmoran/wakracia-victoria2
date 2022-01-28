@@ -1048,6 +1048,7 @@ political_decisions = {
 	}
 
 	greater_florida = {
+		picture = "florida"
 		potential = {
 			tag = FLR
 			NOT = { has_country_flag = greater_florida }			
@@ -1065,6 +1066,11 @@ political_decisions = {
 			set_country_flag = greater_florida
 			USA_232 = { add_core = FLR }
 			246 = { add_core = FLR }
+			174 = { add_core = FLR }
+			173 = { add_core = FLR }
+			176 = { add_core = FLR }
+			175 = { add_core = FLR }
+			177 = { add_core = FLR }
 			USA_170 = { add_core = FLR }
 			USA_176 = { add_core = FLR }
 			216 = { add_core = FLR }
@@ -1072,6 +1078,68 @@ political_decisions = {
 			USA_201 = { add_core = FLR }
 			USA_200 = { add_core = FLR }
 			USA_196 = { add_core = FLR }
+			USA_218 = { add_core = FLR }
+			USA_220 = { add_core = FLR }
+			USA_168 = { add_core = FLR }
+			USA_162 = { add_core = FLR }
+			USA_219 = { add_core = FLR }
+			USA_188 = { add_core = FLR }
+			USA_194 = { add_core = FLR }
+			USA_196 = { add_core = FLR }
+			USA_201 = { add_core = FLR }
+			USA_200 = { add_core = FLR }
+			USA_211 = { add_core = FLR }
+			USA_2556 = { add_core = FLR }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_florida2 = {
+		picture = "florida"
+		potential = {
+			tag = FLR
+			LOU = { exists = yes }
+			FSA = { exists = yes }
+			UIL = { exists = yes }
+			UNB = { exists = yes }
+			DAK = { exists = yes }
+			NOT = { has_country_flag = greater_florida2 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+		}
+		
+		effect = {
+			badboy = 4
+			set_country_flag = greater_florida2
+			UIL = {
+				any_owned = {
+					add_core = FLR
+				}
+			}
+			FSA = {
+				any_owned = {
+					add_core = FLR
+				}
+			}
+			LOU = {
+				any_owned = {
+					add_core = FLR
+				}
+			}
+			UNB = {
+				any_owned = {
+					add_core = FLR
+				}
+			}
+			DAK = {
+				any_owned = {
+					add_core = FLR
+				}
+			}
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -1851,6 +1919,9 @@ political_decisions = {
 		effect = {
 			set_country_flag = greater_rus
 			RUS_958 = { add_core = RUS }
+			RUS_964 = { add_core = RUS }
+			RUS_965 = { add_core = RUS }
+			RUS_980 = { add_core = RUS }
 			RUS_718 = { add_core = RUS }
 			RUS_947 = { add_core = RUS }
 			RUS_977 = { add_core = RUS }
@@ -1874,6 +1945,19 @@ political_decisions = {
 			RUS_1064 = { add_core = RUS }
 			RUS_1184 = { add_core = RUS }
 			RUS_1185 = { add_core = RUS }
+			RUS_1048 = { add_core = RUS }
+			RUS_1052 = { add_core = RUS }
+			RUS_1041 = { add_core = RUS }
+			RUS_349 = { add_core = RUS }
+			RUS_979 = { add_core = RUS }
+			RUS_1182 = { add_core = RUS }
+			RUS_955 = { add_core = RUS }
+			RUS_944 = { add_core = RUS }
+			RUS_354 = { add_core = RUS }
+			RUS_360 = { add_core = RUS }
+			PRU_695 = { add_core = RUS }
+			RUS_707 = { add_core = RUS }
+			RUS_706 = { add_core = RUS }
 			938 = { add_core = RUS }
 			995 = { add_core = RUS }
 			1065 = { add_core = RUS }
@@ -1898,6 +1982,90 @@ political_decisions = {
 			1188 = { add_core = RUS }
 			add_accepted_culture = ugrian
 			add_accepted_culture = uighur
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_austrianhungaria1 = {
+		potential = {
+			tag = X03
+			NOT = {
+				has_country_flag = greater_austrianhungaria1
+			}			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+		}
+		
+		effect = {
+			set_country_flag = greater_austrianhungaria1
+			money = -25000
+			badboy = 4
+			AUS_641 = { add_core = X03 }
+			AUS_647 = { add_core = X03 }
+			AUS_654 = { add_core = X03 }
+			AUS_657 = { add_core = X03 }
+			AUS_619 = { add_core = X03 }
+			AUS_613 = { add_core = X03 }
+			WAL_665 = { add_core = X03 }
+			WAL_623 = { add_core = X03 }
+			AUS_768 = { add_core = X03 }
+			AUS_736 = { add_core = X03 }
+			AUS_771 = { add_core = X03 }
+			AUS_780 = { add_core = X03 }
+			TUR_788 = { add_core = X03 }
+			TUR_803 = { add_core = X03 }
+			TUR_810 = { add_core = X03 }
+			TUR_674 = { add_core = X03 }
+			SER_794 = { add_core = X03 }
+			MON_2582 = { add_core = X03 }
+			635 = { add_core = X03 }
+			809 = { add_core = X03 }
+			633 = { add_core = X03 }
+			791 = { add_core = X03 }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_austrianhungaria2 = {
+		potential = {
+			picture = wakracia_logo
+			tag = X03
+			has_country_flag = greater_austrianhungaria1
+			OR = {
+			government = fascist_dictatorship
+			government = presidential_dictatorship
+			government = bourgeois_dictatorship
+			government = nationalsyndicalist_dictatorship
+			}
+			NOT = {
+				has_country_flag = greater_austrianhungaria2
+			}
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+		}
+		
+		effect = {
+			set_country_flag = greater_austrianhungaria2
+			money = -10000
+			TUR_853 = { add_core = X03 }
+			TUR_832 = { add_core = X03 }
+			TUR_819 = { add_core = X03 }
+			TUR_806 = { add_core = X03 }
+			TUR_805 = { add_core = X03 }
+			TUR_809 = { add_core = X03 }
+			GRE_826 = { add_core = X03 }
+			GRE_837 = { add_core = X03 }
+			660 = { add_core = X03 }
+			658 = { add_core = X03 }
+			659 = { add_core = X03 }
 		}
 		ai_will_do = { factor = 1 }
 	}
