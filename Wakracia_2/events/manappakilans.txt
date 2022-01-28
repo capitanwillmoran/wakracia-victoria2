@@ -7,7 +7,7 @@ country_event = {
 
     trigger = {
         owned_by = DEC
-	year = 1869
+	year = 1840
 	OR = {
             is_great_power = no
             is_secundary_power = no
