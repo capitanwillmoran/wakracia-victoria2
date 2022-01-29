@@ -78,3 +78,58 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = 96031
+	title = "EVTNAME96031"
+	desc = "EVTDESC96031"
+	major = no
+	
+	trigger = {
+		ai = no
+		tag = FLR
+		NOT = {
+			has_country_modifier = florida_capital
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA96031"
+		research_points = 9999
+		add_country_modifier = {
+			name = florida_capital
+			duration = 182
+		}
+		ai_chance = {
+			factor = 0
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB96031"
+		badboy = -5
+		add_country_modifier = {
+			name = florida_capital
+			duration = 182
+		}
+		ai_chance = {
+			factor = 0
+		}
+	}
+	
+	option = {
+		name = "EVTOPTC96031"
+		money = 50000
+		add_country_modifier = {
+			name = florida_capital
+			duration = 182
+		}
+		ai_chance = {
+			factor = 0
+		}
+	}
+}

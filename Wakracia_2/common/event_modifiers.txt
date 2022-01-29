@@ -1038,6 +1038,10 @@ rus_occupied_capital = {
 	icon = 15
 }
 
+florida_capital = {
+	icon = 15
+}
+
 fre_occupied_capital = {
 	icon = 15
 }
