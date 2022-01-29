@@ -2137,6 +2137,15 @@ political_decisions = {
 			HAN_534 = { add_core = SLV }
 			SWE_308 = { add_core = SLV }
 			545 = { add_core = SLV }
+			938 = { add_core = SLV }
+			947 = { add_core = SLV }
+			716 = { add_core = SLV }
+			684 = { add_core = SLV }
+			685 = { add_core = SLV }
+			688 = { add_core = SLV }
+			632 = { add_core = SLV }
+			631 = { add_core = SLV }
+			642 = { add_core = SLV }
 		}
 		ai_will_do = { factor = 1 }
 	}

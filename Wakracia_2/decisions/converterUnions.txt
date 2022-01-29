@@ -2635,6 +2635,7 @@ political_decisions = {
 	}
 	vassal_LVN = {
 		potential = {
+			ai = no
 			NOT = {
 				exists = LVN
 				tag = ITA
@@ -2699,7 +2700,7 @@ political_decisions = {
 			}
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 0
 		}
 	}
 	EGY_copt = {
