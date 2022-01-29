@@ -89,6 +89,24 @@ country_event = {
 			}
 			secede_province = SHG
 		}
+		any_owned = {
+			limit = {
+				is_core = PHI
+			}
+			secede_province = PHI
+		}
+		any_owned = {
+			limit = {
+				is_core = MLC
+			}
+			secede_province = MLC
+		}
+		any_owned = {
+			limit = {
+				is_core = JAV
+			}
+			secede_province = JAV
+		}
 		set_global_flag = china_fragmented_happened
 		}
 	}
