@@ -148,7 +148,7 @@ country_event = {
     }
 
     option = {
-        name = "EVTOPTB77852"
+        name = "EVTOPTB77824"
         any_pop = {
 	consciousness = 3
 	militancy = 3
