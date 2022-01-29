@@ -89,14 +89,13 @@ country_event = {
 		ai = no
 		tag = FLR
 		NOT = {
-			education_spending = 0.6
-			military_spending = 0.4
-			social_spending = 0.13
+			education_spending = 0.13
 		}
-		education_spending = 0.5
-		military_spending = 0.3
-		social_spending = 0.11
-
+		NOT = {
+			military_spending = 0.13
+		}
+		military_spending = 0.10
+		education_spending = 0.10
 	}
 	
 	mean_time_to_happen = {
