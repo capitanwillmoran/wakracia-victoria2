@@ -142,5 +142,19 @@ country_event = {
 		}
         poor_strata = { militancy = 3 }
         }
+	ai_chance = {
+		factor = 1
+	}
     }
+
+    option = {
+        name = "EVTOPTB77852"
+        any_pop = {
+	consciousness = 3
+	militancy = 3
+	}
+    }
+	ai_chance = {
+		factor = 0
+	}
 }
