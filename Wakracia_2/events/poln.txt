@@ -10,7 +10,7 @@ country_event = {
 			has_country_flag = poland_civil_war_happened
 		}
 		or = {
-			year = 1838
+			year = 1837
 			badboy = 0.1
 			militancy = 2
 		}

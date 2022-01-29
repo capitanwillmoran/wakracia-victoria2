@@ -1,6 +1,7 @@
 capital = 369
 primary_culture = hungarian
 culture = zzz_religion_hellenic_pagan
+culture = zzz_religion_norse_pagan_reformed
 religion = hellenic_pagan
 government = absolute_monarchy
 plurality = 0

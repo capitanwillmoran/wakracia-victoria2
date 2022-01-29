@@ -1,6 +1,7 @@
 political_decisions = {
 
 	federal_atlantida = {
+		picture = atlantean
 		potential = {
 			tag = CUB
 			NOT = {
@@ -68,6 +69,7 @@ political_decisions = {
 	}
 
 	federal_hungar = {
+		picture = austriagrecian
 		potential = {
 			tag = X03
 			NOT = { has_country_flag = federal_hungar }			

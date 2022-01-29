@@ -1,0 +1,127 @@
+political_decisions = {
+
+	poland_freed = {
+		picture = SCA_political_union
+		potential = {
+			tag = SLV
+			NOT = { has_country_flag = poland_freed }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			NOT = {exists = POL }
+		}
+		
+		effect = {
+			prestige = -5
+			badboy = -0.2
+			release = POL
+			create_vassal = POL
+			set_country_flag = poland_freed
+		}
+		ai_will_do = {
+			factor = 0
+			modifier = { factor = 1 badboy = 2 }
+		}
+	}
+
+	sweeden_freed = {
+		picture = SCA_political_union
+		potential = {
+			tag = SLV
+			NOT = { has_country_flag = sweeden_freed }	
+			SWE = {
+				ai = yes
+				war = no
+			}		
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			OR = {
+				government = prussian_constitutionalism
+				government = hms_government
+				government = absolute_monarchy
+			}
+		}
+		
+		effect = {
+			prestige = 5
+			badboy = -0.1
+			any_owned = {
+				limit = {
+					is_core = SWE
+				}
+				secede_province = SWE
+			}
+			create_vassal = SWE
+			set_country_flag = sweeden_freed
+		}
+		ai_will_do = {
+			factor = 0
+			modifier = { factor = 1 badboy = 2 }
+		}
+	}
+
+	alps_freed = {
+		picture = SCA_political_union
+		potential = {
+			tag = SLV
+			NOT = { has_country_flag = alps_freed }		
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			OR = {
+				government = prussian_constitutionalism
+				government = hms_government
+				government = absolute_monarchy
+			}
+		}
+		
+		effect = {
+			prestige = -0.5
+			badboy = -0.1
+			release = SWI
+			create_vassal = SWI
+			set_country_flag = alps_freed
+		}
+		ai_will_do = {
+			factor = 0
+			modifier = { factor = 1 badboy = 2 }
+		}
+	}
+
+	venetiansale = {
+		picture = vassal_LVN
+		potential = {
+			is_vassal = no
+			tag = SLV
+			NOT = { has_country_flag = venetiansale }
+		}
+
+		allow = {
+			war = no
+			owns = 729
+		}
+
+		effect = {
+			set_country_flag = venetiansale
+			prestige = 2
+			729 = { secede_province = X09 }
+			money = 100000
+			X09 = {
+				money = -100000
+			}
+			X09 = {
+				relation = {
+					who = SLV
+					value = 100
+				}
+			}
+		}
+	}
+}
