@@ -89,14 +89,13 @@ country_event = {
 		ai = no
 		tag = FLR
 		NOT = {
-			has_country_modifier = florida_capital
-			education_spending = 52
-			military_spending = 26
-			social_spending = 100
+			education_spending = 0.6
+			military_spending = 0.4
+			social_spending = 0.13
 		}
-		education_spending = 50
-		military_spending = 25
-		social_spending = 99
+		education_spending = 0.5
+		military_spending = 0.3
+		social_spending = 0.11
 
 	}
 	
@@ -107,10 +106,6 @@ country_event = {
 	option = {
 		name = "EVTOPTA96031"
 		research_points = 9999
-		add_country_modifier = {
-			name = florida_capital
-			duration = 30
-		}
 		ai_chance = {
 			factor = 0
 		}
@@ -119,10 +114,6 @@ country_event = {
 	option = {
 		name = "EVTOPTB96031"
 		badboy = -5
-		add_country_modifier = {
-			name = florida_capital
-			duration = 182
-		}
 		ai_chance = {
 			factor = 0
 		}
@@ -131,10 +122,6 @@ country_event = {
 	option = {
 		name = "EVTOPTC96031"
 		money = 50000
-		add_country_modifier = {
-			name = florida_capital
-			duration = 182
-		}
 		ai_chance = {
 			factor = 0
 		}
