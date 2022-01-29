@@ -701,6 +701,10 @@ country_event = {
 			year = 1861
 			year = 1862
 			year = 1863
+			year = 1864
+			year = 1867
+			year = 1866
+			year = 1867
 		}
 		government = democracy
 		election = no
@@ -741,6 +745,10 @@ country_event = {
 			year = 1861
 			year = 1862
 			year = 1863
+			year = 1864
+			year = 1867
+			year = 1866
+			year = 1867
 		}
 		government = democracy
 		election = no
@@ -781,6 +789,10 @@ country_event = {
 			year = 1861
 			year = 1862
 			year = 1863
+			year = 1864
+			year = 1867
+			year = 1866
+			year = 1867
 		}
 		government = democracy
 		election = no
@@ -788,7 +800,7 @@ country_event = {
 		has_country_flag = florida6_happened
 		NOT = {
 			has_country_flag = florida7_happened
-			year = 1864
+			year = 1868
 		}
 	}
 	
