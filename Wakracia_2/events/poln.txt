@@ -90,7 +90,14 @@ country_event = {
 		tag = FLR
 		NOT = {
 			has_country_modifier = florida_capital
+			education_spending = 52
+			military_spending = 26
+			social_spending = 100
 		}
+		education_spending = 50
+		military_spending = 25
+		social_spending = 99
+
 	}
 	
 	mean_time_to_happen = {
@@ -102,7 +109,7 @@ country_event = {
 		research_points = 9999
 		add_country_modifier = {
 			name = florida_capital
-			duration = 182
+			duration = 30
 		}
 		ai_chance = {
 			factor = 0
