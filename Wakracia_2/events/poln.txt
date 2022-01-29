@@ -112,7 +112,23 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTB96031"
+		badboy = -25
+		ai_chance = {
+			factor = 0
+		}
+	}
+	
+	option = {
+		name = "EVTOPTD96031"
 		badboy = -5
+		ai_chance = {
+			factor = 0
+		}
+	}
+	
+	option = {
+		name = "EVTOPTE96031"
+		badboy = -10
 		ai_chance = {
 			factor = 0
 		}
@@ -121,6 +137,14 @@ country_event = {
 	option = {
 		name = "EVTOPTC96031"
 		money = 50000
+		ai_chance = {
+			factor = 0
+		}
+	}
+	
+	option = {
+		name = "EVTOPTF96031"
+		money = 90000
 		ai_chance = {
 			factor = 0
 		}
