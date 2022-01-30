@@ -107,7 +107,7 @@ country_event = {
 		year = 1880
 		or = {	
 			badboy = 0.3
-			militancy = 3
+			militancy = 1
 		}
 		NOT = {
 			exists = RUM
@@ -121,47 +121,6 @@ country_event = {
 
 	mean_time_to_happen =  {
 		months = 1
-
-		modifier = {
-			factor = 0.75 #increase likelihood to happen
-			year = 1880
-		}
-
-
-		modifier = {
-			factor = 0.76 #increase likelihood to happen
-			year = 1881
-		}
-
-		modifier = {
-			factor = 0.80 #increase likelihood to happen
-			year = 1882
-		}
-
-		modifier = {
-			factor = 0.85 #increase likelihood to happen
-			year = 1883
-		}
-
-		modifier = {
-			factor = 0.90 #increase likelihood to happen
-			year = 1884
-		}
-
-		modifier = {
-			factor = 0.93 #increase likelihood to happen
-			year = 1885
-		}
-
-		modifier = {
-			factor = 0.95 #increase likelihood to happen
-			year = 1886
-		}
-
-		modifier = {
-			factor = 0.99 #increase likelihood to happen
-			year = 1887
-		}
 	}
 	
 	option = {
@@ -261,17 +220,6 @@ country_event = {
 	
 	mean_time_to_happen = {
 		months = 1
-
-		modifier = {
-			factor = 0.85 #increase likelihood to happen
-			year = 1901
-		}
-
-
-		modifier = {
-			factor = 0.99 #increase likelihood to happen
-			year = 1902
-		}
 	}
 	
 	option = {
