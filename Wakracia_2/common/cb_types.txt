@@ -69,6 +69,13 @@ unification_casus_belli
 unification_annex_casus_belli
 rude_boy
 annex
+install_syndicalist_regime
+install_agrarist_regime
+install_fascist_regime
+install_theocratic_regime
+install_authoritarian_regime
+install_democracy
+install_absolute_monarchy
 install_communist_gov_cb
 uninstall_communist_gov_cb
 great_war_penalty_cb 
@@ -1562,9 +1569,9 @@ install_communist_gov_cb = {
 	months = 12
 	crisis = no
 
-	badboy_factor = 1
-	prestige_factor = 1
-	peace_cost_factor = 1
+	badboy_factor = 3
+	prestige_factor = 0
+	peace_cost_factor = 50
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -1789,3 +1796,469 @@ establish_protectorate_BC_casus_belli = {
 		}
 	}
 }
+
+install_absolute_monarchy = {
+	sprite_index = 11
+	is_triggered_only = yes
+	months = 12
+	construction_speed = 1.5
+	crisis = no
+
+	badboy_factor = 3
+	prestige_factor = 0
+	peace_cost_factor = 50
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 1
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		THIS = {
+			OR = { war_policy = jingoism war_policy = pro_military }
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+				ai = no
+			}
+			OR = {
+				government = absolute_monarchy
+				government = hms_government
+				government = prussian_constitutionalism
+			}
+		}
+		OR = { is_vassal = no is_our_vassal = THIS }
+		civilized = yes
+		
+	}
+
+	po_add_to_sphere = yes
+
+	war_name = WAR_INSTALL_NEW_GOV_NAME
+	
+	on_add = {
+	
+		set_country_flag = this_is_aggressor
+	
+		move_issue_percentage = {
+			from = jingoism 
+			to = pro_military
+			value = 0.05
+		}
+	}
+	
+	on_po_accepted = {
+	
+		THIS = { set_country_flag = friendly_monarchy }
+		country_event = 1610020
+		
+		THIS = { set_country_flag = this_won_CB }
+		set_country_flag = this_lost_CB
+		
+	}
+}
+
+install_democracy = {
+	sprite_index = 11
+	is_triggered_only = yes
+	months = 12
+	construction_speed = 1.5
+	crisis = no
+
+	badboy_factor = 3
+	prestige_factor = 0
+	peace_cost_factor = 50
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 1
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+
+		THIS = { 
+			OR = { 
+				AND = { has_country_flag = truman_doctrine has_global_flag = blocsenabled }
+				AND = {
+					OR = { war_policy = jingoism war_policy = pro_military } 
+
+					OR = { is_greater_power = yes is_secondary_power = yes ai = no }
+
+					government = democracy
+				}
+			} 	
+		}
+
+		is_vassal = no
+		civilized = yes
+		
+		NOT = { is_our_vassal = THIS }
+		NOT = { government = democracy } 
+	}
+	
+	po_add_to_sphere = yes
+
+	war_name = WAR_INSTALL_NEW_GOV_NAME
+	
+	on_add = {
+	
+		set_country_flag = this_is_aggressor
+	
+		move_issue_percentage = {
+			from = jingoism 
+			to = pro_military
+			value = 0.05
+		}
+	}
+	
+	on_po_accepted = {
+	
+		#Enforce an unconditional surrender
+		country_event = 1610129
+	
+		THIS = {
+			set_country_flag = friendly_democracy
+			any_country = {
+				limit = {
+					NOT = { government = hms_government }
+					NOT = { government = democracy }
+				}
+				relation = { who = THIS value = -50 }
+			}
+		}
+		country_event = 96085
+		
+		THIS = { set_country_flag = this_won_CB }
+		set_country_flag = this_lost_CB
+		
+	}
+}
+
+install_authoritarian_regime = {
+	sprite_index = 11
+	is_triggered_only = yes
+	months = 12
+	construction_speed = 1.5
+	crisis = no
+
+	badboy_factor = 3
+	prestige_factor = 0
+	peace_cost_factor = 50
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 1
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		THIS = {
+			OR = { war_policy = jingoism war_policy = pro_military }
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+				ai = no
+			}
+			OR = { government = presidential_dictatorship government = bourgeois_dictatorship }
+			
+		}
+		OR = { is_vassal = no is_our_vassal = THIS }
+		civilized = yes
+		
+	}
+	
+	po_add_to_sphere = yes
+
+	war_name = WAR_INSTALL_NEW_GOV_NAME
+	
+	on_add = {
+	
+		set_country_flag = this_is_aggressor
+	
+		move_issue_percentage = {
+			from = jingoism 
+			to = pro_military
+			value = 0.05
+		}
+	}
+	
+	on_po_accepted = {
+	
+		THIS = { set_country_flag = friendly_authoritarian_regime }
+		country_event = 96088
+		
+		THIS = { set_country_flag = this_won_CB }
+		set_country_flag = this_lost_CB
+		
+	}
+}
+
+install_theocratic_regime = {
+	sprite_index = 11
+	is_triggered_only = yes
+	months = 12
+	construction_speed = 1.5
+	crisis = no
+
+	badboy_factor = 3
+	prestige_factor = 0
+	peace_cost_factor = 50
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 1
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		THIS = {
+			government = theocracy
+			OR = { war_policy = jingoism war_policy = pro_military }
+		}
+		OR = { is_vassal = no is_our_vassal = THIS }
+		civilized = yes
+		
+		# There are some amount of traditionalist already in the country
+		theocratic = 5
+		
+		# If reciever current gov is not a theochracy
+		NOT = {
+			government = theocracy
+		}
+		
+	}
+	
+	po_add_to_sphere = yes
+
+	war_name = WAR_INSTALL_NEW_GOV_NAME
+	
+	on_add = {
+	
+		set_country_flag = this_is_aggressor
+	
+		move_issue_percentage = {
+			from = jingoism 
+			to = pro_military
+			value = 0.05
+		}
+	}
+	
+	on_po_accepted = {
+	
+		THIS = { set_country_flag = friendly_theocratic_regime }
+		country_event = 96089
+		
+		THIS = { set_country_flag = this_won_CB }
+		set_country_flag = this_lost_CB
+		
+	}
+}
+
+install_fascist_regime = {
+	sprite_index = 11
+	is_triggered_only = yes
+	months = 12
+	construction_speed = 1.5
+	crisis = no
+
+	badboy_factor = 3
+	prestige_factor = 0
+	peace_cost_factor = 50
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 1
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		THIS = {
+			government = fascist_dictatorship
+			OR = { war_policy = jingoism war_policy = pro_military }
+		}
+		OR = { is_vassal = no is_our_vassal = THIS }
+		civilized = yes
+		
+		# There are some amount of traditionalist already in the country
+		fascist = 5
+		
+		NOT = {
+			government = fascist_dictatorship
+		}
+		
+	}
+	
+	po_add_to_sphere = yes
+
+	war_name = WAR_INSTALL_NEW_GOV_NAME
+	
+	on_add = {
+	
+		set_country_flag = this_is_aggressor
+	
+		move_issue_percentage = {
+			from = jingoism 
+			to = pro_military
+			value = 0.05
+		}
+	}
+	
+	on_po_accepted = {
+	
+		THIS = { set_country_flag = friendly_fascist_regime }
+		country_event = 96090
+		
+		THIS = { set_country_flag = this_won_CB }
+		set_country_flag = this_lost_CB
+		
+	}
+}
+
+install_agrarist_regime = {
+	sprite_index = 11
+	is_triggered_only = yes
+	months = 12
+	construction_speed = 1.5
+	crisis = no
+
+	badboy_factor = 3
+	prestige_factor = 0
+	peace_cost_factor = 50
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 1
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		THIS = {
+			government = agrarist
+			OR = { war_policy = jingoism war_policy = pro_military }
+		}
+		OR = { is_vassal = no is_our_vassal = THIS }
+		civilized = yes
+		
+		agrarism = 5
+		
+		NOT = {
+			government = agrarist
+		}
+		
+	}
+	
+	po_add_to_sphere = yes
+
+	war_name = WAR_INSTALL_NEW_GOV_NAME
+	
+	on_add = {
+	
+		set_country_flag = this_is_aggressor
+	
+		move_issue_percentage = {
+			from = jingoism 
+			to = pro_military
+			value = 0.05
+		}
+	}
+	
+	on_po_accepted = {
+	
+		THIS = { set_country_flag = friendly_agrarist_regime }
+		country_event = 96091
+		
+		THIS = { set_country_flag = this_won_CB }
+		set_country_flag = this_lost_CB
+		
+	}
+}
+
+install_syndicalist_regime = {
+	sprite_index = 11
+	is_triggered_only = yes
+	months = 12
+	construction_speed = 1.5
+	crisis = no
+
+	badboy_factor = 3
+	prestige_factor = 0
+	peace_cost_factor = 50
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 1
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		THIS = {
+			government = agrarist
+			OR = { war_policy = jingoism war_policy = pro_military }
+		}
+		OR = { is_vassal = no is_our_vassal = THIS }
+		civilized = yes
+		
+		nationalsyndicalist = 5
+		
+		NOT = {
+			government = nationalsyndicalist_dictatorship
+		}
+		
+	}
+	
+	po_add_to_sphere = yes
+
+	war_name = WAR_INSTALL_NEW_GOV_NAME
+	
+	on_add = {
+	
+		set_country_flag = this_is_aggressor
+	
+		move_issue_percentage = {
+			from = jingoism 
+			to = pro_military
+			value = 0.05
+		}
+	}
+	
+	on_po_accepted = {
+	
+		THIS = { set_country_flag = friendly_agrarist_regime }
+		country_event = 96092
+		
+		THIS = { set_country_flag = this_won_CB }
+		set_country_flag = this_lost_CB
+		
+	}
+}
+
