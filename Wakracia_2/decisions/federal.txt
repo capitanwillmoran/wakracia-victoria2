@@ -110,4 +110,39 @@ political_decisions = {
 			modifier = { factor = 1 badboy = 5 }
 		}
 	}
+
+	culturalatlantis = {
+		picture = atlantis
+		potential = {
+			tag = CUB
+			NOT = { has_country_flag = culturalatlantis }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+			
+		}
+		
+		effect = {
+			prestige = -10
+			badboy = 3
+			add_accepted_culture = carribean
+			add_accepted_culture = afrogreek
+			add_accepted_culture = atlantean
+			add_accepted_culture = afrobrazilian
+			add_accepted_culture = afroslavic
+			add_accepted_culture = novisvet
+			add_accepted_culture = afroslavic
+			add_accepted_culture = ealimi
+			add_accepted_culture = afronorse
+			add_accepted_culture = hjartnaaeter
+			set_country_flag = culturalatlantis
+		}
+		ai_will_do = {
+			factor = 0
+			modifier = { factor = 1 badboy = 5 }
+		}
+	}
 }

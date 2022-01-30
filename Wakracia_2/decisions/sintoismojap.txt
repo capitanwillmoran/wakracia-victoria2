@@ -1,0 +1,30 @@
+political_decisions = {
+
+	sintoismojap = {
+		picture = become_japan
+		potential = {
+			is_vassal = no
+			tag = JAP
+			NOT = { has_country_flag = sintoismojap }
+		}
+
+		allow = {
+			war = no
+			OR ={
+				ruling_party_ideology = reactionary
+				ruling_party_ideology = fascist
+			}
+		}
+
+		effect = {
+			set_country_flag = sintoismojap
+			prestige = 2
+			badboy = 1
+			rich_strata = { militancy = 1 }
+			poor_strata = { militancy = -0.1 }
+			remove_accepted_culture = zzz_religion_hellenic_pagan
+			add_accepted_culture = zzz_religion_shinto
+			religion = shinto
+		}
+	}
+}
