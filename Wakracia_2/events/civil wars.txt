@@ -205,13 +205,13 @@ country_event = {
 		year = 1900
 		or = {	
 			badboy = 0.3
-			militancy = 3
+			militancy = 1
 		}	
 		NOT = {
 			exists = BAB
 			exists = IRQ
 			exists = SYR
-			year = 1903
+			year = 1915
 			has_country_flag = syrian_civil_war_happened
 		}
 	}
