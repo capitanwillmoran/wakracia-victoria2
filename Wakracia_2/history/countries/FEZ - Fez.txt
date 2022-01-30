@@ -8,6 +8,7 @@ nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
+is_releasable_vassal = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -17,6 +18,7 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
+
 # Political Reforms
 slavery=yes_slavery
 vote_franschise=none_voting
@@ -44,6 +46,8 @@ consciousness = 0
 nonstate_consciousness= 0
 
 # Technologies
+flintlock_rifles = 1
+post_napoleonic_thought = 1
 prestige=0
 oob = "FEZ_OOB.txt"
 set_country_flag = religi

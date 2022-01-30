@@ -294,6 +294,7 @@ political_decisions = {
 				tag = ENS
 				tag = FRR
 				tag = SCA
+				tag = X03
 			}
 		}
 		
@@ -1116,9 +1117,11 @@ unite_moldavia_wallachia = {
 				tag = HRE
 				tag = SLV
 				tag = WSF
+				tag = X03
 			}
 			OR = {
 				NOT = { exists = CZH }
+				NOT = { exists = X03 }
 				AND = {
 					tag = CZH
 					exists = SLV

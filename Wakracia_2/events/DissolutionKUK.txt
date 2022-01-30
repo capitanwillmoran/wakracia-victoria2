@@ -435,6 +435,7 @@ country_event = { #Austria-Hungary destroyed
 		NOT = { exists = HUN }
 		NOT = { is_our_vassal = AUS }
 		has_recently_lost_war = yes
+		year = 1955
 	}
 	
 	mean_time_to_happen = {
