@@ -518,10 +518,10 @@ movement_free_press;Campaign for Free Press;Campagne pour la presse libre;Kampag
 movement_state_controlled;Campaign for State Controlled Unions;Campagne pour des syndicats contrôlés par l'état;Kampagne für staatlich kontrollierte Gewerkschaften;;Campaña por Sindicatos Controlados por el Estado;;;;;;;;;x
 movement_non_socialist;Campaign for Non-Socialist Unions ;Campagne pour des syndicats non-socialistes;Kampagne für nicht-sozialistische Gewerkschaften;;Campaña por Sindicatos No-Socialistas;;;;;;;;;x
 movement_all_trade_unions;Campaign for Free Trade unions;Campagne pour la liberté syndicale;Kampagne für Freihandelsgewerkschaften;;Campaña por Sindicalos Libres;;;;;;;;;x
-movement_harassment;Voters Rights Movement;Mouvement des droits des électeurs;Wählerrechte-Bewegung;;Movimiento de Votantes de Derecha;;;;;;;;;x
-movement_gerrymandering;Voters Rights Movement;Mouvement des droits des électeurs;Wählerrechte-Bewegung;;Movimiento de Votantes de Derecha;;;;;;;;;x
-movement_non_secret_ballots;Voters Rights Movement;Mouvement des droits des électeurs;Wählerrechte-Bewegung;;Movimiento de Votantes de Derecha;;;;;;;;;x
-movement_secret_ballots;Voters Rights Movement;Mouvement des droits des électeurs;Wählerrechte-Bewegung;;Movimiento de Votantes de Derecha;;;;;;;;;x
+movement_harassment;Voters Rights Movement;Mouvement des droits des électeurs;Wählerrechte-Bewegung;;Movimiento por los Derechos de los Votantes;;;;;;;;;x
+movement_gerrymandering;Voters Rights Movement;Mouvement des droits des électeurs;Wählerrechte-Bewegung;;Movimiento por los Derechos de los Votantes;;;;;;;;;x
+movement_non_secret_ballots;Voters Rights Movement;Mouvement des droits des électeurs;Wählerrechte-Bewegung;;Movimiento por los Derechos de los Votantes;;;;;;;;;x
+movement_secret_ballots;Voters Rights Movement;Mouvement des droits des électeurs;Wählerrechte-Bewegung;;Movimiento por los Derechos de los Votantes;;;;;;;;;x
 movement_trinket_wage;Minimum Wage Movement;Mouvement pour un salaire minimum;Mindestlohn-Bewegung;;Movimiento del Salario Mínimo;;;;;;;;;x
 movement_low_minimum_wage;Minimum Wage Movement;Mouvement pour un salaire minimum;Mindestlohn-Bewegung;;Movimiento del Salario Mínimo;;;;;;;;;x
 movement_acceptable_minimum_wage;Minimum Wage Movement;Mouvement pour un salaire minimum;Mindestlohn-Bewegung;;Movimiento del Salario Mínimo;;;;;;;;;x
@@ -556,10 +556,10 @@ NORMAL_CIVIL_WAR_NAME_USA_CSA_CSA;$ORDER$War of Northern Aggression;$ORDER$ guer
 NORMAL_CIVIL_WAR_NAME_USA_CSA_USA;$ORDER$War of the Rebellion;$ORDER$ guerre de rébellion;$ORDER$Rebellionskrieg;;$ORDER$ Guerra de la Rebelión;;;;;;;;;x
 NORMAL_WAR_GUNBOAT_NAME;$ORDER$$FIRST$ intervention in $SECOND_COUNTRY$;$ORDER$$FIRST$ intervention en $SECOND_COUNTRY$;$ORDER$$FIRST$ Intervention in $SECOND_COUNTRY$;;$ORDER$ Intervención $FIRST$ en $SECOND_COUNTRY$;;;;;;;;;x
 NORMAL_WAR_GUNBOAT_NAME_FRA_MEX;$ORDER$Pastry War;$ORDER$ guerre de la pâtisserie;$ORDER$Kuchenkrieg;;$ORDER$ Guerra de los pasteles;;;;;;;;;x
-NORMAL_WAR_TAKE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;$ORDER$ guerre mexicano-américaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;$ORDER$Guerra México-Americana;;;;;;;;;x
-NORMAL_WAR_TAKE_NAME_USA_MEX_MEX;$ORDER$American Invasion of Mexico;$ORDER$ guerre américaine d'invasion du Mexique;$ORDER$Amerikanische Invasion von Mexiko;;$ORDER$Guerra México-Americana;;;;;;;;;x
-NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;$ORDER$ guerre mexicano-américaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;$ORDER$Guerra México-Americana;;;;;;;;;x
-NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_MEX;$ORDER$American Invasion of Mexico;$ORDER$ guerre américaine d'invasion du Mexique;$ORDER$Amerikanische Invasion von Mexiko;;$ORDER$Guerra México-Americana;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;$ORDER$ guerre mexicano-américaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;$ORDER$Guerra Rogiria-Atlante;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_USA_MEX_MEX;$ORDER$American Invasion of Mexico;$ORDER$ guerre américaine d'invasion du Mexique;$ORDER$Amerikanische Invasion von Mexiko;;$ORDER$Guerra Rogiria-Atlante;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;$ORDER$ guerre mexicano-américaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;$ORDER$Guerra Rogiria-Atlante;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_MEX;$ORDER$American Invasion of Mexico;$ORDER$ guerre américaine d'invasion du Mexique;$ORDER$Amerikanische Invasion von Mexiko;;$ORDER$Guerra Rogiria-Atlante;;;;;;;;;x
 NORMAL_WAR_GUNBOAT_NAME_ENG_CHI;$ORDER$Opium War;$ORDER$ guerre de l'opium;$ORDER$Opiumkrieg;;$ORDER$Guerra del Opio;;;;;;;;;x
 NORMAL_WAR_ADD_SPHERE_NAME_ENG_CHI;$ORDER$Opium War;$ORDER$ guerre de l'opium;$ORDER$Opiumkrieg;;$ORDER$Guerra del Opio;;;;;;;;;x
 NORMAL_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST$ War of Independence;$ORDER$$FIRST$ guerre d'indépendance;$ORDER$$FIRST$ Unabhängigkeitskrieg;;$ORDER$ Guerra de Independencia $FIRST$;;;;;;;;;x
@@ -583,8 +583,8 @@ NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;$ORDER$$SECOND$
 NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;$ORDER$$SECOND$ guerre d'indépendence;$ORDER$$SECOND$ Unabhängigkeitskrieg;;$ORDER$ Guerra de Independencia $SECOND$;;;;;;;;;x
 NORMAL_WAR_CONQUEST_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;$ORDER$$SECOND$ guerre d'indépendence;$ORDER$$SECOND$ Unabhängigkeitskrieg;;$ORDER$ Guerra de Independencia $SECOND$;;;;;;;;;x
 NORMAL_WAR_HUMILIATE_NAME;$ORDER$$FIRST$-$SECOND$ War of Honor;$ORDER$ guerre pour l'honneur $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Krieg der Ehre;;$ORDER$ Guerra de Honor $FIRST$-$SECOND$ ;;;;;;;;;x
-NORMAL_WAR_UNIFICATION_NAME_PRU_FRA;$ORDER$Franco-Prussian War;$ORDER$ guerre franco-prussienne;$ORDER$Franco-Preussischer Krieg;;$ORDER$ Guerra Franco-Prusiana;;;;;;;;;x
-NORMAL_WAR_UNIFICATION_NAME_NGF_FRA;$ORDER$Franco-Prussian War;$ORDER$ guerre franco-prussienne;$ORDER$Franco-Preussischer Krieg;;$ORDER$ Guerra Franco-Prusiana;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_NAME_PRU_FRA;$ORDER$Franco-Prussian War;$ORDER$ guerre franco-prussienne;$ORDER$Franco-Preussischer Krieg;;$ORDER$ Guerra Galo-Prusiana;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_NAME_NGF_FRA;$ORDER$Franco-Prussian War;$ORDER$ guerre franco-prussienne;$ORDER$Franco-Preussischer Krieg;;$ORDER$ Guerra Galo-Prusiana;;;;;;;;;x
 CAN_INVEST_IN_RAILROADS;Allowed to invest in railroads;Autoriser à investir dans les chemins de fer;Investitionen in Eisenbahnen erlaubt;;Autorizados a invertir en ferrocarriles;;;;;;;;;x
 land_reform;Land reform;Réforme rurale;Landreform;;Reforma agraria;;;;;;;;;x
 land_reform_l;Land reform;Réforme agraire;Landreform;;Reforma agraria;;;;;;;;;x
