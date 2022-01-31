@@ -60,6 +60,7 @@ country_event = {
 				is_core = ALB
 			}
 			secede_province = ALB
+			remove_core = BYZ
 		}
 		ALB = {
 			capital = 850
