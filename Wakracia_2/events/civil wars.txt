@@ -558,7 +558,7 @@ country_event = {
 		NOT = {
 			exists = EGY
 			exists = CEG
-			has_country_flag = egypt_civil_war_happened
+			has_country_flag = egyptian_civil_war_happened
 		}
 	}
 
@@ -604,7 +604,7 @@ country_event = {
 				casus_belli = status_quo
 			}
 		}
-		set_country_flag = egypt_civil_war_happened
+		set_country_flag = egyptian_civil_war_happened
 	}
 	
 	option = {
@@ -633,6 +633,6 @@ country_event = {
    			prestige = 1
 			}
 		}
-		set_country_flag = egypt_civil_war_happened
+		set_country_flag = egyptian_civil_war_happened
 	}
 }
