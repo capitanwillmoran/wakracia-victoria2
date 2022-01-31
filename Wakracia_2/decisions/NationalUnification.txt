@@ -54,6 +54,7 @@ political_decisions = {
             add_accepted_culture = finnish
             add_accepted_culture = icelandic
             add_accepted_culture = sami
+            add_accepted_culture = elsinorian
             any_country = {
                 limit = {
                     NOT = {
