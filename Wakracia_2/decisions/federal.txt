@@ -63,8 +63,11 @@ political_decisions = {
 			set_country_flag = federal_atlantida
 		}
 		ai_will_do = {
-			factor = 0
-			modifier = { factor = 1 badboy = 5 }
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.3
+			}
 		}
 	}
 
@@ -106,8 +109,11 @@ political_decisions = {
 			set_country_flag = federal_hungar
 		}
 		ai_will_do = {
-			factor = 0
-			modifier = { factor = 1 badboy = 5 }
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.3
+			}
 		}
 	}
 
@@ -141,8 +147,11 @@ political_decisions = {
 			set_country_flag = culturalatlantis
 		}
 		ai_will_do = {
-			factor = 0
-			modifier = { factor = 1 badboy = 5 }
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.3
+			}
 		}
 	}
 }

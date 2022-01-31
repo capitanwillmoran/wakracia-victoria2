@@ -2019,6 +2019,7 @@ political_decisions = {
 			AUS_657 = { add_core = X03 }
 			AUS_619 = { add_core = X03 }
 			AUS_613 = { add_core = X03 }
+			AUS_623 = { add_core = X03 }
 			WAL_665 = { add_core = X03 }
 			WAL_623 = { add_core = X03 }
 			AUS_768 = { add_core = X03 }
@@ -2074,8 +2075,8 @@ political_decisions = {
 			TUR_809 = { add_core = X03 }
 			GRE_826 = { add_core = X03 }
 			GRE_837 = { add_core = X03 }
+			AUS_657 = { add_core = X03 }
 			660 = { add_core = X03 }
-			658 = { add_core = X03 }
 			659 = { add_core = X03 }
 		}
 		ai_will_do = { factor = 1 }
@@ -2191,9 +2192,13 @@ political_decisions = {
 				add_core = SCA
 			}
 		}
+
 		ai_will_do = {
-			factor = 0
-			modifier = { factor = 1 badboy = 5 }
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.3
+			}
 		}
 	}
 
@@ -2202,7 +2207,6 @@ political_decisions = {
 		potential = {
 			tag = CUB
 			has_country_flag = atlankepnian_civil_war_happened
-			OR = {
 			VNZ = { exists = no }
 			NOT = {
 				has_country_flag = atlanteankepnia
@@ -2223,12 +2227,16 @@ political_decisions = {
 				limit = {
 					is_core = CLM
 				}
-				add_core = CLM
+				add_core = CUB
 			}
 		}
+
 		ai_will_do = {
-			factor = 0
-			modifier = { factor = 1 badboy = 5 }
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.3
+			}
 		}
 	}
 
@@ -2237,7 +2245,6 @@ political_decisions = {
 		potential = {
 			tag = CUB
 			has_country_flag = atlankepnian_civil_war_happened
-			OR = {
 			MEX = { exists = yes }
 			RGR = { exists = yes }
 			CLM = { exists = no }
@@ -2261,12 +2268,251 @@ political_decisions = {
 				limit = {
 					is_core = MEX
 				}
-				add_core = MEX
+				add_core = CUB
 			}
 		}
 		ai_will_do = {
-			factor = 0
-			modifier = { factor = 1 badboy = 5 }
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.3
+			}
+		}
+	}
+
+	vinlandiagrande = {
+		picture = manifest_destiny
+		potential = {
+			tag = VNL
+			NOT = {
+				has_country_flag = vinlandiagrande
+				has_country_flag = hurongrande
+			}
+		}
+
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+		}
+
+		effect = {
+			set_country_flag = vinlandiagrande
+			money = -10000
+			badboy = 3
+			ENG_58 = { add_core = VNL }
+			ENG_46 = { add_core = VNL }
+			ENG_36 = { add_core = VNL }
+			ENG_68 = { add_core = VNL }
+			USA_247 = { add_core = VNL }
+			USA_243 = { add_core = VNL }
+			USA_232 = { add_core = VNL }
+			USA_231 = { add_core = VNL }
+			USA_223 = { add_core = VNL }
+			USA_219 = { add_core = VNL }
+			USA_2220 = { add_core = VNL }
+			USA_211 = { add_core = VNL }
+			USA_201 = { add_core = VNL }
+			USA_2556 = { add_core = VNL }
+			USA_218 = { add_core = VNL }
+			DEN_251 = { add_core = VNL }
+		}
+
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.3
+			}
+		}
+	}
+
+	hurongrande = {
+		picture = trail_of_tears
+		potential = {
+			tag = HUR
+			NOT = {
+				has_country_flag = vinlandiagrande
+				has_country_flag = hurongrande
+			}
+		}
+
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+		}
+
+		effect = {
+			set_country_flag = hurongrande
+			money = -10000
+			badboy = 3
+			ENG_58 = { add_core = HUR }
+			ENG_68 = { add_core = HUR }
+			ENG_46 = { add_core = HUR }
+			USA_247 = { add_core = HUR }
+			USA_243 = { add_core = HUR }
+			USA_232 = { add_core = HUR }
+			USA_176 = { add_core = HUR }
+			USA_118 = { add_core = HUR }
+			USA_158 = { add_core = HUR }
+			USA_162 = { add_core = HUR }
+			USA_121 = { add_core = HUR }
+			USA_151 = { add_core = HUR }
+			USA_168 = { add_core = HUR }
+			USA_170 = { add_core = HUR }
+			USA_178 = { add_core = HUR }
+			USA_223 = { add_core = HUR }
+			66 = { add_core = HUR }
+			57 = { add_core = HUR }
+		}
+
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.3
+			}
+		}
+	}
+
+	canoniagrande = {
+		picture = trail_of_tears
+		potential = {
+			tag = PEU
+			NOT = {
+				has_country_flag = canoniagrande
+			}
+		}
+
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+		}
+
+		effect = {
+			set_country_flag = canoniagrande
+			money = -20000
+			badboy = 4
+			PRG_2343 = { add_core = PEU }
+			PRG_2338 = { add_core = PEU }
+			ARG_2357 = { add_core = PEU }
+			BRZ_2467 = { add_core = PEU }
+			ARG_2368 = { add_core = PEU }
+			ECU_2279 = { add_core = PEU }
+			PEU_2289 = { add_core = PEU }
+			2365 = { add_core = PEU }
+			2364 = { add_core = PEU }
+			2318 = { add_core = PEU }
+		}
+
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.3
+			}
+		}
+	}
+
+	bigindia = {
+		picture = indian_2510
+		potential = {
+			tag = HND
+			NOT = {
+				has_country_flag = bigindia
+			}
+		}
+
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			has_unclaimed_cores = no
+		}
+
+		effect = {
+			set_country_flag = bigindia
+			money = -20000
+			badboy = 4
+			BUR_1330 = { add_core = HND }
+			BUR_1334 = { add_core = HND }
+			ENG_1343 = { add_core = HND }
+			SIA_1392 = { add_core = HND }
+			SIA_1358 = { add_core = HND }
+			SIA_1355 = { add_core = HND }
+			SIA_1366 = { add_core = HND }
+			ANN_1383 = { add_core = HND }
+			ANN_1374 = { add_core = HND }
+			LUA_1356 = { add_core = HND }
+			PAN_1224 = { add_core = HND }
+			TIB_1591 = { add_core = HND }
+			NEP_1327 = { add_core = HND }
+			ENG_1258 = { add_core = HND }
+			1223 = { add_core = HND }
+		}
+
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.3
+			}
+		}
+	}
+
+	bigbactria = {
+		picture = wakracia_logo
+		potential = {
+			tag = X04
+			RAJ = { exists = no }
+			NOT = {
+				has_country_flag = bigbactria
+				government = proletarian_dictatorship
+			}
+		}
+
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			has_unclaimed_cores = no
+		}
+
+		effect = {
+			set_country_flag = bigbactria
+			money = -40000
+			badboy = 4
+			any_owned = {
+				limit = {
+					is_core = HND
+				}
+				add_core = X04
+			}
+			BUR_1330 = { add_core = X04 }
+			BUR_1334 = { add_core = X04 }
+			ENG_1343 = { add_core = X04 }
+			SIA_1392 = { add_core = X04 }
+			SIA_1358 = { add_core = X04 }
+			SIA_1355 = { add_core = X04 }
+			SIA_1366 = { add_core = X04 }
+			ANN_1383 = { add_core = X04 }
+			ANN_1374 = { add_core = X04 }
+			LUA_1356 = { add_core = X04 }
+			PAN_1224 = { add_core = X04 }
+			TIB_1591 = { add_core = X04 }
+			NEP_1327 = { add_core = X04 }
+			ENG_1258 = { add_core = X04 }
+			1223 = { add_core = X04 }
+		}
+
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				badboy = 0.3
+			}
 		}
 	}
 }

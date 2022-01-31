@@ -1,15 +1,19 @@
 political_decisions = {
- nyitran_denmark = {
-	potential = {
-		TAG = SLV
-		primary_culture = hungarian
+	nyitran_denmark = {
+		picture = SCA_political_union
+		potential = {
+			TAG = SLV
+			primary_culture = hungarian
+		}
+
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+
+		effect = {
+			primary_culture = danish
+			prestige = -5
+		}
 		ai_will_do = 1
 	}
-	allow = {
-		nationalism_n_imperialism = 1
-	}
-	effect = {
-		primary_culture = danish
-		prestige = -5
-	}
- }
+}

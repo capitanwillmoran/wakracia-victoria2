@@ -1,0 +1,143 @@
+country_event = {
+	id = 77868
+	title = "EVTNAME77868"
+	desc = "EVTDESC77868"
+	major = no
+	picture = "Revolution"
+	
+	trigger = {
+		tag = PEU
+		year = 1880
+		NOT = {
+			has_country_flag = militarizadoperu
+			government = proletarian_dictatorship
+		}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77868"
+		government = proletarian_dictatorship
+		political_reform = none_voting
+		political_reform = party_appointed
+		set_country_flag = militarizadoperu
+		any_country = {
+			limit = {
+				exists = yes
+				is_great_power = yes
+				NOT = { is_our_vassal = THIS }
+				NOT = { government = proletarian_dictatorship }
+			}
+			relation = { who = THIS value = -200 }
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = socialist
+				factor = -3
+			}
+			scaled_militancy = {
+				ideology = communist
+				factor = -3
+			}
+		}
+		ai_chance = {
+			factor = 0.9
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77868"
+		set_country_flag = militarizadoperu
+		any_pop = {
+			scaled_militancy = {
+				ideology = socialist
+				factor = 5
+			}
+			scaled_militancy = {
+				ideology = communist
+				factor = 5
+			}
+		}
+		prestige = 5
+		ai_chance = {
+			factor = 0.1
+		}
+	}
+}
+
+country_event = {
+	id = 77869
+	title = "EVTNAME77869"
+	desc = "EVTDESC77869"
+	major = no
+	picture = "Revolution"
+	
+	trigger = {
+		tag = PEU
+		year = 1857
+		NOT = {
+			has_country_flag = dictaduraperu
+			government = presidential_dictatorship
+		}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77869"
+		government = presidential_dictatorship
+		political_reform = none_voting
+		political_reform = party_appointed
+		set_country_flag = dictaduraperu
+		any_country = {
+			limit = {
+				exists = yes
+				is_great_power = yes
+				NOT = { is_our_vassal = THIS }
+			}
+			relation = { who = THIS value = -200 }
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = liberal
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = reactionary
+				factor = -3
+			}
+		}
+		define_general = {
+   			name = "Augustus Messia"
+   			picture = russian_general_11
+   			date = 1821.6.26
+   			type = land
+    			personality = daring
+    			background = natural_born_leader
+   			prestige = 0.9
+		}
+		ai_chance = {
+			factor = 0.9
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77869"
+		set_country_flag = dictaduraperu
+		any_pop = {
+			scaled_militancy = {
+				ideology = liberal
+				factor = -1
+			}
+			scaled_militancy = {
+				ideology = reactionary
+				factor = 4
+			}
+		}
+		prestige = 5
+		ai_chance = {
+			factor = 0.1
+		}
+	}
+}

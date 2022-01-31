@@ -1,67 +1,68 @@
 political_decisions = {
 
-	wakracian_maraj = {
+	wakracian_maraj2 = {
 		picture = marajj
 		potential = {
 			civilized = yes
 			tag = BYZ
-			NOT = { has_global_flag = maraj_has_her_cores }
+			NOT = { has_global_flag = maraj_has_her_cores2 }
 			state_n_government = 1
 		}
 		allow = {
 			tag = BYZ
 			war = no
 			is_greater_power = yes
-			RAJ = { exists = yes }
+			RAJ = { exists = no }
+			X04 = { exists = yes }
 		}
 		effect = {
 			prestige = 10
-			set_global_flag = maraj_has_her_cores
+			set_global_flag = maraj_has_her_cores2
 			ENG_1317 = {
 				owned_by = BYZ
-				secede_province = RAJ
+				secede_province = X04
 			}
 			ENG_1304 = {
 				owned_by = BYZ
-				secede_province = RAJ
+				secede_province = X04
 			}
 			ENG_1305 = {
 				owned_by = BYZ
-				secede_province = RAJ
+				secede_province = X04
 			}
 			ENG_1297 = {
 				owned_by = BYZ
-				secede_province = RAJ
+				secede_province = X04
 			}
 			ENG_1261 = {
 				owned_by = BYZ
-				secede_province = RAJ
+				secede_province = X04
 			}
 			ENG_1291 = {
 				owned_by = BYZ
-				secede_province = RAJ
+				secede_province = X04
 			}
 			ENG_1275 = {
 				owned_by = BYZ
-				secede_province = RAJ
+				secede_province = X04
 			}
 			ENG_1264 = {
 				owned_by = BYZ
-				secede_province = RAJ
+				secede_province = X04
 			}
 			MYS_1314 = {
 				owned_by = BYZ
-				secede_province = RAJ
+				secede_province = X04
 			}
 			NAG_1277 = {
 				owned_by = BYZ
-				secede_province = RAJ
+				secede_province = X04
 			}
 			HYD_1283 = {
 				owned_by = BYZ
-				secede_province = RAJ
+				secede_province = X04
 			}
-			secede_province = RAJ
+			secede_province = X04
 		}
 		ai_will_do = {
 			factor = 1

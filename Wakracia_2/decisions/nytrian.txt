@@ -22,7 +22,7 @@ political_decisions = {
 		}
 		ai_will_do = {
 			factor = 0
-			modifier = { factor = 1 badboy = 2 }
+			modifier = { factor = 1 badboy = 0.2 }
 		}
 	}
 
@@ -61,7 +61,7 @@ political_decisions = {
 		}
 		ai_will_do = {
 			factor = 0
-			modifier = { factor = 1 badboy = 2 }
+			modifier = { factor = 1 badboy = 0.2 }
 		}
 	}
 
@@ -106,6 +106,9 @@ political_decisions = {
 		allow = {
 			war = no
 			owns = 729
+			X09 = {
+				money = 100000
+			}
 		}
 
 		effect = {
@@ -115,6 +118,44 @@ political_decisions = {
 			money = 100000
 			X09 = {
 				money = -100000
+			}
+			X09 = {
+				relation = {
+					who = SLV
+					value = 100
+				}
+			}
+		}
+	}
+
+	alpssale = {
+		picture = declare_neutrality
+		potential = {
+			is_vassal = no
+			tag = SLV
+			NOT = { has_country_flag = alpssale }
+		}
+
+		allow = {
+			war = no
+			owns = 729
+			X09 = {
+				money = 300000
+			}
+		}
+
+		effect = {
+			set_country_flag = alpssale
+			prestige = 2
+			any_owned = {
+				limit = {
+					is_core = SWI
+				}
+				secede_province = X09
+			}
+			money = 300000
+			X09 = {
+				money = -300000
 			}
 			X09 = {
 				relation = {

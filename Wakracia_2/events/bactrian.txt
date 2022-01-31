@@ -1,0 +1,56 @@
+country_event = {
+	id = 77870
+	title = "EVTNAME77870"
+	desc = "EVTDESC77870"
+	major = no
+	picture = "wakr"
+	
+	trigger = {
+		tag = X04
+		year = 1860
+		war = no
+		RAJ = {
+			ai = yes
+		}
+		NOT = {
+			has_country_flag = bactrianreferendum
+		}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77870"
+		RAJ = {
+			any_owned = {
+				add_core = X04
+			}
+		}
+		any_country = {
+			limit = {
+				tag = RAJ
+				any_core = {
+					owned_by = THIS
+					NOT = { is_core = X04 }
+					is_colonial = no
+				}
+				exists = no
+				is_cultural_union = no
+				war = no
+			}
+		}
+		X04 = { inherit = RAJ }
+		ai_chance = {
+			factor = 0.9
+		}
+		set_country_flag = bactrianreferendum
+	}
+	
+	option = {
+		name = "EVTOPTB77870"
+		set_country_flag = bactrianreferendum
+		ai_chance = {
+			factor = 0.1
+		}
+	}
+}

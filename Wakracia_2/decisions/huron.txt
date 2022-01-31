@@ -1,0 +1,53 @@
+political_decisions = {
+	becomevinland = {
+		picture = suecia
+		news = no
+		potential = {
+			tag = HUR
+			NOT = {
+				exists = VNL
+				has_country_flag = vinlandiaformada
+			}
+		}
+		allow = {
+			prestige = 1
+		}
+		
+		effect = {
+			change_tag = VNL
+			primary_culture = vinlander
+			add_accepted_culture = zzz_religion_norse_pagan_reformed
+			remove_accepted_culture = zzz_religion_totemism
+			religion = norse_pagan_reformed
+			set_country_flag = vinlandiaformada
+		}
+	}
+
+	acceptnativeshuron = {
+		picture = trail_of_tears
+		potential = {
+			tag = HUR
+			has_country_flag = hurongrande
+			NOT = {
+				has_country_flag = acceptnativeshuron
+			}
+		}
+		allow = {
+			prestige = 5
+			has_unclaimed_cores = no		
+		}
+		
+		effect = {
+			prestige = -5
+			badboy = 5
+			add_accepted_culture = siouan
+			add_accepted_culture = central_algonquian
+			add_accepted_culture = eastern_algonquian
+			add_accepted_culture = plains_algonquian
+			add_accepted_culture = caddoan
+			add_accepted_culture = native_north_american
+			add_accepted_culture = native_american_minor
+			set_country_flag = acceptnativeshuron
+		}
+	}
+}

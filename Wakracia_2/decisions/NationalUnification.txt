@@ -1404,6 +1404,57 @@ unite_moldavia_wallachia = {
 					}
 				}
 			}
+			URU = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+					}
+				}
+			}
+			CHL = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+					}
+				}
+			}
+			PRG = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+					}
+				}
+			}
 			PEU = {
 				all_core = {
 					OR = {
@@ -1422,6 +1473,40 @@ unite_moldavia_wallachia = {
 				}
 			}
 			CLM = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+					}
+				}
+			}
+			TUA = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+							}
+						}
+					}
+				}
+			}
+			PTG = {
 				all_core = {
 					OR = {
 						OR = {

@@ -1,0 +1,22 @@
+political_decisions = {
+
+	nyitran_foundry = {
+		picture = mining_union
+		potential = {
+			TAG = SLV
+			NOT = { has_country_flag = nyitran_foundry }
+		}
+
+		allow = {
+			money = 3000
+			industrial_score = 10
+		}
+
+		effect = {
+			build_factory_in_capital_state = steel_factory
+			prestige = 5
+			set_country_flag = nyitran_foundry
+		}
+		ai_will_do = 1
+	}
+}
