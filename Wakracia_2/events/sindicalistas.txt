@@ -1,0 +1,156 @@
+country_event = {
+	id = 77875
+	title = "EVTNAME77875"
+	desc = "EVTDESC77875"
+	major = no
+	picture = "fascist"
+	
+	trigger = {
+		tag = X03
+		is_ideology_enabled = nationalsyndicalist
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = 	"EVTOPTA77875"
+		government = nationalsyndicalist_dictatorship
+		political_reform = none_voting
+		political_reform = party_appointed
+		set_country_flag = golpeagh
+		ai_chance = {
+			factor = 0.9
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = fascist
+				factor = -2
+			}
+			scaled_militancy = {
+				ideology = nationalsyndicalist
+				factor = -2
+			}
+			scaled_militancy = {
+				ideology = reactionary
+				factor = -2
+			}
+			scaled_militancy = {
+				ideology = liberal
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = socialist
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = communist
+				factor = 4
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77875"
+		set_country_flag = golpeagh
+		ai_chance = {
+			factor = 0.1
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = fascist
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = nationalsyndicalist
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = reactionary
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = liberal
+				factor = -2
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 77874
+	title = "EVTNAME77874"
+	desc = "EVTDESC77874"
+	major = no
+	picture = "fascist"
+	
+	trigger = {
+		tag = FLR
+		is_ideology_enabled = nationalsyndicalist
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = 	"EVTOPTA77874"
+		government = nationalsyndicalist_dictatorship
+		political_reform = none_voting
+		political_reform = party_appointed
+		set_country_flag = golpefloprida
+		ai_chance = {
+			factor = 0.9
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = fascist
+				factor = -2
+			}
+			scaled_militancy = {
+				ideology = nationalsyndicalist
+				factor = -2
+			}
+			scaled_militancy = {
+				ideology = reactionary
+				factor = -2
+			}
+			scaled_militancy = {
+				ideology = liberal
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = socialist
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = communist
+				factor = 4
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77874"
+		set_country_flag = golpefloprida
+		ai_chance = {
+			factor = 0.1
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = fascist
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = nationalsyndicalist
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = reactionary
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = liberal
+				factor = -2
+			}
+		}
+	}
+}
+

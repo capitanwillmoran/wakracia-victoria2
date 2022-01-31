@@ -3099,4 +3099,11 @@ greater_florida4_desc;The Florida government has proclaimed its intentions to ac
 conquest_of_the_northdesert;;;;;Conquista del Desierto Norte;;;;;;;;;;
 conquest_of_the_northdesert_title;;;;;Conquista del Desierto Norte;;;;;;;;;;
 conquest_of_the_northdesert_desc;A proposal has been put forward to enter the northern Kanadian lands, pacify and civilise them before another state encroaches on our territory.;;;;Se ha presentado una propuesta para entrar en las tierras kanadianas del norte, pacificarlas y civilizarlas antes que otro estado se entrometa en nuestro territorio.;;;;;;;;;;
-conquest_of_the_northdesert;;;;;;;;;;;;;;;
+EVTNAME77874;Coup d'état in Florida;;;;Golpe de Estado en Florida;;;;;;;;;;
+EVTDESC77874;The old Floridian government has fallen under the influence of a new national-syndicalist regime. Its leader, Gilbert O. Nations, declares that it is necessary for the state of Florida to establish a strong, centralised government that restores true values.;;;;El antiguo gobierno floridano ha caído bajo la influencia de un nuevo régimen nacionalsindicalista. Su cabecilla, Gilbert O. Nations declara que es necesario para el estado floridano el establecimiento de un gobierno fuerte, centralizado y que recupere los verdaderos valores.;;;;;;;;;;
+EVTOPTA77874;Today is the birth of the Synarchist Commonwealth of Florida.;;;;Hoy es el nacimiento de la Mancomunidad Sinarquista de Florida;;;;;;;;;;
+EVTOPTB77874;Never!;;;;¡Nunca!;;;;;;;;;;
+EVTNAME77875;Coup d'état in Austria-Austria-Greece-Hungary;;;;Golpe de Estado en Austriagreciahungría;;;;;;;;;;
+EVTDESC77875;The former Austro-Greco-Hungarian government has fallen under the influence of a new national-syndicalist regime. Its leader, Ferenc Szálasi, declares that it is necessary for the state to establish a strong, centralised, homogenising government that restores true values.;;;;El antiguo gobierno austrogrecohungaro ha caído bajo la influencia de un nuevo régimen nacionalsindicalista. Su cabecilla, Ferenc Szálasi declara que es necesario para el estado  el establecimiento de un gobierno fuerte, centralizado, homogeneizador y que recupere los verdaderos valores.;;;;;;;;;;
+EVTOPTA77875;Today is the birth of a new state!;;;;¡Hoy es el nacimiento de un nuevo estado!;;;;;;;;;;
+EVTOPTB77875;Never!;;;;¡Nunca!;;;;;;;;;;
