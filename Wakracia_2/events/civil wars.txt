@@ -474,7 +474,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTAE77872"
+		name = "EVTOPTA77872"
 		any_pop = {
 			consciousness = 5
 			militancy = 3
@@ -513,7 +513,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTBE77872"
+		name = "EVTOPTB77872"
 		any_pop = {
 			consciousness = -7
 			militancy = -3
@@ -550,7 +550,7 @@ country_event = {
 	
 	trigger = {
 		tag = BYZ
-		year = 1745
+		year = 1875
 		or = {	
 			badboy = 0.1
 			militancy = 1
@@ -569,7 +569,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTAE77873"
+		name = "EVTOPTA77873"
 		any_pop = {
 			consciousness = 5
 			militancy = 3
@@ -595,7 +595,7 @@ country_event = {
 			}
 		}
 		war = {
-			target = ETH
+			target = EGY
 			attacker_goal = {
 				casus_belli = civil_war
 			}
@@ -608,7 +608,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTBE77873"
+		name = "EVTOPTB77873"
 		any_pop = {
 			consciousness = -7
 			militancy = -3
@@ -620,7 +620,7 @@ country_event = {
 			secede_province = EGY
 		}
 		EGY = {
-			capital = 1745
+			capital = 1863
 			leadership = 60
 			civilized = yes
 		define_general = {
