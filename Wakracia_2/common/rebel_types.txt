@@ -3360,7 +3360,6 @@ theocratic_rebels = {
 		prussian_constitutionalism = theocracy
 		hms_government = theocracy
 		democracy = theocracy
-		theocracy = theocracy
 		nationalsyndicalist_dictatorship = theocracy
 		agrarist = theocracy
 	}
@@ -3564,7 +3563,6 @@ agrarist_rebels = {
 		democracy = agrarist
 		theocracy = agrarist
 		nationalsyndicalist_dictatorship = agrarist
-		agrarist = agrarist
 	}
 	
 	
