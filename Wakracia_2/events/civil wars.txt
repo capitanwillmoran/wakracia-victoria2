@@ -10,7 +10,7 @@ country_event = {
 			has_country_flag = italian_civil_war_happened
 		}
 		or = {
-			badboy = 0.4
+			badboy = 0.1
 			militancy = 2
 		}
 		tag = BYZ
@@ -106,7 +106,7 @@ country_event = {
 		has_country_flag = italian_civil_war_happened
 		year = 1880
 		or = {	
-			badboy = 0.3
+			badboy = 0.1
 			militancy = 1
 		}
 		NOT = {
@@ -204,7 +204,7 @@ country_event = {
 		tag = BYZ
 		year = 1900
 		or = {	
-			badboy = 0.3
+			badboy = 0.1
 			militancy = 1
 		}	
 		NOT = {
@@ -351,5 +351,288 @@ country_event = {
 			}
 		}
 		set_country_flag = syrian_civil_war_happened
+	}
+}
+
+country_event = {
+	id = 77871
+	title = "EVTNAME77871"
+	desc = "EVTDESC77871"
+	major = yes
+	
+	trigger = {
+		tag = BYZ
+		year = 1915
+		or = {	
+			badboy = 0.1
+			militancy = 1
+		}	
+		NOT = {
+			exists = ARA
+			has_country_flag = arabian_civil_war_happened
+		}
+	}
+
+	fire_only_once = yes
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTAE77871"
+		any_pop = {
+			consciousness = 5
+			militancy = 3
+		}
+		any_owned = {
+			limit = {
+				is_core = ARA
+			}
+			secede_province = ARA
+		}
+		ARA = {
+			capital = 1151
+			leadership = 60
+			civilized = yes
+		define_general = {
+   			name = "Osman Pasha"
+   			picture = arab_general_1
+   			date = 1876.1.1
+   			type = land
+			personality = brutish
+			background = butcher
+   			prestige = 1
+			}
+		}
+		war = {
+			target = ARA
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		set_country_flag = arabian_civil_war_happened
+	}
+	
+	option = {
+		name = "EVTOPTBE77871"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = ARA
+			}
+			secede_province = ARA
+		}
+		ARA = {
+			capital = 1151
+			leadership = 60
+			civilized = yes
+		define_general = {
+   			name = "Osman Pasha"
+   			picture = arab_general_1
+   			date = 1876.1.1
+   			type = land
+			personality = brutish
+			background = butcher
+   			prestige = 1
+			}
+		}
+		set_country_flag = arabian_civil_war_happened
+	}
+}
+
+country_event = {
+	id = 77872
+	title = "EVTNAME77872"
+	desc = "EVTDESC77872"
+	major = yes
+	
+	trigger = {
+		tag = BYZ
+		year = 1925
+		or = {	
+			badboy = 0.1
+			militancy = 1
+		}	
+		NOT = {
+			exists = ETH
+			has_country_flag = ethipian_civil_war_happened
+		}
+	}
+
+	fire_only_once = yes
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTAE77872"
+		any_pop = {
+			consciousness = 5
+			militancy = 3
+		}
+		any_owned = {
+			limit = {
+				is_core = ETH
+			}
+			secede_province = ETH
+		}
+		ETH = {
+			capital = 1863
+			leadership = 60
+			civilized = yes
+		define_general = {
+   			name = "Lij Iyasu"
+   			picture = african_general_0
+   			date = 1895.1.1
+   			type = land
+			personality = brutish
+			background = butcher
+   			prestige = 1
+			}
+		}
+		war = {
+			target = ETH
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		set_country_flag = ethipian_civil_war_happened
+	}
+	
+	option = {
+		name = "EVTOPTBE77872"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = ETH
+			}
+			secede_province = ETH
+		}
+		ETH = {
+			capital = 1863
+			leadership = 60
+			civilized = yes
+		define_general = {
+   			name = "Lij Iyasu"
+   			picture = african_general_0
+   			date = 1895.1.1
+   			type = land
+			personality = brutish
+			background = butcher
+   			prestige = 1
+			}
+		}
+		set_country_flag = ethipian_civil_war_happened
+	}
+}
+
+country_event = {
+	id = 77873
+	title = "EVTNAME77873"
+	desc = "EVTDESC778723"
+	major = yes
+	
+	trigger = {
+		tag = BYZ
+		year = 1745
+		or = {	
+			badboy = 0.1
+			militancy = 1
+		}	
+		NOT = {
+			exists = EGY
+			exists = CEG
+			has_country_flag = egypt_civil_war_happened
+		}
+	}
+
+	fire_only_once = yes
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTAE77873"
+		any_pop = {
+			consciousness = 5
+			militancy = 3
+		}
+		any_owned = {
+			limit = {
+				is_core = EGY
+			}
+			secede_province = EGY
+		}
+		EGY = {
+			capital = 1863
+			leadership = 60
+			civilized = yes
+		define_general = {
+   			name = "Abdullah Pasha"
+   			picture = arab_general_1
+   			date = 1855.1.1
+   			type = land
+			personality = brutish
+			background = butcher
+   			prestige = 1
+			}
+		}
+		war = {
+			target = ETH
+			attacker_goal = {
+				casus_belli = civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		set_country_flag = egypt_civil_war_happened
+	}
+	
+	option = {
+		name = "EVTOPTBE77873"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = EGY
+			}
+			secede_province = EGY
+		}
+		EGY = {
+			capital = 1745
+			leadership = 60
+			civilized = yes
+		define_general = {
+   			name = "Abdullah Pasha"
+   			picture = arab_general_2
+   			date = 1855.1.1
+   			type = land
+			personality = brutish
+			background = butcher
+   			prestige = 1
+			}
+		}
+		set_country_flag = egypt_civil_war_happened
 	}
 }
