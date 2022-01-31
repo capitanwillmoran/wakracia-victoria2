@@ -545,7 +545,7 @@ country_event = {
 country_event = {
 	id = 77873
 	title = "EVTNAME77873"
-	desc = "EVTDESC778723"
+	desc = "EVTDESC77873"
 	major = yes
 	
 	trigger = {
