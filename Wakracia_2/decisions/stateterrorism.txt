@@ -2,7 +2,10 @@ political_decisions = {
     the_fascist_terror = {
         picture = the_red_terror
         potential = {
-            government = fascist_dictatorship
+            OR ={
+               government = fascist_dictatorship
+               government = nationalsyndicalist_dictatorship
+            }
             NOT = { has_country_modifier = the_terror }
             NOT = { has_country_modifier = totalitarian_system }
         }
@@ -65,6 +68,15 @@ political_decisions = {
                 scaled_militancy = {
                     factor = -9
                     ideology = fascist
+                }
+
+                scaled_militancy = {
+                    factor = -9
+                    ideology = nationalsyndicalist
+                }
+                scaled_consciousness = {
+                    factor = -9
+                    ideology = nationalsyndicalist
                 }
 
                 scaled_consciousness = {
@@ -187,7 +199,11 @@ political_decisions = {
     ideological_indoctrination_fascist = {
         picture = indoctrinal_education
         potential = {
-            government = fascist_dictatorship
+            OR = {
+                government = fascist_dictatorship
+                government = proletarian_dictatorship
+		government = nationalsyndicalist_dictatorship
+            }
             NOT = { has_country_modifier = political_education }
             NOT = { has_country_modifier = totalitarian_system }
         }

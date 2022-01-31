@@ -1870,14 +1870,16 @@ political_decisions = {
 		potential = {
 			tag = JAP
 			has_unclaimed_cores = no
-			has_country_flag = japkorean
+			OR = {
+				government = hms_government
+				government = prussian_constitutionalism
+				government = absolut_monarchy
+			}
 			NOT = { has_country_flag = greater_japan2 }			
 		}
 				
 		allow = {
 			is_vassal = no
-			NOT = { government = hms_government }
-			NOT = {	government = democracy }
 			nationalism_n_imperialism = 1
 		}
 		
@@ -2581,6 +2583,139 @@ political_decisions = {
 			15 = { add_core = FLR }
 			13 = { add_core = FLR }
 			14 = { add_core = FLR }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_japcalifornia = {
+		picture = "manifest_destiny"
+		potential = {
+			tag = JAP
+			OR = {
+				government = fascist_dictatorship
+				government = nationalsyndicalist_dictatorship
+				government = absolute_monarchy
+			}
+			NOT = { has_country_flag = greater_japcalifornia }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			has_unclaimed_cores = no
+		}
+		
+		effect = {
+			badboy = 4
+			set_country_flag = greater_japcalifornia
+			MEX_2138 = { add_core = FLR }
+			MEX_85 = { add_core = FLR }
+			USA_81 = { add_core = FLR }
+			USA_78 = { add_core = FLR }
+			2 = { add_core = FLR }
+			1 = { add_core = FLR }
+			15 = { add_core = FLR }
+			13 = { add_core = FLR }
+			14 = { add_core = FLR }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_japcalaska = {
+		picture = "manifest_destiny"
+		potential = {
+			tag = JAP
+			OR = {
+				government = fascist_dictatorship
+				government = nationalsyndicalist_dictatorship
+				government = absolute_monarchy
+			}
+			has_country_flag = greater_japcalifornia
+			NOT = { has_country_flag = greater_japcalaska }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			has_unclaimed_cores = no
+		}
+		
+		effect = {
+			badboy = 4
+			set_country_flag = greater_japcalaska
+			LSK = {
+				any_owned = {
+					add_core = JAP
+				}
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_medos = {
+		picture = "manifest_destiny"
+		potential = {
+			tag = X02
+			NOT = { has_country_flag = greater_medos }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			has_unclaimed_cores = no
+		}
+		
+		effect = {
+			badboy = 4
+			set_country_flag = greater_medos
+			1134 = { add_core = X02 }
+			885 = { add_core = X02 }
+			1116 = { add_core = X02 }
+			1150 = { add_core = X02 }
+			1194 = { add_core = X02 }
+			1182 = { add_core = X02 }
+			1141 = { add_core = X02 }
+			1136 = { add_core = X02 }
+			2702 = { add_core = X02 }
+			1193 = { add_core = X02 }
+			1594 = { add_core = X02 }
+			1203 = { add_core = X02 }
+			1202 = { add_core = X02 }
+			1190 = { add_core = X02 }
+			1597 = { add_core = X02 }
+			1189 = { add_core = X02 }
+			1186 = { add_core = X02 }
+			1193 = { add_core = X02 }
+			1041 = { add_core = X02 }
+			1036 = { add_core = X02 }
+			1293 = { add_core = X02 }
+			1294 = { add_core = X02 }
+			1291 = { add_core = X02 }
+			1292 = { add_core = X02 }
+			1295 = { add_core = X02 }
+			1296 = { add_core = X02 }
+			1237 = { add_core = X02 }
+			PER_1138 = { add_core = X02 }
+			PER_1141 = { add_core = X02 }
+			PER_1122 = { add_core = X02 }
+			PER_1112 = { add_core = X02 }
+			RUS_1102 = { add_core = X02 }
+			RUS_1098 = { add_core = X02 }
+			RUS_1196 = { add_core = X02 }
+			KHI_1191 = { add_core = X02 }
+			RUS_1090 = { add_core = X02 }
+			RUS_1052 = { add_core = X02 }
+			BUK_1207 = { add_core = X02 }
+			AFG_1217 = { add_core = X02 }
+			AFG_1214 = { add_core = X02 }
+			KAL_1221 = { add_core = X02 }
+			PAN_1224 = { add_core = X02 }
+			PAN_1227 = { add_core = X02 }
+			SIN_1288 = { add_core = X02 }
+			ENG_1264 = { add_core = X02 }
 		}
 		ai_will_do = { factor = 1 }
 	}

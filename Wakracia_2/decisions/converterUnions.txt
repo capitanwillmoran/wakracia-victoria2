@@ -2405,6 +2405,7 @@ political_decisions = {
 				tag = MUG
 				tag = TIM
 				tag = ISL
+				tag = X02
 			}
 		}	
 		allow = {

@@ -6,8 +6,7 @@ political_decisions = {
 
 			tag = JAP
 			nationalism_n_imperialism = 1
-			NOT = { government = hms_government }
-			NOT = {	government = democracy }
+			government = democracy
 			NOT = { has_country_flag = japkorean }
 
 		}

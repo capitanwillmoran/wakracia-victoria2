@@ -24,3 +24,93 @@ political_decisions = {
 		}
 	}
 }
+
+political_decisions = {
+
+	japanese_tagalog = {
+		picture = become_japan
+		potential = {
+			is_vassal = no
+			tag = JAP
+			government = democracy
+			NOT = { has_country_flag = japanese_tagalog }
+		}
+
+		allow = {
+			war = no
+			JAP = {
+				money = 120000
+			}
+		}
+
+		effect = {
+			set_country_flag = japanese_tagalog
+			prestige = 2
+			1456 = { 
+				owner = {
+					money = 100000
+					relation = {
+						who = JAP
+						value = 100
+					}
+				}
+			}
+			1458 = { 
+				owner = {
+					money = 20000
+					relation = {
+						who = JAP
+						value = 100
+					}
+				}
+			}
+			SPA_1455 = { secede_province = JAP }
+			SPA_1459 = { secede_province = JAP }
+			SPA_1463 = { secede_province = JAP }
+			
+			JAP = {
+				money = -120000
+			}
+		}
+	}
+}
+
+political_decisions = {
+
+	japanese_brunei = {
+		picture = become_japan
+		potential = {
+			is_vassal = no
+			tag = JAP
+			government = democracy
+			NOT = { has_country_flag = japanese_brunei }
+		}
+
+		allow = {
+			war = no
+			JAP = {
+				money = 75000
+			}
+		}
+
+		effect = {
+			set_country_flag = japanese_brunei
+			prestige = 2
+			1395 = { 
+				owner = {
+					money = 75000
+					relation = {
+						who = JAP
+						value = 100
+					}
+				}
+			}
+			NET_1423 = { secede_province = JAP }
+			BRU_1394 = { secede_province = JAP }
+			JAP = {
+				money = -75000
+			}
+		}
+	}
+}
+

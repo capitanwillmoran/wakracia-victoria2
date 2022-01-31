@@ -801,11 +801,12 @@ icon = 6
 ### Print Money ###
 
 print_money = {
-tax_efficiency = 0.05
-factory_owner_cost = 0.25
-factory_cost = 0.25
-import_cost = 0.5
-loan_interest = 0.5
+factory_owner_cost = 0.50
+factory_cost = 0.50
+import_cost = 0.75
+loan_interest = 0.75
+factory_throughput = -0.10
+global_immigrant_attract = -0.10
 icon = 10
 }
 

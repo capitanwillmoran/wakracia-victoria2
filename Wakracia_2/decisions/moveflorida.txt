@@ -25,4 +25,35 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
+	move_capital_to_tehrean = {
+        	picture = tibet_capital
+        	alert = no
+        	potential = {
+			tag = X02
+			owns = 1121
+			NOT = { 
+				government = democracy
+			}
+		}
+
+		allow = {
+			NOT = { capital = 1121 }
+		}
+
+		effect = {
+			capital = 1121
+			prestige = 1
+			any_pop = {
+				limit = {
+					has_pop_culture = tatar
+				}
+			militancy = 2
+			}
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

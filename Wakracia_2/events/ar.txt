@@ -8,6 +8,10 @@ country_event = {
 	trigger = {
 		tag = ARG
 		year = 1931
+		upper_house = {
+			ideology = fascist
+			value = 0.05
+		}
 		NOT = {
 			has_country_flag = arg_referendum
 			}
@@ -20,7 +24,6 @@ country_event = {
 		government = fascist_dictatorship
 		political_reform = none_voting
 		political_reform = party_appointed
-		country_event = 60030
 		set_country_flag = arg_referendum
 		ai_chance = {
 			factor = 0.9

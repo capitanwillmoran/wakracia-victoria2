@@ -20,9 +20,9 @@ ai = no
 
 		effect = {
 			prestige_factor = -0.02
-			money = 60000
+			money = 25000
 			add_tax_relative_income = 75
-add_country_modifier = { name = print_money duration = 1825 }
+add_country_modifier = { name = print_money duration = 3650 }
 					}
 
 		ai_will_do = {
