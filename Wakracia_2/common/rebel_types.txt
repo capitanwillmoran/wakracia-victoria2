@@ -3158,6 +3158,7 @@ nationalsyndicalist_rebels = {
 		democracy = nationalsyndicalist_dictatorship
 		theocracy = nationalsyndicalist_dictatorship
 		agrarist = nationalsyndicalist_dictatorship
+		nationalsyndicalist_dictatorship = nationalsyndicalist_dictatorship
 	}
 	
 	
@@ -3362,6 +3363,7 @@ theocratic_rebels = {
 		democracy = theocracy
 		nationalsyndicalist_dictatorship = theocracy
 		agrarist = theocracy
+		theocracy = theocracy
 	}
 	
 	
@@ -3563,6 +3565,7 @@ agrarist_rebels = {
 		democracy = agrarist
 		theocracy = agrarist
 		nationalsyndicalist_dictatorship = agrarist
+		agrarist = democracy
 	}
 	
 	
