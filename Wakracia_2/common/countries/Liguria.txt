@@ -138,7 +138,7 @@ party = {
 	economic_policy = planned_economy
 	religious_policy = moralism
 	trade_policy = protectionism
-	war_policy = pro_militar
+	war_policy = pro_military
 }
 
 party = {
@@ -166,7 +166,7 @@ party = {
 	economic_policy = state_capitalism
 	religious_policy = moralism
 	trade_policy = free_trade
-	war_policy = pro_militar
+	war_policy = pro_military
 }
 unit_names= {
 	dreadnought = { 

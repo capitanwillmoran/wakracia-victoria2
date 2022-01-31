@@ -222,7 +222,7 @@ party = {
 	economic_policy = planned_economy
 	religious_policy = moralism
 	trade_policy = protectionism
-	war_policy = pro_militar
+	war_policy = pro_military
 }
 
 party = {
