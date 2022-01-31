@@ -91,8 +91,8 @@ AIREASON_OTHER_SPHERE_LEADER;Other Sphere Leader;;Andere Einflusssphären-Anführe
 AIREASON_OTHER_SPHERE;Other Sphere;;Andere Einflusssphäre;;Otra Esfera;;;;;;;;;x
 AIREASON_OVERLORD;Overlord;;Herrscher;;Líder;;;;;;;;;x
 AIREASON_BADBOY;Infamy;;Infamie;;Infamia;;;;;;;;;x
-AIREASON_RELATIONS;Relations;;Beziehungen;;Relaciones Negativas;;;;;;;;;x
-AIREASON_GP_RELATIONS;Opinion;;Meinung;;Opinion;;;;;;;;;x
+AIREASON_RELATIONS;Relations;;Beziehungen;;Relaciones;;;;;;;;;x
+AIREASON_GP_RELATIONS;Opinion;;Meinung;;Opinión;;;;;;;;;x
 AIREASON_BASE_RELUCTANCE;Base Reluctance;;Basis-Zurückhaltung;;Reticencia de Base;;;;;;;;;x
 AI_DIPLOMATIC_VALUE;Diplomatic Value;;Diplomatischer Wert;;Valor Diplomático;;;;;;;;;x
 AI_DIPLO_NO;They will not accept;;Sie werden nicht akzeptieren;;No aceptarán;;;;;;;;;x
