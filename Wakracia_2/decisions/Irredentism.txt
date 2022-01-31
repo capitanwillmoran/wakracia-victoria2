@@ -2515,4 +2515,73 @@ political_decisions = {
 			}
 		}
 	}
+
+	greater_florida3 = {
+		picture = "manifest_destiny"
+		potential = {
+			tag = FLR
+			has_country_flag = greater_florida2
+			NOT = { has_country_flag = greater_florida3 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			has_unclaimed_cores = no
+		}
+		
+		effect = {
+			badboy = 4
+			set_country_flag = greater_florida3
+			add_accepted_culture = kanada
+			QUE = {
+				any_owned = {
+					add_core = FLR
+				}
+			}
+			CAN = {
+				any_owned = {
+					add_core = FLR
+				}
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_florida4 = {
+		picture = "manifest_destiny"
+		potential = {
+			tag = FLR
+			has_country_flag = greater_florida3
+			NOT = { has_country_flag = greater_florida4 }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			has_unclaimed_cores = no
+		}
+		
+		effect = {
+			badboy = 4
+			set_country_flag = greater_florida4
+			CAL = {
+				any_owned = {
+					add_core = FLR
+				}
+			}
+			MEX_2138 = { add_core = FLR }
+			MEX_85 = { add_core = FLR }
+			USA_81 = { add_core = FLR }
+			USA_78 = { add_core = FLR }
+			2 = { add_core = FLR }
+			1 = { add_core = FLR }
+			15 = { add_core = FLR }
+			13 = { add_core = FLR }
+			14 = { add_core = FLR }
+		}
+		ai_will_do = { factor = 1 }
+	}
 }

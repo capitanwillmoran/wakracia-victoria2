@@ -1,0 +1,108 @@
+political_decisions = {
+
+    conquest_of_the_northdesert = {
+        picture = manifest_destiny
+        potential = {
+            is_vassal = no
+            year = 1850
+            OR = {
+                tag = QUE
+                tag = CAN
+            }
+            OR = {
+                ENG_43 = { empty = yes }
+                ENG_9 = { empty = yes }
+                ENG_6 = { empty = yes }
+                17 = { empty = yes }
+                2629 = { empty = yes }
+                16 = { empty = yes }
+                31 = { empty = yes }
+            }
+            OR = {
+                owns = 2597
+                owns = 37
+            }
+            NOT = { has_country_flag = conquest_of_the_northdesert }
+        }
+
+        allow = {
+            war = no
+            muzzle_loaded_rifles = 1
+            owns = 2597
+            owns = 37
+        }
+
+        effect = {
+            set_country_flag = conquest_of_the_northdesert
+            prestige = 2
+            random_owned = {
+                limit = {
+                    ENG_43 = { empty = yes }
+                    38 = { empty = no }
+                }
+                ENG_43 = {
+                    secede_province = THIS
+                    add_core = THIS
+                    life_rating = 20
+                    any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+                }
+            }
+
+            random_owned = {
+                limit = {
+                    ENG_9 = { empty = yes }
+                    2597 = { empty = no }
+                }
+                ENG_9 = {
+                    secede_province = THIS
+                    add_core = THIS
+                    life_rating = 20
+                    any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+                }
+            }
+
+            random_owned = {
+                limit = {
+                    ENG_6 = { empty = yes }
+                    2597 = { empty = no }
+                }
+                ENG_6 = {
+                    secede_province = THIS
+                    add_core = THIS
+                    life_rating = 20
+                    any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+                }
+            }
+
+            random_owned = {
+                limit = {
+                    17 = { empty = yes }
+                    18 = { empty = no }
+                }
+                17 = { secede_province = THIS add_core = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+            }
+            random_owned = {
+                limit = {
+                    31 = { empty = yes }
+                    32 = { empty = no }
+                }
+                31 = { secede_province = THIS add_core = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+            }
+            random_owned = {
+                limit = {
+                    16 = { empty = yes }
+                    18 = { empty = no }
+                }
+                16 = { secede_province = THIS add_core = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+            }
+            random_owned = {
+                limit = {
+                    2629 = { empty = yes }
+                    2597 = { empty = no }
+                }
+                2629 = { secede_province = THIS add_core = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+            }
+        }
+        ai_will_do = { factor = 1 }
+    }
+}
