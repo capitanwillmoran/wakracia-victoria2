@@ -53,9 +53,18 @@ country_event = {
 			limit = {
 				has_country_flag = friendly_democracy
 				truce_with = THIS
+				NOT = {
+					is_greater_power = no
+					is_secondary_power = no
+				}
 			}
 			relation = { who = THIS value = 400 }
-			diplomatic_influence = { who = THIS value = 100 }
+				NOT = {
+					is_greater_power = no
+					is_secondary_power = no
+				}
+				diplomatic_influence = { who = THIS value = 100 }
+			}
 			create_alliance = THIS
 			clr_country_flag = friendly_democracy
 		}
@@ -111,9 +120,18 @@ country_event = {
 			limit = {
 				has_country_flag = friendly_authoritarian_regime
 				truce_with = THIS
+				NOT = {
+					is_greater_power = no
+					is_secondary_power = no
+				}
 			}
 			relation = { who = THIS value = 400 }
-			diplomatic_influence = { who = THIS value = 200 }
+				NOT = {
+					is_greater_power = no
+					is_secondary_power = no
+				}
+				diplomatic_influence = { who = THIS value = 100 }
+			}
 			create_alliance = THIS
 			clr_country_flag = friendly_authoritarian_regime
 		}
@@ -218,9 +236,18 @@ country_event = {
 			limit = {
 				has_country_flag = friendly_fascist_regime
 				truce_with = THIS
+				NOT = {
+					is_greater_power = no
+					is_secondary_power = no
+				}
 			}
 			relation = { who = THIS value = 400 }
-			diplomatic_influence = { who = THIS value = 100 }
+				NOT = {
+					is_greater_power = no
+					is_secondary_power = no
+				}
+				diplomatic_influence = { who = THIS value = 100 }
+			}
 			create_alliance = THIS
 			clr_country_flag = friendly_fascist_regime
 		}
@@ -271,9 +298,19 @@ country_event = {
 			limit = {
 				has_country_flag = friendly_agrarist_regime
 				truce_with = THIS
+				NOT = {
+					is_greater_power = no
+					is_secondary_power = no
+				}
 			}
 			relation = { who = THIS value = 400 }
-			diplomatic_influence = { who = THIS value = 100 }
+				NOT = {
+					is_greater_power = no
+					is_secondary_power = no
+				}
+				diplomatic_influence = { who = THIS value = 100 }
+			}
+			create_alliance = THIS
 			create_alliance = THIS
 			clr_country_flag = friendly_agrarist_regime
 		}
@@ -328,7 +365,11 @@ country_event = {
 		random_country = {
 			limit = {
 				is_sphere_leader_of = THIS
-				NOT = { has_country_flag = friendly_syndicalist_regime }
+				NOT = {
+					has_country_flag = friendly_syndicalist_regime
+					is_greater_power = no
+					is_secondary_power = no
+				}
 			}
 			diplomatic_influence = { who = THIS value = -100 }
 		}
@@ -336,8 +377,20 @@ country_event = {
 			limit = {
 				has_country_flag = friendly_syndicalist_regime
 				truce_with = THIS
+				NOT = {
+					is_greater_power = no
+					is_secondary_power = no
+				}
 			}
 			relation = { who = THIS value = 400 }
+			limit = {
+				has_country_flag = friendly_syndicalist_regime
+				truce_with = THIS
+				NOT = {
+					is_greater_power = no
+					is_secondary_power = no
+				}
+			}
 			diplomatic_influence = { who = THIS value = 100 }
 			create_alliance = THIS
 			clr_country_flag = friendly_syndicalist_regime
