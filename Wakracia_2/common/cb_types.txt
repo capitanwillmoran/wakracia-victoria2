@@ -2253,7 +2253,7 @@ install_syndicalist_regime = {
 	
 	on_po_accepted = {
 	
-		THIS = { set_country_flag = friendly_agrarist_regime }
+		THIS = { set_country_flag = friendly_syndicalist_regime }
 		country_event = 96092
 		
 		THIS = { set_country_flag = this_won_CB }
