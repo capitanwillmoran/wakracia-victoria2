@@ -1653,6 +1653,15 @@ unite_moldavia_wallachia = {
 				}
 				annex_to = USN
 			}
+			add_accepted_culture = afro_greek
+			add_accepted_culture = kepnian
+			add_accepted_culture = afrobrazilian
+			add_accepted_culture = canonian
+			add_accepted_culture = matense
+			add_accepted_culture = guarani
+			add_accepted_culture = quechua
+			add_accepted_culture = patagonian
+			
 		}
 		ai_will_do = {
 			factor = 1

@@ -1,5 +1,10 @@
 graphical_culture = SouthAmericanGC
 color = { 0 36 144 }
+proletarian_dictatorship = { 158 1 24 }
+nationalsyndicalist_dictatorship = { 71 10 12 }
+theocracy = { 157 157 157 }
+agrarist = { 26 51 27 }
+fascist_dictatorship = { 26 32 51 }
 
 
 party = {
