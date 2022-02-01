@@ -1103,6 +1103,11 @@ neutrality_modifier = {
     icon = 7
 }
 
+no_more_war = {
+    war_exhaustion = 0.5
+    icon = 2
+}
+
 ### Great Patriotic War ###
 
 fanatic_army = {

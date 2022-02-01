@@ -3152,3 +3152,10 @@ move_capital_to_tehrean_desc;Certain political groups believe that establishing 
 greater_medos;Median Expansion;;;;Expansión Meda;;;;;;;;;;
 greater_medos_title;Median Expansion;;;;Expansión Meda;;;;;;;;;;
 greater_medos_desc;Our nation's top military commanders, together with the ruler, have put forward a plan for territorial expansion within what they call the 'safe space' of our state. In international relations, this will not look good, but we can do it.;;;;Los altos mandos militares de nuestra nación junto con el gobernante, han presentado un plan de expansión territorial dentro de lo que denominan el 'espacio seguro' de nuestro estado. De cara a las relaciones internacionales, esto no será bien visto, pero podemos llevarlo a cabo.;;;;;;;;;;
+install_authoritarian_regime_title;Installing Authoritarian Government;;;;Instalar Dictadura;;;;;;;;;;
+install_democracy_title;Install a Democratic Government;;;;Instalar Democracia;;;;;;;;;;
+install_absolute_monarchy_title;Install a Monarchy;;;;Instalar una Monarquía;;;;;;;;;;
+install_theocratic_regime_title;Install a Theocratic Government;;;;Instalar Teocracia;;;;;;;;;;
+install_fascist_regime_title;Install an Ultranationalist Government;;;;Instalar Ultranacionalismo;;;;;;;;;;
+install_agrarist_regime_title;Install an Agrariast Government;;;;Instalar Agrarismo;;;;;;;;;;
+install_syndicalist_regime_title;Install a National Syndicalist Government;;;;Instalar Nacionalsindicalismo;;;;;;;;;;
