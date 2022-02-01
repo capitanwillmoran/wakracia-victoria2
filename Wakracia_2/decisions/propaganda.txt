@@ -1,0 +1,94 @@
+political_decisions = {
+	start_propaganda = {
+		picture = propaganda_poster
+		potential = {
+			OR = {
+				government = presidential_dictatorship
+				government = proletarian_dictatorship
+				government = bourgeois_dictatorship
+				government = fascist_dictatorship
+				government = nationalsyndicalist_dictatorship
+			}
+			NOT = { has_country_flag = propaganda_program }
+			NOT = { tag = JAP }
+		}
+		
+		allow = {
+			plurality = 8
+			money = 150000
+			literacy = 0.15
+			NOT = { has_country_modifier = war_propaganda }
+			war = yes
+		}
+		
+		effect = {
+			plurality = -8
+			treasury = -150000
+			set_country_flag = propaganda_program
+			add_country_modifier = { name = war_propaganda duration = 365 }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+		NOT = { war_countries = { is_greater_power = yes } }
+			}
+			modifier = {
+				factor = 0
+				badboy = 0.7
+			}
+			modifier = {
+				factor = 0
+				NOT = { war_exhaustion = 20 }
+			}
+		}
+	}
+
+	start_propaganda_manga = {
+		picture = propaganda_poster_manga
+		potential = {
+			OR = {
+				government = presidential_dictatorship
+				government = proletarian_dictatorship
+				government = bourgeois_dictatorship
+				government = fascist_dictatorship
+				government = nationalsyndicalist_dictatorship
+			}
+			NOT = { has_country_flag = start_propaganda_manga }
+			tag = JAP
+			has_country_flag = hentai_lift
+		}
+		
+		allow = {
+			plurality = 8
+			money = 150000
+			literacy = 0.15
+			NOT = { has_country_modifier = war_propaganda }
+			war = yes
+		}
+		
+		effect = {
+			plurality = -8
+			treasury = -150000
+			set_country_flag = start_propaganda_manga
+			add_country_modifier = { name = war_propaganda duration = 365 }
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+		NOT = { war_countries = { is_greater_power = yes } }
+			}
+			modifier = {
+				factor = 0
+				badboy = 0.7
+			}
+			modifier = {
+				factor = 0
+				NOT = { war_exhaustion = 20 }
+			}
+		}
+	}
+}

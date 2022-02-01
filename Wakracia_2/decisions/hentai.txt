@@ -6,10 +6,6 @@ political_decisions = {
 			is_vassal = no
 			tag = JAP
 			NOT = { has_country_flag = hentai_lift }
-		}
-
-		allow = {
-			war = no
 			OR = {
 				government = prussian_constitutionalism
 				government = democracy
@@ -17,8 +13,13 @@ political_decisions = {
 			}
 		}
 
+		allow = {
+			war = no
+		}
+
 		effect = {
 			set_country_flag = hentai_lift
+			clr_country_flag = no_hentai_lift
 			prestige = 2
 			rich_strata = { militancy = -0.5 }
 			poor_strata = { militancy = 1 }
@@ -31,10 +32,6 @@ political_decisions = {
 			is_vassal = no
 			tag = JAP
 			NOT = { has_country_flag = no_hentai_lift }
-		}
-
-		allow = {
-			war = no
 			NOT = { 
 				OR = {
 				government = prussian_constitutionalism
@@ -43,8 +40,13 @@ political_decisions = {
 			}
 		}
 
+		allow = {
+			war = no
+		}
+
 		effect = {
 			set_country_flag = no_hentai_lift
+			clr_country_flag = hentai_lift
 			prestige = -1
 			rich_strata = { militancy = 0.5 }
 			poor_strata = { militancy = -1 }

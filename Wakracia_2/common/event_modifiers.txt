@@ -485,6 +485,12 @@ egyptian_excavations = {
 	icon = 5
 }
 
+war_propaganda = {
+	war_exhaustion = -0.02
+	badboy = 0.01
+	icon = 15
+}
+
 international_negotiations = {
 	badboy = 0.01
 	icon = 17
