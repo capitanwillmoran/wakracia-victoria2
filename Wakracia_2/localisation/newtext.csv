@@ -84,7 +84,7 @@ USA_absolute_monarchy;Kingdom of North Atlantis;Royaume d'Amérique;Kingdom of Am
 USA_absolute_monarchy_ADJ;North Atlantean;Américain;Amerikanisch;;Noratlante;;;;;;;;;x;
 USA_hms_government;Kingdom of North Atlantis;Royaume d'Amérique;Kingdom of America;;Reino de Noratlántida;;;;;;;;;x;
 USA_hms_government_ADJ;North Atlantean;Américain;Amerikanisch;;Noratlante;;;;;;;;;x;
-USA_proletarian_dictatorship;Laborist Republic of North Atlantis;République populaire d'Amérique;American People's Republic;;República Laborista de Noratlántida;;;;;;;;;x;
+USA_proletarian_dictatorship;Soviet Laborist Republic of North Atlantis;République populaire d'Amérique;American People's Republic;;República Laborista Soviética de Noratlántida;;;;;;;;;x;
 USA_proletarian_dictatorship_ADJ;North Atlantean;Américain;Amerikanisch;;Noratlante;;;;;;;;;x;
 ENG_proletarian_dictatorship;The Worker's Commonwealth;Commonwealth des ouvriers;The Worker's Commonwealth;;La Mancomunidad de los Trabajadores;;;;;;;;;x;
 ENG_proletarian_dictatorship_ADJ;Britain;Britannique;Britisch;;Britano;;;;;;;;;x;
@@ -3159,3 +3159,8 @@ install_theocratic_regime_title;Install a Theocratic Government;;;;Instalar Teoc
 install_fascist_regime_title;Install an Ultranationalist Government;;;;Instalar Ultranacionalismo;;;;;;;;;;
 install_agrarist_regime_title;Install an Agrariast Government;;;;Instalar Agrarismo;;;;;;;;;;
 install_syndicalist_regime_title;Install a National Syndicalist Government;;;;Instalar Nacionalsindicalismo;;;;;;;;;;
+leave_soipotencia_title;Leave Sphere of Influence;;;;Abandonar esfera de influencia;;;;;;;;;;
+leave_soipotencia_desc;We are a great power. How the fuck is it possible that we are being sphered by another nation?... GTFO;;;;Somos una gran potencia ¿Cómo carajo es posible que nos esté esferando otra nación?… GTFO;;;;;;;;;;
+form_usa1;Unify North Atlantis;;;;Unificar Atlántida del Norte;;;;;;;;;;
+form_usa1_title;Unify North Atlantis;;;;Unificar Atlántida del Norte;;;;;;;;;;
+form_usa1_desc;Having failed the former attempt to unify North Atlantis into one state, we are in a position to proclaim again the unified state of North Atlantis. This time better organised politically, culturally and militarily, we will stand the test of time.;;;;Habiendo fracaso el antiguo intento de unificar Atlántida del norte en un estado, estamos en condiciones de proclamar nuevamente el estado unificado de Noratlántida. Esta vez mejor organizados política, cultural y militarmente, perduraremos en el tiempo.;;;;;;;;;;

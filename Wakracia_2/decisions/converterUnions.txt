@@ -3704,4 +3704,143 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	form_usa1 = {
+		image = USA
+		potential = {
+			NOT = {
+				exists = USA
+			}
+			OR = {
+				tag = FLR
+				tag = UIL
+				tag = DAK
+				tag = VNL
+				tag = QUE
+				tag = CAN
+				tag = TEX
+				tag = LOU
+				tag = X29
+				tag = X30
+				tag = UNM
+				tag = FSA
+			}
+		}	
+		allow = {
+			war = no
+			prestige = 5
+			USA = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			LSK = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			CAL = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			FLR = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			QUE = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			CAN = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			VNL = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			HUR = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			UIL = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			TEX = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			DAK = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			CYN = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			WIC = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			COM = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			X30 = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			X29 = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			UNM = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			FSA = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			LOU = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			add_accepted_culture = vinlander
+			add_accepted_culture = nyasverigian
+			add_accepted_culture = afronorse
+			add_accepted_culture = kanada
+			add_accepted_culture = qinlifornian
+			add_accepted_culture = eskaleut
+			add_accepted_culture = afrogreek
+			any_owned = {
+				add_core = USA
+			}
+			change_tag = USA
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

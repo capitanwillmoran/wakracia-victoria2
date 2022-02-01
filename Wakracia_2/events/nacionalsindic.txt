@@ -348,10 +348,7 @@ country_event = {
 	id = 77828
 	title = "EVTNAME77828"
 	desc = "EVTDESC77828"
-	news = yes
-	news_desc_long = "EVTDESC77828_NEWS_LONG"
-	news_desc_medium = "EVTDESC77828_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC77828_NEWS_SHORT"
+	news = no
 	major = yes
 	
 	trigger = {

@@ -2542,6 +2542,16 @@ political_decisions = {
 					add_core = FLR
 				}
 			}
+			HUR = {
+				any_owned = {
+					add_core = FLR
+				}
+			}
+			VNL = {
+				any_owned = {
+					add_core = FLR
+				}
+			}
 			CAN = {
 				any_owned = {
 					add_core = FLR
