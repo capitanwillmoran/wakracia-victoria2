@@ -1575,23 +1575,6 @@ unite_moldavia_wallachia = {
 					}
 				}
 			}
-			CUB = {
-				all_core = {
-					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-								OR = {
-									is_vassal = no
-									vassal_of = THIS
-								}
-								war = no
-							}
-						}
-					}
-				}
-			}
 		}
 		
 		effect = {

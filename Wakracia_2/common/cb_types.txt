@@ -2283,16 +2283,6 @@ steal_puppet = {
     good_relation_militancy_factor = 1
 
     can_use = {
-        OR = {
-            THIS = {
-                NOT = {
-                    has_country_flag = exclusive_acquire_all_cores_CB
-                    has_country_flag = exclusive_humiliate_CB
-                    has_country_flag = exclusive_liberate_country_CB
-                    has_country_flag = exclusive_make_puppet_CB
-                }
-            }
-        }
         NOT = { is_our_vassal = THIS }
         num_of_vassals_no_substates = 1
         NOT = { has_country_modifier = neutrality_modifier }
