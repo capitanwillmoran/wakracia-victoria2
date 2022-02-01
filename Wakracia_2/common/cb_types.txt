@@ -2222,7 +2222,7 @@ install_syndicalist_regime = {
 
 	can_use = {
 		THIS = {
-			government = agrarist
+			government = nationalsyndicalist_dictatorship
 			OR = { war_policy = jingoism war_policy = pro_military }
 		}
 		OR = { is_vassal = no is_our_vassal = THIS }
