@@ -2523,6 +2523,10 @@ political_decisions = {
 		potential = {
 			tag = FLR
 			has_country_flag = greater_florida2
+			OR = {
+				government = fascist_dictatorship
+				government = nationalsyndicalist_dictatorship
+			}
 			NOT = { has_country_flag = greater_florida3 }			
 		}
 				
@@ -2565,6 +2569,10 @@ political_decisions = {
 		picture = "manifest_destiny"
 		potential = {
 			tag = FLR
+			OR = {
+				government = fascist_dictatorship
+				government = nationalsyndicalist_dictatorship
+			}
 			has_country_flag = greater_florida3
 			NOT = { has_country_flag = greater_florida4 }			
 		}
@@ -2580,6 +2588,16 @@ political_decisions = {
 			badboy = 4
 			set_country_flag = greater_florida4
 			CAL = {
+				any_owned = {
+					add_core = FLR
+				}
+			}
+			WIC = {
+				any_owned = {
+					add_core = FLR
+				}
+			}
+			COM = {
 				any_owned = {
 					add_core = FLR
 				}
