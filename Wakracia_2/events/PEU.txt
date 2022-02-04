@@ -7,7 +7,7 @@ country_event = {
 	
 	trigger = {
 		tag = PEU
-		year = 1880
+		is_ideology_enabled = communist
 		NOT = {
 			has_country_flag = militarizadoperu
 			government = proletarian_dictatorship
@@ -19,7 +19,7 @@ country_event = {
 	option = {
 		name = "EVTOPTA77868"
 		government = proletarian_dictatorship
-		ruling_party_ideology = socialist
+		ruling_party_ideology = communist
 		political_reform = none_voting
 		political_reform = party_appointed
 		set_country_flag = militarizadoperu

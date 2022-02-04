@@ -8,6 +8,7 @@ country_event = {
 	trigger = {
 		tag = CLM
 		year = 1914
+		is_ideology_enabled = communist
 		NOT = {
 			has_country_flag = farkcoup
 			government = proletarian_dictatorship
