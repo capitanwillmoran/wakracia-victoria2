@@ -2415,6 +2415,7 @@ political_decisions = {
 			2365 = { add_core = PEU }
 			2364 = { add_core = PEU }
 			2318 = { add_core = PEU }
+			2407 = { add_core = PEU }
 		}
 
 		ai_will_do = {
