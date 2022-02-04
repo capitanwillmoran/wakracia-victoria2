@@ -9,11 +9,8 @@ political_decisions = {
 		allow = {
 		election = no
 		NOT = { economic_policy = laissez_faire }
-OR = { ai = no NOT = { money = 50000 } }
-
-OR = { 
-ai = no 
-}
+		NOT = { money = 50000 }
+		ai = no
 		}
 
 		alert = no
