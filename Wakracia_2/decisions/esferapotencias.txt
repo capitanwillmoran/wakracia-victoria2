@@ -4,10 +4,11 @@ political_decisions = {
 		alert = no
 		potential = {
 			part_of_sphere = yes
-			
+			is_greater_power = yes
 		}
 		allow = {
-			is_great_power = yes
+			is_greater_power = yes
+			part_of_sphere = yes
 		}
 		effect = {
 			sphere_owner = {

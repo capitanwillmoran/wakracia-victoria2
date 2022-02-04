@@ -9,7 +9,7 @@ country_event = {
         tag = DEC
 	year = 1840
 	OR = {
-            is_great_power = no
+            is_greater_power = yes
             is_secundary_power = no
 	}
     }

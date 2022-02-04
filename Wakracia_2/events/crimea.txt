@@ -9,7 +9,7 @@ country_event = {
 		tag = CRI
 		nationalism_n_imperialism = 1
 		or = {
-			is_great_power = yes
+			is_greater_power = yes
 			is_secondary_power = yes
 		}
 		MUS = {
@@ -75,7 +75,7 @@ country_event = {
 		tag = CRI
 		nationalism_n_imperialism = 1
 		or = {
-			is_great_power = yes
+			is_greater_power = yes
 			is_secondary_power = yes
 		}
 		RYA = {
@@ -141,7 +141,7 @@ country_event = {
 		tag = CRI
 		nationalism_n_imperialism = 1
 		or = {
-			is_great_power = yes
+			is_greater_power = yes
 			is_secondary_power = yes
 		}
 		X24 = {

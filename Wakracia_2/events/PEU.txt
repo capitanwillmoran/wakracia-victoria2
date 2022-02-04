@@ -26,7 +26,7 @@ country_event = {
 		any_country = {
 			limit = {
 				exists = yes
-				is_great_power = yes
+				is_greater_power = yes
 				NOT = { is_our_vassal = THIS }
 				NOT = { government = proletarian_dictatorship }
 			}
@@ -95,7 +95,7 @@ country_event = {
 		any_country = {
 			limit = {
 				exists = yes
-				is_great_power = yes
+				is_greater_power = yes
 				NOT = { is_our_vassal = THIS }
 			}
 			relation = { who = THIS value = -200 }

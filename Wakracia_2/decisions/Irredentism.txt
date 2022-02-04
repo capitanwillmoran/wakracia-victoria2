@@ -1598,7 +1598,7 @@ political_decisions = {
 				tag = XIA
 				tag = YAN
 			}
-			is_great_power = yes
+			is_greater_power = yes
 			NOT = { has_country_flag = greater_chin }			
 		}
 				
