@@ -20,6 +20,7 @@ country_event = {
 		name = "EVTOPTA1512329"
 		prestige = -5
 		government = theocratic
+		ruling_party_ideology = theocratic
 		political_reform = none_voting
 		political_reform = party_appointed
 		country_event = 90031

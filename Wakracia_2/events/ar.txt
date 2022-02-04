@@ -22,6 +22,7 @@ country_event = {
 	option = {
 		name = "EVTOPTA77810"
 		government = fascist_dictatorship
+		ruling_party_ideology = fascist
 		political_reform = none_voting
 		political_reform = party_appointed
 		set_country_flag = arg_referendum

@@ -19,6 +19,7 @@ country_event = {
 	option = {
 		name = "EVTOPTA77820"
 		government = proletarian_dictatorship
+		ruling_party_ideology = socialist
 		political_reform = none_voting
 		political_reform = party_appointed
 		set_country_flag = farkcoup
