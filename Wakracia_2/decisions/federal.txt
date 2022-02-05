@@ -63,9 +63,9 @@ political_decisions = {
 			set_country_flag = federal_atlantida
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 0
 			modifier = {
-				factor = 0
+				factor = 1
 				badboy = 0.3
 			}
 		}
@@ -89,7 +89,7 @@ political_decisions = {
 		
 		effect = {
 			prestige = -5
-			badboy = -0.2
+			badboy = -0.3
 			release = BOS
 			release = AUS
 			release = DLM
@@ -109,9 +109,9 @@ political_decisions = {
 			set_country_flag = federal_hungar
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 0
 			modifier = {
-				factor = 0
+				factor = 1
 				badboy = 0.3
 			}
 		}
@@ -133,7 +133,7 @@ political_decisions = {
 		
 		effect = {
 			prestige = -10
-			badboy = 3
+			badboy = 1
 			add_accepted_culture = carribean
 			add_accepted_culture = afrogreek
 			add_accepted_culture = atlantean
@@ -147,9 +147,9 @@ political_decisions = {
 			set_country_flag = culturalatlantis
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 0
 			modifier = {
-				factor = 0
+				factor = 1
 				badboy = 0.3
 			}
 		}

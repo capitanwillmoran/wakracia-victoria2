@@ -1140,6 +1140,16 @@ political_decisions = {
 					add_core = FLR
 				}
 			}
+			WIC = {
+				any_owned = {
+					add_core = FLR
+				}
+			}
+			COM = {
+				any_owned = {
+					add_core = FLR
+				}
+			}
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -2601,16 +2611,6 @@ political_decisions = {
 			badboy = 4
 			set_country_flag = greater_florida4
 			CAL = {
-				any_owned = {
-					add_core = FLR
-				}
-			}
-			WIC = {
-				any_owned = {
-					add_core = FLR
-				}
-			}
-			COM = {
 				any_owned = {
 					add_core = FLR
 				}
