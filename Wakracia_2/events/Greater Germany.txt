@@ -1160,7 +1160,7 @@ country_event = {
 				}
 			}
 			modifier = {
-				factor = 0
+				factor = 0.7
 				OR = {
 					government = democracy
 					government = hms_government
