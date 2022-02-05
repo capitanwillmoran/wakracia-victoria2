@@ -14,7 +14,7 @@ country_event = {
 		}
 		NOT = {
 			has_country_flag = arg_referendum
-			}
+		}
 	}
 
 	fire_only_once = yes
