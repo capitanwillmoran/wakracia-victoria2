@@ -12,8 +12,8 @@ NOT = { capital_scope = { has_province_modifier = royal_palace } }
 	money = 1000000
 					}
 		effect = {
-prestige = 100
-money = -100000
+prestige = 25
+money = -1000000
 any_owned = { limit = { is_capital = yes } add_province_modifier = { name = royal_palace duration = -1 } }
 poor_strata = {
 	consciousness = 2
@@ -45,8 +45,8 @@ NOT = { capital_scope = { has_province_modifier = presidential_palace } }
 	money = 1000000
 					}
 		effect = {
-prestige = 100
-money = -100000
+prestige = 25
+money = -1000000
 any_owned = { limit = { is_capital = yes } add_province_modifier = { name = presidential_palace duration = -1 } }
 poor_strata = {
 	consciousness = 2
@@ -78,8 +78,8 @@ NOT = { capital_scope = { has_province_modifier = peoples_palace } }
 	money = 1000000
 					}
 		effect = {
-prestige = 100
-money = -100000
+prestige = 25
+money = -1000000
 any_owned = { limit = { is_capital = yes } add_province_modifier = { name = peoples_palace duration = -1 } }
 poor_strata = {
 	consciousness = 2
@@ -111,8 +111,8 @@ NOT = { capital_scope = { has_province_modifier = parliament_palace } }
 	money = 1000000
 					}
 		effect = {
-prestige = 100
-money = -100000
+prestige = 25
+money = -1000000
 any_owned = { limit = { is_capital = yes } add_province_modifier = { name = parliament_palace duration = -1 } }
 poor_strata = {
 	consciousness = 2

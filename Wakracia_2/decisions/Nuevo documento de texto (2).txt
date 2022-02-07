@@ -1,0 +1,22 @@
+political_decisions = {
+
+	moscowfood = {
+		picture = mining_union
+		potential = {
+			owns = 1008
+			NOT = { has_country_flag = moscowfood }
+		}
+
+		allow = {
+			money = 1500
+		}
+
+		effect = {
+			money = -1500
+			build_factory_in_capital_state = canned_food_factory
+			prestige = 1
+			set_country_flag = moscowfood
+		}
+		ai_will_do = 1
+	}
+}

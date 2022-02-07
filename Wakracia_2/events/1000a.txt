@@ -29,7 +29,7 @@ is_triggered_only = yes
 	}
 	option = {
 		name = "EVTOPTA1512330c"
-		money = -1000000
+		money = -2000000
 		set_country_flag = 1512330
 		set_country_flag = 1512330c
 	}

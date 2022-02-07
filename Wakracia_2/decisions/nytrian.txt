@@ -150,7 +150,7 @@ political_decisions = {
 
 		allow = {
 			war = no
-			owns = 729
+			owns = 606
 			X09 = {
 				money = 300000
 			}

@@ -794,6 +794,7 @@ import_cost = -0.25
 factory_cost = -0.20
 factory_owner_cost = -0.20
 global_immigrant_attract = -0.80
+immigrant_push = -0.50
 influence_modifier = -0.75
 diplomatic_points_modifier = -0.2
 loan_interest = 0.25
@@ -813,6 +814,7 @@ import_cost = 0.75
 loan_interest = 0.75
 factory_throughput = -0.10
 global_immigrant_attract = -0.10
+immigrant_push = -0.3
 icon = 10
 }
 

@@ -1084,7 +1084,8 @@ political_decisions = {
 			USA_162 = { add_core = FLR }
 			USA_219 = { add_core = FLR }
 			USA_188 = { add_core = FLR }
-			USA_194 = { add_core = FLR }
+			192 = { add_core = FLR }
+			193 = { add_core = FLR }
 			USA_196 = { add_core = FLR }
 			USA_201 = { add_core = FLR }
 			USA_200 = { add_core = FLR }
@@ -1149,6 +1150,18 @@ political_decisions = {
 				any_owned = {
 					add_core = FLR
 				}
+			}
+			any_owned = {
+				limit = {
+					is_core = UIL
+					is_core = FSA
+					is_core = LOU
+					is_core = UNB
+					is_core = DAK
+					is_core = WIC
+					is_core = COM
+				}
+				add_core = FLR
 			}
 		}
 		ai_will_do = { factor = 1 }
@@ -2201,6 +2214,11 @@ political_decisions = {
 			set_country_flag = greater_hiperborea
 			money = -10000
 			badboy = 4
+			FRR = {
+				any_owned = {
+					add_core = SCA
+				}
+			}
 			any_owned = {
 				limit = {
 					is_core = FRR
@@ -2219,7 +2237,7 @@ political_decisions = {
 	}
 
 	atlanteankepnia = {
-		picture = atlantis
+		picture = atlantean
 		potential = {
 			tag = CUB
 			has_country_flag = atlankepnian_civil_war_happened
@@ -2239,11 +2257,18 @@ political_decisions = {
 			set_country_flag = atlanteankepnia
 			money = -50000
 			badboy = 4
-			any_owned = {
-				limit = {
-					is_core = CLM
+			CLM = {
+				any_owned = {
+					add_core = CUB
 				}
-				add_core = CUB
+			}
+			THIS = {
+				any_owned = {
+					limit = {
+						is_core = CLM
+					}
+					add_core = CUB
+				}
 			}
 		}
 
@@ -2257,7 +2282,7 @@ political_decisions = {
 	}
 
 	atlanteanrogiria = {
-		picture = atlantis
+		picture = atlantean
 		potential = {
 			tag = CUB
 			OR = {
@@ -2266,7 +2291,6 @@ political_decisions = {
 			}
 			has_country_flag = atlankepnian_civil_war_happened
 			MEX = { exists = yes }
-			RGR = { exists = yes }
 			CLM = { exists = no }
 			NOT = {
 				has_country_flag = atlanteanrogiria
@@ -2284,6 +2308,11 @@ political_decisions = {
 			set_country_flag = atlanteanrogiria
 			money = -30000
 			badboy = 4
+			MEX = {
+				any_owned = {
+					add_core = CUB
+				}
+			}
 			any_owned = {
 				limit = {
 					is_core = MEX
@@ -2509,6 +2538,11 @@ political_decisions = {
 			set_country_flag = bigbactria
 			money = -40000
 			badboy = 4
+			HND = {
+				any_owned = {
+					add_core = X04
+				}
+			}
 			any_owned = {
 				limit = {
 					is_core = HND
@@ -2584,6 +2618,15 @@ political_decisions = {
 					add_core = FLR
 				}
 			}
+			any_owned = {
+				limit = {
+					is_core = QUE
+					is_core = HUR
+					is_core = VNL
+					is_core = CAN
+				}
+				add_core = FLR
+			}
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -2614,6 +2657,12 @@ political_decisions = {
 				any_owned = {
 					add_core = FLR
 				}
+			}
+			any_owned = {
+				limit = {
+					is_core = CAL
+				}
+				add_core = FLR
 			}
 			MEX_2138 = { add_core = FLR }
 			MEX_85 = { add_core = FLR }
@@ -2690,6 +2739,12 @@ political_decisions = {
 				any_owned = {
 					add_core = JAP
 				}
+			}
+			any_owned = {
+				limit = {
+					is_core = LSK
+				}
+				add_core = JAP
 			}
 		}
 		ai_will_do = { factor = 1 }

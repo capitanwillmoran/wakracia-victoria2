@@ -19,7 +19,7 @@ is_triggered_only = yes
 
 	option = {
 		name = "EVTOPTA1512333"
-		prestige = 75
+		prestige = 250
 		labourers = {
 			consciousness = -5
 		}
