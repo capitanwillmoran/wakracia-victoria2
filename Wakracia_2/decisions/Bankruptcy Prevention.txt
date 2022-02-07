@@ -25,7 +25,7 @@ political_decisions = {
 		effect = {
 			badboy = 5
 			prestige_factor = -0.25
-			add_tax_relative_income = 500
+			add_tax_relative_income = 100
 			
 			poor_strata = {
 				consciousness = -2
