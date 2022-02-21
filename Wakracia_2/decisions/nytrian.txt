@@ -552,6 +552,29 @@ political_decisions = {
 		}
 	}
 
+	move_capital_to_pekin = {
+        	picture = peking_convention
+        	alert = no
+        	potential = {
+			tag = CHI
+			owns = 1612
+			NOT = { capital = 1612 }
+		}
+
+		allow = {
+			NOT = { capital = 1612 }
+		}
+
+		effect = {
+			capital = 1612
+			prestige = 5
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
 	lasbalearessonespanholas = {
         	picture = fueros
         	alert = no
