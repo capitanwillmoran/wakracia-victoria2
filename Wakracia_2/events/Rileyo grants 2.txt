@@ -1,0 +1,384 @@
+#768551 = Potential giving countries notified of aid request
+#7685(52,54,56,58,61) = Necessary to trigger next event in giving country's series and pass receiving countries TAG along.
+#7685(52,54,56,58,61) = Triggers giving country's selected order of magnitude and one lower to allow two sig figs for grants
+#768560 aid decline notification. May remove later. Not sure if relevevant
+#7685(53,55,57,59,62) = Giving country chooses amount within each order of magnitude, can still opt out. Ascending, logarithmic, (0-9)000-(0-9)0million
+
+country_event = {
+
+	is_triggered_only = yes
+	id = 768551
+	title = "EVT768551TITLE"
+	desc = "EVT768551DESC"
+	allow_multiple_instances = yes
+	option = {
+	ai_chance={factor=100}
+	name = "EVT768551OPTE"
+		FROM = { country_event = {id = 768560 days = 0} }
+	
+	}
+
+	option = {
+	name = "EVT768551OPTA"
+	
+		FROM = {
+			country_event = {id = 768552 days = 0}
+		
+		}
+		ai_chance = {factor = 100} 
+	}
+	
+	option = {
+	name = "EVT768551OPTB"
+	
+		FROM = {
+			country_event = {id = 768554 days = 0}
+		} 
+	}
+	
+	option = {
+	name = "EVT768551OPTC"
+	
+		FROM = {
+			country_event = {id = 768556 days = 0}
+		} 
+	}
+
+	option = {
+	name = "EVT768551OPTD"
+	
+		FROM = {
+			country_event = {id = 768558 days = 0}
+		}
+	}	
+}
+
+country_event = {
+	is_triggered_only = yes
+	id = 768553
+	title = "EVT768553TITLE"
+	desc = "EVT768553DESC"
+	allow_multiple_instances = yes	
+	option = {
+	name = "EVT768553OPTJ"
+	}
+	option = {
+	name = "EVT768553OPTA"
+	ai_chance = {factor = 100}
+	treasury = -1000
+	FROM = {treasury = 1000}
+	}
+	option = {
+	name = "EVT768553OPTB"
+	treasury = -2000
+	FROM = {treasury = 2000}
+	}
+	option = {
+	name = "EVT768553OPTC"
+	treasury = -3000
+	FROM = {treasury = 3000}
+	}  
+	option = {
+	name = "EVT768553OPTD"
+	treasury = -4000
+	FROM = {treasury = 4000}
+	}  
+	option = {
+	name = "EVT768553OPTE"
+	treasury = -5000
+	FROM = {treasury = 5000}
+	}  
+	option = {
+	name = "EVT768553OPTF"
+	treasury = -6000
+	FROM = {treasury = 6000}
+	}  
+	option = {
+	name = "EVT768553OPTG"
+	treasury = -7000
+	FROM = {treasury = 7000}
+	}  
+	option = {
+	name = "EVT768553OPTH"
+	treasury = -8000
+	FROM = {treasury = 8000}
+	}  
+	option = {
+	name = "EVT768553OPTI"
+	treasury = -9000
+	FROM = {treasury = 9000}
+	}  
+}
+
+country_event = {
+	id = 768555
+	title = "EVT768555TITLE"
+	desc = "EVT768555DESC"
+	allow_multiple_instances = yes	
+	is_triggered_only = yes
+	option = {
+	name = "EVT768555OPTJ"
+	}
+	option = {
+	name = "EVT768555OPTA"
+	ai_chance = {factor = 100}
+	treasury = -10000
+	FROM = {treasury = 10000}
+	}
+	option = {
+	name = "EVT768555OPTB"
+	treasury = -20000
+	FROM = {treasury = 20000}
+	}
+	option = {
+	name = "EVT768555OPTC"
+	treasury = -30000
+	FROM = {treasury = 30000}
+	}  
+	option = {
+	name = "EVT768555OPTD"
+	treasury = -40000
+	FROM = {treasury = 40000}
+	}  
+	option = {
+	name = "EVT768555OPTE"
+	treasury = -50000
+	FROM = {treasury = 50000}
+	}  
+	option = {
+	name = "EVT768555OPTF"
+	treasury = -60000
+	FROM = {treasury = 60000}
+	}  
+	option = {
+	name = "EVT768555OPTG"
+	treasury = -70000
+	FROM = {treasury = 70000}
+	}  
+	option = {
+	name = "EVT768555OPTH"
+	treasury = -80000
+	FROM = {treasury = 80000}
+	}  
+	option = {
+	name = "EVT768555OPTI"
+	treasury = -90000
+	FROM = {treasury = 90000}
+	}  
+}
+
+country_event = {
+	id = 768557
+	title = "EVT768555TITLE"
+	desc = "EVT768557DESC"
+	allow_multiple_instances = yes	
+	is_triggered_only = yes
+	option = {
+	name = "EVT768557OPTA"
+	}
+	option = {
+	name = "EVT768557OPTB"
+	ai_chance = {factor = 100}
+	treasury = -100000
+	FROM = {treasury = 100000}
+	}
+	option = {
+	name = "EVT768557OPTC"
+	treasury = -200000
+	FROM = {treasury = 200000}
+	}
+	option = {
+	name = "EVT768557OPTD"
+	treasury = -300000
+	FROM = {treasury = 300000}
+	}  
+	option = {
+	name = "EVT768557OPTE"
+	treasury = -400000
+	FROM = {treasury = 400000}
+	}  
+	option = {
+	name = "EVT768557OPTF"
+	treasury = -500000
+	FROM = {treasury = 500000}
+	}  
+	option = {
+	name = "EVT768557OPTG"
+	treasury = -600000
+	FROM = {treasury = 600000}
+	}  
+	option = {
+	name = "EVT768557OPTH"
+	treasury = -700000
+	FROM = {treasury = 700000}
+	}  
+	option = {
+	name = "EVT768557OPTI"
+	treasury = -800000
+	FROM = {treasury = 800000}
+	}  
+	option = {
+	name = "EVT768557OPTJ"
+	treasury = -900000
+	FROM = {treasury = 900000}
+	}  
+}
+
+country_event = {
+	id = 768559
+	title = "EVT768559TITLE"
+	desc = "EVT768559DESC"
+	allow_multiple_instances = yes	
+	is_triggered_only = yes
+	option = {
+	name = "EVT768559OPTA"
+	}
+	option = {
+	name = "EVT768559OPTB"
+	ai_chance = {factor = 100}
+	money = -1000000
+	FROM = {money = 1000000}
+	}
+	option = {
+	name = "EVT768559OPTC"
+	money = -2000000
+	FROM = {money = 2000000}
+	}
+	option = {
+	name = "EVT768559OPTD"
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -1000000
+	FROM = {money = 1000000}
+	}  
+	option = {
+	name = "EVT768559OPTE"
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -2000000
+	FROM = {money = 2000000}
+	}  
+	option = {
+	name = "EVT768559OPTF"
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -1000000
+	FROM = {money = 1000000}
+	}  
+	option = {
+	name = "EVT768559OPTG"
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -2000000
+	FROM = {money = 2000000}
+	}  
+	option = {
+	name = "EVT768559OPTH"
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -1000000
+	FROM = {money = 1000000}
+	}  
+	option = {
+	name = "EVT768559OPTI"
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -2000000
+	FROM = {money = 2000000}
+	}  
+	option = {
+	name = "EVT768559OPTJ"
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -2000000
+	FROM = {money = 2000000}
+	money = -1000000
+	FROM = {money = 1000000}
+	}  
+}
+
+country_event = {
+	id = 768560
+	title = "EVT768560TITLE"
+	desc = "EVT768560DESC"
+	allow_multiple_instances = yes	
+	is_triggered_only = yes
+	option = {
+	ai_chance = {factor = 100}
+	name = "EVT768560OPTA"
+	}
+}
+
+country_event = {
+	id = 768563
+	title = "EVT768563TITLE"
+	desc = "EVT768563DESC"
+	allow_multiple_instances = yes
+	is_triggered_only = yes
+	option = {
+	name = "EVT768563OPTA"
+	}	
+	option = {
+	name = "EVT768563OPTB"
+	ai_chance = {factor = 100}
+	treasury = -100
+	FROM = {treasury = 100}
+	}
+	option = {
+	name = "EVT768563OPTC"
+	treasury = -200
+	FROM = {treasury = 200}
+	}
+	option = {
+	name = "EVT768563OPTD"
+	treasury = -300
+	FROM = {treasury = 300}
+	}  
+	option = {
+	name = "EVT768563OPTE"
+	treasury = -400
+	FROM = {treasury = 400}
+	}  
+	option = {
+	name = "EVT768563OPTF"
+	treasury = -500
+	FROM = {treasury = 500}
+	}  
+	option = {
+	name = "EVT768563OPTG"
+	treasury = -600
+	FROM = {treasury = 600}
+	}  
+	option = {
+	name = "EVT768563OPTH"
+	treasury = -700
+	FROM = {treasury = 700}
+	}  
+	option = {
+	name = "EVT768563OPTI"
+	treasury = -800
+	FROM = {treasury = 800}
+	}  
+	option = {
+	name = "EVT768563OPTJ"
+	treasury = -900
+	FROM = {treasury = 900}
+	}  
+
+}  

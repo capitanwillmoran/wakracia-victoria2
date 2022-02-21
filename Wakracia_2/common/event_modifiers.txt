@@ -311,6 +311,13 @@ educational_reform = {
 	icon = 5
 }
 
+educational_reform2 = {
+	research_points_modifier = 0.15
+	education_efficiency_modifier = 0.5
+	pop_militancy_modifier = 0.07
+	icon = 5
+}
+
 legation_quarter = {
 	pop_militancy_modifier = 0.03
 	icon = 8
@@ -500,6 +507,12 @@ the_statue_of_liberty = {
 	prestige = 0.4
 	global_immigrant_attract = 2	#200%
 	global_assimilation_rate = 5.0
+	icon = 15
+}
+
+culturasense1 = {
+	prestige = 0.01
+	global_assimilation_rate = 3.0
 	icon = 15
 }
 

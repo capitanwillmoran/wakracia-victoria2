@@ -1,0 +1,99 @@
+#Contents and brief summary
+
+#768550 = notification to country requesting aid that request is made
+
+#7685(52,54,56,58,61) = Receiving country notified giving country will give aid. Ascending, logarithmic, 1000-10 million
+
+country_event = {
+
+	id = 768550
+	title = "EVT768550TITLE"
+	desc = "EVT768550DESC"
+	is_triggered_only = yes
+	allow_multiple_instances = yes
+	option = {
+		name = "EVT768550OPTA"
+		any_country = {
+			limit = {
+				has_country_flag = will_give_grants
+				ai = no
+				money = 10000
+			}
+			country_event = {id = 768551 days = 0}
+		}
+		ai_chance = {factor = 100}
+	}
+}
+
+
+country_event = {
+	
+	id = 768552
+	title = "EVT768552TITLE"
+	desc = "EVT768552DESC"
+	allow_multiple_instances = yes
+	is_triggered_only = yes
+	option = {
+		name = "EVT768552OPTA"
+		ai_chance = {factor = 100}
+		FROM = { country_event = {id = 768563 days = 0}}
+		FROM = { country_event = {id = 768553 days = 0}}
+	}
+}
+
+
+country_event = {
+
+	id = 768554
+	title = "EVT768554TITLE"
+	desc = "EVT768554DESC"
+	allow_multiple_instances = yes
+	is_triggered_only = yes
+	option = {
+		name = "EVT768554OPTA"
+		ai_chance = {factor = 100}
+		FROM = {
+			country_event = {id = 768553 days = 0}
+			country_event = {id = 768555 days = 0}
+		}
+	}
+}
+
+
+country_event = {
+
+	id = 768556
+	title = "EVT768556TITLE"
+	desc = "EVT768556DESC"
+	is_triggered_only = yes
+	allow_multiple_instances = yes
+		
+	option = {
+		name = "EVT768556OPTA"
+		ai_chance = {factor = 100}
+		FROM = {
+			country_event = {id = 768555 days = 0}
+			country_event = {id = 768557 days = 0}
+		}
+	}
+}
+
+
+country_event = {
+
+	id = 768558
+	title = "EVT768558TITLE"
+	is_triggered_only = yes
+	desc = "EVT768558DESC"
+	allow_multiple_instances = yes
+		
+	option = {
+		name = "EVT768558OPTA"
+		ai_chance = {factor = 100}
+		FROM = {
+			country_event = {id = 768557 days = 0}
+			country_event = {id = 768559 days = 0}
+		}
+	}
+}
+

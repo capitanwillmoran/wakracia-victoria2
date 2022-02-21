@@ -13,7 +13,7 @@ country_event = {
 			inherit = THIS
 		}
 		ai_chance = {
-			factor = 75
+			factor = 95
 		}
 	}
 	option = {
@@ -46,7 +46,7 @@ country_event = {
 			consciousness = 2
 		}
 		ai_chance = {
-			factor = 25
+			factor = 5
 		modifier = {
                 	factor = 0
 			has_country_flag = wants_to_unify

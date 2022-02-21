@@ -374,9 +374,8 @@ political_decisions = {
 						continent = south_america
 						continent = oceania
 						owner = {
-							in_sphere = THIS
 							OR = {
-								is_vassal = no
+								in_sphere = THIS
 								vassal_of = THIS
 							}
 							war = no
@@ -403,9 +402,8 @@ political_decisions = {
 						capital_scope = { continent = oceania }
 					}
 					is_culture_group = THIS
-					in_sphere = THIS
 					OR = {
-						is_vassal = no
+						in_sphere = THIS
 						vassal_of = THIS
 					}
 				}

@@ -4,6 +4,7 @@ political_decisions = {
 		news = no
 		potential = {
 			tag = HUR
+			ai = no
 			NOT = {
 				exists = VNL
 				has_country_flag = vinlandiaformada

@@ -81,12 +81,13 @@ country_event = {
 
 country_event = {
 	id = 96031
-	title = "EVTNAME96031"
-	desc = "EVTDESC96031"
+	title = "chismoso"
+	desc = "Si lees esto estás chismoseando"
 	major = no
 	
 	trigger = {
 		ai = no
+		ai = yes
 		tag = FLR
 		NOT = {
 			education_spending = 0.13
@@ -103,7 +104,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTA96031"
+		name = "Chismoso 1"
 		research_points = 9999
 		ai_chance = {
 			factor = 0
@@ -111,7 +112,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTB96031"
+		name = "Chismoso 2"
 		badboy = -25
 		ai_chance = {
 			factor = 0
@@ -119,7 +120,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTD96031"
+		name = "Chismoso 3"
 		badboy = -5
 		ai_chance = {
 			factor = 0
@@ -127,7 +128,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTE96031"
+		name = "Chismoso 4"
 		badboy = -10
 		ai_chance = {
 			factor = 0
@@ -135,7 +136,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTC96031"
+		name = "Chismoso 5"
 		money = 50000
 		ai_chance = {
 			factor = 0
@@ -143,10 +144,173 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTF96031"
-		money = 90000
+		name = "Chismoso 6"
+		money = 250000
 		ai_chance = {
 			factor = 0
+		}
+	}
+}
+
+country_event = {
+	id = 96033
+	title = "1"
+	desc = "1"
+	major = no
+	
+	trigger = {
+		ai = no
+		tag = FLR
+		NOT = {
+			education_spending = 0.19
+		}
+		NOT = {
+			military_spending = 0.19
+		}
+		military_spending = 0.22
+		education_spending = 0.22
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "1"
+		event = 96031
+	}
+}
+
+country_event = {
+	id = 96032
+	title = "EVTNAME96032"
+	desc = "EVTDESC96032"
+	major = no
+	picture = "fascist"
+	
+	trigger = {
+		tag = HND
+		year = 1913
+		upper_house = {
+			ideology = fascist
+			value = 0.05
+		}
+		NOT = {
+			has_country_flag = hnd_referendum
+		}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA96032"
+		government = fascist_dictatorship
+		ruling_party_ideology = fascist
+		political_reform = none_voting
+		political_reform = party_appointed
+		set_country_flag = hnd_referendum
+		ai_chance = {
+			factor = 0.9
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = fascist
+				factor = -2
+			}
+			scaled_militancy = {
+				ideology = nationalsyndicalist
+				factor = -2
+			}
+			scaled_militancy = {
+				ideology = reactionary
+				factor = -2
+			}
+			scaled_militancy = {
+				ideology = liberal
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = socialist
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = communist
+				factor = 4
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB96032"
+		set_country_flag = hnd_referendum
+		ai_chance = {
+			factor = 0.1
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = fascist
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = nationalsyndicalist
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = reactionary
+				factor = 4
+			}
+			scaled_militancy = {
+				ideology = liberal
+				factor = -2
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 96034
+	title = "EVTNAME96034"
+	desc = "EVTDESC96034"
+	major = yes
+	picture = "cityfire"
+	
+	trigger = {
+		tag = MUS
+		year = 1871
+		NOT = {
+			has_country_flag = greatnenetsiafire
+		}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA96034"
+		set_country_flag = greatnenetsiafire
+		ai_chance = {
+			factor = 1
+		}
+		2589 = { trade_goods = coal }
+		985 = { trade_goods = coal }
+		986 = { trade_goods = coal }
+		2699 = { trade_goods = coal }
+		any_pop = {
+			scaled_militancy = {
+				ideology = reactionary
+				factor = 1
+			}
+			scaled_militancy = {
+				ideology = liberal
+				factor = 1
+			}
+			scaled_militancy = {
+				ideology = conservative
+				factor = 1
+			}
+			scaled_militancy = {
+				ideology = socialist
+				factor = -1
+			}
 		}
 	}
 }

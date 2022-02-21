@@ -1,0 +1,153 @@
+#;;;;;;;;;;;;;x
+abc_will_receive_grant_title;Request A Grant;;;;Solicitar una subvención;;;;;;;;x
+abc_will_receive_grant_desc;This will request a grant from other players. Please note they must have choosen the decision to enable giving grants for the request to go through. It can be reversed at any time.;;;;Esto solicitará una subvención a otros jugadores. Por favor, ten en cuenta que deben haber elegido la decisión de 'Activar la concesión de subvenciones y transferencias negociadas' para que la solicitud se lleve a cabo. Se puede anular en cualquier momento.;;;;;;;;x
+abc_will_give_grant_title;Enable Giving Grants and Negotiated Transfers;;;;Activar la concesión de subvenciones y transferencias negociadas;;;;;;;;x
+abc_will_give_grant_desc;This will allow us to give grants to other player, and for other players to justify Negotiated Transfers against us. It must be activated before a player chooses to request grants, and for other players to justify Negotiated Transfers against us. It can be reversed at any time.;;;;Esto nos permitirá dar subvenciones a otros jugadores, y que otros jugadores justifiquen transferencias negociadas contra nosotros. Debe activarse antes de que un jugador decida solicitar subvenciones, y para que otros jugadores justifiquen Transferencias Negociadas contra nosotros. Se puede anular en cualquier momento.;;;;;;;;x
+abc_will_not_give_grant_title;Disable Giving Grants and Negotiated Transfers;;;;Desactivar la concesión de subvenciones y transferencias negociadas;;;;;;;;x
+abc_will_not_give_grant_desc;This will prevent us from getting events when other players request grants and prevent players from having the ability to justify Negotated Transfer against us. It can be reversed at any time.;;;;Esto evitará que obtengamos eventos cuando otros jugadores soliciten subvenciones y evitará que los jugadores tengan la posibilidad de justificar Transferencias Negociadas contra nosotros. Se puede revertir en cualquier momento.;;;;;;;;x
+EVT768550TITLE;Aid Requested;;;;Ayuda solicitada;;;;;;;;x
+EVT768550DESC;We have requested aid from foreign powers. We can only hope they respond kindly.;;;;Hemos solicitado ayuda a las potencias extranjeras. Sólo podemos esperar que respondan amablemente.;;;;;;;;x
+EVT768550OPTA;It is out of our hands.;;;;No está en nuestras manos.;;;;;;;;x
+EVT768552TITLE;$FROMCOUNTRY$ Grants Aid;;;;$FROMCOUNTRY$ Solicita ayuda;;;;;;;;x
+EVT768552DESC;$FROMCOUNTRY$ has decided to give us aid on the order of thousands of wadrachma.;;;;$FROMCOUNTRY$ ha decidido darnos una ayuda de miles de wakracmas.;;;;;;;;x
+EVT768552OPTA;Great!;;;;¡Genial!;;;;;;;;x
+EVT768554TITLE;$FROMCOUNTRY$ Grants Aid;;;;$FROMCOUNTRY$ Solicita ayuda;;;;;;;;x
+EVT768554DESC;$FROMCOUNTRY$ has decided to give us aid on the order of tens of thousands of wadrachma.;;;;$FROMCOUNTRY$ ha decidido darnos una ayuda de decenas de miles de wakracmas.;;;;;;;;x
+EVT768554OPTA;Great!;;;;¡Genial!;;;;;;;;x
+EVT768556TITLE;$FROMCOUNTRY$ Grants Aid;;;;$FROMCOUNTRY$ Solicita ayuda;;;;;;;;x
+EVT768556DESC;$FROMCOUNTRY$ has decided to give us aid on the order of hundereds of thousands of wadrachma.;;;;$FROMCOUNTRY$ ha decidido darnos una ayuda de cientos de miles de wakracmas.;;;;;;;;x
+EVT768556OPTA;Great!;;;;¡Genial!;;;;;;;;x
+EVT768558TITLE;$FROMCOUNTRY$ Grants Aid;;;;$FROMCOUNTRY$ Solicita ayuda;;;;;;;;x
+EVT768558DESC;$FROMCOUNTRY$ has decided to give us aid on the order of millions of wadrachma.;;;;$FROMCOUNTRY$ ha decidido darnos una ayuda de millones de wakracmas.;;;;;;;;x
+EVT768558OPTA;Great!;;;;¡Genial!;;;;;;;;x
+EVT768551TITLE;$FROMCOUNTRY$ Requests Aid;;;;$FROMCOUNTRY$ Solicita ayuda;;;;;;;;x
+EVT768551DESC;$FROMCOUNTRY$ has asked we give them a grant. How much should we give?;;;;$FROMCOUNTRY$ ha pedido que le demos una ayuda. ¿Cuánto debemos dar?;;;;;;;;x
+EVT768551OPTA;Thousands of wadrachma;;;;Miles de wakracmas;;;;;;;;x
+EVT768551OPTB;Tens of Thousands of wadrachma;;;;Decenas de miles de wakracmas;;;;;;;;x
+EVT768551OPTC;Hundreds of Thousands of wadrachma;;;;Cientos de miles de wakracmas;;;;;;;;x
+EVT768551OPTD;Millions of wadrachma;;;;Millones de wakracmas;;;;;;;;x
+EVT768553TITLE;Choose Aid for $FROMCOUNTRY$;;;;Elija la ayuda para $FROMCOUNTRY$;;;;;;;;x
+EVT768553DESC;How much money would you like to give $FROMCOUNTRY$ (thousands)?;;;;¿Cuánto dinero le gustaría dar a $FROMCOUNTRY$ (miles)?;;;;;;;;x
+EVT768553OPTA;1000;;;;1000;;;;;;;;x
+EVT768553OPTB;2000;;;;2000;;;;;;;;x
+EVT768553OPTC;3000;;;;3000;;;;;;;;x
+EVT768553OPTD;4000;;;;4000;;;;;;;;x
+EVT768553OPTE;5000;;;;5000;;;;;;;;x
+EVT768553OPTF;6000;;;;6000;;;;;;;;x
+EVT768553OPTG;7000;;;;7000;;;;;;;;x
+EVT768553OPTH;8000;;;;8000;;;;;;;;x
+EVT768553OPTI;9000;;;;9000;;;;;;;;x
+EVT768553OPTJ;Our money is better spent at home.;;;;Nuestro dinero se gasta mejor en casa.;;;;;;;;x
+EVT768555TITLE;Choose Aid for $FROMCOUNTRY$;;;;Elija la ayuda para $FROMCOUNTRY$;;;;;;;;x
+EVT768555DESC;How much money would you like to give $FROMCOUNTRY$ (tens of thousands)?;;;;¿Cuánto dinero le gustaría dar a $FROMCOUNTRY$ (decenas de miles)?;;;;;;;;x
+EVT768555OPTA;10000;;;;10000;;;;;;;;x
+EVT768555OPTB;20000;;;;20000;;;;;;;;x
+EVT768555OPTC;30000;;;;30000;;;;;;;;x
+EVT768555OPTD;40000;;;;40000;;;;;;;;x
+EVT768555OPTE;50000;;;;50000;;;;;;;;x
+EVT768555OPTF;60000;;;;60000;;;;;;;;x
+EVT768555OPTG;70000;;;;70000;;;;;;;;x
+EVT768555OPTH;80000;;;;80000;;;;;;;;x
+EVT768555OPTI;90000;;;;90000;;;;;;;;x
+EVT768555OPTJ;Our money is better spent at home.;;;;Nuestro dinero se gasta mejor en casa.;;;;;;;;x
+EVT768551OPTE;Our money is better spent at home.;;;;Nuestro dinero se gasta mejor en casa.;;;;;;;;x
+EVT768555TITLE;Choose Aid for $FROMCOUNTRY$;;;;Elija la ayuda para $FROMCOUNTRY$;;;;;;;;x
+EVT768557DESC;How much money would you like to give $FROMCOUNTRY$ (hundreds of thousands)?;;;;¿Cuánto dinero le gustaría dar a $FROMCOUNTRY$ (cientos de miles)?;;;;;;;;x
+EVT768557OPTA;Our money is better spent at home.;;;;Nuestro dinero se gasta mejor en casa.;;;;;;;;x
+EVT768557OPTB;100000;;;;100000;;;;;;;;x
+EVT768557OPTC;200000;;;;200000;;;;;;;;x
+EVT768557OPTD;300000;;;;300000;;;;;;;;x
+EVT768557OPTE;400000;;;;400000;;;;;;;;x
+EVT768557OPTF;500000;;;;500000;;;;;;;;x
+EVT768557OPTG;600000;;;;600000;;;;;;;;x
+EVT768557OPTH;700000;;;;700000;;;;;;;;x
+EVT768557OPTI;800000;;;;800000;;;;;;;;x
+EVT768557OPTJ;900000;;;;900000;;;;;;;;x
+EVT768559TITLE;Choose Aid for $FROMCOUNTRY$;;;;Elegir la ayuda para $FROMCOUNTRY$;;;;;;;;x
+EVT768559DESC;How much money would you like to give $FROMCOUNTRY$ (millions)?;;;;¿Cuánto dinero le gustaría dar a $FROMCOUNTRY$ (millones)?;;;;;;;;x
+EVT768559OPTA;Our money is better spent at home.;;;;Nuestro dinero se gasta mejor en casa.;;;;;;;;x
+EVT768559OPTB;1000000;;;;1000000;;;;;;;;x
+EVT768559OPTC;2000000;;;;2000000;;;;;;;;x
+EVT768559OPTD;3000000;;;;3000000;;;;;;;;x
+EVT768559OPTE;4000000;;;;4000000;;;;;;;;x
+EVT768559OPTF;5000000;;;;5000000;;;;;;;;x
+EVT768559OPTG;6000000;;;;6000000;;;;;;;;x
+EVT768559OPTH;7000000;;;;7000000;;;;;;;;x
+EVT768559OPTI;8000000;;;;8000000;;;;;;;;x
+EVT768559OPTJ;9000000;;;;9000000;;;;;;;;x
+EVT768560TITLE;$FROMCOUNTRY$ Declines Aid Request;;;;$FROMCOUNTRY$ rechaza la solicitud de ayuda;;;;;;;;x
+EVT768560DESC;$FROMCOUNTRY$ decided against giving us a grant;;;;$FROMCOUNTRY$ decidió no darnos una subvención;;;;;;;;x
+EVT768560OPTA;I guess we just have to print more money...;;;;Supongo que tendremos que imprimir más dinero...;;;;;;;;x
+EVT768563TITLE;Choose Aid for $FROMCOUNTRY$;;;;Elige la ayuda para $FROMCOUNTRY$;;;;;;;;x
+EVT768563DESC;How much aid would you like to give $FROMCOUNTRY$ (hundreds of wadrachma);;;;Cuánta ayuda le gustaría dar a $FROMCOUNTRY$ (cientos de wakracmas);;;;;;;;x
+EVT768563OPTA;Our money is better spent at home.;;;;Nuestro dinero se gasta mejor en casa.;;;;;;;;x
+EVT768563OPTB;100;;;;100;;;;;;;;x
+EVT768563OPTC;200;;;;200;;;;;;;;x
+EVT768563OPTD;300;;;;300;;;;;;;;x
+EVT768563OPTE;400;;;;400;;;;;;;;x
+EVT768563OPTF;500;;;;500;;;;;;;;x
+EVT768563OPTG;600;;;;600;;;;;;;;x
+EVT768563OPTH;700;;;;700;;;;;;;;x
+EVT768563OPTI;800;;;;800;;;;;;;;x
+EVT768563OPTJ;900;;;;900;;;;;;;;x
+galapagossale;Sell of the Galapagos;;;;Venta de las Galápagos;;;;;;;;x
+galapagossale_title;Sell of the Galapagos;;;;Venta de las Galápagos;;;;;;;;x
+galapagossale_desc;The canonian state offered us money for the purchase of the Galapagos Islands. We can accept their proposal.;;;;El Estado canonio nos ofreció dinero para la compra de las Islas Galápagos. Podemos aceptar su propuesta.;;;;;;;;x
+schoolsuniversal;Universal Education?;;;;¿Educación Universal?;;;;;;;;x
+schoolsuniversal_title;Universal Education?;;;;¿Educación Universal?;;;;;;;;x
+schoolsuniversal_desc;The possibility of implementing a universal integrated education system for everyone between the ages of 6 and 15 has been presented to the state. We can carry out this project after carrying out some infrastructural works for its correct functioning.;;;;Se ha presentado ante el estado la posibilidad de implementar un sistema de educación integra universal para todo aquél individuo entre 6 y 15 años. Podemos llevar a cabo este proyecto tras realizar algunas obras de infraestructura para su correcto funcionamiento.;;;;;;;;x
+schoolsuniversal1;Universal Education?;;;;¿Educación Universal?;;;;;;;;x
+schoolsuniversal1_title;Universal Education?;;;;¿Educación Universal?;;;;;;;;x
+schoolsuniversal1_desc;The possibility of implementing a system of universal integrated education for everyone between 6 and 15 years of age has been presented to the state. We can carry out this project after carrying out some infrastructural works for its correct functioning.;;;;Se ha presentado ante el estado la posibilidad de implementar un sistema de educación integra universal para todo aquél individuo entre 6 y 15 años. Podemos llevar a cabo este proyecto tras realizar algunas obras de infraestructura para su correcto funcionamiento.;;;;;;;;x
+educational_reform2;Education Reform;;;;Reforma Educativa;;;;;;;;x
+educational_reform2_title;Education Reform;;;;Reforma Educativa;;;;;;;;x
+educational_reform2_desc;The state implemented a education reform.;;;;El estado llevó a cabo una reforma educativa.;;;;;;;;x
+culturasense;Teaching the National Symbols;;;;Enseñanza de Símbolos Patrios;;;;;;;;x
+culturasense_title;Teaching of National Symbols;;;;Enseñanza de Símbolos Patrios;;;;;;;;x
+culturasense_desc;Since we have good education throughout the national territory, we can use it to instruct future generations in patriotic symbols, marches, anthems and local culture.;;;;Dado que tenemos una buena educación en todo el territorio nacional, podemos utilizarla para instruir a las futuras generaciones en los símbolos patrios, las marchas, himnos y la cultura local.;;;;;;;;x
+culturasense1;Assimilation by Education;;;;Asimilación por Educación;;;;;;;;x
+culturasense1_title;Assimilation by Education;;;;Asimilación por Educación;;;;;;;;x
+culturasense1_desc;Cultural assimilation through education is taking place.;;;;Se está dando una asimilación cultural a través de la educación.;;;;;;;;x
+alpssale2;Alpine Situation;;;;Situación Alpina;;;;;;;;x
+alpssale2_title;Alpine Situation;;;;Situación Alpina;;;;;;;;x
+alpssale2_desc;Following the Myrmidon's withdrawal from Germanic territory we find that they ceded control of a section of the former Alpine territory to our state. We are in a position to return sovereignty to the Alps... for a small sum.;;;;Tras la retirada del mirmidón del territorio germano nos encontramos con que cedieron el control de una sección del antiguo territorio alpino a nuestro estado. Estamos en condiciones de regresar la soberanía a Los Alpes… por una pequeña suma.;;;;;;;;x
+vinlandiahurona;Huron Vinland;;;;Vinlandia Hurona;;;;;;;;x
+vinlandiahurona_title;Huron Vinland;;;;Vinlandia Hurona;;;;;;;;x
+vinlandiahurona_desc;The Huron state has controlled the territory formerly belonging to Vinland for about a century, we believe it is time for the cultural assimilation and disregard for our fellow citizens to end. We must recognise their rights as an integral part of our population.;;;;El estado Hurón ha controlado el territorio que anteriormente pertenecía a Vinlandia durante alrededor de un siglo, creemos que es hora de que la asimilación cultural y el desprecio por nuestros conciudadanos acabe. Debemos reconocer sus derechos como parte integra de nuestra población.;;;;;;;;x
+sueciareclamada;Finish the job;;;;Terminar el trabajo;;;;;;;;x
+sueciareclamada_title;Finish the job;;;;Terminar el trabajo;;;;;;;;x
+sueciareclamada_desc;The Swedish state is no more than a shadow of what it once was, we must end it and fully reclaim our hegemonic position in the hyperborean north.;;;;El estado sueco ya no es más que la sombra de lo que alguna vez llegó a ser, debemos terminar con esto y reclamar complemente nuestra posición hegemónica en el norte hiperbóreo.;;;;;;;;x
+move_capital_to_delhi;Delhi Capital;;;;Delhi Capital;;;;;;;;x
+move_capital_to_delhi_title;Moving the Capital to Delhi;;;;Mover la Capital a Delhi;;;;;;;;x
+move_capital_to_delhi_desc;The nation state feels that it is really necessary to move the capital to Delhi for 'aesthetic' reasons. While this does not seem to us to be a valid justification, we can use this to gain, through some political acts, some prestige in the eyes of the people and international opinion.;;;;El estado nacional considera que es realmente necesario mover la capital a Delhi por cuestiones 'estéticas'. Si bien no nos parece una justificación válida, podemos utilizar esto para conseguir, a través de algunos actos políticos, algo de prestigio de cara al pueblo y la opinión internacional.;;;;;;;;x
+samireclamada;Reclaiming Sami;;;;Reclamación a Sami;;;;;;;;x
+samireclamada_title;Reclaiming Sami;;;;Reclamación a Sami;;;;;;;;x
+samireclamada_desc;We are already on our way to northern glory, one more step and we will succeed in unifying the territories we originally planned to call home.;;;;Ya estamos encaminados hacia la gloria del norte, un paso más y conseguiremos unificar los territorios que originalmente teníamos planeados llamar hogar.;;;;;;;;x
+schoolsuniversal2;Nyitra National University;;;;Universidad Nacional de Nyitra;;;;;;;;x
+schoolsuniversal2_title;Nyitra National University;;;;Universidad Nacional de Nyitra;;;;;;;;x
+schoolsuniversal2_desc;The state has obtained the deeds to the former University of Kiel at a record price, and with some renovations we can consider it the pinnacle of Nyitra's intelligence and education. At least for a while.;;;;El estado ha conseguido a precio récord las escrituras de la antigua Universidad de Kiel, con algunas reformas podremos considerarla la cúspide de la inteligencia y educación Nyitra. Al menos durante un tiempo.;;;;;;;;x
+lasbalearessonespanholas;The Balearic Islands are Hispanic;;;;Las Baleáres son Hispánicas;;;;;;;;x
+lasbalearessonespanholas_title;The Balearic Islands are Hispanic;;;;Las Baleáres son Hispánicas;;;;;;;;x
+lasbalearessonespanholas_desc;Who here speaks to us of forgetfulness, renunciation, forgiveness? ... No more beloved soil of the homeland in the expanse! The Balearic Islands are Hispanic;;;;¿Quién nos habla aquí de olvido, de renuncia, de perdón? ... ¡Ningún suelo más querido de la patria en la extensión! Las Islas Baleáreas son Hispánicas;;;;;;;;x
+EVTNAME96032;Ultranationalist uprising;;;;Levantamiento ultranacionalista;;;;;;;;x
+EVTDESC96032;The Indian government has been unable to stop the recent ultranationalist uprising led by General Kartar Singh Sarabha. They believe that the state is incapable of taking care of its citizens and that only they, through order, can achieve prosperity. However, to legitimise their rule, they have called for a national referendum.;;;;El gobierno indio se ha visto incapaz de frenar el reciente levantamiento ultranacionalista encabezado por el general Kartar Singh Sarabha. Los mismos consideran que el estado es incapaz de cuidar de sus ciudadanos y que solamente ellos, a través del orden, pueden lograr la prosperidad. Sin embargo, para legitimizar su gobierno, han llamado a un referéndum nacional.;;;;;;;;x
+EVTOPTA96032;Long live the Leader;;;;Larga vida al Líder;;;;;;;;x
+EVTOPTB96032;We will never be ultranationalists;;;;Nunca seremos ultranacionalistas;;;;;;;;x
+EVTNAME96034;Big fire in Nenetsia;;;;Gran Incendio en Nenetsia;;;;;;;;x
+EVTDESC96034;The great sacred forest of Nenetsia goes up in flames, and local police say they are investigating a group of agrarian extremists as the perpetrators. The cultural and religious loss to the people of Moscow is impossible to measure. The central government has sent numerous fire brigades to extinguish the flames, but all that is left behind is a gigantic charcoal field.;;;;El gran bosque sagrado de Nenetsia arde en llamas, la policía local afirma que está investigando a un grupo de extremistas agraristas como responsables materiales del hecho. La perdida cultural y religiosa para el pueblo moscovita es imposible de medir. Desde el gobierno central han enviado a numerosas dotaciones de bomberos para apagar las llamas, pero lo único que queda detrás es un gigantesco campo de carbón.;;;;;;;;x
+EVTOPTA96034;Like a breath in the wind;;;;Como un soplo al viento;;;;;;;;x
+bohemiastrong;Greater Bohemia;;;;Gran Bohemia;;;;;;;;x
+bohemiastrong_title;Greater Bohemia;;;;Gran Bohemia;;;;;;;;x
+bohemiastrong_desc;The North German Bohemian state is in a position to reclaim and unify the entire North German territory under one flag. It is our right and obligation to do so.;;;;El estado norgermano bohemio está en posición de reclamar y unificar todo el territorio norgermano bajo una sola bandera. Es nuestro derecho y obligación hacerlo.;;;;;;;;x
+move_capital_to_temesvar;Capital in Temesvar;;;;Capital en Temesvar;;;;;;;;x
+move_capital_to_temesvar_title;Moving the Capital to Temesvar;;;;Mover la Capital a Temesvar;;;;;;;;x
+move_capital_to_temesvar_desc;The current capital is no longer the most populated city in our state, and it is also within easy reach of our enemies due to its position close to the border. Some recommend relocating it to the growing city of Temesvar.;;;;La capital actual ha dejado de ser la ciudad más poblada de nuestro estado, además de que está muy al alcance de nuestros enemigos por su posición cercana a la frontera. Algunos recomiendan reubicarla en la creciente ciudad de Temesvar.;;;;;;;;x
+culturasdelpuebloagh;Austro-Greco-Hungarian Peoples;;;;Pueblos Austrogrecohungaros;;;;;;;;x
+culturasdelpuebloagh_title;Austro-Greco-Hungarian Peoples;;;;Pueblos Austrogrecohungaros;;;;;;;;x
+culturasdelpuebloagh_desc;After the recent popular uprisings in Austriagreecehungary we must consider accepting that there are more peoples in our state than Austrians, Greeks and Hungarians. A first step will be to accept the Serbs and Romanians.;;;;Tras los últimos levantamientos populares en Austriagreciahungría debemos considerar el aceptar que hay más pueblos en nuestro estado que los austriacos, griegos y húngaros. Un primer paso será aceptar a los serbios y rumanos.;;;;;;;;x
+;;;;;;;;;;;;;x
+;;;;;;;;;;;;;x
+;;;;;;;;;;;;;x
+;;;;;;;;;;;;;x
+;;;;;;;;;;;;;x
+;;;;;;;;;;;;;x

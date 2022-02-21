@@ -1,0 +1,28 @@
+#;;;;;;;;;;;;;x
+abc_will_receive_grant_title;Request A Grant;;;;Solicitar una subvención;;;;;;;;x
+abc_will_receive_grant_desc;This will request a grant from other players. Please note they must have choosen the decision to enable giving grants for the request to go through. It can be reversed at any time.;;;;Esto solicitará una subvención a otros jugadores. Por favor, ten en cuenta que deben haber elegido la decisión de permitir dar subvenciones para que la solicitud se lleve a cabo. Se puede anular en cualquier momento.;;;;;;;;x
+abc_will_give_grant_title;Enable Giving Grants and Negotiated Transfers;;;;Activar la concesión de subvenciones y transferencias negociadas;;;;;;;;x
+abc_will_give_grant_desc;This will allow us to give grants to other player, and for other players to justify Negotiated Transfers against us. It must be activated before a player chooses to request grants, and for other players to justify Negotiated Transfers against us. It can be reversed at any time.;;;;Esto nos permitirá dar subvenciones a otros jugadores, y que otros jugadores justifiquen transferencias negociadas contra nosotros. Debe activarse antes de que un jugador decida solicitar subvenciones, y para que otros jugadores justifiquen Transferencias Negociadas contra nosotros. Se puede anular en cualquier momento.;;;;;;;;x
+abc_will_not_give_grant_title;Disable Giving Grants and Negotiated Transfers;;;;Desactivar la concesión de subvenciones y transferencias negociadas;;;;;;;;x
+abc_will_not_give_grant_desc;This will prevent us from getting events when other players request grants and prevent players from having the ability to justify Negotated Transfer against us. It can be reversed at any time.;;;;Esto evitará que obtengamos eventos cuando otros jugadores soliciten subvenciones y evitará que los jugadores tengan la posibilidad de justificar Transferencias Negociadas contra nosotros. Se puede revertir en cualquier momento.;;;;;;;;x
+EVT768550TITLE;Aid Requested;;;;Ayuda solicitada;;;;;;;;x
+EVT768550DESC;We have requested aid from foreign powers. We can only hope they respond kindly.;;;;Hemos solicitado ayuda a las potencias extranjeras. Sólo podemos esperar que respondan amablemente.;;;;;;;;x
+EVT768550OPTA;It is out of our hands.;;;;No está en nuestras manos.;;;;;;;;x
+EVT768552TITLE;$FROMCOUNTRY$ Grants Aid;;;;$FROMCOUNTRY$ Concede ayuda;;;;;;;;x
+EVT768552DESC;$FROMCOUNTRY$ has decided to give us aid on the order of thousands of wakrachmas.;;;;$FROMCOUNTRY$ ha decidido darnos una ayuda de miles de wakracmas.;;;;;;;;x
+EVT768552OPTA;Great!;;;;¡Genial!;;;;;;;;x
+EVT768554TITLE;$FROMCOUNTRY$ Grants Aid;;;;$FROMCOUNTRY$ Concede ayuda;;;;;;;;x
+EVT768554DESC;$FROMCOUNTRY$ has decided to give us aid on the order of tens of thousands of wakrachmas.;;;;ha decidido darnos una ayuda de decenas de miles de wakracmas.;;;;;;;;x
+EVT768554OPTA;Great!;;;;¡Genial!;;;;;;;;x
+EVT768556TITLE;$FROMCOUNTRY$ Grants Aid;;;;$FROMCOUNTRY$ Concede ayuda;;;;;;;;x
+EVT768556DESC;$FROMCOUNTRY$ has decided to give us aid on the order of hundereds of thousands of wakrachmas.;;;;$FROMCOUNTRY$ ha decidido darnos una ayuda de cientos de miles de wakracmas.;;;;;;;;x
+EVT768556OPTA;Great!;;;;¡Genial!;;;;;;;;x
+EVT768558TITLE;$FROMCOUNTRY$ Grants Aid;;;;$FROMCOUNTRY$ Concede ayuda;;;;;;;;x
+EVT768558DESC;$FROMCOUNTRY$ has decided to give us aid on the order of millions of wakrachmas.;;;;$FROMCOUNTRY$ ha decidido darnos una ayuda de millones de wakracmas.;;;;;;;;x
+EVT768558OPTA;Great!;;;;¡Genial!;;;;;;;;x
+EVT768551TITLE;$FROMCOUNTRY$ Requests Aid;;;;$FROMCOUNTRY$ solicita ayuda;;;;;;;;x
+EVT768551DESC;$FROMCOUNTRY$ has asked we give them a grant. How much should we give?;;;;$FROMCOUNTRY$ ha pedido que le demos una ayuda. ¿Cuánto debemos dar?;;;;;;;;x
+EVT768551OPTA;Thousands of wakrachmas;;;;Miles de wakracmas;;;;;;;;x
+EVT768551OPTB;Tens of Thousands of wakrachmas;;;;Decenas de miles de wakracmas;;;;;;;;x
+EVT768551OPTC;Hundreds of Thousands of wakrachmas;;;;Cientos de miles de wakracmas;;;;;;;;x
+EVT768551OPTD;Millions of wakrachmas;;;;Millones de wakracmas;;;;;;;;x
