@@ -66,3 +66,84 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = 77883
+	title = "EVTNAME77883"
+	desc = "EVTDESC77883"
+	major = no
+	picture = "colonial_uprising"
+	
+	trigger = {
+		tag = X03
+		year = 1872
+		NOT = {
+			has_country_flag = austrohungariancoup
+			government = presidential_dictatorship
+		}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA77883"
+		government = presidential_dictatorship
+		ruling_party_ideology = reactionary
+		political_reform = none_voting
+		political_reform = party_appointed
+		set_country_flag = austrohungariancoup
+		any_country = {
+			limit = {
+				exists = yes
+				is_greater_power = yes
+				NOT = { is_our_vassal = THIS }
+				NOT = { government = presidential_dictatorship }
+			}
+			relation = { who = THIS value = -200 }
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = reactionary
+				factor = -3
+			}
+		}
+		ai_chance = {
+			factor = 0.9
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB77883"
+		set_country_flag = austrohungariancoup
+		any_pop = {
+			scaled_militancy = {
+				ideology = reactionary
+				factor = 5
+			}
+		}
+		ai_chance = {
+			factor = 0.1
+		}
+	}
+	
+	option = {
+		name = "EVTOPTC77883"
+		government = democracy
+		political_reform = universal_weighted_voting
+		political_reform = population_equal_weight
+		set_country_flag = austrohungariancoup
+		any_pop = {
+			scaled_militancy = {
+				ideology = reactionary
+				factor = 5
+			}
+			scaled_militancy = {
+				ideology = liberal
+				factor = -3
+			}
+		}
+		ai_chance = {
+			factor = 0.1
+		}
+	}
+}
