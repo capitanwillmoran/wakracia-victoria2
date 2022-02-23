@@ -626,7 +626,37 @@ political_decisions = {
 			prestige = 5
 			set_country_flag = culturasdelpuebloagh
 			add_accepted_culture = romanian
-			add_accepted_culture = serbian
+			add_accepted_culture = serb
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	culturasdelpueblomali = {
+        	picture = map_africa
+        	alert = yes
+        	potential = {
+			tag = MLI
+			NOT = {
+				has_country_flag = culturasdelpueblomali
+				government = fascist_dictatorship
+				government = nationalsyndicalist_dictatorship
+			}
+		}
+
+		allow = {
+			war = no
+			is_vassal = no
+			state_n_government = 1
+		}
+
+		effect = {
+			prestige = 5
+			set_country_flag = culturasdelpueblomali
+			add_accepted_culture = ibo
+			add_accepted_culture = mande
 		}
 
 		ai_will_do = {

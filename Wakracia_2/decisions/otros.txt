@@ -1,0 +1,89 @@
+political_decisions = {
+	the_bastion_of_liberty = {
+	picture = liberty
+		potential = {
+			OR = {
+				has_country_flag = new_world_nation
+				capital_scope = {
+					continent = north_america
+				}
+				capital_scope = {
+					continent = south_america
+				}
+			}
+			exists = yes
+			is_vassal = no
+			NOT = { has_country_flag = bastion_of_liberty }
+		}
+		allow = {
+			government = democracy
+		OR = {
+			vote_franschise = universal_weighted_voting
+			vote_franschise = universal_voting
+		}
+		OR = {
+			is_greater_power = yes
+			is_secondary_power = yes
+		}
+		empiricism = 1
+		war = no
+		NOT = { war_policy = jingoism }
+		NOT = { badboy = 0.5 }
+		}
+		effect = {
+			set_country_flag = bastion_of_liberty
+			add_country_modifier = {
+				name = the_safeheaven_for_liberalism
+				duration = 1825
+			}
+		prestige = 5
+		}
+		ai_will_do = {
+			factor = 100
+		}
+	}
+    gran_conscripcion_reform  = {
+        picture = army_training
+        potential = {
+            is_great_power = yes
+            NOT = { has_country_flag = gran_conscripcion_reform }
+            exists = yes
+        }
+        allow = {
+            is_greater_power = yeswar_exhaustion
+            war_exhaustion = 15
+        }
+        effect = {
+            set_country_flag = gran_conscripcion_reform
+			all_core = {
+				any_pop = {
+					limit = {
+						is_primary_culture = yes
+						type = soldiers
+					}
+					reduce_pop = 1.1
+					militancy = 3
+				}
+			}
+			random_owned = {
+				limit = {
+					owner = {
+						army_leadership_7 = 1
+					}
+				}
+				owner = {
+					all_core = {
+						any_pop = {
+							limit = {
+								is_primary_culture = yes
+								type = farmers
+							}
+							reduce_pop = 0.90
+						}
+					}
+				}
+			}
+        }
+    }
+
+}

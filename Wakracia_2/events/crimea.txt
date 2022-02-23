@@ -74,13 +74,13 @@ country_event = {
 		ai = no
 		tag = FLR
 		NOT = {
-			education_spending = 0.19
+			education_spending = 0.22
 		}
 		NOT = {
-			military_spending = 0.19
+			military_spending = 0.22
 		}
-		military_spending = 0.22
-		education_spending = 0.22
+		military_spending = 0.19
+		education_spending = 0.19
 	}
 	
 	mean_time_to_happen = {
@@ -89,7 +89,7 @@ country_event = {
 	
 	option = {
 		name = "1"
-		event = 96031
+		country_event = 96031
 	}
 }
 

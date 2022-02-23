@@ -1,0 +1,99 @@
+political_decisions = {
+    establecersistemadecolonias = {
+        picture = build_pilar
+        potential = {
+            OR = {
+                has_country_flag = new_world_nation
+                capital_scope = {
+                    continent = north_america
+                }
+                capital_scope = {
+                    continent = south_america
+                }
+            }
+            exists = yes
+            NOT = { has_country_flag = establecersistemadecolonias }
+            NOT = { has_country_modifier = canton_system }
+        }
+        allow = {
+            AND = {
+                semi_automatization = 1
+                hot_blast = 1
+                early_railroad = 1
+            }
+        }
+        effect = {
+            prestige = 3
+            set_country_flag = establecersistemadecolonias
+            any_pop = {
+                limit = {
+                    strata = poor
+                }
+                militancy = -3
+            }
+            aristocrats = {
+                militancy = 4
+            }
+            all_core = {
+                limit = {
+                    life_rating = 33
+                }
+                life_rating = 2
+            }
+        }
+    }
+
+    state_war_support = {
+        picture = scrap
+        potential = {
+            exists = yes
+            ai = no
+        }
+        allow = {
+            exists = yes
+            NOT = {
+                has_country_modifier = state_war_support_cooldown
+            }
+            money = 50000
+            war = yes
+        }
+        effect = {
+            money = -50000
+            any_pop = {
+                militancy = 1.9
+            }
+            small_arms = 111.34
+            luxury_clothes = 8.23
+            liquor = 84.4
+            canned_food = 191.1
+            wine = 94.6
+            artillery = 86.6
+            random_owned = {
+                limit = {
+                    owner = {
+                        NOT = { trade_unions = all_trade_unions }
+                    }
+                }
+                owner = {
+                    add_country_modifier = {
+                        name = state_war_support_cooldown
+                        duration = 1825
+                    }
+                }
+            }
+            random_owned = {
+                limit = {
+                    owner = {
+                        trade_unions = all_trade_unions
+                    }
+                }
+                owner = {
+                    add_country_modifier = {
+                        name = state_war_support_cooldown
+                        duration = 1825
+                    }
+                }
+            }
+        }
+    }
+}

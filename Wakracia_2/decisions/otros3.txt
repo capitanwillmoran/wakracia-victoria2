@@ -1,0 +1,194 @@
+political_decisions = {
+	agricultural_modernization = {
+		picture = agriculture
+		potential = {
+			NOT = { has_country_flag = agricultural_modernization }
+			exists = yes
+		}
+		allow = {
+			war = no
+			semi_automatization = 1
+			hot_blast = 1
+			early_railroad = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = agriculture_modernization
+				duration = 1825
+			}
+			set_country_flag = agricultural_modernization
+		}
+	}
+	deify_ruler = {
+		picture = deify
+		potential = {
+			NOT = { has_country_flag = deified_ruler }
+			OR = {
+				government = absolute_monarchy
+				government = theocracy
+			}
+			upper_house = {
+				ideology = theocratic
+				value = 0.02
+			}
+			exists = yes
+		}
+		allow = {
+			wage_reform = no_minimum_wage
+			ruling_party_ideology = theocratic
+			prestige = 100
+		}
+		effect = {
+			set_country_flag = deified_ruler
+			prestige = 25
+			add_country_modifier = {
+				name = deified_ruler
+				duration = 3650
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	terratenientes_system = {
+		picture = build_pilar
+		potential = {
+			NOT = { has_country_flag = establecersistemadecolonias }
+			NOT = { has_country_modifier = terrateniente_system }
+			OR = {
+				capital_scope = {
+					continent = north_america
+				}
+				capital_scope = {
+					continent = south_america
+				}
+				capital_scope = {
+					continent = africa
+				}
+			}
+			year = 1850
+		}
+		allow = {
+			ideological_thought = 1
+			civilized = yes
+		}
+		effect = {
+			prestige = 7
+			add_country_modifier = {
+				name = terrateniente_system
+				duration = -1
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	newaghcapital = {
+		picture = budapest_city
+		potential = {
+			652 = {
+				owned_by = THIS
+			}
+			capital = 652
+			NOT = { has_country_flag = reborncityagh }
+			exists = yes
+		}
+
+		allow = {
+			AND = {
+				market_structure = 1
+				organized_factories = 1
+				early_railroad = 1
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = greatboom
+				duration = 1825
+			}
+			any_owned = {
+				limit = {
+					region = AUS_647
+				}
+				add_province_modifier = {
+					name = capitalboom
+					duration = 720
+				}
+			}
+		set_country_flag = reborncityagh
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	malicoal = {
+		picture = mining_union
+		potential = {
+			tag = MLI
+			1942 = {
+				owned_by = THIS
+			}
+			1945 = {
+				owned_by = THIS
+			}
+			1944 = {
+				owned_by = THIS
+			}
+			NOT = { has_country_flag = malicoal }
+			exists = yes
+		}
+
+		allow = {
+			AND = {
+				mechanized_mining = 1
+				clean_coal = 1
+				early_railroad = 1
+			}
+		}
+
+		effect = {
+			any_owned = {
+				limit = {
+					region = FRA_1937
+				}
+				add_province_modifier = {
+					name = gold_rush
+					duration = 720
+				}
+			}
+			1945 = { trade_goods = coal }
+			1942 = { trade_goods = coal }
+			1944 = { trade_goods = coal }
+		set_country_flag = malicoal
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	army_works = {
+		picture = coloured_troops
+		potential = {
+			NOT = { has_country_modifier = army_works }
+			NOT = { has_country_flag = army_works }
+			pensions = no_pensions
+			civilized = yes
+		}
+		allow = {
+			ai = no
+			war = no
+		}
+		effect = {
+			country_event = 77885
+			add_country_modifier = {
+				name = army_works
+				duration = 2190
+			}
+			set_country_flag = army_works
+		}
+	}
+}
+
+}

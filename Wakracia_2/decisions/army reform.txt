@@ -8,11 +8,9 @@ political_decisions = {
 			}
 		}
 		allow = {
-			OR = { 
-				AND = {
-					breech_loaded_rifles = 1
-					army_professionalism = 1
-				}
+			AND = {
+				breech_loaded_rifles = 1
+				army_professionalism = 1
 			}
 		}
 		effect = {

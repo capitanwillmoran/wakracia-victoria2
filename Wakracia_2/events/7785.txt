@@ -1,0 +1,38 @@
+country_event = {
+    id = 77885
+    title = "EVTID77885"
+    desc = "EVTDESC77885"
+	is_triggered_only = yes
+	picture = emperor_move_capital
+	
+	option = {
+		name = "EVT77885OPTA"
+		add_country_modifier = {
+			name = rural_army_works
+			duration = 2190
+		}
+	}
+	
+	option = {
+		name = "EVT77885OPTB"
+		add_country_modifier = {
+			name = cultural_army_works
+			duration = 2190
+		}
+	}
+	
+	option = {
+		name = "EVT77885OPTC"
+		add_country_modifier = {
+			name = urban_army_works
+			duration = 2190
+		}
+		set_country_flag = urban_army_works
+	}
+	
+	option = {
+		name = "EVT77885OPTD"
+		remove_country_modifier = army_works
+		clr_country_flag = army_works
+	}
+}
