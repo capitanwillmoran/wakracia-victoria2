@@ -1,0 +1,248 @@
+political_decisions = {
+
+    recognize_anatolia = {
+        picture = turk_830
+        potential = {
+            is_greater_power = yes
+            exists = RUM
+            NOT = {
+                has_country_flag = recognize_anatolia
+                tag = RUM
+                tag = BYZ
+                RUM = { part_of_sphere = yes }
+            }
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            prestige = 1
+            set_country_flag = recognize_anatolia
+            RUM = { prestige = 5 }
+            BYZ = { prestige = -5 }
+            relation = {
+                who = RUM
+                value = 100
+            }
+            diplomatic_influence = {
+                who = RUM
+                value = 100
+            }
+            relation = {
+                who = BYZ
+                value = -100
+            }
+        }
+        ai_will_do = {
+            factor = 1
+            modifier = {
+                factor = 0
+                alliance_with = BYZ
+            }
+            modifier = {
+                factor = 0
+                relation = { who = BYZ value = 0 }
+            }
+        }
+    }
+
+   recognize_egipto = {
+        picture = EGY_copt
+        potential = {
+            is_greater_power = yes
+            OR = {
+                exists = EGY
+                exists = CEG
+            }
+            NOT = {
+                has_country_flag = recognize_egipto
+                tag = EGY
+                tag = BYZ
+                tag = CEG
+                OR = {
+                    EGY = { part_of_sphere = yes }
+                    CEG = { part_of_sphere = yes }
+                }
+            }
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            prestige = 1
+            set_country_flag = recognize_egipto
+            EGY = { prestige = 5 }
+            CEG = { prestige = 5 }
+            BYZ = { prestige = -5 }
+            relation = {
+                who = EGY
+                value = 100
+            }
+            relation = {
+                who = CEG
+                value = 100
+            }
+            diplomatic_influence = {
+                who = EGY
+                value = 100
+            }
+            diplomatic_influence = {
+                who = EGY
+                value = 100
+            }
+            relation = {
+                who = BYZ
+                value = -100
+            }
+        }
+        ai_will_do = {
+            factor = 1
+            modifier = {
+                factor = 0
+                alliance_with = BYZ
+            }
+            modifier = {
+                factor = 0
+                relation = { who = BYZ value = 0 }
+            }
+        }
+    }
+
+   recognize_babilonia = {
+        picture = build_the_tower_of_babylon
+        potential = {
+            is_greater_power = yes
+            exists = BAB
+            NOT = {
+                has_country_flag = recognize_babilonia
+                tag = BAB
+                tag = BYZ
+                BAB = { part_of_sphere = yes }
+            }
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            prestige = 1
+            set_country_flag = recognize_babilonia
+            BAB = { prestige = 5 }
+            BYZ = { prestige = -5 }
+            relation = {
+                who = BAB
+                value = 100
+            }
+            diplomatic_influence = {
+                who = BAB
+                value = 100
+            }
+            relation = {
+                who = BYZ
+                value = -100
+            }
+        }
+        ai_will_do = {
+            factor = 1
+            modifier = {
+                factor = 0
+                alliance_with = BYZ
+            }
+            modifier = {
+                factor = 0
+                relation = { who = BYZ value = 0 }
+            }
+        }
+    }
+
+   recognize_arabia = {
+        picture = form_arabia
+        potential = {
+            is_greater_power = yes
+            exists = ARA
+            NOT = {
+                has_country_flag = recognize_arabia
+                tag = ARA
+                tag = BYZ
+                ARA = { part_of_sphere = yes }
+            }
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            prestige = 1
+            set_country_flag = recognize_arabia
+            ARA = { prestige = 5 }
+            BYZ = { prestige = -5 }
+            relation = {
+                who = ARA
+                value = 100
+            }
+            diplomatic_influence = {
+                who = ARA
+                value = 100
+            }
+            relation = {
+                who = BYZ
+                value = -100
+            }
+        }
+        ai_will_do = {
+            factor = 1
+            modifier = {
+                factor = 0
+                alliance_with = BYZ
+            }
+            modifier = {
+                factor = 0
+                relation = { who = BYZ value = 0 }
+            }
+        }
+    }
+
+   recognize_etiopia = {
+        picture = become_negusa_nagast
+        potential = {
+            is_greater_power = yes
+            exists = ETH
+            NOT = {
+                has_country_flag = recognize_etiopia
+                tag = ETH
+                tag = BYZ
+                ARA = { part_of_sphere = yes }
+            }
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            prestige = 1
+            set_country_flag = recognize_etiopia
+            ETH = { prestige = 5 }
+            BYZ = { prestige = -5 }
+            relation = {
+                who = ETH
+                value = 100
+            }
+            diplomatic_influence = {
+                who = ETH
+                value = 100
+            }
+            relation = {
+                who = BYZ
+                value = -100
+            }
+        }
+        ai_will_do = {
+            factor = 1
+            modifier = {
+                factor = 0
+                alliance_with = BYZ
+            }
+            modifier = {
+                factor = 0
+                relation = { who = BYZ value = 0 }
+            }
+        }
+    }
+}
