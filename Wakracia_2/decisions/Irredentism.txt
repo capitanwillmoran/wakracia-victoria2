@@ -2724,15 +2724,15 @@ political_decisions = {
 		effect = {
 			badboy = 4
 			set_country_flag = greater_japcalifornia
-			MEX_2138 = { add_core = FLR }
-			MEX_85 = { add_core = FLR }
-			USA_81 = { add_core = FLR }
-			USA_78 = { add_core = FLR }
-			2 = { add_core = FLR }
-			1 = { add_core = FLR }
-			15 = { add_core = FLR }
-			13 = { add_core = FLR }
-			14 = { add_core = FLR }
+			MEX_2138 = { add_core = JAP }
+			MEX_85 = { add_core = JAP }
+			USA_81 = { add_core = JAP }
+			USA_78 = { add_core = JAP }
+			2 = { add_core = JAP }
+			1 = { add_core = JAP }
+			15 = { add_core = JAP }
+			13 = { add_core = JAP }
+			14 = { add_core = JAP }
 		}
 		ai_will_do = { factor = 1 }
 	}
