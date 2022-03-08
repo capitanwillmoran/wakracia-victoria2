@@ -279,7 +279,7 @@ political_decisions = {
 		picture = "the_grunderzeit"
 		potential = {
 			NOT = {
-				has_country_flag = schoolsuniversal1_build
+				has_country_flag = schoolsuniversal2_build
 			}
 			tag = SLV
 			year = 1850
@@ -511,16 +511,16 @@ political_decisions = {
         	alert = no
         	potential = {
 			tag = HND
-			owns = 200
-			NOT = { capital = 200 }
+			owns = 1236
+			NOT = { capital = 1236 }
 		}
 
 		allow = {
-			NOT = { capital = 200 }
+			NOT = { capital = 1236 }
 		}
 
 		effect = {
-			capital = 200
+			capital = 1236
 			prestige = 5
 		}
 

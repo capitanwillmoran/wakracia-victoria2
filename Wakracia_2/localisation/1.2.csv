@@ -491,7 +491,7 @@ MKA_absolute_monarchy;Nubian Empire;Nubian Empire;Nubian Empire;Nubian Empire;Im
 MKA_prussian_constitutionalism;Kingdom of Nubia;Kingdom of Nubia;Kingdom of Nubia;Kingdom of Nubia;Reino de Nubia;;;;;;;;;;
 MKA_hms_government;United Kingdom of Nubia;United Kingdom of Nubia;United Kingdom of Nubia;United Kingdom of Nubia;Reino Unido de Nubia;;;;;;;;;;
 MKA_theocracy;Coptic State of Nubia;Coptic State of Nubia;Coptic State of Nubia;Coptic State of Nubia;Estado Copto de Nubia;;;;;;;;;;
-JAP_fascist_dictatorship;Great Japanese Empire;Great Japanese Empire;Great Japanese Empire;Great Japanese Empire;Gran Imperio Japonés;;;;;;;;;;
+JAP_fascist_dictatorship;Pacific Empire;Great Japanese Empire;Great Japanese Empire;Great Japanese Empire;Imperio del Pacífico;;;;;;;;;;
 JAP_proletarian_dictatorship;Japanese Dirigist State;Japanese Dirigist State;Japanese Dirigist State;Japanese Dirigist State;Estado Dirigista Japonés;;;;;;;;;;
 JAP_presidential_dictatorship;Greeknippon State;Greeknippon State;Greeknippon State;Greeknippon State;Estado Greconipón;;;;;;;;;;
 JAP_bourgeois_dictatorship;Greeknippon State;Greeknippon State;Greeknippon State;Greeknippon State;Estado Greconipón;;;;;;;;;;
@@ -9098,3 +9098,5 @@ SBA_theocracy_desc;Bonaerense;;;;Bonaerense;;;;;;;;;;
 culturalatlantis;Atlantean Cultures;;;;Culturas Atlantes;;;;;;;;;;
 culturalatlantis_title;Atlantean Cultures;;;;Culturas Atlantes;;;;;;;;;;
 culturalatlantis_desc;The Atlantean state encompasses a multitude of different cultures not currently accepted or recognised by the state, we can change this situation.;;;;El estado atlante engloba una multitud de diferentes culturas no aceptadas ni reconocidas actualmente por el estado, podemos cambiar esta situación.;;;;;;;;;;
+RUS_agrarist;Rus Agrarist Federation;;;;Federación Agrarista Rusa;;;;;;;;;;
+PAL_agrarist;Palatinate Agrarists;;;;Agraristas del Palatinado;;;;;;;;;;
