@@ -5,6 +5,9 @@ political_decisions = {
 		potential = {
 			is_vassal = no
 			tag = CUB
+			FLR = {
+				ai = yes
+			}
 			NOT = { has_country_flag = cuban_florida }
 		}
 
@@ -32,6 +35,16 @@ political_decisions = {
 		potential = {
 			is_vassal = no
 			tag = JAP
+			1456 = {
+				owner = {
+					ai = yes
+				}
+			}
+			1458 = {
+				owner = {
+					ai = yes
+				}
+			}
 			government = democracy
 			NOT = { has_country_flag = japanese_tagalog }
 		}
@@ -82,6 +95,15 @@ political_decisions = {
 		potential = {
 			is_vassal = no
 			tag = JAP
+			1395 = { 
+				owner = {
+					money = 20000
+					relation = {
+						who = JAP
+						value = 100
+					}
+				}
+			}
 			government = democracy
 			NOT = { has_country_flag = japanese_brunei }
 		}
@@ -96,13 +118,9 @@ political_decisions = {
 		effect = {
 			set_country_flag = japanese_brunei
 			prestige = 2
-			1395 = { 
+			1395 = {
 				owner = {
-					money = 75000
-					relation = {
-						who = JAP
-						value = 100
-					}
+					ai = yes
 				}
 			}
 			NET_1423 = { secede_province = JAP }
@@ -114,3 +132,53 @@ political_decisions = {
 	}
 }
 
+political_decisions = {
+
+	greenlandsale = {
+		picture = become_japan
+		potential = {
+			is_vassal = no
+			tag = SLV
+			NOT = { exists = GRN }
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			251 = {
+				owner = {
+					ai = yes
+				}
+			}
+			NOT = { has_country_flag = greenlandsold }
+		}
+
+		allow = {
+			war = no
+			SLV = {
+				money = 120000
+			}
+		}
+
+		effect = {
+			set_country_flag = greenlandsold
+			prestige = 2
+			251 = { 
+				owner = {
+					money = 120000
+					relation = {
+						who = JAP
+						value = 100
+					}
+				}
+			}
+			251 = { secede_province = SLV }
+			2591 = { secede_province = SLV }
+			2636 = { secede_province = SLV }
+			2632 = { secede_province = SLV }
+			
+			SLV = {
+				money = -120000
+			}
+		}
+	}
+}

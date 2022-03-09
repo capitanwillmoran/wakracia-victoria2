@@ -1,5 +1,9 @@
 graphical_culture = IndianGC
-color = {150 77 240}
+color = {199 110 8 }
+proletarian_dictatorship = { 270 57 10 }
+nationalsyndicalist_dictatorship = { 270 57 10 }
+agrarist = { 27 87 7 }
+fascist_dictatorship = { 61 55 50 }
 
 party = {
 	name = "HND_conservative"

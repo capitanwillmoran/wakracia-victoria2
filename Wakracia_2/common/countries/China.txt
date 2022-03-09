@@ -1,5 +1,9 @@
 graphical_culture = ChineseGC
-color = { 255  234  154 }
+color = { 255 234 154 }
+proletarian_dictatorship = { 242 24 24 }
+nationalsyndicalist_dictatorship = { 99 9 9 }
+agrarist = { 9 99 9 }
+fascist_dictatorship = { 25 22 201 }
 
 party = {
 	name = "CHI_conservative"

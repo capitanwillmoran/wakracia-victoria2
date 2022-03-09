@@ -1,5 +1,8 @@
 graphical_culture = JapaneseGC
 color = { 194 53 60 }
+proletarian_dictatorship = { 191 0 9 }
+nationalsyndicalist_dictatorship = { 61 2 5 }
+agrarist = { 26 51 24 }
 
 party = {
 	name = "NIP_reactionary"

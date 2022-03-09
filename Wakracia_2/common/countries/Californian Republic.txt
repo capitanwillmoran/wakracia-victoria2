@@ -1,5 +1,9 @@
 graphical_culture = ChineseGC
 color = { 245 147 54 }
+proletarian_dictatorship = { 82 19 9 }
+nationalsyndicalist_dictatorship = { 82 19 9 }
+agrarist = { 74 133 70 }
+fascist_dictatorship = { 99 65 20 }
 
 party = {
 	name = "CAL_liberal"

@@ -114,6 +114,9 @@ political_decisions = {
 			is_vassal = no
 			tag = SLV
 			NOT = { has_country_flag = venetiansale }
+			X09 = {
+				ai = yes
+			}		
 		}
 
 		allow = {
@@ -149,6 +152,9 @@ political_decisions = {
 				tag = SPA
 				tag = GLC
 			}
+			PEU = {
+				ai = yes
+			}	
 			NOT = { has_country_flag = galapagossale }
 		}
 
@@ -314,6 +320,9 @@ political_decisions = {
 		potential = {
 			is_vassal = no
 			tag = SLV
+			X09 = {
+				ai = yes
+			}
 			NOT = { has_country_flag = alpssale }
 			NOT = { has_country_flag = alps_freed }	
 		}
@@ -354,6 +363,9 @@ political_decisions = {
 		potential = {
 			is_vassal = no
 			tag = SLV
+			SWI = {
+				ai = yes
+			}
 			NOT = { has_country_flag = alpssale2 }
 			X09 = { has_country_flag = free_germania_happened }
 		}

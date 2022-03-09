@@ -1,5 +1,8 @@
 graphical_culture = SouthAmericanGC
-color = { 129 177 125 }
+color = { 110 200 230 }
+agrarist = { 122 1 6 }
+proletarian_dictatorship = { 122 31 49 }
+fascist_dictatorship = { 14 18 64 }
 
 party = {
 	name = "BRZ_liberal"

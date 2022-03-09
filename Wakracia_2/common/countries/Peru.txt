@@ -1,5 +1,9 @@
 graphical_culture = SouthAmericanGC 
-color = { 124  140  162 }
+color = { 112 112 112 }
+proletarian_dictatorship = { 112 2 12 }
+nationalsyndicalist_dictatorship = { 112 2 12 }
+agrarist = { 62 112 52 }
+fascist_dictatorship = { 56 56 56 }
 
 party = {
 	name = "PEU_conservative"

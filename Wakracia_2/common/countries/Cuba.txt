@@ -1,5 +1,9 @@
 graphical_culture = Generic
 color = { 140 65 166 }
+proletarian_dictatorship = { 158 35 16 }
+nationalsyndicalist_dictatorship = { 62 12 64 }
+agrarist = { 40 161 35 }
+fascist_dictatorship = { 65 31 77 }
 
 party = {
 	name = "CUB_reactionary"

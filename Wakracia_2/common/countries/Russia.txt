@@ -1,5 +1,9 @@
 graphical_culture = RussianGC
-color = { 47 91 18 }
+color = { 39 94 2 }
+proletarian_dictatorship = { 180 24 24 }
+nationalsyndicalist_dictatorship = { 180 24 24 }
+agrarist = { 37 79 25 }
+fascist_dictatorship = { 92 102 92 }
 
 party = {
 	name = "RUS_conservative"
