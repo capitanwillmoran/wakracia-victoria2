@@ -95,7 +95,7 @@ country_event = {
 		is_ideology_enabled = nationalsyndicalist
 		upper_house = {
 			ideology = nationalsyndicalist
-			value = 0.02
+			value = 0.01
 		}
 	}
 
@@ -528,7 +528,7 @@ country_event = {
 		}
 		upper_house = {
 			ideology = fascist
-			value = 0.01
+			value = 0.03
 		}
 		NOT = { has_country_flag = golejapdirigista }
 		NOT = { has_country_flag = golejapfascist }

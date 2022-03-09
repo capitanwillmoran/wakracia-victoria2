@@ -2513,8 +2513,8 @@ political_decisions = {
 
 		effect = {
 			set_country_flag = bigindia
-			money = -20000
-			badboy = 4
+			money = -500000
+			badboy = 10
 			BUR_1330 = { add_core = HND }
 			BUR_1334 = { add_core = HND }
 			ENG_1343 = { add_core = HND }
@@ -2616,7 +2616,6 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
-			has_unclaimed_cores = no
 		}
 		
 		effect = {
@@ -2672,7 +2671,6 @@ political_decisions = {
 			war = no
 			is_vassal = no
 			nationalism_n_imperialism = 1
-			has_unclaimed_cores = no
 		}
 		
 		effect = {
@@ -2709,7 +2707,6 @@ political_decisions = {
 			OR = {
 				government = fascist_dictatorship
 				government = nationalsyndicalist_dictatorship
-				government = absolute_monarchy
 			}
 			NOT = { has_country_flag = greater_japcalifornia }			
 		}
@@ -2744,7 +2741,6 @@ political_decisions = {
 			OR = {
 				government = fascist_dictatorship
 				government = nationalsyndicalist_dictatorship
-				government = absolute_monarchy
 			}
 			has_country_flag = greater_japcalifornia
 			NOT = { has_country_flag = greater_japcalaska }			
