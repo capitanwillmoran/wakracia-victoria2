@@ -21,6 +21,11 @@ country_event = {
 		name = "EVTOPTA97007"
 		set_country_flag = epidemiadecolerachina
 		any_pop = {
+			limit = {
+				NOT = {
+					type = capitalists
+				}
+			}
 			reduce_pop = 0.70
 		}
 		any_pop = {
@@ -63,7 +68,12 @@ country_event = {
 	option = {
 		name = "EVTOPTA97008"
 		any_pop = {
-			reduce_pop = 0.72
+			limit = {
+				NOT = {
+					type = capitalists
+				}
+			}
+			reduce_pop = 0.70
 		}
 		any_pop = {
 			scaled_militancy = {
@@ -106,7 +116,12 @@ country_event = {
 	option = {
 		name = "EVTOPTA97009"
 		any_pop = {
-			reduce_pop = 0.80
+			limit = {
+				NOT = {
+					type = capitalists
+				}
+			}
+			reduce_pop = 0.75
 		}
 		any_pop = {
 			scaled_militancy = {
