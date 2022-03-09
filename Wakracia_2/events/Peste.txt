@@ -99,8 +99,7 @@ country_event = {
 	
 	trigger = {
 		year = 1880
-		tag = CHI
-		exists = CHI
+		owns = 1523
 		CSH = {
 			has_country_flag = epidemiadecolerachina
 		}
