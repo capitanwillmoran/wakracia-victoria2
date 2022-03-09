@@ -1,0 +1,125 @@
+country_event = {
+	id = 97007
+	title = "EVTNAME97007"
+	desc = "EVTDESC97007"
+	major = yes
+	
+	trigger = {
+		year = 1879
+		tag = CSH
+		exists = CSH
+		NOT = {
+			has_country_flag = epidemiadecolerachina
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA97007"
+		set_country_flag = epidemiadecolerachina
+		any_pop = {
+			reduce_pop = 0.70
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = theocratic
+				factor = 1
+			}
+		}
+		any_pop = {
+			ideology = {
+				value = theocratic
+				factor = 0.05
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 97008
+	title = "EVTNAME97008"
+	desc = "EVTDESC97008"
+	major = yes
+	
+	trigger = {
+		year = 1880
+		tag = HND
+		exists = HND
+		CSH = {
+			has_country_flag = epidemiadecolerachina
+		}
+		NOT = {
+			has_country_flag = epidemiadecoleraindia
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+	}
+	
+	option = {
+		name = "EVTOPTA97008"
+		any_pop = {
+			reduce_pop = 0.72
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = theocratic
+				factor = 1
+			}
+		}
+		any_pop = {
+			ideology = {
+				value = theocratic
+				factor = 0.05
+			}
+		}
+		set_country_flag = epidemiadecoleraindia
+	}
+}
+
+country_event = {
+	id = 97009
+	title = "EVTNAME97009"
+	desc = "EVTDESC97009"
+	major = yes
+	
+	trigger = {
+		year = 1880
+		tag = CHI
+		exists = CHI
+		CSH = {
+			has_country_flag = epidemiadecolerachina
+		}
+		NOT = {
+			has_country_flag = epidemiadecolerachinasur
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA97009"
+		any_pop = {
+			reduce_pop = 0.80
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = theocratic
+				factor = 1
+			}
+		}
+		any_pop = {
+			ideology = {
+				value = theocratic
+				factor = 0.05
+			}
+		}
+		set_country_flag = epidemiadecolerachinasur
+	}
+}

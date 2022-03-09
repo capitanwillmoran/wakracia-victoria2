@@ -1,0 +1,146 @@
+country_event = {
+	id = 97006
+	title = "EVTNAME97006"
+	desc = "EVTDESC97006"
+	picture = "Factoryattack"
+	
+	trigger = {
+		is_ideology_enabled = fascism
+		tag = CUB
+		civilized = yes
+		exists = MEX
+		OR = {
+			government = prussian_constitutionalism
+			government = democracy
+			government = hms_government
+			government = absolute_monarchy
+		}
+		NOT = {
+			has_country_flag = fronterascuba
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+		modifier = {
+			factor = 0.9
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			great_war_experience = 1
+		}
+		modifier = {
+			factor = 0.9
+			mass_politics = 1
+		}
+		modifier = {
+			factor = 0.9
+			anti__rationalism = 1
+		}
+		modifier = {
+			factor = 0.9
+			social_alienation = 1
+		}
+		modifier = {
+			factor = 1.5
+			NOT = {
+				average_consciousness = 4
+			}
+		}
+		modifier = {
+			factor = 1.5
+			nationalvalue = nv_liberty
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA97006"
+		any_country = {
+			limit = {
+				exists = yes
+				tag = MEX
+			}
+			relation = { who = THIS value = 50 }
+		}
+		any_pop = {
+			scaled_consciousness = {
+				ideology = fascist
+				factor = 2
+			}
+			scaled_militancy = {
+				ideology = fascist
+				factor = 1
+			}
+		}
+		set_country_flag = fronterascuba
+	}
+	
+	option = {
+		name = "EVTOPTB97006"
+		any_country = {
+			limit = {
+				exists = yes
+				tag = MEX
+			}
+			relation = { who = THIS value = -200 }
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = liberal
+				factor = 3
+			}
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = conservative
+				factor = 3
+			}
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = socialist
+				factor = 3
+			}
+		}
+		any_pop = {
+			scaled_militancy = {
+				ideology = fascist
+				factor = -1
+			}
+		}
+		any_pop = {
+			ideology = {
+				value = fascist
+				factor = 0.1
+			}
+		}
+		any_pop = {
+			dominant_issue = {
+				value = jingoism
+				factor = 0.05
+			}
+		}
+		set_country_flag = fronterascuba
+	}
+}

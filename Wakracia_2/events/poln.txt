@@ -145,7 +145,20 @@ country_event = {
 	
 	option = {
 		name = "Chismoso 6"
-		money = 250000
+		money = 500000
+		ai_chance = {
+			factor = 0
+		}
+	}
+	
+	option = {
+		name = "Chismoso 7"
+		any_pop = {
+			dominant_issue = {
+				value = jingoism
+				factor = 0.15
+			}
+		}
 		ai_chance = {
 			factor = 0
 		}
