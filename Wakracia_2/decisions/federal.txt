@@ -96,7 +96,7 @@ political_decisions = {
 		
 		effect = {
 			prestige = -15
-			badboy = 5
+			badboy = -4
 			release = BOS
 			release = AUS
 			release = DLM
