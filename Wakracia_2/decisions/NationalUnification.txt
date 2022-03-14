@@ -1640,39 +1640,6 @@ unite_moldavia_wallachia = {
 		effect = {
 			prestige = 15
 			all_core = { add_core = USN }
-			any_owned = {
-				limit = {
-					NOT = { is_core = THIS }
-					any_core = {
-						tag = PEU
-						tag = ARG
-						tag = BRZ
-						tag = CLM
-						tag = URU
-						tag = CHL
-						tag = PTG
-						tag = PRG
-						tag = RGS
-						tag = MPC
-						tag = CRA
-						tag = ENT
-						tag = SBA
-						tag = INC
-						tag = CSU
-						tag = CYA
-						tag = CHM
-						tag = QTO
-						tag = ECU
-						tag = VNZ
-						tag = PNM
-						tag = CEQ
-						tag = TUA
-						tag = TPQ
-						tag = CUB
-					}
-				}
-				add_core = USN
-			}
 			change_tag = USN
 			any_country = {
 				limit = {
@@ -1712,6 +1679,15 @@ unite_moldavia_wallachia = {
 					}
 				}
 				annex_to = USN
+			}
+			any_owned = {
+				limit = {
+					owned_by = THIS
+					NOT = {
+						is_colonial = yes
+					}
+				}
+				add_core = USN
 			}
 			add_accepted_culture = afro_greek
 			add_accepted_culture = kepnian

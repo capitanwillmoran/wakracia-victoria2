@@ -1,0 +1,641 @@
+political_decisions = {		
+	form_atlantisempire = {
+		picture = america
+		potential = {
+			OR = {
+				tag = USA
+				tag = USN
+				tag = CUB
+			}
+		}
+	
+		allow = {
+			is_greater_power = yes
+			prestige = 25
+			nationalism_n_imperialism = 1
+			ARG = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			URU = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			CHL = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			PRG = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			PEU = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			CLM = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			TUA = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			PTG = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			BRZ = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			VNZ = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			HUR = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			CAL = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			USA = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			FLR = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			CUB = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			MEX = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			X29 = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			X30 = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			CAN = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			QUE = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			UIL = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			FSA = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			TEX = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			RGR = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			SON = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			LOU = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			DAK = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			UNB = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			VNL = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+			PNM = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 100
+			all_core = { add_core = ATL }
+			change_tag = ATL
+			any_country = {
+				limit = {
+					ai = yes
+					OR = {
+						tag = PEU
+						tag = ARG
+						tag = BRZ
+						tag = CLM
+						tag = URU
+						tag = CHL
+						tag = PTG
+						tag = PRG
+						tag = RGS
+						tag = MPC
+						tag = CRA
+						tag = ENT
+						tag = SBA
+						tag = INC
+						tag = CSU
+						tag = CYA
+						tag = CHM
+						tag = QTO
+						tag = ECU
+						tag = VNZ
+						tag = PNM
+						tag = CEQ
+						tag = TUA
+						tag = TPQ
+						tag = CUB
+						tag = YUC
+						tag = MSK
+						tag = TTB
+						tag = BAR
+						tag = GRD
+						tag = STV
+						tag = STL
+						tag = MTQ
+						tag = DMN
+						tag = GDL
+						tag = MNR
+						tag = SKN
+						tag = CUR
+						tag = AGU
+						tag = WSI
+						tag = PIM
+						tag = LAC
+						tag = CHP
+						tag = ZAP
+						tag = AZT
+						tag = MIX
+						tag = OAX
+						tag = XAL
+						tag = TRS
+						tag = CMA
+						tag = CCM
+						tag = PRI
+						tag = PNM
+						tag = DOM
+						tag = HAI
+						tag = JAM
+						tag = BAH
+						tag = CRB
+						tag = NEW
+						tag = VNL
+						tag = UNB
+						tag = ILL
+						tag = DAK
+						tag = CYN
+						tag = CHN
+						tag = LOU
+						tag = SON
+						tag = RGR
+						tag = TEX
+						tag = FSA
+						tag = UIL
+						tag = QUE
+						tag = CAN
+						tag = WIC
+						tag = COM
+						tag = IRO
+						tag = X30
+						tag = CYN
+						tag = X29
+						tag = SAL
+						tag = MEX
+						tag = CUB
+						tag = FLR
+						tag = USA
+						tag = CAL
+						tag = HUR
+						tag = LSK
+					}
+					in_sphere = THIS 
+					NOT = { tag = THIS }
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+				annex_to = ATL
+			}
+			any_owned = {
+				limit = {
+					owned_by = THIS
+					NOT = {
+						is_colonial = yes
+					}
+				}
+				add_core = ATL
+			}
+			add_accepted_culture = afro_greek
+			add_accepted_culture = kepnian
+			add_accepted_culture = afrobrazilian
+			add_accepted_culture = canonian
+			add_accepted_culture = matense
+			add_accepted_culture = guarani
+			add_accepted_culture = quechua
+			add_accepted_culture = patagonian
+			add_accepted_culture = rogirian
+			add_accepted_culture = americangreek
+			add_accepted_culture = qinlifornian
+			add_accepted_culture = kanada
+			add_accepted_culture = nyasverigian
+			add_accepted_culture = atlantean
+			add_accepted_culture = carribean
+			add_accepted_culture = afrogreek
+			add_accepted_culture = afroslavic
+			add_accepted_culture = novisvet
+			add_accepted_culture = ealimi
+			add_accepted_culture = afronorse
+			add_accepted_culture = hjartnaaeter
+			add_accepted_culture = vinlanderr
+			add_accepted_culture = nayeduniya
+			add_accepted_culture = hellulander
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

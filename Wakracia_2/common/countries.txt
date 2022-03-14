@@ -965,6 +965,7 @@ LSB = "countries/Lesbos.txt"
 ROD = "countries/Rodas.txt"
 TRK = "countries/Tracia.txt"
 USN = "countries/Union of South Atlantean Nations.txt"
+ATL = "countries/Atlantidas.txt"
 
 ##HoD Dominions
 dynamic_tags = yes # any tags after this is considered dynamic dominions
