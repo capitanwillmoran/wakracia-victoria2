@@ -825,7 +825,7 @@ country_event = {
 	title = "EVTNAME77862"
 	desc = "EVTDESC77862"
 	major = no
-	picture = "36_parallel"
+	picture = "lincolndictator"
 	
 	trigger = {
 		tag = FLR
@@ -854,7 +854,7 @@ country_event = {
 		}
 		political_reform = none_voting
 		political_reform = party_appointed
-		country_event = 60010
+		government = presidential_dictatorship
 		set_country_flag = florida7a_happened
 		ai_chance = {
 			factor = 0.9
@@ -879,7 +879,7 @@ country_event = {
 	title = "EVTNAME97866"
 	desc = "EVTDESC97866"
 	major = no
-	picture = "36_parallel"
+	picture = "lincolndictator"
 	
 	trigger = {
 		tag = FLR

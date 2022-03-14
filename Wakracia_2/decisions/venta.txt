@@ -135,7 +135,7 @@ political_decisions = {
 political_decisions = {
 
 	greenlandsale = {
-		picture = become_japan
+		picture = groenlandia
 		potential = {
 			is_vassal = no
 			tag = SLV

@@ -51,8 +51,10 @@ country_event = {
 	
 	trigger = {
 		year = 1880
-		tag = HND
-		exists = HND
+		OR = {
+			tag = HND
+			tag = X16
+		}
 		CSH = {
 			has_country_flag = epidemiadecolerachina
 		}
