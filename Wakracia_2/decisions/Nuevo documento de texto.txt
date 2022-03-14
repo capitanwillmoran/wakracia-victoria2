@@ -6565,7 +6565,7 @@ political_decisions = {
 		primary_culture = russian
 	}
  }
- terra_nullius504 = {
+ terra_nullius505 = {
 	potential = {
 		TAG = TUC
 		primary_culture = dummy
