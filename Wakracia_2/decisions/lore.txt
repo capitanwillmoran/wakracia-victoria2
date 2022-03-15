@@ -125,4 +125,55 @@ political_decisions = {
 			country_event = 95015
 		}
 	}
+
+	lore8 = {
+		picture = Libro
+		potential = {
+				tag = CRI
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95017
+		}
+	}
+
+	lore9 = {
+		picture = Libro
+		potential = {
+			OR = {
+				tag = MUS
+				tag = RUS
+				tag = RYA
+				tag = X24
+				tag = ZUN
+			}
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95018
+		}
+	}
+
+	lore9 = {
+		picture = Libro
+		potential = {
+			tag = X05
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95021
+		}
+	}
 }
