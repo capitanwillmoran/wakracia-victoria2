@@ -1,0 +1,188 @@
+country_event = {
+	id = 95001
+	title = "EVTNAME95001"
+	desc = "EVTDESC95001"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95002
+	}
+}
+
+country_event = {
+	id = 95002
+	title = "EVTNAME95001"
+	desc = "EVTDESC95002"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95003
+	title = "EVTNAME95001"
+	desc = "EVTDESC95003"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95004
+	}
+}
+
+country_event = {
+	id = 95004
+	title = "EVTNAME95001"
+	desc = "EVTDESC95004"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95005
+	}
+}
+
+country_event = {
+	id = 95005
+	title = "EVTNAME95001"
+	desc = "EVTDESC95005"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95006
+	title = "EVTNAME95001"
+	desc = "EVTDESC95006"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95007
+	}
+}
+
+country_event = {
+	id = 95007
+	title = "EVTNAME95001"
+	desc = "EVTDESC95007"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95008
+	title = "EVTNAME95001"
+	desc = "EVTDESC95008"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95009
+	}
+}
+
+country_event = {
+	id = 95009
+	title = "EVTNAME95001"
+	desc = "EVTDESC95009"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95010
+	}
+}
+
+country_event = {
+	id = 95010
+	title = "EVTNAME95001"
+	desc = "EVTDESC95010"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95011
+	}
+}
+
+country_event = {
+	id = 95011
+	title = "EVTNAME95001"
+	desc = "EVTDESC95011"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95013
+	title = "EVTNAME95001"
+	desc = "EVTDESC95013"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95012
+	title = "EVTNAME95001"
+	desc = "EVTDESC95012"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}

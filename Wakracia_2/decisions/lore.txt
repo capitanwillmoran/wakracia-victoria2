@@ -1,0 +1,128 @@
+political_decisions = {
+
+	lore1 = {
+		picture = Libro
+		potential = {
+			tag = MNX
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95001
+		}
+	}
+
+	lore2 = {
+		picture = Libro
+		potential = {
+			tag = X09
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95003
+		}
+	}
+
+	lore3 = {
+		picture = Libro
+		potential = {
+			tag = ENG
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95006
+		}
+	}
+
+	lore4 = {
+		picture = Libro
+		potential = {
+			OR = {
+				tag = GLC
+				tag = SPA
+			}
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95008
+		}
+	}
+
+	lore5 = {
+		picture = Libro
+		potential = {
+			tag = X03
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95012
+		}
+	}
+
+	lore6 = {
+		picture = Libro
+		potential = {
+			tag = SLV
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95013
+		}
+	}
+
+	lore7 = {
+		picture = Libro
+		potential = {
+			OR = {
+				tag = CHI
+				tag = SIA
+			}
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95014
+		}
+	}
+
+	lore8 = {
+		picture = Libro
+		potential = {
+				tag = CUB
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95015
+		}
+	}
+}
