@@ -3141,7 +3141,7 @@ christino_rebels = {
 # Nationalsyndicalist Rebels
 ###################################
 nationalsyndicalist_rebels = {
-	icon = 2
+	icon = 8
 	
 	area = nation 					# Stays within the nation
 	break_alliance_on_win = yes
@@ -3548,7 +3548,7 @@ theocratic_rebels = {
 # Agrarist Rebels
 ###################################
 agrarist_rebels = {
-	icon = 1
+	icon = 7
 	
 	area = nation 					# Stays within the nation
 	break_alliance_on_win = yes
