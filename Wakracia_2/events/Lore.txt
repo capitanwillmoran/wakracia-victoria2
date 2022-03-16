@@ -299,5 +299,79 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA95001"
+		country_event = 95022
+	}
+}
+
+country_event = {
+	id = 95022
+	title = "EVTNAME95001"
+	desc = "EVTDESC95022"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95023
+	title = "EVTNAMEGOBERNANTES1"
+	desc = "EVTDESC95023"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95024
+	}
+}
+
+country_event = {
+	id = 95024
+	title = "EVTNAMEGOBERNANTES2"
+	desc = "EVTDESC95024"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95025
+	}
+}
+
+country_event = {
+	id = 95025
+	title = "EVTNAMEGOBERNANTES3"
+	desc = "EVTDESC95025"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95026
+	}
+}
+
+country_event = {
+	id = 95026
+	title = "EVTNAMEGOBERNANTES3"
+	desc = "EVTDESC95026"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
 	}
 }

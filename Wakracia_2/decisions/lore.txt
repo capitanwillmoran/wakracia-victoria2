@@ -162,10 +162,13 @@ political_decisions = {
 		}
 	}
 
-	lore9 = {
+	lore10 = {
 		picture = Libro
 		potential = {
-			tag = X05
+			OR = {
+				tag = X05
+				tag = X06
+			}
 		}
 
 		allow = {
@@ -174,6 +177,21 @@ political_decisions = {
 
 		effect = {
 			country_event = 95021
+		}
+	}
+
+	emperadores1 = {
+		picture = Libro
+		potential = {
+			tag = BYZ
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95023
 		}
 	}
 }
