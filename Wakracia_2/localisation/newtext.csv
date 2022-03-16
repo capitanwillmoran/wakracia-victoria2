@@ -3296,9 +3296,10 @@ EVTDESC95026;;;;;INTERREGNO (1656-1696)\nEmperador Hentaicus Cipótidos I Moninde
 ;;;;;;;;;;;;;;;
 emperadores1_title;;;;;Listado de Emperadores Wakracios;;;;;;;;;;
 emperadores1_desc;;;;;Esta decisión lista todos los gobernantes wakracios desde el 936 hasta el 1836 y sus respectivos periodos de mandato.;;;;;;;;;;
-EVTNAMEGOBERNANTES1;;;;;Periodo Republicano;;;;;;;;;;
-EVTNAMEGOBERNANTES2;;;;;Periodo del Alto Imperio;;;;;;;;;;
-EVTNAMEGOBERNANTES3;;;;;Periodo del Imperio Moderno;;;;;;;;;;
+EVTNAMEGOBERNANTES1;;;;;Periodo Alto Republicano;;;;;;;;;;
+EVTNAMEGOBERNANTES2;;;;;Periodo Bajo Republicano;;;;;;;;;;
+EVTNAMEGOBERNANTES3;;;;;Periodo Imperial Temprano;;;;;;;;;;
+EVTNAMEGOBERNANTES4;;;;;Periodo Imperial Moderno;;;;;;;;;;
 EVTDESC95027;;;;;;;;;;;;;;;
 EVTDESC95028;;;;;;;;;;;;;;;
 EVTDESC95029;;;;;;;;;;;;;;;

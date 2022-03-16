@@ -364,7 +364,7 @@ country_event = {
 
 country_event = {
 	id = 95026
-	title = "EVTNAMEGOBERNANTES3"
+	title = "EVTNAMEGOBERNANTES4"
 	desc = "EVTDESC95026"
 	major = no
 	picture = "Libro"
