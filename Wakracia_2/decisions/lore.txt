@@ -114,21 +114,6 @@ political_decisions = {
 	lore8 = {
 		picture = Libro
 		potential = {
-				tag = CUB
-		}
-
-		allow = {
-			ai = no
-		}
-
-		effect = {
-			country_event = 95015
-		}
-	}
-
-	lore8 = {
-		picture = Libro
-		potential = {
 				tag = CRI
 		}
 
@@ -192,6 +177,330 @@ political_decisions = {
 
 		effect = {
 			country_event = 95023
+		}
+	}
+
+	lore11 = {
+		picture = Libro
+		potential = {
+			tag = ARG
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95027
+		}
+	}
+
+	lore12 = {
+		picture = Libro
+		potential = {
+			tag = PEU
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95029
+		}
+	}
+
+	lore13 = {
+		picture = Libro
+		potential = {
+			tag = CUB
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95015
+		}
+	}
+
+	lore14 = {
+		picture = Libro
+		potential = {
+			tag = MEX
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95030
+		}
+	}
+
+	lore15 = {
+		picture = Libro
+		potential = {
+			tag = CAL
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95032
+		}
+	}
+
+	lore16 = {
+		picture = Libro
+		potential = {
+			tag = FLR
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95035
+		}
+	}
+
+	lore17 = {
+		picture = Libro
+		potential = {
+			OR = {
+				tag = UIL
+				tag = USA
+			}
+			NOT = {
+				has_country_flag = formedus
+			}
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95036
+		}
+	}
+
+	lore18 = {
+		picture = Libro
+		potential = {
+			OR = {
+				tag = HUR
+				tag = VNL
+			}
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95037
+		}
+	}
+
+	lore19 = {
+		picture = Libro
+		potential = {
+			tag = CAN
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95039
+		}
+	}
+
+	lore20 = {
+		picture = Libro
+		potential = {
+			tag = BRZ
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95040
+		}
+	}
+
+	lore21 = {
+		picture = Libro
+		potential = {
+			tag = CLM
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95041
+		}
+	}
+
+	lore22 = {
+		picture = Libro
+		potential = {
+			tag = AST
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95043
+		}
+	}
+
+	lore23 = {
+		picture = Libro
+		potential = {
+			tag = LSK
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95044
+		}
+	}
+
+	lore24 = {
+		picture = Libro
+		potential = {
+			tag = JAP
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95045
+		}
+	}
+
+	lore25 = {
+		picture = Libro
+		potential = {
+			tag = X04
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95048
+		}
+	}
+
+	lore26 = {
+		picture = Libro
+		potential = {
+			tag = X02
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95049
+		}
+	}
+
+	lore27 = {
+		picture = Libro
+		potential = {
+			tag = RAJ
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95051
+		}
+	}
+
+	lore28 = {
+		picture = Libro
+		potential = {
+			tag = NZL
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95052
+		}
+	}
+
+	lore29 = {
+		picture = Libro
+		potential = {
+			tag = MLI
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95053
+		}
+	}
+
+	lore30 = {
+		picture = Libro
+		potential = {
+			is_culture_group = germanic
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95054
+		}
+	}
+
+	lore31 = {
+		picture = Libro
+		potential = {
+			tag = QUE
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 95056
 		}
 	}
 }

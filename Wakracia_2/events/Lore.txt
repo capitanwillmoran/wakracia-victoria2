@@ -375,3 +375,433 @@ country_event = {
 		name = "EVTOPTA95001"
 	}
 }
+
+country_event = {
+	id = 95027
+	title = "EVTNAME95001"
+	desc = "EVTDESC95027"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95028
+	}
+}
+
+country_event = {
+	id = 95028
+	title = "EVTNAME95001"
+	desc = "EVTDESC95028"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95029
+	title = "EVTNAME95001"
+	desc = "EVTDESC95029"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95030
+	title = "EVTNAME95001"
+	desc = "EVTDESC95030"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95031
+	}
+}
+
+country_event = {
+	id = 95031
+	title = "EVTNAME95001"
+	desc = "EVTDESC95031"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95032
+	title = "EVTNAME95001"
+	desc = "EVTDESC95032"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95033
+	}
+}
+
+country_event = {
+	id = 95033
+	title = "EVTNAME95001"
+	desc = "EVTDESC95033"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95034
+	title = "EVTNAME95001"
+	desc = "EVTDESC95034"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95035
+	}
+}
+
+country_event = {
+	id = 95035
+	title = "EVTNAME95001"
+	desc = "EVTDESC95035"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95036
+	title = "EVTNAME95001"
+	desc = "EVTDESC95036"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95037
+	title = "EVTNAME95001"
+	desc = "EVTDESC95037"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95038
+	}
+}
+
+country_event = {
+	id = 95038
+	title = "EVTNAME95001"
+	desc = "EVTDESC95038"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95039
+	title = "EVTNAME95001"
+	desc = "EVTDESC95039"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95040
+	title = "EVTNAME95001"
+	desc = "EVTDESC95040"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95041
+	title = "EVTNAME95001"
+	desc = "EVTDESC95041"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95042
+	}
+}
+
+country_event = {
+	id = 95042
+	title = "EVTNAME95001"
+	desc = "EVTDESC95042"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95043
+	title = "EVTNAME95001"
+	desc = "EVTDESC95043"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95044
+	title = "EVTNAME95001"
+	desc = "EVTDESC95044"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95045
+	title = "EVTNAME95001"
+	desc = "EVTDESC95045"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95046
+	}
+}
+
+country_event = {
+	id = 95046
+	title = "EVTNAME95001"
+	desc = "EVTDESC95046"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95047
+	}
+}
+
+country_event = {
+	id = 95047
+	title = "EVTNAME95001"
+	desc = "EVTDESC95047"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95048
+	title = "EVTNAME95001"
+	desc = "EVTDESC95048"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95049
+	title = "EVTNAME95001"
+	desc = "EVTDESC95049"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95050
+	}
+}
+
+country_event = {
+	id = 95050
+	title = "EVTNAME95001"
+	desc = "EVTDESC95050"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95051
+	title = "EVTNAME95001"
+	desc = "EVTDESC95051"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95052
+	title = "EVTNAME95001"
+	desc = "EVTDESC95052"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95053
+	title = "EVTNAME95001"
+	desc = "EVTDESC95053"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95054
+	title = "EVTNAME95001"
+	desc = "EVTDESC95054"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+		country_event = 95055
+	}
+}
+
+country_event = {
+	id = 95055
+	title = "EVTNAME95001"
+	desc = "EVTDESC95055"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}
+
+country_event = {
+	id = 95056
+	title = "EVTNAME95001"
+	desc = "EVTDESC95056"
+	major = no
+	picture = "Libro"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95001"
+	}
+}

@@ -1210,6 +1210,7 @@ political_decisions = {
 		
 		effect = {
 			prestige = 10
+			set_country_flag = formedus
 			any_country = {
 				limit = {
 					in_sphere = THIS

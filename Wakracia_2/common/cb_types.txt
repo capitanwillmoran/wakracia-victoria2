@@ -1976,7 +1976,7 @@ install_authoritarian_regime = {
 				is_secondary_power = yes
 				ai = no
 			}
-			OR = { government = presidential_dictatorship government = bourgeois_dictatorship }
+			OR = { government = presidential_dictatorship government = bourgeois_dictatorship government = hms_government government = democracy government = absolute_monarchy government = prussian_constitutionalism }
 			
 		}
 		OR = { is_vassal = no is_our_vassal = THIS }
