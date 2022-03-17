@@ -1,6 +1,7 @@
 political_decisions = {
 
 	abc_will_receive_grant = {
+		picture = caridad
 		alert = no
 		potential = {
 			ai = no
@@ -17,6 +18,7 @@ political_decisions = {
 	}
 
 	abc_will_give_grant = {
+		picture = darcaridad
 		alert = no
 		potential = {
 			ai = no
@@ -30,6 +32,7 @@ political_decisions = {
 	}
 
 	abc_will_not_give_grant = {
+		picture = nocaridad
 		alert = no
 		potential = {
 			ai = no

@@ -28,68 +28,68 @@ EVT768551OPTC;Hundreds of Thousands of wadrachma;;;;Cientos de miles de wakracma
 EVT768551OPTD;Millions of wadrachma;;;;Millones de wakracmas;;;;;;;;x
 EVT768553TITLE;Choose Aid for $FROMCOUNTRY$;;;;Elija la ayuda para $FROMCOUNTRY$;;;;;;;;x
 EVT768553DESC;How much money would you like to give $FROMCOUNTRY$ (thousands)?;;;;¿Cuánto dinero le gustaría dar a $FROMCOUNTRY$ (miles)?;;;;;;;;x
-EVT768553OPTA;1000;;;;1000;;;;;;;;x
-EVT768553OPTB;2000;;;;2000;;;;;;;;x
-EVT768553OPTC;3000;;;;3000;;;;;;;;x
-EVT768553OPTD;4000;;;;4000;;;;;;;;x
-EVT768553OPTE;5000;;;;5000;;;;;;;;x
-EVT768553OPTF;6000;;;;6000;;;;;;;;x
-EVT768553OPTG;7000;;;;7000;;;;;;;;x
-EVT768553OPTH;8000;;;;8000;;;;;;;;x
-EVT768553OPTI;9000;;;;9000;;;;;;;;x
+EVT768553OPTA;One Thousand (1000);;;;Mil (1000);;;;;;;;x
+EVT768553OPTB;Two Thousand (2000);;;;Dos Mil (2000);;;;;;;;x
+EVT768553OPTC;Three Thousand (3000);;;;Tres Mil (3000);;;;;;;;x
+EVT768553OPTD;Four Thousand (4000);;;;Cuatro Mil (4000);;;;;;;;x
+EVT768553OPTE;Five Thousand (5000);;;;Cinco Mil (5000);;;;;;;;x
+EVT768553OPTF;Six Thousand (6000);;;;Seis Mil (6000);;;;;;;;x
+EVT768553OPTG;Seven Thousand (7000);;;;Siete Mil (7000);;;;;;;;x
+EVT768553OPTH;Eight Thousand (8000);;;;Ocho Mil (8000);;;;;;;;x
+EVT768553OPTI;Nine Thousand (9000);;;;Nueve Mil (9000);;;;;;;;x
 EVT768553OPTJ;Our money is better spent at home.;;;;Nuestro dinero se gasta mejor en casa.;;;;;;;;x
 EVT768555TITLE;Choose Aid for $FROMCOUNTRY$;;;;Elija la ayuda para $FROMCOUNTRY$;;;;;;;;x
 EVT768555DESC;How much money would you like to give $FROMCOUNTRY$ (tens of thousands)?;;;;¿Cuánto dinero le gustaría dar a $FROMCOUNTRY$ (decenas de miles)?;;;;;;;;x
-EVT768555OPTA;10000;;;;10000;;;;;;;;x
-EVT768555OPTB;20000;;;;20000;;;;;;;;x
-EVT768555OPTC;30000;;;;30000;;;;;;;;x
-EVT768555OPTD;40000;;;;40000;;;;;;;;x
-EVT768555OPTE;50000;;;;50000;;;;;;;;x
-EVT768555OPTF;60000;;;;60000;;;;;;;;x
-EVT768555OPTG;70000;;;;70000;;;;;;;;x
-EVT768555OPTH;80000;;;;80000;;;;;;;;x
-EVT768555OPTI;90000;;;;90000;;;;;;;;x
+EVT768555OPTA;Ten Thousand (10,000);;;;Diez mil (10 000);;;;;;;;x
+EVT768555OPTB;Twenty Thousand (20 000);;;;Veinte Mil (20 000);;;;;;;;x
+EVT768555OPTC;Thirty Thousand (30 000);;;;Treinta Mil (30 000);;;;;;;;x
+EVT768555OPTD;Forty Thousand (40 000);;;;Cuarenta Mil (40 000);;;;;;;;x
+EVT768555OPTE;Fifty Thousand (50 000);;;;Cincuenta Mil (50 000);;;;;;;;x
+EVT768555OPTF;Sixty Thousand (60 000);;;;Sesenta Mil (60 000);;;;;;;;x
+EVT768555OPTG;Seventy Thousand (70 000);;;;Setenta Mil (70 000);;;;;;;;x
+EVT768555OPTH;Eighty Thousand (80 000);;;;Ochenta Mil (80 000);;;;;;;;x
+EVT768555OPTI;Ninety Thousand (90 000);;;;Noventa Mil (90 000);;;;;;;;x
 EVT768555OPTJ;Our money is better spent at home.;;;;Nuestro dinero se gasta mejor en casa.;;;;;;;;x
 EVT768551OPTE;Our money is better spent at home.;;;;Nuestro dinero se gasta mejor en casa.;;;;;;;;x
 EVT768555TITLE;Choose Aid for $FROMCOUNTRY$;;;;Elija la ayuda para $FROMCOUNTRY$;;;;;;;;x
 EVT768557DESC;How much money would you like to give $FROMCOUNTRY$ (hundreds of thousands)?;;;;¿Cuánto dinero le gustaría dar a $FROMCOUNTRY$ (cientos de miles)?;;;;;;;;x
 EVT768557OPTA;Our money is better spent at home.;;;;Nuestro dinero se gasta mejor en casa.;;;;;;;;x
-EVT768557OPTB;100000;;;;100000;;;;;;;;x
-EVT768557OPTC;200000;;;;200000;;;;;;;;x
-EVT768557OPTD;300000;;;;300000;;;;;;;;x
-EVT768557OPTE;400000;;;;400000;;;;;;;;x
-EVT768557OPTF;500000;;;;500000;;;;;;;;x
-EVT768557OPTG;600000;;;;600000;;;;;;;;x
-EVT768557OPTH;700000;;;;700000;;;;;;;;x
-EVT768557OPTI;800000;;;;800000;;;;;;;;x
-EVT768557OPTJ;900000;;;;900000;;;;;;;;x
+EVT768557OPTB;One Hundred Thousand (100,000);;;;Cien Mil (100 000);;;;;;;;x
+EVT768557OPTC;Two Hundred Thousand (200 000);;;;Doscientos Mil (200 000);;;;;;;;x
+EVT768557OPTD;Three Hundred Thousand (300 000);;;;Trescientos Mil (300 000);;;;;;;;x
+EVT768557OPTE;Four Hundred Thousand (400 000);;;;Cuatrocientos Mil (400 000);;;;;;;;x
+EVT768557OPTF;Five Hundred Thousand (500 000);;;;Quinientos Mil (500 000);;;;;;;;x
+EVT768557OPTG;Six Hundred Thousand (600 000);;;;Seiscientos Mil (600 000);;;;;;;;x
+EVT768557OPTH;Seven Hundred Thousand (700 000);;;;Setecientos Mil (700 000);;;;;;;;x
+EVT768557OPTI;Eight Hundred Thousand (800 000);;;;Ochocientos Mil (800 000);;;;;;;;x
+EVT768557OPTJ;Nine Hundred Thousand (900 000);;;;Novecientos Mil (900 000);;;;;;;;x
 EVT768559TITLE;Choose Aid for $FROMCOUNTRY$;;;;Elegir la ayuda para $FROMCOUNTRY$;;;;;;;;x
 EVT768559DESC;How much money would you like to give $FROMCOUNTRY$ (millions)?;;;;¿Cuánto dinero le gustaría dar a $FROMCOUNTRY$ (millones)?;;;;;;;;x
 EVT768559OPTA;Our money is better spent at home.;;;;Nuestro dinero se gasta mejor en casa.;;;;;;;;x
-EVT768559OPTB;1000000;;;;1000000;;;;;;;;x
-EVT768559OPTC;2000000;;;;2000000;;;;;;;;x
-EVT768559OPTD;3000000;;;;3000000;;;;;;;;x
-EVT768559OPTE;4000000;;;;4000000;;;;;;;;x
-EVT768559OPTF;5000000;;;;5000000;;;;;;;;x
-EVT768559OPTG;6000000;;;;6000000;;;;;;;;x
-EVT768559OPTH;7000000;;;;7000000;;;;;;;;x
-EVT768559OPTI;8000000;;;;8000000;;;;;;;;x
-EVT768559OPTJ;9000000;;;;9000000;;;;;;;;x
+EVT768559OPTB;One Million (1 000 000);;;;Un millón (1 000 000);;;;;;;;x
+EVT768559OPTC;Two Million (2 000 000);;;;Dos Millones (2 000 000);;;;;;;;x
+EVT768559OPTD;Three Million (3 000 000);;;;Tres Millones (3 000 000);;;;;;;;x
+EVT768559OPTE;Four Million (4 000 000);;;;Cuatro Millones (4 000 000);;;;;;;;x
+EVT768559OPTF;Five Million (5 000 000);;;;Cinco Millones (5 000 000);;;;;;;;x
+EVT768559OPTG;Six Million (6 000 000);;;;Seis Millones (6 000 000);;;;;;;;x
+EVT768559OPTH;Seven Million (7 000 000);;;;Siete Millones (7 000 000);;;;;;;;x
+EVT768559OPTI;Eight Million (8 000 000);;;;Ocho Millones (8 000 000);;;;;;;;x
+EVT768559OPTJ;Nine Million (9 000 000);;;;Nueve Millones (9 000 000);;;;;;;;x
 EVT768560TITLE;$FROMCOUNTRY$ Declines Aid Request;;;;$FROMCOUNTRY$ rechaza la solicitud de ayuda;;;;;;;;x
 EVT768560DESC;$FROMCOUNTRY$ decided against giving us a grant;;;;$FROMCOUNTRY$ decidió no darnos una subvención;;;;;;;;x
 EVT768560OPTA;I guess we just have to print more money...;;;;Supongo que tendremos que imprimir más dinero...;;;;;;;;x
 EVT768563TITLE;Choose Aid for $FROMCOUNTRY$;;;;Elige la ayuda para $FROMCOUNTRY$;;;;;;;;x
 EVT768563DESC;How much aid would you like to give $FROMCOUNTRY$ (hundreds of wadrachma);;;;Cuánta ayuda le gustaría dar a $FROMCOUNTRY$ (cientos de wakracmas);;;;;;;;x
 EVT768563OPTA;Our money is better spent at home.;;;;Nuestro dinero se gasta mejor en casa.;;;;;;;;x
-EVT768563OPTB;100;;;;100;;;;;;;;x
-EVT768563OPTC;200;;;;200;;;;;;;;x
-EVT768563OPTD;300;;;;300;;;;;;;;x
-EVT768563OPTE;400;;;;400;;;;;;;;x
-EVT768563OPTF;500;;;;500;;;;;;;;x
-EVT768563OPTG;600;;;;600;;;;;;;;x
-EVT768563OPTH;700;;;;700;;;;;;;;x
-EVT768563OPTI;800;;;;800;;;;;;;;x
-EVT768563OPTJ;900;;;;900;;;;;;;;x
+EVT768563OPTB;One Hundred (100);;;;Cien (100);;;;;;;;x
+EVT768563OPTC;Two hundred (200);;;;Doscientos (200);;;;;;;;x
+EVT768563OPTD;Three Hundred (300);;;;Trescientos 300;;;;;;;;x
+EVT768563OPTE;Four hundred (400);;;;Cuatrocientos (400);;;;;;;;x
+EVT768563OPTF;Five Hundred (500);;;;Quinientos (500);;;;;;;;x
+EVT768563OPTG;Six hundred (600);;;;Seiscientos (600);;;;;;;;x
+EVT768563OPTH;Seven hundred (700);;;;Setecientos (700);;;;;;;;x
+EVT768563OPTI;Eight hundred (800);;;;Ochocientos (800);;;;;;;;x
+EVT768563OPTJ;Nine hundred (900);;;;Novecientos (900);;;;;;;;x
 galapagossale;Sell of the Galapagos;;;;Venta de las Galápagos;;;;;;;;x
 galapagossale_title;Sell of the Galapagos;;;;Venta de las Galápagos;;;;;;;;x
 galapagossale_desc;The canonian state offered us money for the purchase of the Galapagos Islands. We can accept their proposal.;;;;El Estado canonio nos ofreció dinero para la compra de las Islas Galápagos. Podemos aceptar su propuesta.;;;;;;;;x
