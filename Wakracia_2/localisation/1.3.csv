@@ -3,34 +3,34 @@ HAS_NOT_RECENTLY_LOST_WAR;Have NOT lost a war in the last five years.;N’ont perd
 HAS_RECENTLY_LOST_WAR;Have lost a war in the last five years..;Ont perdu une guerre au cours des cinq années passées.;Verlor einen Krieg in den letzten 5 Jahren.;;Ha perdido una guerra en los últimos cinco años.;;;;;;;;;x
 IN_SAME_SPHERE;This country is in the same sphere of influence as us.;Ce pays fait partie de la même sphère d’influence que nous.;Dieses Land ist in derselben Einflusssphäre wie wir.;;Este país está en la misma esfera de influencia que nosotros.;;;;;;;;;x
 NOR_reactionary;Konge Partiet;Konge Partiet;Konge Partiet;;Konge Partiet;;;;;;;;;x
-ATJ_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;;x
-ATJ_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;;x
-ATJ_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;;x
-ATJ_socialist;The Laborist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Laborista;;;;;;;;;x
-ATJ_communist;The Dirigist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Dirigista;;;;;;;;;x
-ATJ_fascist;The Ultranationalist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Ultranacionalista;;;;;;;;;x
+ATJ_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;Facción Nacionalista;;;;;;;;;x
+ATJ_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;Facción Liberal;;;;;;;;;x
+ATJ_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;Facción Radical;;;;;;;;;x
+ATJ_socialist;The Laborist Faction;Faction socialiste;Die sozialistische Fraktion;;Facción Laborista;;;;;;;;;x
+ATJ_communist;The Dirigist Faction;Faction communiste;Die kommunistische Fraktion;;Facción Dirigista;;;;;;;;;x
+ATJ_fascist;The Ultranationalist Faction;Faction fasciste;Die faschistische Fraktion;;Facción Ultranacionalista;;;;;;;;;x
 CAL_conservative;Democratic Party;Parti démocrate;Demokratische Partei;;Partido Demócrata;;;;;;;;;x
 KHI_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;;x
-KHI_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;;x
-KHI_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;;x
-KHI_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;;x
-KHI_socialist;The Laborist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Laborista;;;;;;;;;x
-KHI_communist;The Dirigist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Dirigista;;;;;;;;;x
-KHI_fascist;The Ultranationalist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Ultranacionalista;;;;;;;;;x
+KHI_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;Facción Liberal;;;;;;;;;x
+KHI_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;Facción Nacionalista;;;;;;;;;x
+KHI_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;Facción Radical;;;;;;;;;x
+KHI_socialist;The Laborist Faction;Faction socialiste;Die sozialistische Fraktion;;Facción Laborista;;;;;;;;;x
+KHI_communist;The Dirigist Faction;Faction communiste;Die kommunistische Fraktion;;Facción Dirigista;;;;;;;;;x
+KHI_fascist;The Ultranationalist Faction;Faction fasciste;Die faschistische Fraktion;;Facción Ultranacionalista;;;;;;;;;x
 MAD_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;;x
-MAD_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;;x
-MAD_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;;x
-MAD_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;;x
-MAD_socialist;The Laborist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Laborista;;;;;;;;;x
-MAD_communist;The Dirigist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Dirigista;;;;;;;;;x
-MAD_fascist;The Ultranationalist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Ultranacionalista;;;;;;;;;x
+MAD_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;Facción Liberal;;;;;;;;;x
+MAD_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;Facción Nacionalista;;;;;;;;;x
+MAD_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;Facción Radical;;;;;;;;;x
+MAD_socialist;The Laborist Faction;Faction socialiste;Die sozialistische Fraktion;;Facción Laborista;;;;;;;;;x
+MAD_communist;The Dirigist Faction;Faction communiste;Die kommunistische Fraktion;;Facción Dirigista;;;;;;;;;x
+MAD_fascist;The Ultranationalist Faction;Faction fasciste;Die faschistische Fraktion;;Facción Ultranacionalista;;;;;;;;;x
 TRI_conservative;Royal Faction;Faction royale;Königsfraktion;;Facción Real;;;;;;;;;x
-TRI_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La Facción Liberal;;;;;;;;;x
-TRI_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La Facción Nacionalista;;;;;;;;;x
-TRI_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La Facción Radical;;;;;;;;;x
-TRI_socialist;The Laborist Faction;Faction socialiste;Die sozialistische Fraktion;;La Facción Laborista;;;;;;;;;x
-TRI_communist;The Dirigist Faction;Faction communiste;Die kommunistische Fraktion;;La Facción Dirigista;;;;;;;;;x
-TRI_fascist;The Ultranationalist Faction;Faction fasciste;Die faschistische Fraktion;;La Facción Ultranacionalista;;;;;;;;;x
+TRI_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;Facción Liberal;;;;;;;;;x
+TRI_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;Facción Nacionalista;;;;;;;;;x
+TRI_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;Facción Radical;;;;;;;;;x
+TRI_socialist;The Laborist Faction;Faction socialiste;Die sozialistische Fraktion;;Facción Laborista;;;;;;;;;x
+TRI_communist;The Dirigist Faction;Faction communiste;Die kommunistische Fraktion;;Facción Dirigista;;;;;;;;;x
+TRI_fascist;The Ultranationalist Faction;Faction fasciste;Die faschistische Fraktion;;Facción Ultranacionalista;;;;;;;;;x
 TEX_communist;Dirigist Party;Parti communiste;Kommunistische Partei;;Partido Dirigista;;;;;;;;;x
 BAD_fascist;NSDP;NSDP;NSDP;;NSDP;;;;;;;;;x
 BAV_fascist;NSDP;NSDP;NSDP;;NSDP;;;;;;;;;x
