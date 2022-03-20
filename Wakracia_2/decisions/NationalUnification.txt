@@ -637,7 +637,7 @@ political_decisions = {
 		news_desc_medium = "form_italy_NEWS_MEDIUM"
 		news_desc_short = "form_italy_NEWS_SHORT"
 		potential = {
-			is_primary_culture = magnagreek
+			primary_culture = magnagreek
 			
 			NOT = {
 				exists = ITA

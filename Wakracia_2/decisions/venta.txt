@@ -166,7 +166,7 @@ political_decisions = {
 				owner = {
 					money = 120000
 					relation = {
-						who = JAP
+						who = THIS
 						value = 100
 					}
 				}

@@ -56,4 +56,26 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
+	move_capital_to_cairo = {
+        	picture = EGY_copt
+        	alert = no
+        	potential = {
+			tag = CEG
+			owns = 1745
+		}
+
+		allow = {
+			NOT = { capital = 1745 }
+		}
+
+		effect = {
+			capital = 1745
+			prestige = 1
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }
