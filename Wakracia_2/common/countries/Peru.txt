@@ -20,20 +20,6 @@ party = {
 }
 
 party = {
-	name = "PEU_liberal_2"
-	start_date = 1850.1.1
-	end_date = 2000.1.1
-
-	ideology = liberal
-
-	citizenship_policy = limited_citizenship
-	economic_policy = interventionism
-	religious_policy = pluralism
-	trade_policy = free_trade
-	war_policy = pro_military
-}
-
-party = {
 	name = "PEU_liberal"
 	start_date = 1680.1.1
 	end_date = 2000.1.1
