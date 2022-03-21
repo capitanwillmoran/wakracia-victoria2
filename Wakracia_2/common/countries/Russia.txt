@@ -174,7 +174,7 @@ party = {
 }
 
 party = {
-	name = "GEN_nationalsyndicalist"
+	name = "RUS_nationalsyndicalist"
 	start_date = 1905.1.1
 	end_date = 2000.1.1
 
@@ -188,7 +188,7 @@ party = {
 }
 
 party = {
-	name = "GEN_agrarist"
+	name = "RUS_agrarist"
 	start_date = 1800.1.1
 	end_date = 2000.1.1
 

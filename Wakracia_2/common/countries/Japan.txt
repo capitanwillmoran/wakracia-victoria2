@@ -145,7 +145,7 @@ party = {
 }
 
 party = {
-	name = "GEN_nationalsyndicalist"
+	name = "NIP_nationalsyndicalist"
 	start_date = 1905.1.1
 	end_date = 2000.1.1
 
@@ -159,7 +159,7 @@ party = {
 }
 
 party = {
-	name = "GEN_agrarist"
+	name = "NIP_agrarist"
 	start_date = 1800.1.1
 	end_date = 2000.1.1
 

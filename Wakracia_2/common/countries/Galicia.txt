@@ -184,7 +184,7 @@ party = {
 }
 
 party = {
-	name = "POR_fascist"
+	name = "GLC_fascist"
 	start_date = 1905.1.1
 	end_date = 2000.1.1
 
@@ -198,7 +198,7 @@ party = {
 }
 
 party = {
-	name = "GEN_nationalsyndicalist"
+	name = "GLC_nationalsyndicalist"
 	start_date = 1905.1.1
 	end_date = 2000.1.1
 
