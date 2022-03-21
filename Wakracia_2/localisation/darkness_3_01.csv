@@ -173,105 +173,105 @@ COLONIAL_INVESTMENT;Currently invested: §R$VALUE$§!;;Aktuell investiert: §R$VALU
 COLONIAL_MAINTENANCE;Power tied up in maintenance: §R$VALUE$§!;;Durch Versorgung gebundene Kolonialmacht: §R$VALUE$§!;;Poder invertido en manutención: §R$VALUE$§!;;;;;;;;;x
 AVAILABLE_COLONIAL_POWER;Available: §Y$VALUE$§!;;Verfügbar: §Y$VALUE$§!;;Disponible: §Y$VALUE$§!;;;;;;;;;x
 PW_PROTECTORATE;Protectorate;;Protektorat;;Protectorado;;;;;;;;;x
-D01;The Kingdom of $REGION$;;Das Königreich von $REGION$;;El Reino de $REGION$;;;;;;;;;x
+D01;Kingdom of $REGION$;;Das Königreich von $REGION$;;Reino de $REGION$;;;;;;;;;x
 D01_ADJ;Kingsmen;;königstreu;;Real;;;;;;;;;x
-D02;The Confederation of $REGION$;;Die Konföderation von $REGION$;;La Confederación de $REGION$;;;;;;;;;x
+D02;Confederation of $REGION$;;Die Konföderation von $REGION$;;Confederación de $REGION$;;;;;;;;;x
 D02_ADJ;Confederate;;konföderiert;;Confederada;;;;;;;;;x
-D03;Commonwealth of $REGION$;;Commonwealth von $REGION$;;La Mancomunidad de $REGION$;;;;;;;;;x
+D03;Commonwealth of $REGION$;;Commonwealth von $REGION$;;Mancomunidad de $REGION$;;;;;;;;;x
 D03_ADJ;Commonwealth;;Commonwealth-;;Mancomunada;;;;;;;;;x
-D04;The Republic of $REGION$;;Die Republik von $REGION$;;La República de $REGION$;;;;;;;;;x
+D04;Republic of $REGION$;;Die Republik von $REGION$;;República de $REGION$;;;;;;;;;x
 D04_ADJ;Republican;;republikanisch;;Republicana;;;;;;;;;x
-D05;The $REGION$ State;;Der $REGION$-Staat;;El Estado de $REGION$;;;;;;;;;x
+D05;$REGION$ State;;Der $REGION$-Staat;;Estado de $REGION$;;;;;;;;;x
 D05_ADJ;Stateite;;staatlich;;Estatal;;;;;;;;;x
-D06;The People's Republic of $REGION$;;Die Volksrepublik von $REGION$;;La República Popular de $REGION$;;;;;;;;;x
+D06;People's Republic of $REGION$;;Die Volksrepublik von $REGION$;;República Popular de $REGION$;;;;;;;;;x
 D06_ADJ;Republican;;republikanisch;;Republicana;;;;;;;;;x
-D07;The Free State of $REGION$;;Der Freistaat von $REGION$;;El Estado Libre de $REGION$;;;;;;;;;x
+D07;Free State of $REGION$;;Der Freistaat von $REGION$;;Estado Libre de $REGION$;;;;;;;;;x
 D07_ADJ;Freestator;;freistaatlich;;Librestatal;;;;;;;;;x
-D08;The Grand State of $REGION$;;Der Großstaat von $REGION$;;El Gran Estado de $REGION$;;;;;;;;;x
+D08;Grand State of $REGION$;;Der Großstaat von $REGION$;;Gran Estado de $REGION$;;;;;;;;;x
 D08_ADJ;Grandstator;;großstaatlich;;Granestatal;;;;;;;;;x
-D09;The State of $REGION$;;Der Staat von $REGION$;;El Estado de $REGION$;;;;;;;;;x
+D09;State of $REGION$;;Der Staat von $REGION$;;Estado de $REGION$;;;;;;;;;x
 D09_ADJ;Stateite;;staatlich;;Estatal;;;;;;;;;x
-D10;The Principality of $REGION$;;Das Fürstentum von $REGION$;;El Principado de $REGION$;;;;;;;;;x
+D10;Principality of $REGION$;;Das Fürstentum von $REGION$;;Principado de $REGION$;;;;;;;;;x
 D10_ADJ;Princely;;fürstlich;;Principesca;;;;;;;;;x
-D11;The Democratic Republic of $REGION$;;Die Demokratische Republik von $REGION$;;La República Democrática de $REGION$;;;;;;;;;x
+D11;Democratic Republic of $REGION$;;Die Demokratische Republik von $REGION$;;República Democrática de $REGION$;;;;;;;;;x
 D11_ADJ;Depublican;;depublikanisch;;Republicana;;;;;;;;;x
-D12;The $REGION$ Union;;Die $REGION$-Union;;La Unión de $REGION$;;;;;;;;;x
+D12;$REGION$ Union;;Die $REGION$-Union;;Unión de $REGION$;;;;;;;;;x
 D12_ADJ;Unionite;;Unions-;;Unionista;;;;;;;;;x
-D13;The $REGION$ Kingdom;;Das $REGION$-Königreich;;El Reino de $REGION$;;;;;;;;;x
+D13;$REGION$ Kingdom;;Das $REGION$-Königreich;;Reino de $REGION$;;;;;;;;;x
 D13_ADJ;Kingsmen;;königstreu;;Real;;;;;;;;;x
-D14;The Dominion of $REGION$;;Das Dominion von $REGION$;;El Dominio de $REGION$;;;;;;;;;x
-D14_ADJ;Dominion;;Dominions-;;del Dominio;;;;;;;;;x
-D15;The Grand Duchy of $REGION$;;Das Großherzogtum von $REGION$;;El Gran Ducado de $REGION$;;;;;;;;;x
+D14;Dominion of $REGION$;;Das Dominion von $REGION$;;Dominio de $REGION$;;;;;;;;;x
+D14_ADJ;Dominion;;Dominions-;;dDominio;;;;;;;;;x
+D15;Grand Duchy of $REGION$;;Das Großherzogtum von $REGION$;;Gran Ducado de $REGION$;;;;;;;;;x
 D15_ADJ;Grandee;;großherzogstreu;;Ducal;;;;;;;;;x
-D16;The $REGION$ Nation;;Die $REGION$-Nation;;La Nación de $REGION$;;;;;;;;;x
+D16;$REGION$ Nation;;Die $REGION$-Nation;;Nación de $REGION$;;;;;;;;;x
 D16_ADJ;National;;national;;Nacional;;;;;;;;;x
-D17;The $REGION$ Federation;;Die $REGION$-Föderation;;La Federación de $REGION$;;;;;;;;;x
+D17;$REGION$ Federation;;Die $REGION$-Föderation;;Federación de $REGION$;;;;;;;;;x
 D17_ADJ;Federation;;Föderations-;;Federada;;;;;;;;;x
-D18;The United States of $REGION$;;Die Vereinigten Staaten von $REGION$;;Los Estados Unidos de $REGION$;;;;;;;;;x
-D18_ADJ;Union;;Unions-;;de la Unión;;;;;;;;;x
-D19;The Democratic Union of $REGION$;;Die Demokratische Union von $REGION$;;La Unión Democrática de $REGION$;;;;;;;;;x
-D19_ADJ;Union;;Unions-;;de la Unión;;;;;;;;;x
-D20;The Princedom of $REGION$;;Das Fürstentum von $REGION$;;El Principado de $REGION$;;;;;;;;;x
+D18;United States of $REGION$;;Die Vereinigten Staaten von $REGION$;;Los Estados Unidos de $REGION$;;;;;;;;;x
+D18_ADJ;Union;;Unions-;;de Unión;;;;;;;;;x
+D19;Democratic Union of $REGION$;;Die Demokratische Union von $REGION$;;Unión Democrática de $REGION$;;;;;;;;;x
+D19_ADJ;Union;;Unions-;;de Unión;;;;;;;;;x
+D20;Princedom of $REGION$;;Das Fürstentum von $REGION$;;Principado de $REGION$;;;;;;;;;x
 D20_ADJ;Princely;;fürstlich;;Principesca;;;;;;;;;x
-D21;The Union of $REGION$;;Die Union von $REGION$;;La Unión de $REGION$;;;;;;;;;x
+D21;Union of $REGION$;;Die Union von $REGION$;;Unión de $REGION$;;;;;;;;;x
 D21_ADJ;Unionite;;Unions-;;Unionista;;;;;;;;;x
-D22;The People's Democratic Republic of $REGION$;;Die Demokratische Volksrepublik von $REGION$;;La República Democrática Popular de $REGION$;;;;;;;;;x
+D22;People's Democratic Republic of $REGION$;;Die Demokratische Volksrepublik von $REGION$;;República Democrática Popular de $REGION$;;;;;;;;;x
 D22_ADJ;PDR;;demokratisch-republikanisch;;Republicana;;;;;;;;;x
-D23;The $REGION$ Area;;Das $REGION$-Gebiet;;El Territorio de $REGION$;;;;;;;;;x
+D23;$REGION$ Area;;Das $REGION$-Gebiet;;Territorio de $REGION$;;;;;;;;;x
 D23_ADJ;Areon;;ortsansässig;;Territorial;;;;;;;;;x
-D24;The Glorious Union of $REGION$;;Die Glorreiche Union von $REGION$;;La Unión Gloriosa de $REGION$;;;;;;;;;x
+D24;Glorious Union of $REGION$;;Die Glorreiche Union von $REGION$;;Unión Gloriosa de $REGION$;;;;;;;;;x
 D24_ADJ;Glorious;;glorreich;;Gloriosa;;;;;;;;;x
-D25;Mighty $REGION$;;Das mächtige Gebiet von $REGION$;;La Poderosa $REGION$;;;;;;;;;x
+D25;Mighty $REGION$;;Das mächtige Gebiet von $REGION$;;Poderosa $REGION$;;;;;;;;;x
 D25_ADJ;Mighty;;mächtig;;Poderosa;;;;;;;;;x
-D26;The $REGION$ Free State;;Der $REGION$-Freistaat;;El Estado Libre de $REGION$;;;;;;;;;x
+D26;$REGION$ Free State;;Der $REGION$-Freistaat;;Estado Libre de $REGION$;;;;;;;;;x
 D26_ADJ;Freestator;;freistaatlich;;Librestatal;;;;;;;;;x
-D27;The $REGION$ Commonwealth;;$REGION$-Commonwealth;;La Mancomunidad de $REGION$;;;;;;;;;x
+D27;$REGION$ Commonwealth;;$REGION$-Commonwealth;;Mancomunidad de $REGION$;;;;;;;;;x
 D27_ADJ;Commonwealth;;Commonwealth-;;Mancomunada;;;;;;;;;x
-D28;The $REGION$ Confederacy;;Die $REGION$-Konföderation;;La Confederación de $REGION$;;;;;;;;;x
+D28;$REGION$ Confederacy;;Die $REGION$-Konföderation;;Confederación de $REGION$;;;;;;;;;x
 D28_ADJ;Confederate;;konföderiert;;Confederada;;;;;;;;;x
-D29;The Free People of $REGION$;;Das Freie Volk von $REGION$;;El Pueblo Libre de $REGION$;;;;;;;;;x
+D29;Free People of $REGION$;;Das Freie Volk von $REGION$;;Pueblo Libre de $REGION$;;;;;;;;;x
 D29_ADJ;Freepeople;;frei;;Libertaria;;;;;;;;;x
-D30;The $REGION$ Republic;;Die $REGION$-Republik;;La República de $REGION$;;;;;;;;;x
+D30;$REGION$ Republic;;Die $REGION$-Republik;;República de $REGION$;;;;;;;;;x
 D30_ADJ;Republican;;republikanisch;;Republicana;;;;;;;;;x
-D31;The Holy Union of $REGION$;;Die Heilige Union von $REGION$;;La Unión Sagrada de $REGION$;;;;;;;;;x
+D31;Holy Union of $REGION$;;Die Heilige Union von $REGION$;;Unión Sagrada de $REGION$;;;;;;;;;x
 D31_ADJ;Zealot;;zelotisch;;Fanática;;;;;;;;;x
-D32;The People's Union of $REGION$;;Die Volks-Union von $REGION$;;La Unión Popular de $REGION$;;;;;;;;;x
+D32;People's Union of $REGION$;;Die Volks-Union von $REGION$;;Unión Popular de $REGION$;;;;;;;;;x
 D32_ADJ;Unionite;;Unions-;;Unionista;;;;;;;;;x
-D33;The Federal States of $REGION$;;Die Föderationsstaaten von $REGION$;;Los Estados Federales de $REGION$;;;;;;;;;x
+D33;Federal States of $REGION$;;Die Föderationsstaaten von $REGION$;;Los Estados Federales de $REGION$;;;;;;;;;x
 D33_ADJ;Federation;;Föderations-;;Federada;;;;;;;;;x
-D34;The $REGION$ Federal State;;Der $REGION$-Föderationsstaat;;El Estado Federal de $REGION$;;;;;;;;;x
+D34;$REGION$ Federal State;;Der $REGION$-Föderationsstaat;;Estado Federal de $REGION$;;;;;;;;;x
 D34_ADJ;Federation;;Föderations-;;Federada;;;;;;;;;x
-D35;The $REGION$ Confederation;;Die $REGION$-Konföderation;;La Confederación de $REGION$;;;;;;;;;x
+D35;$REGION$ Confederation;;Die $REGION$-Konföderation;;Confederación de $REGION$;;;;;;;;;x
 D35_ADJ;Confederate;;konföderiert;;Confederada;;;;;;;;;x
-D36;The $REGION$ Federation;;Die $REGION$-Föderation;;La Federación de $REGION$;;;;;;;;;x
+D36;$REGION$ Federation;;Die $REGION$-Föderation;;Federación de $REGION$;;;;;;;;;x
 D36_ADJ;Federation;;Föderations-;;Federada;;;;;;;;;x
-D37;The Pious Union of $REGION$;;Die Fromme Union von $REGION$;;La Unión Religiosa de $REGION$;;;;;;;;;x
+D37;Pious Union of $REGION$;;Die Fromme Union von $REGION$;;Unión Religiosa de $REGION$;;;;;;;;;x
 D37_ADJ;Pious;;fromm;;Religiosa;;;;;;;;;x
-D38;$REGION$ Land;;$REGION$-Land;;La Tierra de $REGION$;;;;;;;;;x
+D38;$REGION$ Land;;$REGION$-Land;;Tierra de $REGION$;;;;;;;;;x
 D38_ADJ;Lander;;Landes-;;Terrenal;;;;;;;;;x
-D39;The Most Serene Republic of $REGION$;;Die Republik der Ruhe von $REGION$;;La Serenísima República de $REGION$;;;;;;;;;x
+D39;Most Serene Republic of $REGION$;;Die Republik der Ruhe von $REGION$;;Serenísima República de $REGION$;;;;;;;;;x
 D39_ADJ;Serene;;ruhig;;Republicana;;;;;;;;;x
-D40;The Secret Kingdom of $REGION$;;Das Geheime Königreich von $REGION$;;El Reino Oculto de $REGION$;;;;;;;;;x
+D40;Secret Kingdom of $REGION$;;Das Geheime Königreich von $REGION$;;Reino Oculto de $REGION$;;;;;;;;;x
 D40_ADJ;Secret;;geheim;;Real;;;;;;;;;x
-D41;The Commune of $REGION$;;Die Kommune von $REGION$;;La Comunidad de $REGION$;;;;;;;;;x
+D41;Commune of $REGION$;;Die Kommune von $REGION$;;Comunidad de $REGION$;;;;;;;;;x
 D41_ADJ;Dirigist;;kommunistisch;;Dirigista;;;;;;;;;x
-D42;The $REGION$ Commune;;Die $REGION$-Kommune;;La Comunidad de $REGION$;;;;;;;;;x
+D42;$REGION$ Commune;;Die $REGION$-Kommune;;Comunidad de $REGION$;;;;;;;;;x
 D42_ADJ;Dirigist;;kommunistisch;;Dirigista;;;;;;;;;x
-D43;The Worker's Union of $REGION$;;Die Arbeiter-Union von $REGION$;;La Unión Laboral de $REGION$;;;;;;;;;x
+D43;Worker's Union of $REGION$;;Die Arbeiter-Union von $REGION$;;Unión Laboral de $REGION$;;;;;;;;;x
 D43_ADJ;Worker;;Arbeiter-;;Laboral;;;;;;;;;x
-D44;The Landgrave of $REGION$;;Die Landgrafschaft von $REGION$;;El Landgraviato de $REGION$;;;;;;;;;x
+D44;Landgrave of $REGION$;;Die Landgrafschaft von $REGION$;;Landgraviato de $REGION$;;;;;;;;;x
 D44_ADJ;Landgravine;;landgrafschaftlich;;Landgravina;;;;;;;;;x
-D45;The Nation of $REGION$;;Die Nation von $REGION$;;La Nación de $REGION$;;;;;;;;;x
+D45;Nation of $REGION$;;Die Nation von $REGION$;;Nación de $REGION$;;;;;;;;;x
 D45_ADJ;Nationite;;national;;Nacional;;;;;;;;;x
-D46;Holy $REGION$;;Die Heilige Region von $REGION$;;La Sagrada $REGION$;;;;;;;;;x
+D46;Holy $REGION$;;Die Heilige Region von $REGION$;;Sagrada $REGION$;;;;;;;;;x
 D46_ADJ;Zealous;;zelotisch;;Fanática;;;;;;;;;x
-D47;The $REGION$ Dominion;;Das $REGION$-Dominion;;El Dominio de $REGION$;;;;;;;;;x
-D47_ADJ;Dominator;;beherrschend;;del Dominio;;;;;;;;;x
-D48;The People's State of $REGION$;;Der Volksstaat von $REGION$;;El Estado Popular de $REGION$;;;;;;;;;x
+D47;$REGION$ Dominion;;Das $REGION$-Dominion;;Dominio de $REGION$;;;;;;;;;x
+D47_ADJ;Dominator;;beherrschend;;Dominio;;;;;;;;;x
+D48;People's State of $REGION$;;Der Volksstaat von $REGION$;;Estado Popular de $REGION$;;;;;;;;;x
 D48_ADJ;Popular;;völkisch;;Popular;;;;;;;;;x
-D49;The High Kingdom of $REGION$;;Das Hohe Königreich von $REGION$;;El Alto Reino de $REGION$;;;;;;;;;x
+D49;High Kingdom of $REGION$;;Das Hohe Königreich von $REGION$;;Alto Reino de $REGION$;;;;;;;;;x
 D49_ADJ;Highest;;hochköniglich;;Real;;;;;;;;;x
-D50;The Lesser Duchy of $REGION$;;Das Kleinere Fürstentum von $REGION$;;El Bajo Ducado de $REGION$;;;;;;;;;x
+D50;Lesser Duchy of $REGION$;;Das Kleinere Fürstentum von $REGION$;;Bajo Ducado de $REGION$;;;;;;;;;x
 D50_ADJ;Duchy;;fürstlich;;Ducal;;;;;;;;;x
 dominion_conservative;The Conservative Party;;Die Konservative Partei;;El Partido Conservador;;;;;;;;;x
 dominion_reactionary;The Old Guard;;Die Alte Garde;;La Vieja Guardia;;;;;;;;;x
