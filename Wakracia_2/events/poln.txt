@@ -177,7 +177,7 @@ country_event = {
 		year = 1913
 		upper_house = {
 			ideology = fascist
-			value = 0.05
+			value = 0.09
 		}
 		NOT = {
 			has_country_flag = hnd_referendum

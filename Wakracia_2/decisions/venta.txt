@@ -182,3 +182,61 @@ political_decisions = {
 		}
 	}
 }
+
+political_decisions = {
+
+	istriansale = {
+		picture = darcaridad
+		potential = {
+			is_vassal = no
+			tag = X03
+			owns = 736
+			owns = 737
+			NOT = { has_country_flag = istriasold }
+		}
+
+		allow = {
+			war = no
+			X09 = {
+				money = 120000
+			}
+		}
+
+		effect = {
+			set_country_flag = istriasold
+			X09 = {
+				relation = {
+					who = X03
+					value = 100
+				}
+			}
+			737 = {
+				secede_province = X09
+				remove_core = X03
+			}
+			736 = {
+				secede_province = X09
+				remove_core = X03
+			}
+			770 = {
+				secede_province = X09
+				remove_core = X03
+			}
+			769 = {
+				secede_province = X09
+				remove_core = X03
+			}
+			778 = {
+				secede_province = X09
+				remove_core = X03
+			}
+			X09 = {
+				money = -120000
+			}
+			money = 120000
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

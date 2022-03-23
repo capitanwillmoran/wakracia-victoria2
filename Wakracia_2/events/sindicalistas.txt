@@ -184,7 +184,7 @@ country_event = {
 		is_ideology_enabled = fascist
 		upper_house = {
 			ideology = fascist
-			value = 0.02
+			value = 0.04
 		}
 	}
 
@@ -355,11 +355,11 @@ country_event = {
 		OR = {
 			upper_house = {
 				ideology = communist
-				value = 0.02
+				value = 0.05
 			}
 			upper_house = {
 				ideology = socialist
-				value = 0.02
+				value = 0.05
 			}
 		}
 	}
