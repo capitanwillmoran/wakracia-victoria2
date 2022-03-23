@@ -2984,7 +2984,12 @@ agrarism_rebels_name;Green Movement;Movimiento Verde;Movimiento Verde;Movimiento
 agrarism_rebels_desc;Agrarists are closely related to the principles of Luddism. They reject industrialization, consider that machines will destroy employment and propose a return to manual labor. Closing all existing factories.;;;;Los agraristas están cercanamente relacionados con los principios del ludismo. Rechazan la industrialización, consideran que las máquinas destruirán el empleo y proponer regresar al trabajo manual. Cerrando todas las fábricas existentes.;;;;;;;;;x;;;;;;;;;;;;;;
 agrarism_rebels_army;Green Movement;Movimiento Verde;Movimiento Verde;Movimiento Verde;Movimiento Verde;;;;;;;;;x;;;;;;;;;;;;;;
 TUL_ADJ;Tolosano;Tolosano;Tolosano;Tolosano;Tolosano;Tolosano;Tolosano;Tolosano;Tolosano;Tolosano;Tolosano;Tolosano;Tolosano;x;;;;;;;;;;;;;;
-NIP_nationalsyndicalist;Progressive Samurai Party;;;;Partido Samurai Progresista;;;;;;;;;;;;;;;;;;;;;;;
+NIP_nationalsyndicalist;Progressive Samurai-Hoplite;;;;Partido Samurai-Hoplita;;;;;;;;;;;;;;;;;;;;;;;
 X03_nationalsyndicalist;Austrogreekhungarian Syndicalist Party;;;;Partido Sindicalista Austrogrecohúngaro;;;;;;;;;;;;;;;;;;;;;;;
 istriansale_title;Sale of Istria;;;;Venta de Istria;;;;;;;;;;;;;;;;;;;;;;;
 istriansale_desc;The north-eastern state has asked our government to purchase Goritia and Tergente, within the region of Istria. These, apparently, are part of what they call 'core states' or 'fundamental states' of the Italic people. Of course, for the right payment we could accept, although, to avoid future problems, we would sell them the entire region.;;;;El estado noritálico ha solicitado a nuestro gobierno la compra de Goritia y Tergente, dentro de la región de Istria. Estas, aparentemente, forman parte de lo que denominan 'estados centrales' o 'estados fundamentales' del pueblo italo. Por supuesto, por el pago correcto podríamos aceptar, aunque, para evitar futuros problemas, les venderíamos la región integra.;;;;;;;;;;;;;;;;;;;;;;;
+CAL_nationalsyndicalist;Qinlifornian Syndicalist Movement;;;;Movimiento Sindicalista Qinliforniano;;;;;;;;;;;;;;;;;;;;;;;
+CAL_agrarist;Union of Farmers;;;;Unión Campesina;;;;;;;;;;;;;;;;;;;;;;;
+CHE_agrarist;United Agrarist Communities;;;;Comunidades Agraristas Unidas;;;;;;;;;;;;;;;;;;;;;;;
+PEU_nationalsyndicalist;Canonia Go On;;;;Canonia Avanza;;;;;;;;;;;;;;;;;;;;;;;
+NIP_agrarist;United Agrarist Communities;;;;Comunidades Agraristas Unidas;;;;;;;;;;;;;;;;;;;;;;;

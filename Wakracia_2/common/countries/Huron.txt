@@ -128,7 +128,7 @@ party = {
 }
 
 party = {
-	name = "GEN_agrarist"
+	name = "CHE_agrarist"
 	start_date = 1800.1.1
 	end_date = 2000.1.1
 
