@@ -15,7 +15,7 @@ political_decisions = {
 
 		allow = {
 			#Must have some industry to begin with
-			industrial_score = 100
+			industrial_score = 75
 		}
 
 		effect = {

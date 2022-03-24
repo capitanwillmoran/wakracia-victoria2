@@ -137,7 +137,7 @@ country_event = {
 	
 	option = {
 		name = "Chismoso 5"
-		money = 50000
+		money = 90000
 		ai_chance = {
 			factor = 0
 		}
@@ -145,7 +145,7 @@ country_event = {
 	
 	option = {
 		name = "Chismoso 6"
-		money = 500000
+		money = 900000
 		ai_chance = {
 			factor = 0
 		}
