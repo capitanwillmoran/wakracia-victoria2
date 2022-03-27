@@ -202,7 +202,7 @@ country_event = {
 	trigger = {
 		government = absolute_monarchy
 		NOT = {
-				vote_franschise = none_voting
+			vote_franschise = none_voting
 		}	
 		civilized = yes	
 	}
@@ -481,6 +481,7 @@ country_event = {
 			government = bourgeois_dictatorship
 			government = fascist_dictatorship
 			government = absolute_monarchy
+			government = nationalsyndicalist_dictatorship
 		}
 		civilized = yes
 		political_parties = underground_parties

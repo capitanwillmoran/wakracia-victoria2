@@ -1611,9 +1611,6 @@ install_communist_gov_cb = {
 			NOT = {
 				government = proletarian_dictatorship
 			}
-			
-			# If reciever is not a great power
-			is_greater_power = no
 		}
 	}
 	
@@ -1891,7 +1888,6 @@ install_democracy = {
 
 		THIS = { 
 			OR = { 
-				AND = { has_country_flag = truman_doctrine has_global_flag = blocsenabled }
 				AND = {
 					OR = { war_policy = jingoism war_policy = pro_military } 
 
@@ -2034,13 +2030,12 @@ install_theocratic_regime = {
 	can_use = {
 		THIS = {
 			government = theocracy
-			OR = { war_policy = jingoism war_policy = pro_military }
 		}
 		OR = { is_vassal = no is_our_vassal = THIS }
 		civilized = yes
 		
 		# There are some amount of traditionalist already in the country
-		theocratic = 5
+		theocratic = 0.1
 		
 		# If reciever current gov is not a theochracy
 		NOT = {
@@ -2105,7 +2100,7 @@ install_fascist_regime = {
 		civilized = yes
 		
 		# There are some amount of traditionalist already in the country
-		fascist = 5
+		fascist = 0.1
 		
 		NOT = {
 			government = fascist_dictatorship
@@ -2163,12 +2158,11 @@ install_agrarist_regime = {
 	can_use = {
 		THIS = {
 			government = agrarist
-			OR = { war_policy = jingoism war_policy = pro_military }
 		}
 		OR = { is_vassal = no is_our_vassal = THIS }
 		civilized = yes
 		
-		agrarism = 5
+		agrarism = 0.1
 		
 		NOT = {
 			government = agrarist
@@ -2231,7 +2225,7 @@ install_syndicalist_regime = {
 		OR = { is_vassal = no is_our_vassal = THIS }
 		civilized = yes
 		
-		nationalsyndicalist = 5
+		nationalsyndicalist = 0.1
 		
 		NOT = {
 			government = nationalsyndicalist_dictatorship
