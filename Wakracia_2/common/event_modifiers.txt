@@ -1205,9 +1205,9 @@ no_more_war = {
 ### Great Patriotic War ###
 
 fanatic_army = {
-	land_organisation = 0.1
-	org_regain = 0.1
-	mobilisation_size = 0.15
+	land_organisation = 0.2
+	org_regain = 0.2
+	mobilisation_size = 0.25
 	prestige = -0.02
 	icon = 15
 }

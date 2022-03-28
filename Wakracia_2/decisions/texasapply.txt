@@ -1,0 +1,37 @@
+political_decisions = {
+# North-American Minors
+	apply_for_FLR_statehood = {
+		potential = {
+			exists = FLR
+			tag = TEX
+			OR = {
+				is_vassal = no
+				vassal_of = FLR
+			}
+			OR = {
+				part_of_sphere = no
+				in_sphere = FLR
+			}
+			ai = yes
+			NOT = { has_country_flag = usstatehood_we_have_applied }
+		}
+		allow = {
+			war = no
+			FLR = { war = no }
+			NOT = { truce_with = FLR }
+			relation = {
+				who = FLR
+				value = 150
+			}
+		}
+		effect = {
+			set_country_flag = usstatehood_we_have_applied
+			FLR = {
+				country_event = { id = 16401 days = 0 }
+				war_exhaustion = -2
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}

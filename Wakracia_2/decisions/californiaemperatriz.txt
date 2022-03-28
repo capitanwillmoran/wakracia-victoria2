@@ -1,0 +1,81 @@
+political_decisions = {
+	emperatrizsalish = {
+		picture = "japan_land_tax_reform"
+		potential = {
+			tag = CAL
+			is_vassal = no
+			OR = {
+				government = hms_government
+				government = prussian_constitutionalism
+				government = absolute_monarchy
+			}
+			SAL = { 
+				exists = yes
+				ai = yes
+			}
+			NOT = {
+				has_country_flag = emperatrizsalish
+			}
+		}
+		allow = {
+			SAL ={
+				relation = {
+					who = THIS
+					value = 200
+				}
+			}
+			prestige = 10
+		}
+		effect = {
+			prestige = 20
+			any_pop = {
+				militancy = -1
+			}
+			SAL = {
+				annex_to = CAL
+			}
+			set_country_flag = emperatrizsalish
+		}
+	}
+
+	emperatrizpima = {
+		picture = "japan_land_tax_reform"
+		potential = {
+			tag = CAL
+			is_vassal = no
+			PIM = { 
+				exists = yes
+				ai = yes
+			}
+			OR = {
+				government = hms_government
+				government = prussian_constitutionalism
+				government = absolute_monarchy
+			}
+			NOT = {
+				has_country_flag = emperatrizpima
+			}
+		}
+		allow = {
+			PIM ={
+				relation = {
+					who = THIS
+					value = 175
+				}
+			}
+			prestige = 10
+		}
+		effect = {
+			prestige = 20
+			any_pop = {
+				militancy = -1
+			}
+			PIM = {
+				annex_to = CAL
+			}
+			set_country_flag = emperatrizpima
+		}
+	}
+}
+
+		

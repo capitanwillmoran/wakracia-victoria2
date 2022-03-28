@@ -2163,6 +2163,40 @@ country_event = {
 	}
 }
 
+country_event = {
+	id = 16401
+	title = "EVTNAME16401"
+	desc = "EVTDESC16401"
+	picture = "Administration"
+	
+	is_triggered_only = yes
+	major = yes
+	
+	option = {
+		name = "EVTOPTA16401"
+		FROM = {
+			any_owned = {
+				add_core = FLR
+			}
+		}
+		inherit = FROM
+		ai_chance = {
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB16401"
+		relation = {
+			who = FROM
+			value = -100
+		}
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
 #End Of The Anaconda Plan
 country_event = {
 	id = 16410

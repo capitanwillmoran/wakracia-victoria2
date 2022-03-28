@@ -1,0 +1,130 @@
+country_event = {
+	id = 98777
+	title = EVTNAME98777
+	desc = EVTDESC98777
+	major = yes
+
+	trigger = {
+		NOT = { has_country_flag = imperialismojapones }
+		tag = JAP
+		OR = {
+			war_with = CAL
+			war_with = LSK
+			war_with = USA
+			war_with = FLR
+			war_with = HUR
+			war_with = MEX
+			war_with = PEU
+			war_with = CUB
+			war_with = PTG
+			war_with = ARG
+			war_with = UIL
+			war_with = QUE
+			war_with = CAN
+		}
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA98777"
+		prestige = -10
+		set_country_flag = imperialismojapones
+		relation = {
+			who = CAL
+			value = -500
+		}
+		diplomatic_influence = {
+			who = CAL
+			value = -500
+		}
+		relation = {
+			who = LSK
+			value = -500
+		}
+		diplomatic_influence = {
+			who = LSK
+			value = -500
+		}
+		relation = {
+			who = MEX
+			value = -500
+		}
+		diplomatic_influence = {
+			who = MEX
+			value = -500
+		}
+		relation = {
+			who = FLR
+			value = -500
+		}
+		diplomatic_influence = {
+			who = FLR
+			value = -500
+		}
+		relation = {
+			who = PEU
+			value = -500
+		}
+		diplomatic_influence = {
+			who = PEU
+			value = -500
+		}
+		relation = {
+			who = ARG
+			value = -500
+		}
+		diplomatic_influence = {
+			who = ARG
+			value = -500
+		}
+		relation = {
+			who = CUB
+			value = -500
+		}
+		diplomatic_influence = {
+			who = CUB
+			value = -500
+		}
+		relation = {
+			who = HUR
+			value = -500
+		}
+		diplomatic_influence = {
+			who = HUR
+			value = -500
+		}
+		relation = {
+			who = USA
+			value = -500
+		}
+		diplomatic_influence = {
+			who = USA
+			value = -500
+		}
+		relation = {
+			who = UIL
+			value = -500
+		}
+		diplomatic_influence = {
+			who = UIL
+			value = -500
+		}
+		relation = {
+			who = QUE
+			value = -500
+		}
+		diplomatic_influence = {
+			who = QUE
+			value = -500
+		}
+		relation = {
+			who = CAN
+			value = -500
+		}
+		diplomatic_influence = {
+			who = CAN
+			value = -500
+		}
+	}
+}

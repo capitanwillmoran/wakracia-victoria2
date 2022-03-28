@@ -474,6 +474,7 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA95001"
+		country_event = 95034
 	}
 }
 
@@ -488,7 +489,6 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA95001"
-		country_event = 95035
 	}
 }
 
