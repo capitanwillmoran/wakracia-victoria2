@@ -54,6 +54,23 @@ country_event = {
 			secede_province = BRT
 		}
 		FRA = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+			}
+		}
+		FRA = {
 			capital = 425
 			leadership = 120
 		create_alliance = FRK
@@ -120,8 +137,8 @@ country_event = {
 			defender_goal = {
 				casus_belli = status_quo
 			}
-		set_country_flag = french_civil_war_happened
 		}
+		set_country_flag = french_civil_war_happened
 	}
 	
 	option = {

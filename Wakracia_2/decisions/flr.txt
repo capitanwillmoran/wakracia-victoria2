@@ -1,0 +1,35 @@
+political_decisions = {
+    QUE_revolt = {
+        picture = vive_le_quebec
+        potential = {
+            ai = no
+            tag = FLR
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+            total_amount_of_ships = 10
+        }
+        allow = {
+            money = 75000
+        }
+        effect = {
+            set_country_flag = QUE_revolt
+            money = -75000
+            FLR = {
+                capital_scope = {
+                    sub_unit = { type = infantry value = current }
+                    sub_unit = { type = infantry value = current }
+                    sub_unit = { type = infantry value = current }
+                    sub_unit = { type = infantry value = current }
+                    sub_unit = { type = cavalry value = current }
+                    sub_unit = { type = artillery value = current }
+                    sub_unit = { type = artillery value = current }
+                    sub_unit = { type = artillery value = current }
+                    sub_unit = { type = artillery value = current }
+                    sub_unit = { type = artillery value = current }
+                }
+            }
+            relation = { who = ENG value = -200 }
+        }
+    }

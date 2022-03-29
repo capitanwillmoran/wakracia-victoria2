@@ -51,6 +51,20 @@ country_event = {
    			prestige = 0.9
 			}
 		}
+		ALN = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+			}
+		}
 		war = {
 			target = ALN
 			attacker_goal = {
@@ -127,11 +141,24 @@ country_event = {
 			limit = {
 				is_core = AKH
 			}
-			secede_province = ALN
+			secede_province = AKH
 		}
 		AKH = {
 			leadership = 120
 			civilized = yes
+		}
+		AKH = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
 		}
 		war = {
 			target = AKH

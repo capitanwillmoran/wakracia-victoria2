@@ -76,6 +76,13 @@ country_event = {
 				casus_belli = status_quo
 			}
 		}
+		MCD = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+			}
+		}
 		set_country_flag = macedonian_civil_war_happened
 	}
 }

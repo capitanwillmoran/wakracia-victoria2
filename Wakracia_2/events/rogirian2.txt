@@ -51,6 +51,18 @@ country_event = {
 			capital = 133
 			leadership = 120
 		}
+		TEX = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+			}
+		}
 		war = {
 			target = TEX
 			attacker_goal = {

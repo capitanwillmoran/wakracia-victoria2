@@ -149,6 +149,25 @@ country_event = {
    			prestige = 10
 			}
 		}
+		RUM = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+			}
+		}
 		war = {
 			target = RUM
 			attacker_goal = {
@@ -253,6 +272,25 @@ country_event = {
 			personality = vicious
 			background = old_school
    			prestige = 1
+			}
+		}
+		BAB = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
 			}
 		}
 		war = {
@@ -417,6 +455,20 @@ country_event = {
 				casus_belli = status_quo
 			}
 		}
+		ARA = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+			}
+		}
 		set_country_flag = arabian_civil_war_happened
 	}
 	
@@ -500,6 +552,25 @@ country_event = {
 			personality = brutish
 			background = butcher
    			prestige = 1
+			}
+		}
+		ETH = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
 			}
 		}
 		war = {
@@ -606,6 +677,16 @@ country_event = {
 			
 			defender_goal = {
 				casus_belli = status_quo
+			}
+		}
+		EGY = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
 			}
 		}
 		set_country_flag = egyptian_civil_war_happened

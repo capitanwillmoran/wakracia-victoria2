@@ -62,6 +62,13 @@ country_event = {
 				casus_belli = status_quo
 			}
 		}
+		SBA = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+			}
+		}
 		set_country_flag = kaelos_civil_war1_happened
 	}
 	
@@ -132,6 +139,13 @@ country_event = {
 			
 			defender_goal = {
 				casus_belli = status_quo
+			}
+		}
+		TUC = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
 			}
 		}
 		set_country_flag = kaelos_civil_war3_happened

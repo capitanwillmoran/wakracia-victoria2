@@ -58,6 +58,16 @@ country_event = {
    			prestige = 10
 			}
 		}
+		VNZ = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+			}
+		}
 		war = {
 			target = VNZ
 			attacker_goal = {

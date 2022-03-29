@@ -48,6 +48,16 @@ country_event = {
    			prestige = 3
 			}
 		}
+		ROM = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+			}
+		}
 		war = {
 			target = ROM
 			attacker_goal = {

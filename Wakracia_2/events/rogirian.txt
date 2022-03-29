@@ -66,6 +66,16 @@ country_event = {
    			prestige = 0.9
 			}
 		}
+		RGR = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+			}
+		}
 		war = {
 			target = RGR
 			attacker_goal = {
