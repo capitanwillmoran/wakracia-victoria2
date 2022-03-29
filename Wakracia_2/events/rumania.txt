@@ -9,9 +9,7 @@ country_event = {
 		tag = X03
 		has_country_flag = greater_austrianhungaria1
 		NOT = {
-			OR = {
-				has_country_flag = rumanian_civil_war1_happened
-			}
+			has_country_flag = rumanian_civil_war1_happened
 			exists = ROM
 		}
 	}

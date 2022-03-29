@@ -17,7 +17,6 @@ country_event = {
 		has_country_flag = crete_civil_war_happened
 		has_country_flag = epirote_civil_war_happened
 		has_country_flag = macedonian_civil_war_happened
-		has_country_flag = epirote_civil_war_happened
 		has_country_flag = bitterdecision
 		NOT = {
 			has_country_flag = the_end_of_greece
@@ -90,6 +89,7 @@ country_event = {
 			}
 			secede_province = GEO
 		}
+		prestige = -100
 		change_tag = TRK
 		set_country_flag = the_end_of_greece
 		}

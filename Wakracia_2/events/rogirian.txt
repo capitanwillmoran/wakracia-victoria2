@@ -14,7 +14,24 @@ country_event = {
 			militancy = 3
 		}
 		tag = MEX
-		NOT = {exists = RGR}
+		NOT = { exists = RGR}
+		OR = {
+			owns = 138
+			owns = 2149
+			owns = 2148
+			owns = 2146
+			owns = 2151
+			owns = 2155
+			owns = 2154
+			owns = 2153
+			owns = 2156
+			owns = 2157
+			owns = 2145
+			owns = 2152
+			owns = 2147
+			owns = 2144
+			owns = 2142
+		}
 	}
 	
 	mean_time_to_happen = {

@@ -12,7 +12,7 @@ country_event = {
 		}
 		year = 1890
 		OR = {
-			is_greater_power = yes
+			is_greater_power = no
 			is_secundary_power = no
 		}
 		NOT = {

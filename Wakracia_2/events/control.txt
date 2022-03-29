@@ -34,7 +34,7 @@ country_event = {
 		war_exhaustion = -1
 		add_country_modifier = {
 			name = rus_occupied_capital
-			duration = 365
+			duration = 730
 		}
 	}
 }
@@ -71,7 +71,7 @@ country_event = {
 		war_exhaustion = -1
 		add_country_modifier = {
 			name = fre_occupied_capital
-			duration = 365
+			duration = 730
 		}
 	}
 }
@@ -102,7 +102,7 @@ country_event = {
 		war_exhaustion = -1
 		add_country_modifier = {
 			name = eng_occupied_capital
-			duration = 365
+			duration = 730
 		}
 	}
 }
@@ -133,7 +133,7 @@ country_event = {
 		war_exhaustion = -1
 		add_country_modifier = {
 			name = ger_occupied_capital
-			duration = 365
+			duration = 730
 		}
 	}
 }
@@ -173,7 +173,7 @@ country_event = {
 		war_exhaustion = -1
 		add_country_modifier = {
 			name = viking_occupied_capital
-			duration = 365
+			duration = 730
 		}
 	}
 }
@@ -207,7 +207,7 @@ country_event = {
 		war_exhaustion = -1
 		add_country_modifier = {
 			name = mate_occupied_capital
-			duration = 365
+			duration = 730
 		}
 	}
 }
@@ -244,7 +244,7 @@ country_event = {
 		war_exhaustion = -1
 		add_country_modifier = {
 			name = rog_occupied_capital
-			duration = 365
+			duration = 730
 		}
 	}
 }
@@ -275,7 +275,7 @@ country_event = {
 		war_exhaustion = -1
 		add_country_modifier = {
 			name = mng_occupied_capital
-			duration = 365
+			duration = 730
 		}
 	}
 }
@@ -307,7 +307,7 @@ country_event = {
 		war_exhaustion = -1
 		add_country_modifier = {
 			name = mym_occupied_capital
-			duration = 365
+			duration = 730
 		}
 	}
 }
@@ -342,7 +342,7 @@ country_event = {
 		war_exhaustion = -1
 		add_country_modifier = {
 			name = ita_occupied_capital
-			duration = 365
+			duration = 730
 		}
 	}
 }

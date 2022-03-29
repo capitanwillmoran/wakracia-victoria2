@@ -7,11 +7,24 @@ country_event = {
 	trigger = {
 		has_country_flag = egyptian_civil_war_happened
 		has_country_flag = bitterdecision
+		tag = GRE
+		NOT = {
+			has_country_flag = bulgarian_civil_war_happened
+		}
 		OR = {
-			tag = GRE
-			NOT = {
-				has_country_flag = bulgarian_civil_war_happened
-			}
+			owns = 817
+			owns = 816
+			owns = 815
+			owns = 808
+			owns = 809
+			owns = 810
+			owns = 812
+			owns = 813
+			owns = 811
+			owns = 814
+			owns = 818
+			owns = 674
+			owns = 675
 		}
 	}
 

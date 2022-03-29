@@ -55,6 +55,19 @@ country_event = {
 			has_country_flag = argentinian_civil_war1_happened
 			exists = PTG
 		}
+		OR = {
+			owns = 2394
+			owns = 2392
+			owns = 2396
+			owns = 2397
+			owns = 2398
+			owns = 2399
+			owns = 2400
+			owns = 2335
+			owns = 2334
+			owns = 2333
+			owns = 2336
+		}
 	}
 	
 	mean_time_to_happen = {

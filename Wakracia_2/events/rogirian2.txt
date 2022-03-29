@@ -15,7 +15,17 @@ country_event = {
 			militancy = 2
 		}
 		tag = MEX
-		NOT = {exists = TEX }
+		NOT = { exists = TEX }
+		OR = {
+			owns = 133
+			owns = 134
+			owns = 132
+			owns = 137
+			owns = 138
+			owns = 2147
+			owns = 136
+			owns = 135
+		}
 	}
 	
 	mean_time_to_happen = {

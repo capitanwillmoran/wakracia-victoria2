@@ -2704,6 +2704,7 @@ political_decisions = {
 		picture = "manifest_destiny"
 		potential = {
 			tag = JAP
+			year = 1918
 			OR = {
 				government = fascist_dictatorship
 				government = nationalsyndicalist_dictatorship

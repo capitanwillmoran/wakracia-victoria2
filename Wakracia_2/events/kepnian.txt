@@ -9,6 +9,7 @@ country_event = {
 	trigger = {
 		NOT = {
 			has_country_flag = atlankepnian_civil_war_happened
+			exists = VNZ
 		}
 		tag = CUB
 		or = {
