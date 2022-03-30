@@ -8,6 +8,7 @@ country_event = {
 	
 	trigger = {
 		tag = MLI
+		year = 1850
 		NOT = { 
 			has_global_flag = mali_fragmented_happened
 		}

@@ -471,13 +471,13 @@ political_decisions = {
 		picture = rhodesia_charter
 		potential = {
 			tag = BRZ
+			has_country_flag = cisplatina_is_ours
 			NOT = { has_country_flag = mate_is_ours }
 			NOT = { government = hms_government }
 			NOT = {	government = democracy }
 		}
 		
 		allow = {
-			has_country_flag = cisplatina_is_ours
 			nationalism_n_imperialism = 1
 			is_greater_power = yes
 		}
@@ -1824,7 +1824,7 @@ political_decisions = {
 	}
 
 	greater_korea = {
-		picture = chinese_70
+		picture = chinese_89
 		potential = {
 			or = {
 				tag = PYO
@@ -2492,7 +2492,7 @@ political_decisions = {
 	}
 
 	bigindia = {
-		picture = indian_2510
+		picture = indian_84
 		potential = {
 			tag = HND
 			OR = {

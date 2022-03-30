@@ -35,3 +35,27 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
+	floridan11 = {
+		picture = coloured_troops
+		potential = {
+			tag = FLR
+		NOT = {
+			education_spending = 0.13
+		}
+		NOT = {
+			military_spending = 0.13
+		}
+		military_spending = 0.10
+		education_spending = 0.10
+		}
+	
+		allow = {
+			ai = no
+		}
+      
+		effect = {
+			country_event = 96031
+		}
+	}
+}

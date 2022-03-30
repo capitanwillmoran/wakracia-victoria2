@@ -1,0 +1,33 @@
+country_event = {
+	id = 98890
+	title = "EVTNAME98890"
+	desc = "EVTDESC98890"
+	picture = americascup
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVT98890PTA"
+		money = 50000
+		200 = { secede_province = FLR }
+		FLR = {
+			money = -50000
+		}
+        }
+	ai_chance = {
+		factor = 99
+	}
+
+	option = {
+		name = "EVT98889PTB"
+		CUB = {
+			money = 50000
+		}
+		relation = {
+			who = CUB
+			value = -100
+		}
+	ai_chance = {
+		factor = 1
+	}
+}

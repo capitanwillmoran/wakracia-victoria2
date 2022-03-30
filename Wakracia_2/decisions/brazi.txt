@@ -1,0 +1,143 @@
+political_decisions = {
+	brazilbrothers = {
+		potential = {
+			tag = BRZ
+			exists = MLI
+			OR = {
+				exists = GLC
+				exists = SPA
+			}
+			is_vassal = no
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			NOT = {
+				OR = {
+					has_country_flag = malibrotherhood
+					has_country_flag = galicianbrotherhood
+				}
+			}
+		}
+		allow = {
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			money = 50000
+		}
+		effect = {
+			money = -50000
+			country_event = 98888
+		}
+	}
+
+	brazilbrothergalicia = {
+		picture = "the_grunderzeit"
+		potential = {
+			tag = BRZ
+			has_country_flag = galicianbrotherhood
+			OR = {
+				exists = GLC
+				exists = SPA
+			}
+			is_vassal = no
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			NOT = {
+				has_country_flag = braziliangaliciauniversity
+			}
+		}
+		allow = {
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			money = 250000
+			OR = {
+				GLC = {
+					relation = {
+						who = THIS
+						value = 175
+					}
+				}
+				SPA = {
+					relation = {
+						who = THIS
+						value = 175
+					}
+				}
+			}
+			prestige = 10
+		}
+		effect = {
+			money = -250000
+			any_pop = {
+				literacy = 0.2
+			}
+			social_reform = good_schools
+			add_country_modifier = {
+				name = educational_reform
+				duration = 1825
+			}
+			set_country_flag = braziliangaliciauniversity
+		}
+	}
+
+	brazilbrothermali = {
+		picture = "map_africa"
+		potential = {
+			tag = BRZ
+			has_country_flag = malibrotherhood
+			exists = MLI
+			is_vassal = no
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			NOT = {
+				has_country_flag = brazilianmalicoast
+			}
+			MLI = {
+				NOT = {
+					has_country_flag = mali_fragmented_happened
+				}
+				owns = 1776
+				owns = 1784
+				owns = 2573
+				owns = 1783
+				owns = 1788
+				owns = 1785
+				owns = 1792
+				owns = 1877
+				owns = 1879
+			}
+		}
+		allow = {
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			money = 125000
+			OR = {
+				MLI = {
+					in_sphere = THIS
+				}
+				MLI = {
+					relation = {
+						who = THIS
+						value = 175
+					}
+				}
+			}
+			prestige = 10
+		}
+		effect = {
+			money = -125000
+			MLI = { country_event = 98889 }
+			set_country_flag = brazilianmalicoast
+		}
+	}
+}

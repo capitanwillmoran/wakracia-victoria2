@@ -8,15 +8,57 @@ political_decisions = {
 			NOT = { has_country_flag = bh_built }
 		}
 		allow = {
-			money = 5000
+			money = 10000
 		}
 		effect = {
 			set_country_flag = bh_built
-			treasury = -5000
+			treasury = -10000
 			2442 = { change_province_name = "Belo Horizonte" }
 			2442 = {
-				life_rating = 4
+				life_rating = 5
 				trade_goods = iron
+				add_province_modifier = { name = recently_built_city duration = 365 }
+			}
+		}
+	}
+
+	build_finalhorizonte = {
+		picture = build_belo_horizonte
+		potential = {
+			owns = 2446
+			year = 1871
+			has_country_flag = bh_built
+			NOT = { has_country_flag = fh_built }
+		}
+		allow = {
+			money = 10000
+		}
+		effect = {
+			set_country_flag = fh_built
+			treasury = -10000
+			2446 = { change_province_name = "Horizonte Final" }
+			2446 = {
+				life_rating = 5
+				add_province_modifier = { name = recently_built_city duration = 365 }
+			}
+		}
+	}
+
+	build_amazonas1 = {
+		picture = build_belo_horizonte
+		potential = {
+			owns = 2404
+			NOT = { has_country_flag = amz_built }
+		}
+		allow = {
+			money = 10000
+		}
+		effect = {
+			set_country_flag = amz_built
+			treasury = -10000
+			2404 = { change_province_name = "Pedra da Amazonia" }
+			2404 = {
+				life_rating = 5
 				add_province_modifier = { name = recently_built_city duration = 365 }
 			}
 		}
@@ -30,14 +72,14 @@ political_decisions = {
 			NOT = { has_country_flag = pilar_built }
 		}
 		allow = {
-			money = 5000
+			money = 10000
 		}
 		effect = {
 			set_country_flag = pilar_built
-			treasury = -5000
+			treasury = -10000
 			2361 = { change_province_name = "Pilar" }
 			2361 = {
-				life_rating = 4
+				life_rating = 5
 				add_province_modifier = { name = recently_built_city duration = 365 }
 			}
 		}
@@ -51,11 +93,11 @@ political_decisions = {
 			NOT = { has_country_flag = bsas_built }
 		}
 		allow = {
-			money = 5000
+			money = 15000
 		}
 		effect = {
 			set_country_flag = bsas_built
-			treasury = -5000
+			treasury = -15000
 			2348 = { change_province_name = "Kalos Aeras" }
 			2348 = {
 				life_rating = 4
@@ -72,11 +114,11 @@ political_decisions = {
 			NOT = { has_country_flag = morania_built }
 		}
 		allow = {
-			money = 5000
+			money = 25000
 		}
 		effect = {
 			set_country_flag = morania_built
-			treasury = -5000
+			treasury = -25000
 			2209 = { change_province_name = "Morania" }
 			2209 = {
 				life_rating = 4

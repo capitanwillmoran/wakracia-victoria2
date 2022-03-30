@@ -3,27 +3,32 @@ political_decisions = {
 	cuban_florida = {
 		picture = conquest_of_the_south
 		potential = {
-			is_vassal = no
 			tag = CUB
-			FLR = {
-				ai = yes
-			}
+			is_vassal = no
+			year = 1840
+			FLR = { money = 70000 }
+			owns = 200
 			NOT = { has_country_flag = cuban_florida }
 		}
 
 		allow = {
 			war = no
-			owns = 200
+			FLR = {
+				relation = {
+					who = CUB
+					value = 100
+				}
+			}
 		}
 
 		effect = {
+			FLR = { country_event = 98890 }
 			set_country_flag = cuban_florida
 			prestige = 2
-			200 = { secede_province = FLR }
-			money = 100000
-			FLR = {
-				money = -100000
-			}
+			money = -50000
+		}
+		ai_will_do = {
+			factor = 1
 		}
 	}
 }

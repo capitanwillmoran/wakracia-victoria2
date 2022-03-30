@@ -1,0 +1,107 @@
+political_decisions = {
+
+    conquest_of_the_amazonas = {
+        picture = manifest_destiny
+        potential = {
+            is_vassal = no
+            tag = BRZ
+            OR = {
+                2413 = { empty = yes }
+                2418 = { empty = yes }
+                2417 = { empty = yes }
+                2600 = { empty = yes }
+                2405 = { empty = yes }
+                2550 = { empty = yes }
+                2404 = { empty = yes }
+            }
+            OR = {
+                owns = 2423
+                owns = 2419
+            }
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+            NOT = { has_country_flag = conquest_of_the_amazonas }
+        }
+
+        allow = {
+            war = no
+            owns = 2423
+            owns = 2419
+        }
+
+        effect = {
+            set_country_flag = conquest_of_the_amazonas
+            prestige = 2
+            random_owned = {
+                limit = {
+                    2413 = { empty = yes }
+                    2423 = { empty = no }
+                }
+                2413 = {
+                    secede_province = THIS
+                    add_core = THIS
+                    life_rating = 20
+                    any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+                }
+            }
+
+            random_owned = {
+                limit = {
+                    2418 = { empty = yes }
+                    2421 = { empty = no }
+                }
+                2418 = {
+                    secede_province = THIS
+                    add_core = THIS
+                    life_rating = 20
+                    any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+                }
+            }
+
+            random_owned = {
+                limit = {
+                    2417 = { empty = yes }
+                    2419 = { empty = no }
+                }
+                2417 = {
+                    secede_province = THIS
+                    add_core = THIS
+                    life_rating = 20
+                    any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+                }
+            }
+
+            random_owned = {
+                limit = {
+                    2600 = { empty = yes }
+                    2323 = { empty = no }
+                }
+                2600 = { secede_province = THIS add_core = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+            }
+            random_owned = {
+                limit = {
+                    2405 = { empty = yes }
+                    2419 = { empty = no }
+                }
+                2405 = { secede_province = THIS add_core = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+            }
+            random_owned = {
+                limit = {
+                    2550 = { empty = yes }
+                    2405 = { empty = no }
+                }
+                2550 = { secede_province = THIS add_core = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+            }
+            random_owned = {
+                limit = {
+                    2404 = { empty = yes }
+                    2405 = { empty = no }
+                }
+                2404 = { secede_province = THIS add_core = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+            }
+        }
+        ai_will_do = { factor = 1 }
+    }
+}

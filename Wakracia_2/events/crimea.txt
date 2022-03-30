@@ -65,35 +65,6 @@ country_event = {
 }
 
 country_event = {
-	id = 96033
-	title = "1"
-	desc = "1"
-	major = no
-	
-	trigger = {
-		ai = no
-		tag = FLR
-		NOT = {
-			education_spending = 0.22
-		}
-		NOT = {
-			military_spending = 0.22
-		}
-		military_spending = 0.19
-		education_spending = 0.19
-	}
-	
-	mean_time_to_happen = {
-		months = 1
-	}
-	
-	option = {
-		name = "1"
-		country_event = 96031
-	}
-}
-
-country_event = {
 	id = 77817
 	title = "EVTNAME77817"
 	desc = "EVTDESC77817"

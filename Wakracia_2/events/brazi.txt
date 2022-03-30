@@ -1,0 +1,33 @@
+country_event = {
+	id = 98888
+	title = "EVTNAME98888"
+	desc = "EVTDESC98888"
+	major = no
+	picture = "brz"
+	
+	is_trigger_only = yes
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA98888"
+		relation = {
+			who = GLC
+			value = 500
+		}
+		relation = {
+			who = SPA
+			value = 500
+		}
+		set_country_flag = galicianbrotherhood
+	}
+	
+	option = {
+		name = "EVTOPTB98888"
+		relation = {
+			who = MLI
+			value = 500
+		}
+		set_country_flag = malibrotherhood
+	}
+}

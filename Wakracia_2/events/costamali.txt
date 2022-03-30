@@ -1,0 +1,46 @@
+country_event = {
+	id = 98889
+	title = "EVTNAME98889"
+	desc = "EVTDESC98889"
+	picture = brz
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVT98889PTA"
+		money = 125000
+		1776 = { secede_province = BRZ }
+		1784 = { secede_province = BRZ }
+		2573 = { secede_province = BRZ }
+		1783 = { secede_province = BRZ }
+		1788 = { secede_province = BRZ }
+		1785 = { secede_province = BRZ }
+		1792 = { secede_province = BRZ }
+		1877 = { secede_province = BRZ }
+		1879 = { secede_province = BRZ }
+        }
+	ai_chance = {
+		factor = 90
+		modifier = {
+			factor = 1
+			alliance_with = FROM
+		}
+	}
+
+	option = {
+		name = "EVT98889PTB"
+		BRZ = {
+			money = 150000
+		}
+		relation = {
+			who = BRZ
+			value = -100
+		}
+	ai_chance = {
+		factor = 10
+		modifier = {
+			factor = 0
+			is_greater_power = no
+		}
+	}
+}	

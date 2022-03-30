@@ -480,3 +480,8 @@ agrarism_rebels_title;Green Movement;Movimiento Verde;Movimiento Verde;Movimient
 agrarism_rebels_name;Green Movement;Movimiento Verde;Movimiento Verde;Movimiento Verde;Movimiento Verde;;;;;;;;;x;
 agrarism_rebels_desc;Agrarists are closely related to the principles of Luddism. They reject industrialization, consider that machines will destroy employment and propose a return to manual labor. Closing all existing factories.;;;;Los agraristas están cercanamente relacionados con los principios del ludismo. Rechazan la industrialización, consideran que las máquinas destruirán el empleo y proponer regresar al trabajo manual. Cerrando todas las fábricas existentes.;;;;;;;;;x;
 agrarism_rebels_army;Green Movement;Movimiento Verde;Movimiento Verde;Movimiento Verde;Movimiento Verde;;;;;;;;;x;
+floridaejercito;Slave Troops;;;;Tropas Esclavas;;;;;;;;;x;
+floridaejercito_title;Slave Troops;;;;Tropas Esclavas;;;;;;;;;x;
+floridaejercito_desc;Compulsory military service has been established for slaves;;;;Se ha establecido el servicio militar obligatorio para los esclavos;;;;;;;;;x;
+floridan11_title;Appoint ruling party;;;;Nombrar al nuevo partido gobernante;;;;;;;;;x;
+floridan11_desc;We can change the ruling $COUNTRY_ADJ$ party. Either because its mandate is over, or because it has been decided to replace it for being inefficient.;;;;Podemos cambiar el partido $COUNTRY_ADJ$ gobernante. Ya sea porque terminó su mandato, o porque se ha decidido reemplazarlo por ser poco eficiente.;;;;;;;;;x;
