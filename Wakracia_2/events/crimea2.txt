@@ -1,12 +1,12 @@
 country_event = {
-	id = 77816
-	title = "EVTNAME77816"
-	desc = "EVTDESC77816"
+	id = 78880
+	title = "EVTNAME78880"
+	desc = "EVTDESC78880"
 	major = no
 	picture = "russianmonke"
 	
 	trigger = {
-		tag = CRI
+		tag = TAR
 		nationalism_n_imperialism = 1
 		or = {
 			is_greater_power = yes
@@ -28,10 +28,10 @@ country_event = {
 	fire_only_once = yes
 	
 	option = {
-		name = "EVTOPTA77816"
+		name = "EVTOPTA78880"
 		MUS = {
 			any_owned = {
-				add_core = CRI
+				add_core = TAR
 			}
 		}
 		any_country = {
@@ -39,7 +39,7 @@ country_event = {
 				tag = MUS
 				any_core = {
 					owned_by = THIS
-					NOT = { is_core = CRI }
+					NOT = { is_core = TAR }
 					is_colonial = no
 				}
 				exists = no
@@ -47,7 +47,7 @@ country_event = {
 				war = no
 			}
 		}
-		CRI = { inherit = MUS }
+		TAR = { inherit = MUS }
 		ai_chance = {
 			factor = 0.8
 		}
@@ -55,7 +55,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTB77816"
+		name = "EVTOPTB78880"
 		set_country_flag = MUS_referendum
 		ai_chance = {
 			factor = 0.2
@@ -64,14 +64,14 @@ country_event = {
 }
 
 country_event = {
-	id = 77817
-	title = "EVTNAME77817"
-	desc = "EVTDESC77817"
+	id = 78881
+	title = "EVTNAME78881"
+	desc = "EVTDESC78881"
 	major = no
 	picture = "russianmonke"
 	
 	trigger = {
-		tag = CRI
+		tag = TAR
 		nationalism_n_imperialism = 1
 		or = {
 			is_greater_power = yes
@@ -93,10 +93,10 @@ country_event = {
 	fire_only_once = yes
 	
 	option = {
-		name = "EVTOPTA77817"
+		name = "EVTOPTA78881"
 		RYA = {
 			any_owned = {
-				add_core = CRI
+				add_core = TAR
 			}
 		}
 		any_country = {
@@ -104,7 +104,7 @@ country_event = {
 				tag = RYA
 				any_core = {
 					owned_by = THIS
-					NOT = { is_core = CRI }
+					NOT = { is_core = TAR }
 					is_colonial = no
 				}
 				exists = no
@@ -112,7 +112,7 @@ country_event = {
 				war = no
 			}
 		}
-		CRI = { inherit = RYA }
+		TAR = { inherit = RYA }
 		ai_chance = {
 			factor = 0.8
 		}
@@ -120,7 +120,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTB77817"
+		name = "EVTOPTB78881"
 		set_country_flag = RYA_referendum
 		ai_chance = {
 			factor = 0.2
@@ -129,14 +129,14 @@ country_event = {
 }
 
 country_event = {
-	id = 77818
-	title = "EVTNAME77818"
-	desc = "EVTDESC77818"
+	id = 78882
+	title = "EVTNAME78882"
+	desc = "EVTDESC78882"
 	major = no
 	picture = "russianmonke"
 	
 	trigger = {
-		tag = CRI
+		tag = TAR
 		nationalism_n_imperialism = 1
 		or = {
 			is_greater_power = yes
@@ -158,10 +158,10 @@ country_event = {
 	fire_only_once = yes
 	
 	option = {
-		name = "EVTOPTA77818"
+		name = "EVTOPTA78882"
 		X24 = {
 			any_owned = {
-				add_core = CRI
+				add_core = TAR
 			}
 		}
 		any_country = {
@@ -169,7 +169,7 @@ country_event = {
 				tag = X24
 				any_core = {
 					owned_by = THIS
-					NOT = { is_core = CRI }
+					NOT = { is_core = TAR }
 					is_colonial = no
 				}
 				exists = no
@@ -177,7 +177,7 @@ country_event = {
 				war = no
 			}
 		}
-		CRI = { inherit = X24 }
+		TAR = { inherit = X24 }
 		ai_chance = {
 			factor = 0.8
 		}
@@ -185,62 +185,8 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTB77818"
+		name = "EVTOPTB78882"
 		set_country_flag = X24_referendum
-		ai_chance = {
-			factor = 0.2
-		}
-	}
-}
-
-country_event = {
-	id = 77819
-	title = "EVTNAME77819"
-	desc = "EVTDESC77819"
-	major = no
-	picture = "russianmonke"
-	
-	trigger = {
-		tag = BYZ
-		CRI = {
-			nationalism_n_imperialism = 1
-			exists = yes
-		}
-		NOT = {
-			has_country_flag = istrusaegyssus
-		}
-	}
-
-	fire_only_once = yes
-	
-	option = {
-		name = "EVTOPTA77819"
-		any_owned = {
-			limit = {
-				is_core = CRI
-			}
-			secede_province = CRI
-		}
-		964 = {
-			owner = {
-				relation = { who = BYZ value = 200 }
-				prestige = 10
-			}
-		}
-		ai_chance = {
-			factor = 0.8
-		}
-		set_country_flag = istrusaegyssus
-	}
-	
-	option = {
-		name = "EVTOPTB77819"
-		set_country_flag = istrusaegyssus
-		964 = {
-			owner = {
-				relation = { who = BYZ value = -200 }
-			}
-		}
 		ai_chance = {
 			factor = 0.2
 		}

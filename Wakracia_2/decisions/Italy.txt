@@ -2,6 +2,10 @@
 political_decisions = {
 	cavours_diplomacy = {
 		potential = {
+			NOT = {
+				ai = no
+				ai = yes
+			}
 			OR = {
 				AND = { 
 					tag = ITA

@@ -172,8 +172,6 @@ political_decisions = {
 		picture = coloured_troops
 		potential = {
 			NOT = { has_country_modifier = army_works }
-			NOT = { has_country_flag = army_works }
-			pensions = no_pensions
 			civilized = yes
 		}
 		allow = {
@@ -186,7 +184,6 @@ political_decisions = {
 				name = army_works
 				duration = 2190
 			}
-			set_country_flag = army_works
 		}
 	}
 }

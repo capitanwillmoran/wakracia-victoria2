@@ -1,8 +1,8 @@
 graphical_culture = ItalianGC
-color = { 125 171 84 }
+color = { 31 70 148 }
 theocracy = { 1 48 143 }
 agrarist = { 1 48 143 }
-fascist_dictatorship = { 1 48 143 }
+fascist_dictatorship = { 2 27 79}
 
 party = {
 	name = "ITA_reactionary"
