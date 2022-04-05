@@ -9,8 +9,8 @@ country_event = {
 	trigger = {
 		tag = GRE
 		OR = {
-			badboy = 0.5
-			militancy = 4
+			badboy = 0.1
+			militancy = 3
 		}
 		has_country_flag = bitterdecision
 		NOT = {
@@ -24,8 +24,6 @@ country_event = {
 			owns = 822
 			owns = 815
 			owns = 857
-			owns = 846
-			owns = 845
 		}
 	}
 
@@ -94,6 +92,9 @@ country_event = {
 				is_core = GEO
 			}
 			secede_province = GEO
+		}
+		any_owned = {
+			remove_core = GRE
 		}
 		prestige = -100
 		change_tag = TRK

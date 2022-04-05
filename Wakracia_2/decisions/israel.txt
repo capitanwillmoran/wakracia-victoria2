@@ -84,6 +84,14 @@ political_decisions = {
 				}
 				secede_province = ISR
 			}
+			relation = {
+				who = ISR
+				value = 150
+			}
+			diplomatic_influence = {
+				who = ISR
+				value = 100
+			}
 		}
 		ai_will_do = {
 			factor = 0
@@ -191,6 +199,14 @@ political_decisions = {
 					is_core = ISR
 				}
 				secede_province = ISR
+			}
+			relation = {
+				who = ISR
+				value = 150
+			}
+			diplomatic_influence = {
+				who = ISR
+				value = 100
 			}
 		}
 		ai_will_do = {
@@ -305,6 +321,14 @@ political_decisions = {
 				}
 				secede_province = ISR
 			}
+			relation = {
+				who = ISR
+				value = 150
+			}
+			diplomatic_influence = {
+				who = ISR
+				value = 100
+			}
 		}
 		ai_will_do = {
 			factor = 0
@@ -385,6 +409,14 @@ political_decisions = {
 					is_core = ISR
 				}
 				secede_province = ISR
+			}
+			relation = {
+				who = ISR
+				value = 150
+			}
+			diplomatic_influence = {
+				who = ISR
+				value = 100
 			}
 		}
 		ai_will_do = {
@@ -496,6 +528,14 @@ political_decisions = {
 				}
 				secede_province = ISR
 			}
+			relation = {
+				who = ISR
+				value = 150
+			}
+			diplomatic_influence = {
+				who = ISR
+				value = 100
+			}
 		}
 		ai_will_do = {
 			factor = 0
@@ -591,6 +631,14 @@ political_decisions = {
 				}
 				secede_province = ISR
 			}
+			relation = {
+				who = ISR
+				value = 150
+			}
+			diplomatic_influence = {
+				who = ISR
+				value = 100
+			}
 		}
 		ai_will_do = {
 			factor = 0
@@ -675,6 +723,14 @@ political_decisions = {
 					is_core = ISR
 				}
 				secede_province = ISR
+			}
+			relation = {
+				who = ISR
+				value = 150
+			}
+			diplomatic_influence = {
+				who = ISR
+				value = 100
 			}
 		}
 		ai_will_do = {
@@ -769,6 +825,14 @@ political_decisions = {
 					is_core = ISR
 				}
 				secede_province = ISR
+			}
+			relation = {
+				who = ISR
+				value = 150
+			}
+			diplomatic_influence = {
+				who = ISR
+				value = 100
 			}
 		}
 		ai_will_do = {
@@ -865,6 +929,14 @@ political_decisions = {
 					is_core = ISR
 				}
 				secede_province = ISR
+			}
+			relation = {
+				who = ISR
+				value = 150
+			}
+			diplomatic_influence = {
+				who = ISR
+				value = 100
 			}
 		}
 		ai_will_do = {

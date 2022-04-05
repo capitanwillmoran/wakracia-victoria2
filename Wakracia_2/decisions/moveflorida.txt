@@ -78,4 +78,28 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
+	move_capital_to_socotra = {
+        	picture = wakracia
+        	alert = yes
+        	potential = {
+			tag = BYZ
+			year = 1911
+			owns = 1177
+			1177 = { is_colonial = no }
+		}
+
+		allow = {
+			NOT = { capital = 1177 }
+		}
+
+		effect = {
+			capital = 1177
+			prestige = 10
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

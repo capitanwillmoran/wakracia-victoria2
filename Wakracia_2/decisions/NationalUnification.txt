@@ -1354,6 +1354,9 @@ unite_moldavia_wallachia = {
 				tag = PNT
 				tag = CLC
 			}
+			NOT = {
+				has_country_flag = anatolia_joined
+			}
 		}	
 		allow = {
 			is_greater_power = yes
@@ -1410,6 +1413,7 @@ unite_moldavia_wallachia = {
 				}
 				annex_to = RUM
 			}
+			set_country_flag = anatolia_joined
 		}
 		ai_will_do = {
 			factor = 1

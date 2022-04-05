@@ -11,8 +11,11 @@ country_event = {
 			badboy = 0.4
 			militancy = 6
 		}
-		NOT = {
-			has_country_flag = anatolia_fragmented_happened
+		OR = {
+			NOT = {
+				has_country_flag = anatolia_fragmented_happened
+				has_country_flag = anatolia_joined
+			}
 		}
 	}
 

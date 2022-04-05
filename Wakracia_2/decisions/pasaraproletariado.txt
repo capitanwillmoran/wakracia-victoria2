@@ -1,0 +1,65 @@
+political_decisions = {
+	formproletariado = {
+		picture = reform_politburo
+		potential = {
+			is_ideology_enabled = communist
+			NOT = {
+				government = proletarian_dictatorship
+			}
+			OR = {
+				upper_house = {
+					ideology = communist
+					value = 0.30
+				}
+				upper_house = {
+					ideology = socialist
+					value = 0.30
+				}
+			}
+		}
+
+		allow = {
+			prestige = 5
+			wage_reform = good_minimum_wage
+			work_hours = eight_hours
+			safety_regulations = good_safety
+			unemployment_subsidies = good_subsidies
+			pensions = good_pensions
+			health_care = good_health_care
+			school_reforms = good_schools
+		}
+	
+		effect = {
+			government = proletarian_dictatorship
+			ruling_party_ideology = communist
+			political_reform = none_voting
+			political_reform = party_appointed
+			any_pop = {
+				scaled_militancy = {
+					ideology = fascist
+					factor = 4
+				}
+				scaled_militancy = {
+					ideology = nationalsyndicalist
+					factor = 4
+				}
+				scaled_militancy = {
+					ideology = reactionary
+					factor = 4
+				}
+				scaled_militancy = {
+					ideology = liberal
+					factor = 4
+				}
+				scaled_militancy = {
+					ideology = socialist
+					factor = -5
+				}
+				scaled_militancy = {
+					ideology = communist
+					factor = -5
+				}
+			}
+		}
+	}
+}

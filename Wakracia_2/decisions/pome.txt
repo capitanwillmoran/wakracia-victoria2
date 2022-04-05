@@ -1,0 +1,19 @@
+political_decisions = {
+	czechpomerania = {
+		picture = statuto_albertino
+		potential = {
+			TAG = POM
+			NOT = { primary_culture = czech }
+		}
+
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+
+		effect = {
+			primary_culture = czech
+			prestige = 10
+		}
+		ai_will_do = 1
+	}
+}

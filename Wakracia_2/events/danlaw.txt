@@ -1,0 +1,130 @@
+country_event = {
+	id = 988012
+	title = "EVTNAME988012"
+	desc = "EVTDESC988012"
+	major = no
+	
+	trigger = {
+		NOT = {
+			has_country_flag = danelaw_civil_war_happened
+		}
+		or = {
+			badboy = 0.3
+			militancy = 2
+		}
+		tag = ENG
+		OR = {
+			exists = IRE
+			exists = SCO
+		}
+		is_greater_power = no
+		OR = {
+			owns = ENG_280
+			owns = ENG_277
+		}
+		NOT = { exists = DNL }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA988012"
+		any_pop = {
+			consciousness = 7
+			militancy = 3
+		}
+		any_owned = {
+			ENG_280 = { secede_province = DNL }
+			ENG_277 = { secede_province = DNL }
+		}
+		war = {
+			target = DNL
+			attacker_goal = {
+				casus_belli = conquest
+			}
+			
+			defender_goal = {
+				casus_belli = conquest
+			}
+		}
+		DNL = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+			}
+		}
+		set_country_flag = danelaw_civil_war_happened
+	}
+	
+	option = {
+		name = "EVTOPTB988012"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+		any_owned = {
+			limit = {
+				is_core = DNL
+			}
+			secede_province = DNL
+			remove_core = ENG
+		}
+		DNL = {
+			capital_scope = {
+                   		sub_unit = { type = infantry value = current }
+                    		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+                   		sub_unit = { type = infantry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = cavalry value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+				sub_unit = { type = artillery value = current }
+			}
+		}
+		set_country_flag = danelaw_civil_war_happened
+	}
+}
