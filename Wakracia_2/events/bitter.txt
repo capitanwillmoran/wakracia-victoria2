@@ -3,7 +3,6 @@ country_event = {
 	title = "EVTNAME96003"
 	desc = "EVTDESC96003"
 	major = yes
-	picture = greece
 
 	trigger = {
 		tag = BYZ
@@ -48,6 +47,9 @@ country_event = {
 		}
 		change_tag = GRE
 		set_country_flag = bitterdecision
+		ai_chance = {
+			factor = 1
+		}
 	}
 
 	option = {
@@ -57,5 +59,8 @@ country_event = {
 			militancy = 10
 		}
 		set_country_flag = bitterdecision
+		ai_chance = {
+			factor = 0
+		}
 	}
 }
