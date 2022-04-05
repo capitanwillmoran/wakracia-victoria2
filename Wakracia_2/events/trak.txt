@@ -12,14 +12,20 @@ country_event = {
 			badboy = 0.5
 			militancy = 4
 		}
-		has_country_flag = cyprus_civil_war_happened
-		has_country_flag = bulgarian_civil_war_happened
-		has_country_flag = crete_civil_war_happened
-		has_country_flag = epirote_civil_war_happened
-		has_country_flag = macedonian_civil_war_happened
 		has_country_flag = bitterdecision
 		NOT = {
 			has_country_flag = the_end_of_greece
+			owns = 839
+			owns = 848
+			owns = 835
+			owns = 853
+			owns = 821
+			owns = 839
+			owns = 822
+			owns = 815
+			owns = 857
+			owns = 846
+			owns = 845
 		}
 	}
 
