@@ -11,6 +11,9 @@ country_event = {
 			badboy = 0.4
 			militancy = 6
 		}
+		NOT = {
+			has_country_flag = anatolia_fragmented_happened
+		}
 	}
 
 	mean_time_to_happen = {

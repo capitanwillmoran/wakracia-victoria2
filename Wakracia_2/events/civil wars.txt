@@ -511,7 +511,7 @@ country_event = {
 	
 	trigger = {
 		tag = BYZ
-		year = 1915
+		year = 1910
 		or = {	
 			badboy = 0.1
 			militancy = 1

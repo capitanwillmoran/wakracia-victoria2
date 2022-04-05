@@ -26,7 +26,7 @@ political_decisions = {
             }
             diplomatic_influence = {
                 who = RUM
-                value = 100
+                value = 50
             }
             relation = {
                 who = BYZ
@@ -84,11 +84,11 @@ political_decisions = {
             }
             diplomatic_influence = {
                 who = EGY
-                value = 100
+                value = 50
             }
             diplomatic_influence = {
-                who = EGY
-                value = 100
+                who = CEG
+                value = 50
             }
             relation = {
                 who = BYZ
@@ -134,7 +134,7 @@ political_decisions = {
             }
             diplomatic_influence = {
                 who = BAB
-                value = 100
+                value = 50
             }
             relation = {
                 who = BYZ
@@ -180,7 +180,7 @@ political_decisions = {
             }
             diplomatic_influence = {
                 who = ARA
-                value = 100
+                value = 50
             }
             relation = {
                 who = BYZ
@@ -226,7 +226,7 @@ political_decisions = {
             }
             diplomatic_influence = {
                 who = ETH
-                value = 100
+                value = 50
             }
             relation = {
                 who = BYZ

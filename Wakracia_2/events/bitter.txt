@@ -7,22 +7,26 @@ country_event = {
 
 	trigger = {
 		tag = BYZ
-		RUM = { exists = yes }
-		or = {
-			SIC = { exists = yes }
-			SYC = { exists = yes }
-			NAP = { exists = yes }
-			ITA = { exists = yes }
-		}
+		ARA = { exists = yes }
+		ETH = { exists = yes }
+		CEG = { exists = yes }
 		or = {
 			BAB = { exists = yes }
 			SYR = { exists = yes }
 			IRQ = { exists = yes }
 		}
+		NOT = { 
+			owns = 764
+			owns = 758
+			owns = 760
+		}
+		or = {
+			RUM = { exists = yes }
+			AN9 = { has_country_flag = anatolia_fragmented_happened }
+		}
 		GRE = { exists = no }
 		is_greater_power = no
-		NOT = {
-			has_country_flag = bitterdecision
+		NOT = { has_country_flag = bitterdecision }
 	}
 	
 	mean_time_to_happen = {
@@ -37,19 +41,21 @@ country_event = {
 			limit = {
 				is_primary_culture = yes
 			}
-		add_core = GRE
+			add_core = GRE
 		}
-		change_tag = GRE
 		any_owned = {
 			remove_core = BYZ
 		}
+		change_tag = GRE
 		set_country_flag = bitterdecision
 	}
+
 	option = {
 		name = EVTOPTB96003
 		any_pop = {
 			consciousness = 10
 			militancy = 10
 		}
+		set_country_flag = bitterdecision
 	}
 }
