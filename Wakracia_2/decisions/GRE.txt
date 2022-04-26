@@ -75,6 +75,7 @@ political_decisions = {
 				government = prussian_constitutionalism
 				government = hms_government
 			}
+			NOT = { has_country_flag = bitterdecision }
 			is_greater_power = yes			
 		}
 		

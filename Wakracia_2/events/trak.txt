@@ -98,6 +98,15 @@ country_event = {
 		}
 		prestige = -100
 		change_tag = TRK
+		all_core = {
+			remove_core = TRK
+		}
+		random_owned = {
+			860 = { add_core = TRK }
+			858 = { add_core = TRK }
+			859 = { add_core = TRK }
+			828 = { add_core = TRK }
+        	}
 		set_country_flag = the_end_of_greece
 		}
 	}
