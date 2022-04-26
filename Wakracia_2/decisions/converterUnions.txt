@@ -3677,6 +3677,7 @@ political_decisions = {
 	form_tatar = {
 		potential = {
 			NOT = { exists = TAR }
+			NOT = { exists = RUS }
 			civilized = yes
 			primary_culture = tatar
 			OR = {

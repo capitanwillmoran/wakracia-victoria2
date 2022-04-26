@@ -1611,6 +1611,9 @@ install_communist_gov_cb = {
 			NOT = {
 				government = proletarian_dictatorship
 			}
+			NOT = { 
+				is_greater_power = yes
+			}
 		}
 	}
 	
@@ -1832,6 +1835,14 @@ install_absolute_monarchy = {
 				government = prussian_constitutionalism
 			}
 		}
+		NOT = { is_greater_power = yes }
+		NOT = {
+			OR = {
+				government = absolute_monarchy
+				government = hms_government
+				government = prussian_constitutionalism
+			}
+		}
 		OR = { is_vassal = no is_our_vassal = THIS }
 		civilized = yes
 		
@@ -1896,6 +1907,11 @@ install_democracy = {
 					government = democracy
 				}
 			} 	
+		}
+
+		NOT = { is_greater_power = yes }
+		NOT = {
+			government = democracy
 		}
 
 		is_vassal = no
@@ -1977,6 +1993,7 @@ install_authoritarian_regime = {
 		}
 		OR = { is_vassal = no is_our_vassal = THIS }
 		civilized = yes
+		NOT = { is_greater_power = yes }
 		
 	}
 	
@@ -2033,6 +2050,7 @@ install_theocratic_regime = {
 		}
 		OR = { is_vassal = no is_our_vassal = THIS }
 		civilized = yes
+		NOT = { is_greater_power = yes }
 		
 		# There are some amount of traditionalist already in the country
 		theocratic = 0.1
@@ -2105,6 +2123,7 @@ install_fascist_regime = {
 		NOT = {
 			government = fascist_dictatorship
 		}
+		NOT = { is_greater_power = yes }
 		
 	}
 	
@@ -2167,6 +2186,7 @@ install_agrarist_regime = {
 		NOT = {
 			government = agrarist
 		}
+		NOT = { is_greater_power = yes }
 		
 	}
 	
@@ -2230,6 +2250,7 @@ install_syndicalist_regime = {
 		NOT = {
 			government = nationalsyndicalist_dictatorship
 		}
+		NOT = { is_greater_power = yes }
 		
 	}
 	
