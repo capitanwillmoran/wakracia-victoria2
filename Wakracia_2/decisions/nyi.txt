@@ -21,6 +21,7 @@ political_decisions = {
 			AUS_626 = { remove_core = SLV }
 			PRU_682 = { remove_core = SLV }
 			652 = { remove_core = SLV }
+			642 = { remove_core = SLV }
 			any_owned = {
 				limit = {
 					is_core = DEN

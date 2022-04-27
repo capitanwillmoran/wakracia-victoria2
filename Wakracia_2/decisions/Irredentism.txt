@@ -2205,7 +2205,6 @@ political_decisions = {
 			688 = { add_core = SLV }
 			632 = { add_core = SLV }
 			631 = { add_core = SLV }
-			642 = { add_core = SLV }
 		}
 		ai_will_do = { factor = 1 }
 	}
