@@ -1,0 +1,16 @@
+country_event = {
+	id = 250050
+	title = "EVTNAME250050"
+	desc = "EVTDESC250050"
+	major = no
+	picture = "agradecer"
+	
+	is_trigger_only = yes
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA250050"
+		set_country_flag = agradecimientos11
+	}
+}

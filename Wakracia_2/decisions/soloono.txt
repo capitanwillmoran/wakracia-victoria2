@@ -1,0 +1,22 @@
+political_decisions = {
+	juegarcomo = {
+		potential = {
+			ai = no
+			NOT = {
+				OR = {
+					has_global_flag = juegosolo
+					has_global_flag = juegoconalguien
+				}
+			}
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 250051
+		}
+		ai_will_do = 0
+	}
+}

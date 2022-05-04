@@ -1,0 +1,21 @@
+political_decisions = {
+	agradecimientos1 = {
+		picture = agradecimiento
+		potential = {
+			ai = no
+			NOT = {
+				has_country_flag = agradecimientos11
+			}
+		}
+
+		allow = {
+			ai = no
+		}
+
+		effect = {
+			country_event = 250050
+			set_country_flag = agradecimientos11
+		}
+		ai_will_do = 0
+	}
+}

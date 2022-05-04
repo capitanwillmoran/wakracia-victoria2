@@ -5,6 +5,7 @@ political_decisions = {
 		alert = no
 		potential = {
 			ai = no
+			has_global_flag = juegoconalguien
 			NOT = { has_country_flag = will_receive_grants }
 		}
 
@@ -22,6 +23,7 @@ political_decisions = {
 		alert = no
 		potential = {
 			ai = no
+			has_global_flag = juegoconalguien
 			NOT = { has_country_flag = will_give_grants }
 		}
 
@@ -36,6 +38,7 @@ political_decisions = {
 		alert = no
 		potential = {
 			ai = no
+			has_global_flag = juegoconalguien
 			has_country_flag = will_give_grants
 		}
 

@@ -1,0 +1,20 @@
+country_event = {
+	id = 250051
+	title = "EVTNAME250051"
+	desc = "EVTDESC250051"
+	major = no
+	
+	is_trigger_only = yes
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA250051"
+		set_global_flag = juegosolo
+	}
+	
+	option = {
+		name = "EVTOPTB250051"
+		set_global_flag = juegoconalguien
+	}
+}
