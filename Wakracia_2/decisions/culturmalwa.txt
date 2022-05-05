@@ -38,7 +38,7 @@ political_decisions = {
 			is_vassal = no
 			state_n_government = 1
 			NOT = {
-				badboy = 0.2
+				badboy = 0.1
 			}
 		}
 		
@@ -46,6 +46,10 @@ political_decisions = {
 			money = -5000
 			badboy = 3
 			add_accepted_culture = sinhala
+			any_pop = {
+				limit = { is_accepted_culture = yes }
+				militancy = 2
+			}
 			set_country_flag = culturalindia
 		}
 		ai_will_do = { factor = 1 }
@@ -89,13 +93,17 @@ political_decisions = {
 			is_vassal = no
 			state_n_government = 1
 			NOT = {
-				badboy = 0.2
+				badboy = 0.1
 			}
 		}
 		
 		effect = {
 			badboy = 3
 			add_accepted_culture = malayalam
+			any_pop = {
+				limit = { is_accepted_culture = yes }
+				militancy = 2
+			}
 			set_country_flag = culturalindia1
 		}
 		ai_will_do = { factor = 1 }
@@ -138,7 +146,7 @@ political_decisions = {
 			is_vassal = no
 			state_n_government = 1
 			NOT = {
-				badboy = 0.2
+				badboy = 0.1
 			}
 		}
 		
@@ -146,6 +154,10 @@ political_decisions = {
 			money = -5000
 			badboy = 3
 			add_accepted_culture = tamil
+			any_pop = {
+				limit = { is_accepted_culture = yes }
+				militancy = 2
+			}
 			set_country_flag = culturalindia2
 		}
 		ai_will_do = { factor = 1 }
@@ -189,7 +201,7 @@ political_decisions = {
 			is_vassal = no
 			state_n_government = 1
 			NOT = {
-				badboy = 0.2
+				badboy = 0.1
 			}
 		}
 		
@@ -197,6 +209,10 @@ political_decisions = {
 			money = -5000
 			badboy = 5
 			add_accepted_culture = kannada
+			any_pop = {
+				limit = { is_accepted_culture = yes }
+				militancy = 2
+			}
 			set_country_flag = culturalindia3
 		}
 		ai_will_do = { factor = 1 }
@@ -239,7 +255,7 @@ political_decisions = {
 			is_vassal = no
 			state_n_government = 1
 			NOT = {
-				badboy = 0.2
+				badboy = 0.1
 			}
 		}
 		
@@ -247,6 +263,10 @@ political_decisions = {
 			money = -5000
 			badboy = 3
 			add_accepted_culture = telugu
+			any_pop = {
+				limit = { is_accepted_culture = yes }
+				militancy = 2
+			}
 			set_country_flag = culturalindia4
 		}
 		ai_will_do = { factor = 1 }
@@ -290,14 +310,18 @@ political_decisions = {
 			is_vassal = no
 			state_n_government = 1
 			NOT = {
-				badboy = 0.2
+				badboy = 0.1
 			}
 		}
 		
 		effect = {
 			badboy = 3
-			money = -10000
+			money = -100000
 			add_accepted_culture = marathi
+			any_pop = {
+				limit = { is_accepted_culture = yes }
+				militancy = 2
+			}
 			set_country_flag = culturalindia5
 		}
 		ai_will_do = { factor = 1 }
@@ -341,14 +365,18 @@ political_decisions = {
 			is_vassal = no
 			state_n_government = 1
 			NOT = {
-				badboy = 0.2
+				badboy = 0.1
 			}
 		}
 		
 		effect = {
-			money = -10000
+			money = -100000
 			badboy = 3
 			add_accepted_culture = gujarati
+			any_pop = {
+				limit = { is_accepted_culture = yes }
+				militancy = 2
+			}
 			set_country_flag = culturalindia6
 		}
 		ai_will_do = { factor = 1 }
@@ -389,14 +417,18 @@ political_decisions = {
 			is_vassal = no
 			state_n_government = 1
 			NOT = {
-				badboy = 0.2
+				badboy = 0.1
 			}
 		}
 		
 		effect = {
-			money = -10000
+			money = -100000
 			badboy = 1
 			add_accepted_culture = rajput
+			any_pop = {
+				limit = { is_accepted_culture = yes }
+				militancy = 2
+			}
 			set_country_flag = culturalindia7
 		}
 		ai_will_do = { factor = 1 }
@@ -441,14 +473,18 @@ political_decisions = {
 			is_vassal = no
 			state_n_government = 1
 			NOT = {
-				badboy = 0.2
+				badboy = 0.1
 			}
 		}
 		
 		effect = {
-			money = -10000
+			money = -100000
 			badboy = 7
 			add_accepted_culture = kanauji
+			any_pop = {
+				limit = { is_accepted_culture = yes }
+				militancy = 2
+			}
 			set_country_flag = culturalindia8
 		}
 		ai_will_do = { factor = 1 }
@@ -493,14 +529,18 @@ political_decisions = {
 			is_vassal = no
 			state_n_government = 1
 			NOT = {
-				badboy = 0.2
+				badboy = 0.1
 			}
 		}
 		
 		effect = {
-			money = -10000
+			money = -100000
 			badboy = 7
 			add_accepted_culture = oriya
+			any_pop = {
+				limit = { is_accepted_culture = yes }
+				militancy = 5
+			}
 			set_country_flag = culturalindia9
 		}
 		ai_will_do = { factor = 1 }
@@ -543,14 +583,18 @@ political_decisions = {
 			is_vassal = no
 			state_n_government = 1
 			NOT = {
-				badboy = 0.2
+				badboy = 0.1
 			}
 		}
 		
 		effect = {
-			money = -10000
+			money = -100000
 			badboy = 6
 			add_accepted_culture = bengali
+			any_pop = {
+				limit = { is_accepted_culture = yes }
+				militancy = 5
+			}
 			set_country_flag = culturalindia10
 		}
 		ai_will_do = { factor = 1 }
@@ -593,14 +637,18 @@ political_decisions = {
 			is_vassal = no
 			state_n_government = 1
 			NOT = {
-				badboy = 0.2
+				badboy = 0.1
 			}
 		}
 		
 		effect = {
-			money = -10000
+			money = -100000
 			badboy = 4
 			add_accepted_culture = sindi
+			any_pop = {
+				limit = { is_accepted_culture = yes }
+				militancy = 4
+			}
 			set_country_flag = culturalindia11
 		}
 		ai_will_do = { factor = 1 }
@@ -643,14 +691,18 @@ political_decisions = {
 			is_vassal = no
 			state_n_government = 1
 			NOT = {
-				badboy = 0.2
+				badboy = 0.1
 			}
 		}
 		
 		effect = {
-			money = -10000
+			money = -100000
 			badboy = 4
 			add_accepted_culture = panjabi
+			any_pop = {
+				limit = { is_accepted_culture = yes }
+				militancy = 5
+			}
 			set_country_flag = culturalindia12
 		}
 		ai_will_do = { factor = 1 }
