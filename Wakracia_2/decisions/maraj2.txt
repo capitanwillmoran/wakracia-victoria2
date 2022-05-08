@@ -5,14 +5,19 @@ political_decisions = {
 		potential = {
 			civilized = yes
 			tag = BYZ
-			NOT = { has_global_flag = maraj_has_her_cores2 }
-			state_n_government = 1
+			NOT = {
+				OR = {
+					has_global_flag = maraj_has_her_cores2
+					has_global_flag = maraj_has_her_cores
+				}
+			}
+			RAJ = { exists = no }
 		}
 		allow = {
 			tag = BYZ
 			war = no
 			is_greater_power = yes
-			RAJ = { exists = no }
+			state_n_government = 1
 			X04 = { exists = yes }
 		}
 		effect = {
