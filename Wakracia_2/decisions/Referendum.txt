@@ -3,9 +3,8 @@ political_decisions = {
 	wakracian_referendum = {
 		picture = "wakracia_logo"
 		potential = {
-
 			ai = no
-
+			tag = BYZ
 			NOT = { has_country_flag = wakracian_referendum }
 
 		}

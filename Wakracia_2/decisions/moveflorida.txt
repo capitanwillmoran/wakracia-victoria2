@@ -35,6 +35,7 @@ political_decisions = {
 			NOT = { 
 				government = democracy
 			}
+			NOT = { capital = 1121 }
 		}
 
 		allow = {
@@ -63,6 +64,7 @@ political_decisions = {
         	potential = {
 			tag = CEG
 			owns = 1745
+			NOT = { capital = 1745 }
 		}
 
 		allow = {
@@ -87,6 +89,7 @@ political_decisions = {
 			year = 1911
 			owns = 1177
 			1177 = { is_colonial = no }
+			NOT = { capital = 1177 }
 		}
 
 		allow = {
