@@ -2394,34 +2394,16 @@ political_decisions = {
 	}
 	form_persia = {
 		potential = {
-			OR = {
-				primary_culture = persian
-				primary_culture = tajik
-				primary_culture = gypsy
-				primary_culture = kurdish
-			}
+			tag = X02
 			NOT = {
 				exists = PER
-				tag = ARA
-				tag = MUG
-				tag = TIM
-				tag = ISL
-				tag = X02
 			}
 		}	
 		allow = {
 			war = no
 			prestige = 5
-			PER = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					}
-				}
-			}
+			is_vassal = no
+			invention = nostalgic_romanticism
 		}
 		
 		effect = {
@@ -2438,7 +2420,6 @@ political_decisions = {
 					OR = {
 						primary_culture = persian
 						primary_culture = tajik
-						primary_culture = gypsy
 					}
 				}
 				annex_to = PER

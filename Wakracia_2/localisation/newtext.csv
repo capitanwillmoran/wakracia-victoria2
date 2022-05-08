@@ -2614,7 +2614,7 @@ myrmidon_temple_desc;Our great state is missing a great temple to honor the gods
 myrmidon_temple_build;Myrmidon Temple;;;;Templo Mirmidón;;;;;;;;;x;
 myrmidon_temple_build_desc;Myrmidon Temple Built;;;;Templo Mirmidón construido;;;;;;;;;x;
 bactrian_temple_title;Bactria Great Temple;;;;Gran Templo de Bactria;;;;;;;;;x;
-bactrian_temple_desc;Our great state is missing a great temple to honor the gods. We can invest some money for the construction of one.;;;;Nuestro gran estado echa en falta un gran templo para honrar a los dioses. Podemos invertir algo de dinero para la construcción de uno.;;;;;;;;;x;
+bactrian_temple_desc;Our hellenic population wants a great temple to honor their gods. We can invest some money for the construction of one.;;;;Nuestra población helénica echa en falta un gran templo para honrar a los dioses. Podemos invertir algo de dinero para la construcción de uno.;;;;;;;;;x;
 bactrian_temple_build;Bactria Temple;;;;Templo de Bactria;;;;;;;;;x;
 bactrian_temple_build_desc;Bactria Temple Built;;;;Templo de Bactria construido;;;;;;;;;x;
 change_ruling_party;Changed Ruling Party;;;;Se ha cambiado el partido gobernante;;;;;;;;;x;

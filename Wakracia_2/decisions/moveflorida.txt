@@ -26,11 +26,37 @@ political_decisions = {
 		}
 	}
 
+	move_capital_to_jessore = {
+        	picture = tibet_capital
+        	alert = no
+        	potential = {
+			tag = X16
+			owns = 1256 # Osopookytienepatreonpolis
+			NOT = { capital = 1256 }
+		}
+
+		allow = {
+			NOT = { capital = 1256 }
+		}
+
+		effect = {
+			capital = 1256
+			prestige = 1
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
 	move_capital_to_tehrean = {
         	picture = tibet_capital
         	alert = no
         	potential = {
-			tag = X02
+			OR = {
+				tag = X02
+				tag = PER
+			}
 			owns = 1121
 			NOT = { 
 				government = democracy

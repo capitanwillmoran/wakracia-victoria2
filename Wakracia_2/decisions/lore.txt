@@ -417,7 +417,10 @@ political_decisions = {
 	lore26 = {
 		picture = Libro
 		potential = {
-			tag = X02
+			OR = {
+				tag = X02
+				tag = PER
+			}
 		}
 
 		allow = {

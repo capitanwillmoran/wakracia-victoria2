@@ -4,8 +4,8 @@ political_decisions = {
 			ai = no
 			NOT = {
 				OR = {
-					has_global_flag = juegosolo
-					has_global_flag = juegoconalguien
+					has_country_flag = juegosolo
+					has_country_flag = juegoconalguien
 				}
 			}
 		}
@@ -17,6 +17,5 @@ political_decisions = {
 		effect = {
 			country_event = 250051
 		}
-		ai_will_do = 0
 	}
 }

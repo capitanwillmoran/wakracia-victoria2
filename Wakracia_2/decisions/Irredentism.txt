@@ -2969,33 +2969,22 @@ political_decisions = {
 		effect = {
 			badboy = 4
 			set_country_flag = greater_medos
-			1134 = { add_core = X02 }
-			885 = { add_core = X02 }
-			1116 = { add_core = X02 }
-			1150 = { add_core = X02 }
-			1194 = { add_core = X02 }
-			1182 = { add_core = X02 }
-			1141 = { add_core = X02 }
-			1136 = { add_core = X02 }
-			2702 = { add_core = X02 }
-			1193 = { add_core = X02 }
-			1594 = { add_core = X02 }
-			1203 = { add_core = X02 }
-			1202 = { add_core = X02 }
-			1190 = { add_core = X02 }
-			1597 = { add_core = X02 }
-			1189 = { add_core = X02 }
-			1186 = { add_core = X02 }
-			1193 = { add_core = X02 }
-			1041 = { add_core = X02 }
-			1036 = { add_core = X02 }
-			1293 = { add_core = X02 }
-			1294 = { add_core = X02 }
-			1291 = { add_core = X02 }
-			1292 = { add_core = X02 }
-			1295 = { add_core = X02 }
-			1296 = { add_core = X02 }
-			1237 = { add_core = X02 }
+			1134 = { add_core = PER }
+			885 = { add_core = PER }
+			1116 = { add_core = PER }
+			1150 = { add_core = PER }
+			1141 = { add_core = PER }
+			1136 = { add_core = PER }
+			1193 = { add_core = PER }
+			1594 = { add_core = PER }
+			1203 = { add_core = PER }
+			1202 = { add_core = PER }
+			1190 = { add_core = PER }
+			1597 = { add_core = PER }
+			1189 = { add_core = PER }
+			1186 = { add_core = PER }
+			1193 = { add_core = PER }
+			1292 = { add_core = PER }
 			PER_1138 = { add_core = X02 }
 			PER_1141 = { add_core = X02 }
 			PER_1122 = { add_core = X02 }
@@ -3014,6 +3003,136 @@ political_decisions = {
 			PAN_1227 = { add_core = X02 }
 			SIN_1288 = { add_core = X02 }
 			ENG_1264 = { add_core = X02 }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_persia = {
+		picture = "manifest_destiny"
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = greater_persia }
+			NOT = { government = hms_government }
+			NOT = {	government = democracy }
+			NOT = {	government = agrarist }			
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			has_unclaimed_cores = no
+			invention = manifest_destiny
+		}
+		
+		effect = {
+			badboy = 7
+			set_country_flag = greater_persia
+			1134 = { add_core = PER }
+			885 = { add_core = PER }
+			1116 = { add_core = PER }
+			1150 = { add_core = PER }
+			1141 = { add_core = PER }
+			1136 = { add_core = PER }
+			1193 = { add_core = PER }
+			1594 = { add_core = PER }
+			1203 = { add_core = PER }
+			1202 = { add_core = PER }
+			1190 = { add_core = PER }
+			1597 = { add_core = PER }
+			1189 = { add_core = PER }
+			1186 = { add_core = PER }
+			1193 = { add_core = PER }
+			1292 = { add_core = PER }
+			PER_1138 = { add_core = PER }
+			PER_1141 = { add_core = PER }
+			PER_1122 = { add_core = PER }
+			PER_1112 = { add_core = PER }
+			RUS_1102 = { add_core = PER }
+			RUS_1098 = { add_core = PER }
+			RUS_1196 = { add_core = PER }
+			KHI_1191 = { add_core = PER }
+			RUS_1090 = { add_core = PER }
+			BUK_1207 = { add_core = PER }
+			AFG_1217 = { add_core = PER }
+			AFG_1214 = { add_core = PER }
+			KAL_1221 = { add_core = PER }
+			PAN_1224 = { add_core = PER }
+			PAN_1227 = { add_core = PER }
+			SIN_1288 = { add_core = PER }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_persia2 = {
+		picture = "manifest_destiny"
+		potential = {
+			tag = PER
+			has_country_flag = greater_persia
+			NOT = { has_country_flag = greater_persia2 }
+			government = absolute_monarchy		
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			has_unclaimed_cores = no
+			invention = manifest_destiny
+		}
+		
+		effect = {
+			badboy = 4
+			set_country_flag = greater_persia2
+			TUR_889 = { add_core = PER }
+			TUR_885 = { add_core = PER }
+			TUR_884 = { add_core = PER }
+			TUR_876 = { add_core = PER }
+			TUR_881 = { add_core = PER }
+			TUR_873 = { add_core = PER }
+			TUR_869 = { add_core = PER }
+			TUR_863 = { add_core = PER }
+			EGY_897 = { add_core = PER }
+			EGY_903 = { add_core = PER }
+			EGY_915 = { add_core = PER }
+			TUR_931 = { add_core = PER }
+			EGY_910 = { add_core = PER }
+			EGY_921 = { add_core = PER }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	greater_persia3 = {
+		picture = "manifest_destiny"
+		potential = {
+			tag = PER
+			has_country_flag = greater_persia
+			has_country_flag = greater_persia2
+			NOT = { has_country_flag = greater_persia3 }
+			government = fascist_dictatorship		
+		}
+				
+		allow = {
+			war = no
+			is_vassal = no
+			nationalism_n_imperialism = 1
+			has_unclaimed_cores = no
+			invention = manifest_destiny
+		}
+		
+		effect = {
+			badboy = 5
+			set_country_flag = greater_persia3
+			EGY_1746 = { add_core = PER }
+			EGY_1750 = { add_core = PER }
+			EGY_1753 = { add_core = PER }
+			EGY_1754 = { add_core = PER }
+			EGY_1762 = { add_core = PER }
+			EGY_1771 = { add_core = PER }
+			TUR_855 = { add_core = PER }
+			1760 = { add_core = PER }
+			1761 = { add_core = PER }
+			1766 = { add_core = PER }
 		}
 		ai_will_do = { factor = 1 }
 	}
