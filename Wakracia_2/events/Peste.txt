@@ -9,7 +9,7 @@ country_event = {
 		tag = CSH
 		exists = CSH
 		NOT = {
-			has_country_flag = epidemiadecolerachina
+			has_global_flag = epidemiadecolerachina
 		}
 	}
 	
@@ -19,7 +19,7 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA97007"
-		set_country_flag = epidemiadecolerachina
+		set_global_flag = epidemiadecolerachina
 		any_pop = {
 			limit = {
 				NOT = {
@@ -56,10 +56,10 @@ country_event = {
 			tag = X16
 		}
 		CSH = {
-			has_country_flag = epidemiadecolerachina
+			has_global_flag = epidemiadecolerachina
 		}
 		NOT = {
-			has_country_flag = epidemiadecoleraindia
+			has_global_flag = epidemiadecoleraindia
 		}
 	}
 	
@@ -89,7 +89,7 @@ country_event = {
 				factor = 0.05
 			}
 		}
-		set_country_flag = epidemiadecoleraindia
+		set_global_flag = epidemiadecoleraindia
 	}
 }
 
@@ -103,10 +103,10 @@ country_event = {
 		year = 1880
 		owns = 1523
 		CSH = {
-			has_country_flag = epidemiadecolerachina
+			has_global_flag = epidemiadecolerachina
 		}
 		NOT = {
-			has_country_flag = epidemiadecolerachinasur
+			has_global_flag = epidemiadecolerachinasur
 		}
 	}
 	
@@ -136,6 +136,6 @@ country_event = {
 				factor = 0.05
 			}
 		}
-		set_country_flag = epidemiadecolerachinasur
+		set_global_flag = epidemiadecolerachinasur
 	}
 }

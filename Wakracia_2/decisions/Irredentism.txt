@@ -2050,6 +2050,11 @@ political_decisions = {
 			PRU_695 = { add_core = RUS }
 			RUS_707 = { add_core = RUS }
 			RUS_706 = { add_core = RUS }
+			RUS_1009 = { add_core = RUS }
+			RUS_1008 = { add_core = RUS }
+			RUS_979 = { add_core = RUS }
+			RUS_1469 = { add_core = RUS }
+			RUS_1070 = { add_core = RUS }
 			938 = { add_core = RUS }
 			995 = { add_core = RUS }
 			1065 = { add_core = RUS }
