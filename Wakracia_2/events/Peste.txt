@@ -16,6 +16,8 @@ country_event = {
 	mean_time_to_happen = {
 		months = 1
 	}
+
+	fire_only_once = yes
 	
 	option = {
 		name = "EVTOPTA97007"
@@ -66,6 +68,8 @@ country_event = {
 	mean_time_to_happen = {
 		months = 2
 	}
+
+	fire_only_once = yes
 	
 	option = {
 		name = "EVTOPTA97008"
@@ -113,6 +117,8 @@ country_event = {
 	mean_time_to_happen = {
 		months = 1
 	}
+
+	fire_only_once = yes
 	
 	option = {
 		name = "EVTOPTA97009"
