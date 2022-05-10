@@ -1,0 +1,23 @@
+country_event = {
+	id = 9000003
+	title = "EVTNAME9000003"
+	desc = "EVTDESC9000003"
+	picture = "elefante"
+
+	trigger = {
+		ai = no
+		year = 1882
+		NOT = { has_country_flag = elefanteenelsenado }
+	}
+	
+	option = {
+		name = "EVTOPTA9000003"
+		any_pop = {
+			scaled_militancy = {
+				ideology = agrarism
+				factor = 1
+			}
+		}
+		set_country_flag = elefanteenelsenado
+	}
+}

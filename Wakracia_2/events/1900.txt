@@ -11,8 +11,7 @@ country_event = {
 	}
 	
 	option = {
-	name = "EVTOPTA9000002"
+		name = "EVTOPTA9000002"
 		set_global_flag = yeartwok 
-		}
 	}
 }
