@@ -7,7 +7,7 @@ country_event = {
 		year = 1871
 		NOT = {
 			has_country_flag = 95227
-			}
+		}
 	}
 	
 	fire_only_once = yes

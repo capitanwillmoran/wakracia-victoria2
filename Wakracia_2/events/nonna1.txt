@@ -14,7 +14,7 @@ country_event = {
 		has_country_flag = 85701a
 		NOT = {
 			has_country_flag = 95221
-			}
+		}
 	}
 	
 	fire_only_once = yes
@@ -46,7 +46,6 @@ country_event = {
 			personality = relentless
 			background = debutante
 			}
-		}
 		set_country_flag = 95221
 	}
 }
