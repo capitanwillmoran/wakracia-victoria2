@@ -6,7 +6,10 @@ country_event = {
 	picture = "Rebellion"
 	
 	trigger = {
-		tag = X03
+		OR {
+			tag = X03
+			tag = HUN
+		}
 		has_country_flag = greater_austrianhungaria1
 		NOT = {
 			has_country_flag = rumanian_civil_war1_happened

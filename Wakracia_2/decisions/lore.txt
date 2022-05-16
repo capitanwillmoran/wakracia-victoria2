@@ -66,7 +66,10 @@ political_decisions = {
 	lore5 = {
 		picture = Libro
 		potential = {
-			tag = X03
+			OR = {
+				tag = X03
+				tag = HUN
+			}
 		}
 
 		allow = {

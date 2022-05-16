@@ -14,6 +14,8 @@ country_event = {
 		OR = {
 			NOT = {
 				has_country_flag = anatolia_fragmented_happened
+			}
+			NOT = {
 				has_country_flag = anatolia_joined
 			}
 		}

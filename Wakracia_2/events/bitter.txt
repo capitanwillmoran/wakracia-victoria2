@@ -9,7 +9,7 @@ country_event = {
 		ARA = { exists = yes }
 		ETH = { exists = yes }
 		CEG = { exists = yes }
-		or = {
+		OR = {
 			BAB = { exists = yes }
 			SYR = { exists = yes }
 			IRQ = { exists = yes }
@@ -19,7 +19,7 @@ country_event = {
 			owns = 758
 			owns = 760
 		}
-		or = {
+		OR = {
 			RUM = { exists = yes }
 			AN9 = { has_country_flag = anatolia_fragmented_happened }
 		}

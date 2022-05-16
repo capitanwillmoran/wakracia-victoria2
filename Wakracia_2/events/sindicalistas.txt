@@ -6,7 +6,11 @@ country_event = {
 	picture = "Synd2"
 	
 	trigger = {
-		tag = X03
+		OR {
+			tag = X03
+			tag = HUN
+		}
+		year = 1910
 		is_ideology_enabled = nationalsyndicalist
 		upper_house = {
 			ideology = nationalsyndicalist

@@ -194,7 +194,10 @@ political_decisions = {
 		picture = darcaridad
 		potential = {
 			is_vassal = no
-			tag = X03
+			OR = {
+				tag = X03
+				tag = HUN
+			}
 			owns = 736
 			owns = 737
 			NOT = { has_country_flag = istriasold }

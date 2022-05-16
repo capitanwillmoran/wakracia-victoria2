@@ -9,7 +9,7 @@ country_event = {
 		NOT = {
 			has_country_flag = italian_civil_war_happened
 		}
-		or = {
+		OR = {
 			badboy = 0.1
 			militancy = 2
 		}
@@ -105,7 +105,7 @@ country_event = {
 		tag = BYZ
 		has_country_flag = italian_civil_war_happened
 		year = 1880
-		or = {	
+		OR = {	
 			badboy = 0.1
 			militancy = 1
 		}

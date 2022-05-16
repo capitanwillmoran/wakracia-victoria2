@@ -75,7 +75,10 @@ country_event = {
 	picture = "colonial_uprising"
 	
 	trigger = {
-		tag = X03
+		OR {
+			tag = X03
+			tag = HUN
+		}
 		year = 1872
 		NOT = {
 			has_country_flag = austrohungariancoup
