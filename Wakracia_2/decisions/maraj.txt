@@ -5,7 +5,12 @@ political_decisions = {
 		potential = {
 			civilized = yes
 			tag = BYZ
-			NOT = { has_global_flag = maraj_has_her_cores }
+			NOT = {
+				OR = {
+					has_global_flag = maraj_has_her_cores2
+					has_global_flag = maraj_has_her_cores
+				}
+			}
 			state_n_government = 1
 		}
 		allow = {

@@ -13,7 +13,6 @@ country_event = {
 		election = no
 		NOT = {
 			has_country_flag = florida1_happened
-			year = 1837
 		}
 	}
 	
@@ -48,7 +47,6 @@ country_event = {
 		ruling_party_ideology = liberal
 		NOT = {
 			has_country_flag = florida1_happened
-			year = 1837
 		}
 	}
 	
@@ -83,7 +81,6 @@ country_event = {
 		ruling_party_ideology = reactionary
 		NOT = {
 			has_country_flag = florida1_happened
-			year = 1837
 		}
 	}
 	
@@ -119,7 +116,6 @@ country_event = {
 		ruling_party_ideology = conservative
 		NOT = {
 			has_country_flag = florida2_happened
-			year = 1841
 		}
 	}
 	
@@ -155,7 +151,6 @@ country_event = {
 		ruling_party_ideology = reactionary
 		NOT = {
 			has_country_flag = florida2_happened
-			year = 1841
 		}
 	}
 	
@@ -191,7 +186,6 @@ country_event = {
 		ruling_party_ideology = liberal
 		NOT = {
 			has_country_flag = florida2_happened
-			year = 1841
 		}
 	}
 	
@@ -230,7 +224,6 @@ country_event = {
 		has_country_flag = florida2_happened
 		NOT = {
 			has_country_flag = florida3_happened
-			year = 1846
 		}
 	}
 	
@@ -269,7 +262,6 @@ country_event = {
 		has_country_flag = florida2_happened
 		NOT = {
 			has_country_flag = florida3_happened
-			year = 1846
 		}
 	}
 	
@@ -308,7 +300,6 @@ country_event = {
 		has_country_flag = florida2_happened
 		NOT = {
 			has_country_flag = florida3_happened
-			year = 1846
 		}
 	}
 	
@@ -348,7 +339,6 @@ country_event = {
 		has_country_flag = florida3_happened
 		NOT = {
 			has_country_flag = florida4_happened
-			year = 1851
 		}
 	}
 	
@@ -388,7 +378,6 @@ country_event = {
 		has_country_flag = florida3_happened
 		NOT = {
 			has_country_flag = florida4_happened
-			year = 1851
 		}
 	}
 	
@@ -428,7 +417,6 @@ country_event = {
 		has_country_flag = florida3_happened
 		NOT = {
 			has_country_flag = florida4_happened
-			year = 1851
 		}
 	}
 	
@@ -468,7 +456,6 @@ country_event = {
 		has_country_flag = florida4_happened
 		NOT = {
 			has_country_flag = florida5_happened
-			year = 1855
 		}
 	}
 	
@@ -508,7 +495,6 @@ country_event = {
 		has_country_flag = florida4_happened
 		NOT = {
 			has_country_flag = florida5_happened
-			year = 1855
 		}
 	}
 	
@@ -548,7 +534,6 @@ country_event = {
 		has_country_flag = florida4_happened
 		NOT = {
 			has_country_flag = florida5_happened
-			year = 1855
 		}
 	}
 	
@@ -588,7 +573,6 @@ country_event = {
 		has_country_flag = florida5_happened
 		NOT = {
 			has_country_flag = florida6_happened
-			year = 1859
 		}
 	}
 	
@@ -628,7 +612,6 @@ country_event = {
 		has_country_flag = florida5_happened
 		NOT = {
 			has_country_flag = florida6_happened
-			year = 1859
 		}
 	}
 	
@@ -668,7 +651,6 @@ country_event = {
 		has_country_flag = florida5_happened
 		NOT = {
 			has_country_flag = florida6_happened
-			year = 1859
 		}
 	}
 	
@@ -712,7 +694,6 @@ country_event = {
 		has_country_flag = florida6_happened
 		NOT = {
 			has_country_flag = florida7_happened
-			year = 1864
 		}
 	}
 	
@@ -756,7 +737,6 @@ country_event = {
 		has_country_flag = florida6_happened
 		NOT = {
 			has_country_flag = florida7_happened
-			year = 1864
 		}
 	}
 	
@@ -800,7 +780,6 @@ country_event = {
 		has_country_flag = florida6_happened
 		NOT = {
 			has_country_flag = florida7_happened
-			year = 1868
 		}
 	}
 	
