@@ -8,8 +8,8 @@ country_event = {
 	trigger = {
 		tag = RUM
 		OR = {
-			badboy = 0.4
-			militancy = 6
+			badboy = 0.3
+			militancy = 3
 		}
 		OR = {
 			NOT = {
