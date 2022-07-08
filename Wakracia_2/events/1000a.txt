@@ -6,7 +6,7 @@ country_event = {
 		has_country_flag = 1000_monument
 		NOT = {
 			has_country_flag = 1512330
-			}
+		}
 	}
 	
 is_triggered_only = yes

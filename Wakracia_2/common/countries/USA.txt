@@ -3,7 +3,6 @@ color = { 69 157 208 }
 proletarian_dictatorship = { 250 100 20 }
 nationalsyndicalist_dictatorship = { 134 12 12 }
 theocracy = { 201 241 241 }
-agrarist = { 48 152 28 }
 fascist_dictatorship = { 70 50 80 }
 
 party = {
