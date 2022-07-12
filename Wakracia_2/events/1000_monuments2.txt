@@ -7,8 +7,7 @@ country_event = {
 		has_country_flag = 1512330b
 		NOT = {
 			has_country_flag = 1512330bb
-			year = 1911
-			}
+		}
 	}
 	
 is_triggered_only = yes
